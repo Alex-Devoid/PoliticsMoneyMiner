@@ -1,0 +1,449 @@
+{
+  "candidate": {
+    "name": {
+      "value": "Jeff Blubaugh",
+      "bbox": null
+    },
+    "address": {
+      "value": "10915 W Atlanta Cir",
+      "bbox": null
+    },
+    "city": {
+      "value": "67215",
+      "bbox": null
+    },
+    "county": {
+      "value": "Sedgwick",
+      "bbox": null
+    },
+    "office_sought": {
+      "value": "County Commission",
+      "bbox": null
+    },
+    "district": {
+      "value": "II",
+      "bbox": null
+    },
+    "_page": 1
+  },
+  "summary": {
+    "cash_on_hand_beginning": {
+      "value": 0.0,
+      "bbox": null
+    },
+    "total_contributions": {
+      "value": 39000,
+      "bbox": null
+    },
+    "cash_available": {
+      "value": 39000,
+      "bbox": null
+    },
+    "total_expenditures": {
+      "value": 12367.7,
+      "bbox": null
+    },
+    "cash_on_hand_close": {
+      "value": 26632.3,
+      "bbox": null
+    },
+    "in_kind_contributions": {
+      "value": null,
+      "bbox": null
+    },
+    "other_transactions": {
+      "value": null,
+      "bbox": null
+    },
+    "_page": 1
+  },
+  "contributions": [
+    {
+      "_page": 2,
+      "date": {
+        "value": "2/23/23",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "Jeff Blubaugh",
+        "bbox": null
+      },
+      "address": {
+        "value": "1345 N Edwards Ct.",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Self-Employed",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 2,
+      "date": {
+        "value": "2/23/23",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "Hampel Property Management",
+        "bbox": null
+      },
+      "address": {
+        "value": "1815 Southwest Blvd",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 2,
+      "date": {
+        "value": "3/2/23",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "Co-Co Properties",
+        "bbox": null
+      },
+      "address": {
+        "value": "3946 N Central Ave STE 200",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 2,
+      "date": {
+        "value": "3/2/23",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "KTXW LLC",
+        "bbox": null
+      },
+      "address": {
+        "value": "3946 N Central Ave STE 200",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 4,
+      "date": "12/29/22",
+      "contributor": "GEOL LLC",
+      "address": {
+        "value": "P.O. Box 25828, Overland Park, KS",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": 5000
+    },
+    {
+      "_page": 4,
+      "date": "12/29/22",
+      "contributor": "George Pearson Jr",
+      "address": {
+        "value": "600 S 2nd St, Wichita, KS",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Construction",
+        "bbox": null
+      },
+      "amount": 500
+    },
+    {
+      "_page": 4,
+      "date": "12/29/22",
+      "contributor": "DCN Holdings Company LLC",
+      "address": {
+        "value": "1749 SW Medford Ave, Topeka, KS",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": 500
+    },
+    {
+      "_page": 4,
+      "date": "12/29/22",
+      "contributor": "Craig Nelson",
+      "address": {
+        "value": "2255 N Rock Rd Ste 118, Wichita, KS",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": 500
+    },
+    {
+      "_page": 4,
+      "date": "12/29/22",
+      "contributor": "BHL LLC",
+      "address": {
+        "value": "714 South Main St, Wichita, KS",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": 500
+    }
+  ],
+  "expenditures": [
+    {
+      "_page": 3,
+      "date": "7/20/23",
+      "name": "LNS Investments of Kansas LLC",
+      "address": "1700 E. Iron Ave., Suite 110",
+      "purpose": null,
+      "amount": 150
+    },
+    {
+      "_page": 3,
+      "date": "7/20/23",
+      "name": "Collegian Hill Sundae, LLC",
+      "address": null,
+      "purpose": null,
+      "amount": 150
+    },
+    {
+      "_page": 3,
+      "date": "7/20/23",
+      "name": "Book D, L.L.C.",
+      "address": null,
+      "purpose": null,
+      "amount": 150
+    },
+    {
+      "_page": 3,
+      "date": "7/21/23",
+      "name": "William Vagas",
+      "address": "1114 E. Central",
+      "purpose": null,
+      "amount": 345.6
+    },
+    {
+      "_page": 3,
+      "date": "8/7/23",
+      "name": "William Vagas",
+      "address": "1114 E. Central",
+      "purpose": null,
+      "amount": 345.6
+    },
+    {
+      "_page": 3,
+      "date": "9/30/23",
+      "name": "Maximike LLC",
+      "address": "3456 E. Central",
+      "purpose": null,
+      "amount": 345.6
+    },
+    {
+      "_page": 3,
+      "date": "10/2/23",
+      "name": "KYM LLC",
+      "address": "4202 S. Broadway Ave",
+      "purpose": null,
+      "amount": 150
+    },
+    {
+      "_page": 3,
+      "date": "11/1/23",
+      "name": "Micah Sheets",
+      "address": "4202 S. Broadway Ave",
+      "purpose": null,
+      "amount": 150
+    },
+    {
+      "_page": 3,
+      "date": "11/1/23",
+      "name": "Collison Specialist",
+      "address": "8932 N. Maize Rd",
+      "purpose": null,
+      "amount": 150
+    },
+    {
+      "_page": 5,
+      "date": "7/17/23",
+      "name": "Walmart",
+      "address": "2510 Main, Winfield, KS 67156",
+      "purpose": "Campaign Energy Drink",
+      "amount": 32.5
+    },
+    {
+      "_page": 5,
+      "date": "7/17/23",
+      "name": "Walmart",
+      "address": "2510 Main, Winfield, KS 67156",
+      "purpose": "Campaign Lunch",
+      "amount": 23.5
+    },
+    {
+      "_page": 5,
+      "date": "7/17/23",
+      "name": "Walmart",
+      "address": "2203 Main, Winfield, KS 67156",
+      "purpose": "Campaign Office Supplies",
+      "amount": 12.15
+    },
+    {
+      "_page": 5,
+      "date": "7/18/23",
+      "name": "Casey's",
+      "address": "1205 W 9th, Winfield, KS 67156",
+      "purpose": "Campaign Fuel",
+      "amount": 40.61
+    },
+    {
+      "_page": 5,
+      "date": "7/18/23",
+      "name": "Walmart",
+      "address": "2203 Main, Winfield, KS 67156",
+      "purpose": "Campaign Parade Candy",
+      "amount": 31.13
+    },
+    {
+      "_page": 5,
+      "date": "7/20/23",
+      "name": "Casey's",
+      "address": "1205 W 9th, Winfield, KS 67156",
+      "purpose": "Campaign Fuel",
+      "amount": 30.92
+    },
+    {
+      "_page": 5,
+      "date": "7/20/23",
+      "name": "Walmart",
+      "address": "2203 Main, Winfield, KS 67156",
+      "purpose": "Campaign Lunch Supplies",
+      "amount": 51.62
+    },
+    {
+      "_page": 5,
+      "date": "7/20/23",
+      "name": "Walmart",
+      "address": "2203 Main, Winfield, KS 67156",
+      "purpose": "Campaign Parade Supplies",
+      "amount": 36.6
+    },
+    {
+      "_page": 5,
+      "date": "7/22/23",
+      "name": "Winfield Wholesale Grocers",
+      "address": "1302 E 5th, Winfield, KS 67156",
+      "purpose": "Campaign Parade Candy",
+      "amount": 250.0
+    },
+    {
+      "_page": 5,
+      "date": "7/22/23",
+      "name": "Winfield Wholesale Grocers",
+      "address": "1302 E 5th, Winfield, KS 67156",
+      "purpose": "Campaign Parade Candy",
+      "amount": 150.0
+    },
+    {
+      "_page": 6,
+      "date": {
+        "value": "12/18/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Pay Pal",
+        "bbox": null
+      },
+      "address": {
+        "value": "2211 N 1st St, San Jose, CA 95131",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Pay Pal Charge for Contribution",
+        "bbox": null
+      },
+      "amount": {
+        "value": 512.36,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 6,
+      "date": {
+        "value": "12/15/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Pay Pal",
+        "bbox": null
+      },
+      "address": {
+        "value": "2211 N 1st St, San Jose, CA 95131",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Pay Pal Charge for Contribution",
+        "bbox": null
+      },
+      "amount": {
+        "value": 15.0,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 6,
+      "date": {
+        "value": "11/30/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Wal-Mart",
+        "bbox": null
+      },
+      "address": {
+        "value": "Los Lunas, NM 87031",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Business Group Event",
+        "bbox": null
+      },
+      "amount": {
+        "value": 15.0,
+        "bbox": null
+      }
+    }
+  ],
+  "other_transactions": [],
+  "in_kind_contributions": []
+}

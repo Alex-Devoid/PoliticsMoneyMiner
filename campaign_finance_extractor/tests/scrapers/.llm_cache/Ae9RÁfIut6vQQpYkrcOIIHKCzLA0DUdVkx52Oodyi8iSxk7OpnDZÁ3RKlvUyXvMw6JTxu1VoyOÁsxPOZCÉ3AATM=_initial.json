@@ -1,0 +1,920 @@
+{
+  "candidate": {
+    "name": {
+      "value": "Jeff Blubaugh",
+      "bbox": null
+    },
+    "address": {
+      "value": "10915 W Atlanta Cir",
+      "bbox": null
+    },
+    "city": {
+      "value": "Wichita",
+      "bbox": null
+    },
+    "zip": {
+      "value": "67215",
+      "bbox": null
+    },
+    "county": {
+      "value": "Sedgwick",
+      "bbox": null
+    },
+    "office_sought": {
+      "value": "County Commission",
+      "bbox": null
+    },
+    "district": {
+      "value": "II",
+      "bbox": null
+    },
+    "_page": 1
+  },
+  "summary": {
+    "cash_on_hand_beginning": {
+      "value": 26632.3,
+      "bbox": null
+    },
+    "total_contributions": {
+      "value": 32745.0,
+      "bbox": null
+    },
+    "cash_available": {
+      "value": 59377.3,
+      "bbox": null
+    },
+    "total_expenditures": {
+      "value": 12145.84,
+      "bbox": null
+    },
+    "cash_on_hand_close": {
+      "value": 47231.46,
+      "bbox": null
+    },
+    "in_kind_contributions": {
+      "value": 317.33,
+      "bbox": null
+    },
+    "other_transactions": {
+      "value": null,
+      "bbox": null
+    },
+    "_page": 1
+  },
+  "contributions": [
+    {
+      "_page": 3,
+      "date": "6/29/24",
+      "contributor": "Jeff Bumbaugh",
+      "address": "1350 N Covington Park City",
+      "occupation": "Plumber",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "6/29/24",
+      "contributor": "Arthur David Hall III",
+      "address": "401 W 1st St",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "6/29/24",
+      "contributor": "John A. BSA Investments",
+      "address": "7565 W 231st St",
+      "occupation": "Real Estate",
+      "amount": 250
+    },
+    {
+      "_page": 3,
+      "date": "6/28/24",
+      "contributor": "Chris Plumbing",
+      "address": "3815 N Douglas",
+      "occupation": "Plumbing",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "6/28/24",
+      "contributor": "Almarence, Inc.",
+      "address": "210 E Milligo Dr",
+      "occupation": null,
+      "amount": 1000
+    },
+    {
+      "_page": 3,
+      "date": "6/28/24",
+      "contributor": "Howard Johnson",
+      "address": "9922 W Mossman",
+      "occupation": null,
+      "amount": 525
+    },
+    {
+      "_page": 3,
+      "date": "6/28/24",
+      "contributor": "Jerry Law Firm, LLC",
+      "address": "110 E Waterman St Ste",
+      "occupation": "Attorney",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "6/28/24",
+      "contributor": "Jerry Mediated Advisors, LLC",
+      "address": "110 E Waterman St Ste",
+      "occupation": "Mediator",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "6/28/24",
+      "contributor": "Danny Gosley",
+      "address": "110 E Waterman St Ste",
+      "occupation": null,
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "6/28/24",
+      "contributor": "Michael Arkosy Group",
+      "address": "709 N Maizehill",
+      "occupation": null,
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "6/28/24",
+      "contributor": "Rebecca Rosales",
+      "address": "2018 N Ridgewood St",
+      "occupation": null,
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "6/27/24",
+      "contributor": "Rana Yasin",
+      "address": "1513 N Oldcastle",
+      "occupation": "Engineering",
+      "amount": 316
+    },
+    {
+      "_page": 3,
+      "date": "6/27/24",
+      "contributor": "Rana Yasin",
+      "address": "10303 E Mainsgate St",
+      "occupation": "Tax Service",
+      "amount": 3100
+    },
+    {
+      "_page": 3,
+      "date": "6/27/24",
+      "contributor": "Part A S.S.A. Uuthu",
+      "address": "49 S N Rounsaville Cir",
+      "occupation": "Real Estate",
+      "amount": 3500
+    },
+    {
+      "_page": 3,
+      "date": "6/27/24",
+      "contributor": "Terry A. Keisey",
+      "address": "1022 Firefly Circle",
+      "occupation": null,
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "6/27/24",
+      "contributor": "Joshua B. Hacker",
+      "address": "4123 N Paradise Cir",
+      "occupation": null,
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "6/27/24",
+      "contributor": "Kansas Ready Mix, LLC",
+      "address": "PO Box 2404",
+      "occupation": null,
+      "amount": 500
+    },
+    {
+      "_page": 5,
+      "date": "7/24/24",
+      "contributor": "Jacob Marietta",
+      "address": "5254 SW Prairie Creek Dr",
+      "occupation": "Fireworks",
+      "amount": 500
+    },
+    {
+      "_page": 5,
+      "date": "7/25/24",
+      "contributor": "KRC Properties",
+      "address": "7310 E Kellogg",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 5,
+      "date": "7/25/24",
+      "contributor": "Midwest Ventures. LLC",
+      "address": "3201 E 31st S",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 5,
+      "date": "7/25/24",
+      "contributor": "Tara Jost",
+      "address": "2565 S Saratoga",
+      "occupation": "Construction",
+      "amount": 500
+    },
+    {
+      "_page": 5,
+      "date": "7/25/24",
+      "contributor": "Donald Klausmeyer",
+      "address": "14525 W 55th",
+      "occupation": "Builder",
+      "amount": 500
+    },
+    {
+      "_page": 5,
+      "date": "7/25/24",
+      "contributor": "Mary Eves",
+      "address": "740 Preton Trail",
+      "occupation": "Retired",
+      "amount": 500
+    }
+  ],
+  "expenditures": [
+    {
+      "_page": 2,
+      "date": "3/20/22",
+      "name": "Davi Lawrence Equipment LLC",
+      "address": "1242 N Ridge Road",
+      "purpose": "Seeding",
+      "amount": 250
+    },
+    {
+      "_page": 2,
+      "date": "3/21/22",
+      "name": "Research Group",
+      "address": "6209 Delrose Ave",
+      "purpose": "Farm",
+      "amount": 250
+    },
+    {
+      "_page": 2,
+      "date": "3/21/22",
+      "name": "Rebecca Fields",
+      "address": "2018 W Hayman St",
+      "purpose": "Reimbursement",
+      "amount": 100
+    },
+    {
+      "_page": 2,
+      "date": "3/21/22",
+      "name": "Page & Scott",
+      "address": "7025 Hoover Rd",
+      "purpose": "F.E.-Funds",
+      "amount": 100
+    },
+    {
+      "_page": 2,
+      "date": "3/21/22",
+      "name": "Junges & Associates",
+      "address": "250 N Rock Rd #360",
+      "purpose": "F.E.-Funds",
+      "amount": 250
+    },
+    {
+      "_page": 2,
+      "date": "3/21/22",
+      "name": "C3R Management, LLC",
+      "address": "250 N Rock Rd #360",
+      "purpose": "White",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "3/22/22",
+      "name": "Sarah Asl",
+      "address": "286 W Forrester",
+      "purpose": "White",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "3/23/22",
+      "name": "Madison C1",
+      "address": "815 N Gilbert",
+      "purpose": "White",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "3/24/22",
+      "name": "Gregory Vaughn",
+      "address": "3240 N Lakeview",
+      "purpose": "White",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "5/1/22",
+      "name": "Zachary Kidd",
+      "address": "1011 N Oak Ridge",
+      "purpose": "White",
+      "amount": 250
+    },
+    {
+      "_page": 2,
+      "date": "5/1/22",
+      "name": "Andres Towing",
+      "address": "4700 S Eisenhower Ct",
+      "purpose": "White",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "5/1/22",
+      "name": "Robyn Kidd",
+      "address": "1800 W 2nd St N",
+      "purpose": "White",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "5/6/22",
+      "name": "RKM Holdings, Inc.",
+      "address": "PO Box 12068",
+      "purpose": "White",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "5/7/22",
+      "name": "Miss Williams Co, LLC",
+      "address": "PO Box 13357",
+      "purpose": "White",
+      "amount": 250
+    },
+    {
+      "_page": 4,
+      "date": "7/24/23",
+      "name": "C & S Group",
+      "address": {
+        "value": "800 E 215th N",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 5000
+    },
+    {
+      "_page": 4,
+      "date": "7/24/23",
+      "name": "Metal Recycling",
+      "address": {
+        "value": "800 E 215th N",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 5000
+    },
+    {
+      "_page": 4,
+      "date": "7/24/23",
+      "name": "Triple A",
+      "address": {
+        "value": "800 E 215th N",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 5000
+    },
+    {
+      "_page": 4,
+      "date": "7/24/23",
+      "name": "Titan Properties, LLC",
+      "address": {
+        "value": "800 E 215th N",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 5000
+    },
+    {
+      "_page": 4,
+      "date": "7/24/23",
+      "name": "Tucker Williams, LLC",
+      "address": null,
+      "purpose": null,
+      "amount": 5000
+    },
+    {
+      "_page": 4,
+      "date": "7/24/23",
+      "name": "TREC Construction, Co, Inc",
+      "address": null,
+      "purpose": null,
+      "amount": 5000
+    },
+    {
+      "_page": 4,
+      "date": "7/24/23",
+      "name": "Lafarge, Inc",
+      "address": null,
+      "purpose": null,
+      "amount": 5000
+    },
+    {
+      "_page": 4,
+      "date": "7/23/23",
+      "name": "Bob Book, LLC",
+      "address": null,
+      "purpose": null,
+      "amount": 5000
+    },
+    {
+      "_page": 4,
+      "date": "7/23/23",
+      "name": "Reece Russell",
+      "address": null,
+      "purpose": null,
+      "amount": 5000
+    },
+    {
+      "_page": 4,
+      "date": "7/23/23",
+      "name": "C & S Group",
+      "address": null,
+      "purpose": null,
+      "amount": 5000
+    },
+    {
+      "_page": 7,
+      "date": "1/18/24",
+      "name": "WIBA N Broadway St Ste. L105",
+      "address": "Wichita, KS 67202",
+      "purpose": "Networking Coffee Event",
+      "amount": 10.0
+    },
+    {
+      "_page": 7,
+      "date": "1/18/24",
+      "name": "Wichita Crime Commission 100 S Main St",
+      "address": "Wichita, KS 67202",
+      "purpose": "Networking Coffee Event",
+      "amount": 40.0
+    },
+    {
+      "_page": 7,
+      "date": "1/26/24",
+      "name": "Sedgwick County Election Office 510 N Main",
+      "address": "Wichita, KS 67203",
+      "purpose": "Filing Fee",
+      "amount": 1065.17
+    },
+    {
+      "_page": 7,
+      "date": "2/1/24",
+      "name": "Monarch 579 W Douglas",
+      "address": "Wichita, KS 67213",
+      "purpose": "Campaign lunch Justin Bruster",
+      "amount": 37.2
+    },
+    {
+      "_page": 7,
+      "date": "2/2/24",
+      "name": "Jeff Blubaugh 10915 W Atlanta Circle",
+      "address": "Wichita, KS 67215 Monarch",
+      "purpose": "Reimbursement Campaign Lunch Craig Hacker",
+      "amount": 33.22
+    },
+    {
+      "_page": 7,
+      "date": "2/8/24",
+      "name": "City Elders P.O. Box 87",
+      "address": "Benton KS 67017",
+      "purpose": "Campaign dinner Civic Group",
+      "amount": 25.73
+    },
+    {
+      "_page": 7,
+      "date": "2/12/24",
+      "name": "WIBA N Broadway St Ste. L105",
+      "address": "Wichita, KS 67202",
+      "purpose": "Networking Coffee Event",
+      "amount": 10.0
+    },
+    {
+      "_page": 7,
+      "date": "2/12/24",
+      "name": "Kansas for Life 3301 W 13th St N",
+      "address": "Wichita, KS 67203",
+      "purpose": "Networking Political Event",
+      "amount": 150.0
+    },
+    {
+      "_page": 7,
+      "date": "2/21/24",
+      "name": "Weebly 460 Bryant Suite 100",
+      "address": "San Francisco, CA 94107",
+      "purpose": "Campaign Tech",
+      "amount": 70.0
+    },
+    {
+      "_page": 7,
+      "date": "2/26/24",
+      "name": "Monarch 579 W Douglas",
+      "address": "Wichita, KS 67213",
+      "purpose": "Campaign lunch Logan Patrick",
+      "amount": 48.42
+    },
+    {
+      "_page": 7,
+      "date": "2/28/2024",
+      "name": "New Tech Foundation 4004 North Webb Road",
+      "address": "Wichita, KS, USA - 67226",
+      "purpose": "Donation for Doc Pull a Plaine fundraiser",
+      "amount": 100.0
+    },
+    {
+      "_page": 7,
+      "date": "2/29/2024",
+      "name": "Pay Pal 2211 N 1st St",
+      "address": "San Jose, CA 95123",
+      "purpose": "Pay Pal Charge for contribution",
+      "amount": 3.38
+    },
+    {
+      "_page": 7,
+      "date": "2/29/24",
+      "name": "Exclusive Events 515 S Wichita",
+      "address": "Wichita, KS 67202",
+      "purpose": "Delano Parade Registration",
+      "amount": 100.0
+    },
+    {
+      "_page": 7,
+      "date": "3/11/24",
+      "name": "WIBA N Broadway St Ste. L105",
+      "address": "Wichita, KS 67202",
+      "purpose": "Network Lunch",
+      "amount": 25.0
+    },
+    {
+      "_page": 7,
+      "date": "3/13/24",
+      "name": "Church of the Holy Spirit Knights of Columbus 18218 US-54",
+      "address": "Goddard, KS 67052",
+      "purpose": "Knights of Columbus Steak Feed",
+      "amount": 45.0
+    },
+    {
+      "_page": 7,
+      "date": "3/14/24",
+      "name": "City Elders P.O. Box 87",
+      "address": "Benton KS 67017",
+      "purpose": "Network Political Dinner",
+      "amount": 25.0
+    },
+    {
+      "_page": 7,
+      "date": "3/20/24",
+      "name": "Wichita Chamber 350 W Douglas",
+      "address": "Wichita, KS 67202",
+      "purpose": "Chamber Membership",
+      "amount": 288.0
+    },
+    {
+      "_page": 7,
+      "date": "3/20/24",
+      "name": "Pay Pal 2211 N 1st St",
+      "address": "San Jose, CA 95123",
+      "purpose": "Pay Pal Charge for contribution",
+      "amount": 7.72
+    },
+    {
+      "_page": 7,
+      "date": "3/21/24",
+      "name": "Meghan Blubaugh 10915 W Atlanta Circle",
+      "address": "Wichita, KS 67215",
+      "purpose": "Reimbursement for Parade candy $179.92, Parade cart $79.98, Parade sawy $48.98, Color ink cartridge $69.98, Black Ink $35.98",
+      "amount": 416.66
+    },
+    {
+      "_page": 7,
+      "date": "3/21/24",
+      "name": "WIBA N Broadway St Ste. L105",
+      "address": "Wichita, KS 67202",
+      "purpose": "Networking Coffee Event",
+      "amount": 10.0
+    },
+    {
+      "_page": 8,
+      "date": "3/25/24",
+      "name": "Wichita Chamber 350 W Douglas",
+      "address": "Wichita, KS 67202",
+      "purpose": "Chamber civic lunch",
+      "amount": 60.0
+    },
+    {
+      "_page": 8,
+      "date": "3/25/24",
+      "name": "Wichita Chamber 350 W Douglas",
+      "address": "Wichita, KS 67202",
+      "purpose": "Chamber Networking breakfast",
+      "amount": 20.0
+    },
+    {
+      "_page": 8,
+      "date": "3/25/24",
+      "name": "Wichita Chamber 350 W Douglas",
+      "address": "Wichita, KS 67202",
+      "purpose": "Chamber Networking event",
+      "amount": 10.0
+    },
+    {
+      "_page": 8,
+      "date": "3/27/24",
+      "name": "Women in Commercial Real Estate, 701 E Douglas Ave",
+      "address": "Wichita, KS 67202",
+      "purpose": "Community Connect event",
+      "amount": 35.0
+    },
+    {
+      "_page": 8,
+      "date": "4/2/24",
+      "name": "Wichita Crime Commission 100 S Main St",
+      "address": "Wichita, KS 67202",
+      "purpose": "Quartly Lunches Jan, Feb, Mar $20 Each",
+      "amount": 60.0
+    },
+    {
+      "_page": 8,
+      "date": "4/3/24",
+      "name": "WIBA N Broadway St Ste. L105",
+      "address": "Wichita, KS 67202",
+      "purpose": "Monthly Lunch",
+      "amount": 25.0
+    },
+    {
+      "_page": 8,
+      "date": "4/11/24",
+      "name": "City Elders P.O. Box 87",
+      "address": "Benton KS 67017",
+      "purpose": "Network Political Dinner",
+      "amount": 25.0
+    },
+    {
+      "_page": 8,
+      "date": "4/19/24",
+      "name": "JABU Design Julie Burton 8302 E Old Mill St",
+      "address": "Wichita, KS 67226",
+      "purpose": "Campaign work, banner, website",
+      "amount": 1033.56
+    },
+    {
+      "_page": 8,
+      "date": "4/22/24",
+      "name": "Kurt Sinegst Shurtz Apparel 4520 E Mt Vernon St",
+      "address": "Wichita, KS 67218",
+      "purpose": "Campaign Shirts",
+      "amount": 806.25
+    },
+    {
+      "_page": 8,
+      "date": "4/22/24",
+      "name": "Pay Pal 2211 N 1st St, San Jose, CA",
+      "address": "CA 95123",
+      "purpose": "Pay Pal Charge for contribution",
+      "amount": 3.38
+    },
+    {
+      "_page": 8,
+      "date": "5/2/24",
+      "name": "Twelve Restaurant 12111 W Maple St #121",
+      "address": "Wichita, KS 67235",
+      "purpose": "Campaign lunch Logan Patrick",
+      "amount": 70.69
+    },
+    {
+      "_page": 8,
+      "date": "5/9/24",
+      "name": "Pay Pal 2211 N 1st St, San Jose, CA",
+      "address": "CA 95123",
+      "purpose": "Pay Pal Charge for contribution",
+      "amount": 13.94
+    },
+    {
+      "_page": 8,
+      "date": "5/9/24",
+      "name": "Meghan Blubaugh 10915 W Atlanta Circle",
+      "address": "Wichita, KS 67215",
+      "purpose": "Reimbursment for Stamps",
+      "amount": 120.0
+    },
+    {
+      "_page": 8,
+      "date": "5/20/24",
+      "name": "Victory Visions LLC 9901 Hoover Road",
+      "address": "Peck, KS 67120",
+      "purpose": "Campaign Consulting",
+      "amount": 923.0
+    },
+    {
+      "_page": 8,
+      "date": "5/26/24",
+      "name": "Pay Pal 2211 N 1st St, San Jose, CA",
+      "address": "CA 95123",
+      "purpose": "Pay Pal Charge for contribution",
+      "amount": 1.94
+    },
+    {
+      "_page": 8,
+      "date": "5/26/24",
+      "name": "Titan Signs 1455 S Washington St",
+      "address": "Wichita, KS 67211",
+      "purpose": "Campaign Signs",
+      "amount": 494.5
+    },
+    {
+      "_page": 8,
+      "date": "5/26/24",
+      "name": "Kurt Sinegst Shurtz Apparel 4520 E Mt Vernon St",
+      "address": "Wichita, KS 67218",
+      "purpose": "Campaign Shirts",
+      "amount": 434.3
+    },
+    {
+      "_page": 8,
+      "date": "6/4/24",
+      "name": "Sandbox Derby KS 2412 N Rock Rd",
+      "address": "Derby, KS 67037",
+      "purpose": "Lunch for campaign workers",
+      "amount": 68.72
+    },
+    {
+      "_page": 8,
+      "date": "6/17/24",
+      "name": "US Logo 520 N West St, Wichita, KS 67203",
+      "address": null,
+      "purpose": "Campaign Signs",
+      "amount": 1075.0
+    },
+    {
+      "_page": 8,
+      "date": "6/20/24",
+      "name": "Jabu Design Julie Burton 8302 E Old Mill St",
+      "address": "Wichita, KS 67226",
+      "purpose": "Campaign Management Work",
+      "amount": 2170.4
+    },
+    {
+      "_page": 8,
+      "date": "6/24/24",
+      "name": "Monarch 579 W Douglas",
+      "address": "Wichita, KS 67213",
+      "purpose": "Campaign lunch Logan Patrick",
+      "amount": 33.27
+    },
+    {
+      "_page": 8,
+      "date": "6/25/24",
+      "name": "Titan Signs 1455 S Washington St",
+      "address": "Wichita, KS 67211",
+      "purpose": "Campaign Signs",
+      "amount": 1386.75
+    },
+    {
+      "_page": 8,
+      "date": "6/25/24",
+      "name": "Westlake Ace Hardware 8829 W Central Ave",
+      "address": "Wichita, KS 67212",
+      "purpose": "Sign Hardware",
+      "amount": 69.68
+    },
+    {
+      "_page": 8,
+      "date": "6/25/24",
+      "name": "Pay Pal 2211 N 1st St, San Jose, CA",
+      "address": "CA 95123",
+      "purpose": "Pay Pal Charge for contribution",
+      "amount": 3.38
+    },
+    {
+      "_page": 9,
+      "date": "7/11/24",
+      "name": "PayPal",
+      "address": "2211 N 1st St, San Jose, CA 95123",
+      "purpose": "PayPal Charge for contribution",
+      "amount": 14.94
+    },
+    {
+      "_page": 9,
+      "date": "7/21/24",
+      "name": "US Logo",
+      "address": "520 N West St, Wichita, KS 67203",
+      "purpose": "Campaign Signs",
+      "amount": 537.5
+    },
+    {
+      "_page": 9,
+      "date": "7/22/24",
+      "name": "Candle Club",
+      "address": null,
+      "purpose": "Campaign lunch Logan Patrick",
+      "amount": 49.46
+    },
+    {
+      "_page": 9,
+      "date": "7/8/24",
+      "name": "PayPal",
+      "address": "2211 N 1st St, San Jose, CA 95123",
+      "purpose": "PayPal Charge for contribution",
+      "amount": 14.94
+    },
+    {
+      "_page": 9,
+      "date": "7/10/24",
+      "name": "PayPal",
+      "address": "2211 N 1st St, San Jose, CA 95123",
+      "purpose": "PayPal Charge for contribution",
+      "amount": 6.27
+    },
+    {
+      "_page": 9,
+      "date": "7/12/24",
+      "name": "PayPal",
+      "address": "2211 N 1st St, San Jose, CA 95123",
+      "purpose": "PayPal Charge for contribution",
+      "amount": 9.16
+    },
+    {
+      "_page": 9,
+      "date": "7/20/24",
+      "name": "PayPal",
+      "address": "2211 N 1st St, San Jose, CA 95123",
+      "purpose": "PayPal Charge for contribution",
+      "amount": 14.94
+    },
+    {
+      "_page": 9,
+      "date": "7/20/24",
+      "name": "PayPal",
+      "address": "2211 N 1st St, San Jose, CA 95123",
+      "purpose": "PayPal Charge for contribution",
+      "amount": 4.83
+    },
+    {
+      "_page": 9,
+      "date": "7/21/24",
+      "name": "PayPal",
+      "address": "2211 N 1st St, San Jose, CA 95123",
+      "purpose": "PayPal Charge for contribution",
+      "amount": 1.94
+    },
+    {
+      "_page": 9,
+      "date": "7/23/24",
+      "name": "PayPal",
+      "address": "2211 N 1st St, San Jose, CA 95123",
+      "purpose": "PayPal Charge for contribution",
+      "amount": 7.72
+    },
+    {
+      "_page": 9,
+      "date": "7/24/24",
+      "name": "PayPal",
+      "address": "2211 N 1st St, San Jose, CA 95123",
+      "purpose": "PayPal Charge for contribution",
+      "amount": 14.94
+    }
+  ],
+  "other_transactions": [],
+  "in_kind_contributions": [
+    {
+      "_page": 6,
+      "date": {
+        "value": "6/25/24",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "Bryan Frye",
+        "bbox": null
+      },
+      "description": {
+        "value": "Food / Decor for fundraiser",
+        "bbox": null
+      },
+      "value": {
+        "value": 317.33,
+        "bbox": null
+      }
+    }
+  ],
+  "total_unitemized_contributions": 70,
+  "total_itemized_expenditures": 12145.84
+}

@@ -1,0 +1,476 @@
+{
+  "candidate": {
+    "name": {
+      "value": "Jeff Blubaugh",
+      "bbox": null
+    },
+    "address": {
+      "value": "10915 W Atlanta Cir",
+      "bbox": null
+    },
+    "city": {
+      "value": "Wichita",
+      "bbox": null
+    },
+    "zip": {
+      "value": "67215",
+      "bbox": null
+    },
+    "county": {
+      "value": "Sedgwick",
+      "bbox": null
+    },
+    "office_sought": {
+      "value": "County Commission",
+      "bbox": null
+    },
+    "district": {
+      "value": "2",
+      "bbox": null
+    },
+    "_page": 1
+  },
+  "summary": {
+    "cash_on_hand_beginning": {
+      "value": 19511.52,
+      "bbox": null
+    },
+    "total_contributions": {
+      "value": 16210.0,
+      "bbox": null
+    },
+    "cash_available": {
+      "value": 35721.52,
+      "bbox": null
+    },
+    "total_expenditures": {
+      "value": 31538.68,
+      "bbox": null
+    },
+    "cash_on_hand_close": {
+      "value": 4182.84,
+      "bbox": null
+    },
+    "in_kind_contributions": {
+      "value": null,
+      "bbox": null
+    },
+    "other_transactions": {
+      "value": null,
+      "bbox": null
+    },
+    "_page": 1
+  },
+  "contributions": [
+    {
+      "_page": 2,
+      "date": "10/28/24",
+      "contributor": "Michael & Melanie Marnach",
+      "address": "863 E Rough Creek",
+      "occupation": "Construction",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/28/24",
+      "contributor": "Open Door Custom Homes-Michael Marnach",
+      "address": "864 E Rough Creek",
+      "occupation": "Construction",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/29/24",
+      "contributor": "Cory Harkleroad",
+      "address": "8902 E Clubside",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/29/24",
+      "contributor": "Gaylan Nett",
+      "address": "861 W 95th St",
+      "occupation": "Construction",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/29/24",
+      "contributor": "Karissa Dugan",
+      "address": "300N 189th",
+      "occupation": "Homemaker",
+      "amount": 450
+    },
+    {
+      "_page": 2,
+      "date": "10/29/24",
+      "contributor": "Area 151 LLC",
+      "address": "1650 S Meridian",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/29/24",
+      "contributor": "Ryan Nett",
+      "address": "725 W 95th",
+      "occupation": "Construction",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/29/24",
+      "contributor": "Nick Dillon",
+      "address": "909 N Maize",
+      "occupation": null,
+      "amount": 10
+    },
+    {
+      "_page": 2,
+      "date": "10/29/24",
+      "contributor": "Alan Cobb",
+      "address": "3429 SW Stonybrook Dr",
+      "occupation": "KS Chamber Government Relations",
+      "amount": 250
+    },
+    {
+      "_page": 2,
+      "date": "10/29/24",
+      "contributor": "Andrew Weins",
+      "address": "13914 W 89th St",
+      "occupation": null,
+      "amount": 50
+    },
+    {
+      "_page": 2,
+      "date": "11/4/24",
+      "contributor": "Rodney & Juliette Steven",
+      "address": "6100 E Central",
+      "occupation": "Fitness",
+      "amount": 1000
+    },
+    {
+      "_page": 2,
+      "date": "11/4/24",
+      "contributor": "MGMT, LLC",
+      "address": "6100 E Central",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "11/4/24",
+      "contributor": "Kansas Billboard, LLC",
+      "address": "8801 E Kellogg",
+      "occupation": "Bilboard",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "11/4/24",
+      "contributor": "Eddys Toyota",
+      "address": "7333 E Kellogg",
+      "occupation": "Car Sales",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "11/4/24",
+      "contributor": "Brandon & Karen Steven",
+      "address": "7110 W Clearmaadow",
+      "occupation": "Car Sales",
+      "amount": 1000
+    },
+    {
+      "_page": 2,
+      "date": "11/4/24",
+      "contributor": "Organic Natural Restraunts LLC",
+      "address": "6100 E Central Ave",
+      "occupation": "Restraunts",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "11/4/24",
+      "contributor": "Subaru of Wichita",
+      "address": "11610 East Kellogg",
+      "occupation": "Car Sales",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "11/4/24",
+      "contributor": "John McKay",
+      "address": "4920 Prestwick Ave",
+      "occupation": "Retired",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "11/4/24",
+      "contributor": "KRC Properties",
+      "address": "7310 E Kellogg",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "11/4/24",
+      "contributor": "John Rapp",
+      "address": "1861 N Stagecoach",
+      "occupation": "Attorney",
+      "amount": 200
+    },
+    {
+      "_page": 2,
+      "date": "11/4/24",
+      "contributor": "Joy Akins",
+      "address": "127 S Washington",
+      "occupation": "Tech Support",
+      "amount": 250
+    },
+    {
+      "_page": 2,
+      "date": "11/10/24",
+      "contributor": "MGMT, LLC",
+      "address": "6100 E Central",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "11/12/24",
+      "contributor": "William Hayes",
+      "address": "565 W Douglas",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "11/12/24",
+      "contributor": "Hayes Property Management",
+      "address": "565 W Douglas",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "11/12/24",
+      "contributor": "Hayes Leasing, LLC",
+      "address": {
+        "value": "565 W Douglas",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "11/13/24",
+      "contributor": "Bob Aldrich",
+      "address": {
+        "value": "5025 N Sandkey Ct",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Parts supplier",
+        "bbox": null
+      },
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "11/14/24",
+      "contributor": "Paul Kelsey",
+      "address": {
+        "value": "1022 Firefly Circle",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Developer",
+        "bbox": null
+      },
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "11/14/24",
+      "contributor": "DRK LC",
+      "address": {
+        "value": "741 W 2nd St N",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "11/20/24",
+      "contributor": "740 Development",
+      "address": {
+        "value": "2038 N Gow St",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "11/20/24",
+      "contributor": "KCCC Construction",
+      "address": {
+        "value": "1815 Southwest Blvd",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Construction",
+        "bbox": null
+      },
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "11/24/24",
+      "contributor": "Virginia Crossland & Larry Macha",
+      "address": {
+        "value": "30 Cypress Breeze Blvd",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Retired Math teacher",
+        "bbox": null
+      },
+      "amount": 1000
+    },
+    {
+      "_page": 3,
+      "date": "12/15/24",
+      "contributor": "Wichita Regional Chamber PAC",
+      "address": {
+        "value": "359 West Douglas",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "PAC",
+        "bbox": null
+      },
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "12/15/24",
+      "contributor": "Spirit PAC",
+      "address": {
+        "value": "3801 S Oliver",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "PAC",
+        "bbox": null
+      },
+      "amount": 500
+    }
+  ],
+  "expenditures": [
+    {
+      "_page": 4,
+      "date": "10/25/24",
+      "name": "First Responders 5K",
+      "address": "5025 E Kellogg Drive Wichita, KS 67218",
+      "purpose": "Sponsorship for First responders",
+      "amount": 250
+    },
+    {
+      "_page": 4,
+      "date": "10/28/24",
+      "name": "Ax Captial",
+      "address": "800 W 47th St Ste 200 Kansas City, MO 64112",
+      "purpose": "Campaign Work",
+      "amount": 9014.68
+    },
+    {
+      "_page": 4,
+      "date": "10/28/24",
+      "name": "PayPal",
+      "address": "2211 N 1st San Jose, CA 95131",
+      "purpose": "Campaign transaction Fees",
+      "amount": 87
+    },
+    {
+      "_page": 4,
+      "date": "11/4/24",
+      "name": "Ax Captial",
+      "address": "800 W 47th St Ste 200 Kansas City, MO 64112",
+      "purpose": "Campaign Work",
+      "amount": 400
+    },
+    {
+      "_page": 4,
+      "date": "11/15/24",
+      "name": "Victory Visions LLC",
+      "address": "9901 S. Hoover Rd. Peck, KS 67120",
+      "purpose": "Campaign Work",
+      "amount": 4500
+    },
+    {
+      "_page": 4,
+      "date": "11/15/24",
+      "name": "Candle Club",
+      "address": "6135 E 13th Wichita, KS 67208",
+      "purpose": "Campaign Team Lunch",
+      "amount": 180
+    },
+    {
+      "_page": 4,
+      "date": "11/26/24",
+      "name": "Ax Captial",
+      "address": "800 W 47th St Ste 200 Kansas City, MO 64112",
+      "purpose": "Campaign Work",
+      "amount": 2500
+    },
+    {
+      "_page": 4,
+      "date": "12/4/24",
+      "name": "Victory Visions LLC",
+      "address": "9901 S. Hoover Rd. Peck, KS 67120",
+      "purpose": "Campaign work final",
+      "amount": 2000
+    },
+    {
+      "_page": 4,
+      "date": "12/16/24",
+      "name": "Wichita Metro Crime Commission",
+      "address": "100 S Main Ste 415 Wichita, KS 67202",
+      "purpose": "Annual Dues",
+      "amount": 320
+    },
+    {
+      "_page": 4,
+      "date": "12/16/24",
+      "name": "Albert Pike",
+      "address": "PO Box 75505 Wichita, KS 67275",
+      "purpose": "Annual Dues",
+      "amount": 135
+    },
+    {
+      "_page": 4,
+      "date": "12/30/24",
+      "name": "JABU Design Julie Burton",
+      "address": "8302 E Old Mill ST Wichita, KS 67226",
+      "purpose": "Campaign work & Web hosting",
+      "amount": 1812
+    }
+  ],
+  "other_transactions": [],
+  "in_kind_contributions": []
+}

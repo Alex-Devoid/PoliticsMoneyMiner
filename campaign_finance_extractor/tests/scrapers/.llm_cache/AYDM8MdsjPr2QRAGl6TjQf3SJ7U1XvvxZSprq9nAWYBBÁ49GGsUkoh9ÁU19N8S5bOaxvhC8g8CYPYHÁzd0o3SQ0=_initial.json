@@ -1,0 +1,64 @@
+{
+  "candidate": {
+    "name": {
+      "value": "Jeff Blubaugh",
+      "bbox": null
+    },
+    "address": {
+      "value": "10915 W Atlanta Cir",
+      "bbox": null
+    },
+    "city": {
+      "value": "67215",
+      "bbox": null
+    },
+    "county": {
+      "value": "Sedgwick",
+      "bbox": null
+    },
+    "office_sought": {
+      "value": "County Commission",
+      "bbox": null
+    },
+    "district": {
+      "value": "II",
+      "bbox": null
+    },
+    "_page": 1
+  },
+  "summary": {
+    "cash_on_hand_beginning": {
+      "value": 0,
+      "bbox": null
+    },
+    "total_contributions": {
+      "value": 39000,
+      "bbox": null
+    },
+    "cash_available": {
+      "value": 39000,
+      "bbox": null
+    },
+    "total_expenditures": {
+      "value": 12367.7,
+      "bbox": null
+    },
+    "cash_on_hand_close": {
+      "value": 26632.3,
+      "bbox": null
+    },
+    "in_kind_contributions": {
+      "value": null,
+      "bbox": null
+    },
+    "other_transactions": {
+      "value": null,
+      "bbox": null
+    },
+    "_page": 1
+  },
+  "contributions": [],
+  "expenditures": [],
+  "other_transactions": [],
+  "in_kind_contributions": []
+}

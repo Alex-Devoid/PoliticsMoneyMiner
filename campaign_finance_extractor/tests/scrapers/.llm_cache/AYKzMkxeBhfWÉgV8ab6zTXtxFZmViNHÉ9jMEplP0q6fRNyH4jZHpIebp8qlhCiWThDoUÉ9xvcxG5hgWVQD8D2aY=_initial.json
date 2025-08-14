@@ -1,0 +1,70 @@
+{
+  "candidate": {
+    "name": {
+      "value": "Greg Ferris",
+      "bbox": null
+    },
+    "address": "144 S Bay Country Ct",
+    "city": "Wichita",
+    "zip": "KS 67235",
+    "county": "SG",
+    "office_sought": "County Commission",
+    "district": "3",
+    "_page": 6
+  },
+  "summary": {
+    "cash_on_hand_beginning": 9385.27,
+    "total_contributions": 3952.5,
+    "cash_available": 13337.77,
+    "total_expenditures": 13035.03,
+    "cash_on_hand_close": 302.74,
+    "in_kind_contributions": 800,
+    "other_transactions": 302.74,
+    "_page": 6
+  },
+  "contributions": [],
+  "expenditures": [],
+  "other_transactions": [],
+  "in_kind_contributions": [
+    {
+      "_page": 6,
+      "date": {
+        "value": "8/6/24",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "Kansas Billboards LLC\n8801 E. Kellogg\nWichita, KS 67207",
+        "bbox": null
+      },
+      "description": {
+        "value": "Billboard Rental",
+        "bbox": null
+      },
+      "value": {
+        "value": 500.0,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 6,
+      "date": {
+        "value": "8/6/24",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "Venue 3160\n3160 W. Central\nWichita, KS 67203",
+        "bbox": null
+      },
+      "description": {
+        "value": "Venue",
+        "bbox": null
+      },
+      "value": {
+        "value": 300.0,
+        "bbox": null
+      }
+    }
+  ],
+  "total_itemized_expenditures": 13035.03,
+  "total_unitemized_expenditures": 0
+}

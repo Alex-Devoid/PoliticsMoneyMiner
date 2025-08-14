@@ -1,0 +1,280 @@
+{
+  "candidate": {
+    "name": "Jeff Blubaugh",
+    "address": "10915 W Atlanta Cir",
+    "city": "67215",
+    "county": "Sedgwick",
+    "office_sought": "County Commission",
+    "district": "II",
+    "_page": 3
+  },
+  "summary": {
+    "cash_on_hand_beginning": null,
+    "total_contributions": 39000,
+    "cash_available": 39000,
+    "total_expenditures": 12367.7,
+    "cash_on_hand_close": 26632.3,
+    "_page": 3
+  },
+  "contributions": [
+    {
+      "_page": 3,
+      "date": "5/24/23",
+      "contributor": "Foulston Construction, LLC",
+      "address": "2024 N Woodlawn Suite 210, Wichita, KS 67208",
+      "occupation": "Construction",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "5/24/23",
+      "contributor": "J Russell Develop & Mgmt",
+      "address": "PO Box 75337, Wichita, KS 67275",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "5/24/23",
+      "contributor": "JB Financing, LLC",
+      "address": "PO Box 75337, Wichita, KS 67275",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "5/24/23",
+      "contributor": "Brand Plumbing, Inc",
+      "address": "2418 S Hoover, Wichita, KS 67215",
+      "occupation": "Plumbing",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "5/24/23",
+      "contributor": "RL Kutter, DVM",
+      "address": "2011 N Crooked Pine, Wichita, KS 67230",
+      "occupation": "Veterinarian",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "5/24/23",
+      "contributor": "Scott & Katie Rosell",
+      "address": "1938 N Castle Rock Ct, Wichita, KS 67230",
+      "occupation": "Banking",
+      "amount": 100
+    },
+    {
+      "_page": 3,
+      "date": "5/24/23",
+      "contributor": "Thomas R Devlin",
+      "address": "PO Box 782170, Wichita, KS 67278",
+      "occupation": "Real Estate",
+      "amount": 250
+    },
+    {
+      "_page": 3,
+      "date": "6/1/23",
+      "contributor": "William Landman",
+      "address": "7114 E Chaddsford Street, Wichita, KS 67206",
+      "occupation": "Retired Engineer",
+      "amount": 50
+    },
+    {
+      "_page": 3,
+      "date": "6/2/23",
+      "contributor": "Joseph Hemmegar",
+      "address": "8225 W Irving St, Wichita, KS 67209",
+      "occupation": "Food & Beverage",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "6/2/23",
+      "contributor": "Premier Food Service",
+      "address": "8225 W Irving St, Wichita, KS 67209",
+      "occupation": "Food Service",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "6/2/23",
+      "contributor": "The Humidor #1 LLC",
+      "address": "5558 W 21st Ste 100, Wichita, KS 67205",
+      "occupation": "Beverage",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "6/26/23",
+      "contributor": "Michael Gormm",
+      "address": "11903 W Dora, Wichita, KS 67209",
+      "occupation": "Window Repair",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "7/13/23",
+      "contributor": "Klaver Construction",
+      "address": "3219 W May, Wichita, KS 67213",
+      "occupation": "Construction",
+      "amount": 400
+    },
+    {
+      "_page": 3,
+      "date": "7/20/23",
+      "contributor": "College Hill Square, LLC",
+      "address": "150 N Market, Wichita, KS 67202",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "7/20/23",
+      "contributor": "KB Properties of Kansas, LLC",
+      "address": "150 N Market, Wichita, KS 67202",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "7/20/23",
+      "contributor": "LNS Investments of Kansas",
+      "address": "150 N Market, Wichita, KS 67202",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "7/20/23",
+      "contributor": "MOB Development Company, LLC",
+      "address": "1720 N Webb, Suite 110, Wichita, KS 67206",
+      "occupation": "Development",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "7/20/23",
+      "contributor": "Booth 2, LLC",
+      "address": "150 N Market, Wichita, KS 67202",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "7/20/23",
+      "contributor": "TDWFW, LLC",
+      "address": "1720 N Webb, Suite 110, Wichita, KS 67206",
+      "occupation": "Development",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "8/1/23",
+      "contributor": "William Hayes",
+      "address": "11114 W Central, Wichita, KS 67212",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "9/30/23",
+      "contributor": "Maxac LLC",
+      "address": "9435 E Central, Wichita, KS 67206",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "9/30/23",
+      "contributor": "Summitt Ave LLC",
+      "address": "9435 E Central, Wichita, KS 67206",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "9/30/23",
+      "contributor": "IKM LLC",
+      "address": "9435 E Central, Wichita, KS 67206",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "10/22/23",
+      "contributor": "Marc Sheets",
+      "address": "18 E Valverde Wichita, Wichita, KS 67230",
+      "occupation": "Restaurateur",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "11/21/23",
+      "contributor": "Tow ICT",
+      "address": "4202 S Broadway Ave, Wichita, KS 67216",
+      "occupation": "Tow Company",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "11/23/23",
+      "contributor": "Collision Specialist",
+      "address": "8923 W Kellogg, Wichita, KS 67209",
+      "occupation": "Autobody Repair",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "11/28/23",
+      "contributor": "B & C Companies",
+      "address": "1720 N Webb Rd, Wichita, KS 67206",
+      "occupation": "Restaurant Owner",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "11/28/23",
+      "contributor": "3G",
+      "address": "15 Stonebridge Circle, Wichita, KS 67230",
+      "occupation": "Title Company",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "11/28/23",
+      "contributor": "Nicholas Bonivia",
+      "address": "9109 E Elm St, Wichita, KS 67206",
+      "occupation": "Real Estate",
+      "amount": 250
+    },
+    {
+      "_page": 3,
+      "date": "11/30/23",
+      "contributor": "Craig Bond Law Firm",
+      "address": "100 N Broadway Ste 400, Wichita, KS 67202",
+      "occupation": "Attorney",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "11/30/23",
+      "contributor": "Jacob Ramstack",
+      "address": "154 S Pershing St, Wichita, KS 67218",
+      "occupation": "Real Estate",
+      "amount": 200
+    },
+    {
+      "_page": 3,
+      "date": "12/5/23",
+      "contributor": "Rodney Wright",
+      "address": "22401 W 107th, Viola, KS 67149",
+      "occupation": "HOA MGMT",
+      "amount": 500
+    }
+  ],
+  "expenditures": [],
+  "other_transactions": [],
+  "in_kind_contributions": []
+}

@@ -1,0 +1,242 @@
+{
+  "candidate": {
+    "name": {
+      "value": "Jeff Blubaugh",
+      "bbox": null
+    },
+    "address": {
+      "value": "10915 W Atlanta Cir",
+      "bbox": null
+    },
+    "city": {
+      "value": "67215",
+      "bbox": null
+    },
+    "zip": {
+      "value": "67215",
+      "bbox": null
+    },
+    "county": {
+      "value": "Sedgwick",
+      "bbox": null
+    },
+    "office_sought": {
+      "value": "County Commission",
+      "bbox": null
+    },
+    "district": {
+      "value": "II",
+      "bbox": null
+    },
+    "_page": 1
+  },
+  "summary": {
+    "cash_on_hand_beginning": {
+      "value": 0.0,
+      "bbox": null
+    },
+    "total_contributions": {
+      "value": 39000,
+      "bbox": null
+    },
+    "cash_available": {
+      "value": 39000,
+      "bbox": null
+    },
+    "total_expenditures": {
+      "value": 12367.7,
+      "bbox": null
+    },
+    "cash_on_hand_close": {
+      "value": 26632.3,
+      "bbox": null
+    },
+    "in_kind_contributions": {
+      "value": null,
+      "bbox": null
+    },
+    "other_transactions": {
+      "value": null,
+      "bbox": null
+    },
+    "_page": 1
+  },
+  "contributions": [],
+  "expenditures": [
+    {
+      "_page": 3,
+      "date": "7/22/22",
+      "name": "Meeting Room 3956 N. Ridge Rd, Wichita, KS 67205",
+      "address": null,
+      "purpose": "Room Rental",
+      "amount": 45.0
+    },
+    {
+      "_page": 3,
+      "date": "7/22/22",
+      "name": "Juan Soria 911 E. Montecito, Wichita, KS 67216",
+      "address": null,
+      "purpose": "Campaign Work",
+      "amount": 100.0
+    },
+    {
+      "_page": 3,
+      "date": "7/22/22",
+      "name": "Maverick Buegler 3915 N. Amidon Circle Wichita, KS 67204",
+      "address": null,
+      "purpose": "Campaign Work",
+      "amount": 182.3
+    },
+    {
+      "_page": 3,
+      "date": "7/22/22",
+      "name": "Maverick Buegler 3915 N. Amidon Circle Wichita, KS 67204",
+      "address": null,
+      "purpose": "Parade Shirts",
+      "amount": 139.6
+    },
+    {
+      "_page": 3,
+      "date": "7/22/22",
+      "name": "Texas Productions 607 E. Murdock Wichita, KS 67203",
+      "address": null,
+      "purpose": "Lunch for Parade Volunteers",
+      "amount": 180.62
+    },
+    {
+      "_page": 3,
+      "date": "7/22/22",
+      "name": "Maverick Buegler 3915 N. Amidon Circle Wichita, KS 67204",
+      "address": null,
+      "purpose": "Reimbursement for Campaign Items",
+      "amount": 120.0
+    },
+    {
+      "_page": 3,
+      "date": "8/1/22",
+      "name": "Maverick Buegler 3915 N. Amidon Circle Wichita, KS 67204",
+      "address": null,
+      "purpose": "Reimbursement for Parade, for Parade",
+      "amount": 130.0
+    },
+    {
+      "_page": 3,
+      "date": "9/10/22",
+      "name": "Adrian Fine 130 E. 1st N Wichita, KS 67202",
+      "address": null,
+      "purpose": "Reimbursement for Parade Candy",
+      "amount": 110.0
+    },
+    {
+      "_page": 3,
+      "date": "9/10/22",
+      "name": "Reagan Buegler 3915 N. Amidon Circle Wichita, KS 67204",
+      "address": null,
+      "purpose": "Reimbursement for Parade Items",
+      "amount": 115.17
+    },
+    {
+      "_page": 3,
+      "date": "9/24/22",
+      "name": "Independent Business Association 200 N. Broadway Ste. 1",
+      "address": null,
+      "purpose": "Dues to Civic Group",
+      "amount": 250.0
+    },
+    {
+      "_page": 3,
+      "date": "9/24/22",
+      "name": "Independent Business Association 200 N. Broadway Ste. 1",
+      "address": null,
+      "purpose": "Print Campaign Material",
+      "amount": 362.81
+    },
+    {
+      "_page": 3,
+      "date": "11/1/22",
+      "name": "Boecko Rausch 506 N Main Wichita, KS 67202",
+      "address": null,
+      "purpose": "Reimbursement for Mailer, Clean up",
+      "amount": 203.6
+    }
+  ],
+  "other_transactions": [
+    {
+      "_page": 2,
+      "date": {
+        "value": "6/23/23",
+        "bbox": null
+      },
+      "creditor": {
+        "value": "Russell Construction, LLC",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "balance": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 2,
+      "date": {
+        "value": "6/23/23",
+        "bbox": null
+      },
+      "creditor": {
+        "value": "Russell Develop & Mgmt",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "balance": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 2,
+      "date": {
+        "value": "6/23/23",
+        "bbox": null
+      },
+      "creditor": {
+        "value": "Band Plumbing, Inc",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Plumbing",
+        "bbox": null
+      },
+      "balance": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 2,
+      "date": {
+        "value": "6/23/23",
+        "bbox": null
+      },
+      "creditor": {
+        "value": "Sole & Kobra Rossi",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Banking",
+        "bbox": null
+      },
+      "balance": {
+        "value": 1100,
+        "bbox": null
+      }
+    }
+  ],
+  "in_kind_contributions": []
+}

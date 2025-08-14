@@ -1,0 +1,29 @@
+{
+  "name": "Frontend argus DevContainer",
+  "dockerComposeFile": "../../argus_devops/docker-compose.yml",
+  "service": "frontend",
+  "workspaceFolder": "/app",
+  
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "octref.vetur",
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "ms-azuretools.vscode-docker"
+      ]
+      ,"settings": {
+    "terminal.integrated.shell.linux": "/bin/bash"
+  }
+    }
+  },
+  // "appPort": [3000],
+  "forwardPorts": [3000],
+
+  "mounts": [
+        "source=${localEnv:HOME}/.ssh/config_container,target=/root/.ssh/config,type=bind,consistency=cached",
+    "source=${localEnv:HOME}/.config/gcloud,target=/root/.config/gcloud,type=bind,consistency=cached"
+  ],
+  "postStartCommand": "echo 'Dev Container ready'"
+
+}

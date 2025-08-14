@@ -1,0 +1,740 @@
+{
+  "candidate": {
+    "name": {
+      "value": "Jeff Blubaugh",
+      "bbox": null
+    },
+    "address": {
+      "value": "10915 W Atlanta Cir",
+      "bbox": null
+    },
+    "city": {
+      "value": "67215",
+      "bbox": null
+    },
+    "county": {
+      "value": "Sedgwick",
+      "bbox": null
+    },
+    "office_sought": {
+      "value": "County Commission",
+      "bbox": null
+    },
+    "district": {
+      "value": "II",
+      "bbox": null
+    },
+    "_page": 1
+  },
+  "summary": {
+    "cash_on_hand_beginning": {
+      "value": 0,
+      "bbox": null
+    },
+    "total_contributions": {
+      "value": 39000,
+      "bbox": null
+    },
+    "cash_available": {
+      "value": 39000,
+      "bbox": null
+    },
+    "total_expenditures": {
+      "value": 12367.7,
+      "bbox": null
+    },
+    "cash_on_hand_close": {
+      "value": 26632.3,
+      "bbox": null
+    },
+    "in_kind_contributions": {
+      "value": null,
+      "bbox": null
+    },
+    "other_transactions": {
+      "value": null,
+      "bbox": null
+    },
+    "_page": 1
+  },
+  "contributions": [
+    {
+      "_page": 2,
+      "date": {
+        "value": "2/21/23",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "Jerry Biebuing",
+        "bbox": null
+      },
+      "address": {
+        "value": "1365 N. Candace Meadows Dr.",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 2,
+      "date": {
+        "value": "2/21/23",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "Mike Burke",
+        "bbox": null
+      },
+      "address": {
+        "value": "1200 Sunnyside Rd.",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Energy Company",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 2,
+      "date": {
+        "value": "2/21/23",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "Vanguard Energy Company",
+        "bbox": null
+      },
+      "address": {
+        "value": "9416 E Harry, Ste 403",
+        "bbox": null
+      },
+      "occupation": null,
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 2,
+      "date": {
+        "value": "2/21/23",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "South Wind Advertising",
+        "bbox": null
+      },
+      "address": {
+        "value": "4860 S. Topeka Blvd SW",
+        "bbox": null
+      },
+      "occupation": null,
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 2,
+      "date": {
+        "value": "2/21/23",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "Amy Sestak",
+        "bbox": null
+      },
+      "address": {
+        "value": "255 N. Belmont",
+        "bbox": null
+      },
+      "occupation": null,
+      "amount": {
+        "value": 100,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 2,
+      "date": {
+        "value": "2/21/23",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "Phil Ruffin Jr",
+        "bbox": null
+      },
+      "address": {
+        "value": "Post Office Box 17007",
+        "bbox": null
+      },
+      "occupation": null,
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 2,
+      "date": {
+        "value": "2/21/23",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "1831 E. Southcrest Blvd",
+        "bbox": null
+      },
+      "address": {
+        "value": "1918 N. Spaulding",
+        "bbox": null
+      },
+      "occupation": null,
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 2,
+      "date": {
+        "value": "2/21/23",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "Wichita",
+        "bbox": null
+      },
+      "address": null,
+      "occupation": {
+        "value": "Property Management",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 4,
+      "date": {
+        "value": "12/29/22",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "JABAT, LLC",
+        "bbox": null
+      },
+      "address": {
+        "value": "518 S Main St",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 4,
+      "date": {
+        "value": "12/29/22",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "Vantage Homes, LLC",
+        "bbox": null
+      },
+      "address": {
+        "value": "PO Box 2948",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 4,
+      "date": {
+        "value": "12/29/22",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "Craig Nelson",
+        "bbox": null
+      },
+      "address": {
+        "value": "14749 SW Meadowlark Rd",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 4,
+      "date": {
+        "value": "12/29/22",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "B&B LLLC",
+        "bbox": null
+      },
+      "address": {
+        "value": "225 S West Street",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Heating & Cooling",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 4,
+      "date": {
+        "value": "12/29/22",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "Team and Family Investment",
+        "bbox": null
+      },
+      "address": {
+        "value": "6100 E Central Ave Bldg 3",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    }
+  ],
+  "expenditures": [
+    {
+      "_page": 3,
+      "date": "7/27/23",
+      "name": "Legacy Hill Sugarloaf, LLC",
+      "address": null,
+      "purpose": null,
+      "amount": 150.0
+    },
+    {
+      "_page": 3,
+      "date": "7/20/23",
+      "name": "The Market",
+      "address": null,
+      "purpose": null,
+      "amount": 150.0
+    },
+    {
+      "_page": 3,
+      "date": "7/7/23",
+      "name": "The Market",
+      "address": null,
+      "purpose": null,
+      "amount": 150.0
+    },
+    {
+      "_page": 3,
+      "date": "7/6/23",
+      "name": "The Market",
+      "address": null,
+      "purpose": null,
+      "amount": 150.0
+    },
+    {
+      "_page": 3,
+      "date": "6/22/23",
+      "name": "Michael Gorm",
+      "address": null,
+      "purpose": null,
+      "amount": 1939.0
+    },
+    {
+      "_page": 3,
+      "date": "6/22/23",
+      "name": "Michael Gorm",
+      "address": null,
+      "purpose": null,
+      "amount": 219.0
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "07/22/22",
+        "bbox": null
+      },
+      "name": {
+        "value": "Visa",
+        "bbox": null
+      },
+      "address": {
+        "value": "PO Box 636, Topeka, KS 66675",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Campaign Design & Campaign Work",
+        "bbox": null
+      },
+      "amount": {
+        "value": 546.73,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "07/22/22",
+        "bbox": null
+      },
+      "name": {
+        "value": "Visa",
+        "bbox": null
+      },
+      "address": {
+        "value": "PO Box 636, Topeka, KS 66675",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Campaign Design/Database Training",
+        "bbox": null
+      },
+      "amount": {
+        "value": 689.6,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "07/26/22",
+        "bbox": null
+      },
+      "name": {
+        "value": "Exclusive Purses & Jewelry",
+        "bbox": null
+      },
+      "address": {
+        "value": "516 N 4th",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": {
+        "value": 161.66,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "07/28/22",
+        "bbox": null
+      },
+      "name": {
+        "value": "Dues & Dues Group",
+        "bbox": null
+      },
+      "address": null,
+      "purpose": null,
+      "amount": {
+        "value": 165.0,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "07/30/22",
+        "bbox": null
+      },
+      "name": {
+        "value": "Campaign & Campaign Work",
+        "bbox": null
+      },
+      "address": null,
+      "purpose": null,
+      "amount": {
+        "value": 1.782,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "07/30/22",
+        "bbox": null
+      },
+      "name": {
+        "value": "Campaign & Shirts",
+        "bbox": null
+      },
+      "address": null,
+      "purpose": null,
+      "amount": {
+        "value": 193.63,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "08/01/22",
+        "bbox": null
+      },
+      "name": {
+        "value": "Campaign & Shirts",
+        "bbox": null
+      },
+      "address": null,
+      "purpose": null,
+      "amount": {
+        "value": 576.75,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "08/02/22",
+        "bbox": null
+      },
+      "name": {
+        "value": "Campaign Management",
+        "bbox": null
+      },
+      "address": null,
+      "purpose": null,
+      "amount": {
+        "value": 2.222,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "08/03/22",
+        "bbox": null
+      },
+      "name": {
+        "value": "Bern Nash Animal Care",
+        "bbox": null
+      },
+      "address": null,
+      "purpose": null,
+      "amount": {
+        "value": 217.5,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "08/10/22",
+        "bbox": null
+      },
+      "name": {
+        "value": "Campaign Strategy/Launch",
+        "bbox": null
+      },
+      "address": null,
+      "purpose": null,
+      "amount": {
+        "value": 323.0,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "08/14/22",
+        "bbox": null
+      },
+      "name": {
+        "value": "Campaign Planning",
+        "bbox": null
+      },
+      "address": null,
+      "purpose": null,
+      "amount": {
+        "value": 131.13,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "08/18/22",
+        "bbox": null
+      },
+      "name": {
+        "value": "Reimbursement for Parade Candy",
+        "bbox": null
+      },
+      "address": null,
+      "purpose": null,
+      "amount": {
+        "value": 159.52,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "08/20/22",
+        "bbox": null
+      },
+      "name": {
+        "value": "Reimbursement for Lunch for Volunteers at Olive Garden",
+        "bbox": null
+      },
+      "address": null,
+      "purpose": null,
+      "amount": {
+        "value": 160.5,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "09/12/22",
+        "bbox": null
+      },
+      "name": {
+        "value": "Lunch and End of Parade Treats",
+        "bbox": null
+      },
+      "address": null,
+      "purpose": null,
+      "amount": {
+        "value": 159.93,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "10/02/22",
+        "bbox": null
+      },
+      "name": {
+        "value": "Reimbursement for Shipping for Campaign T-shirts",
+        "bbox": null
+      },
+      "address": null,
+      "purpose": null,
+      "amount": {
+        "value": 120.0,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "10/11/22",
+        "bbox": null
+      },
+      "name": {
+        "value": "Reimbursement for Donuts for Parade",
+        "bbox": null
+      },
+      "address": null,
+      "purpose": null,
+      "amount": {
+        "value": 139.0,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "11/19/22",
+        "bbox": null
+      },
+      "name": {
+        "value": "Reimbursement for Donuts for Antibullying Clean Up",
+        "bbox": null
+      },
+      "address": null,
+      "purpose": null,
+      "amount": {
+        "value": 111.96,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "12/11/22",
+        "bbox": null
+      },
+      "name": {
+        "value": "Reimbursement for Antibullying Clean Up",
+        "bbox": null
+      },
+      "address": null,
+      "purpose": null,
+      "amount": {
+        "value": 111.17,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 6,
+      "date": "12/8/22",
+      "name": "Pay Pal",
+      "address": "2211 N 1st St, San Jose, CA 95123",
+      "purpose": "Charge for contribution",
+      "amount": 12.367
+    },
+    {
+      "_page": 6,
+      "date": "12/5/22",
+      "name": "Pay Pal",
+      "address": "2211 N 1st St, San Jose, CA 95123",
+      "purpose": "Charge for contribution",
+      "amount": 15.3
+    },
+    {
+      "_page": 6,
+      "date": "11/30/22",
+      "name": "Wildlife Independent Business Association",
+      "address": "100 N Broadway St, Los Altos, CA 94022",
+      "purpose": "Business group event",
+      "amount": 150
+    }
+  ],
+  "other_transactions": [],
+  "in_kind_contributions": []
+}

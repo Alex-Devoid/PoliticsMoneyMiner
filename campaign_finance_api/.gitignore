@@ -1,0 +1,47 @@
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+
+# Virtual environment
+venv/
+.env
+*.env
+*.venv
+Pipfile
+Pipfile.lock
+
+# macOS
+.DS_Store
+
+# Pytest and Test Cache
+.pytest_cache/
+.scraped_data.json  # Exclude test data output
+
+# Google Cloud & Firestore Emulator
+firebase-debug.log
+.cloud/
+gcloud-debug.log
+firestore-emulator/
+firebase-export.json
+
+# GitHub Actions / CI/CD specific
+.github/workflows/*.log
+.github/workflows/*.cache
+.github/workflows/*.tmp
+
+# Ignore Docker-related files (if used for Cloud Run)
+*.dockerignore
+docker-compose.override.yml
+.envrc
+create_firestore_reaser_sa.sh
+meetings_auth_sa.sh
+*.sh
+c.sh
+github_setup.sh
+*/github_setup.sh
+deploy_meetings.sh
+cloud_function/routes/iap_auth.py

@@ -1,0 +1,86 @@
+{
+  "candidate": {
+    "name": "Jeff Blubaugh",
+    "address": {
+      "value": "10915 W Atlanta Cir",
+      "bbox": null
+    },
+    "city": {
+      "value": "67215",
+      "bbox": null
+    },
+    "county": {
+      "value": "Sedgwick",
+      "bbox": null
+    },
+    "office_sought": {
+      "value": "County Commission",
+      "bbox": null
+    },
+    "district": {
+      "value": "II",
+      "bbox": null
+    },
+    "_page": 6
+  },
+  "summary": {
+    "cash_on_hand_beginning": {
+      "value": 0.0,
+      "bbox": null
+    },
+    "total_contributions": {
+      "value": 39000,
+      "bbox": null
+    },
+    "cash_available": {
+      "value": 39000,
+      "bbox": null
+    },
+    "total_expenditures": {
+      "value": 12367.7,
+      "bbox": null
+    },
+    "cash_on_hand_close": {
+      "value": 26632.3,
+      "bbox": null
+    },
+    "in_kind_contributions": {
+      "value": "N/A",
+      "bbox": null
+    },
+    "other_transactions": {
+      "value": "N/A",
+      "bbox": null
+    },
+    "_page": 6
+  },
+  "contributions": [],
+  "expenditures": [
+    {
+      "_page": 6,
+      "date": "11/30/23",
+      "name": "Wichita Independent Business Association",
+      "address": "100 N Broadway St Ste L105, Wichita, KS 67202",
+      "purpose": "Business Group Event",
+      "amount": 150.0
+    },
+    {
+      "_page": 6,
+      "date": "12/5/23",
+      "name": "Pay Pal",
+      "address": "2211 N 1st St, San Jose, CA 95123",
+      "purpose": "Pay Pal Charge for contribution",
+      "amount": 15.0
+    },
+    {
+      "_page": 6,
+      "date": "12/8/23",
+      "name": "Pay Pal",
+      "address": "2211 N 1st St, San Jose, CA 95123",
+      "purpose": "Pay Pal Charge for contribution",
+      "amount": 12.3677
+    }
+  ],
+  "other_transactions": [],
+  "in_kind_contributions": []
+}

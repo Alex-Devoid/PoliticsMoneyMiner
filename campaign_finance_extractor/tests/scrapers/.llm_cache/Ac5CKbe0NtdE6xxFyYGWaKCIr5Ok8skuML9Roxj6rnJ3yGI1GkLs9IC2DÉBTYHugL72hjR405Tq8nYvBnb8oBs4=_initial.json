@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "name": "Shelley Davis Reueman",
+    "address": "3215 E 14th St N",
+    "city": "Wichita",
+    "zip": "67208",
+    "county": "Sedgwick",
+    "office_sought": "Mayor",
+    "_page": 5
+  },
+  "summary": {
+    "cash_on_hand_beginning": null,
+    "total_contributions": null,
+    "cash_available": null,
+    "total_expenditures": null,
+    "cash_on_hand_close": null,
+    "_page": 5
+  },
+  "contributions": [],
+  "expenditures": [],
+  "other_transactions": [],
+  "in_kind_contributions": [],
+  "total_unitemized_contributions": 0.0,
+  "total_itemized_expenditures": 0.0,
+  "total_unitemized_expenditures": 0.0
+}

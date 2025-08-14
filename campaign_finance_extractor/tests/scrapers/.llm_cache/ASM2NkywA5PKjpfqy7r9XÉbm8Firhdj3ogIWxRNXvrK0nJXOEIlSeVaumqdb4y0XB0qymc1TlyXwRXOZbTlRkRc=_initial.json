@@ -1,0 +1,142 @@
+{
+  "candidate": {
+    "name": "unknown",
+    "address": {
+      "value": "10915 W Atlanta Cir",
+      "bbox": null
+    },
+    "city": {
+      "value": "67215",
+      "bbox": null
+    },
+    "county": {
+      "value": "Sedgwick",
+      "bbox": null
+    },
+    "office_sought": {
+      "value": "County Commission",
+      "bbox": null
+    },
+    "district": {
+      "value": "II",
+      "bbox": null
+    },
+    "_page": 5
+  },
+  "summary": {
+    "cash_on_hand_beginning": {
+      "value": 0.0,
+      "bbox": null
+    },
+    "total_contributions": {
+      "value": 39000.0,
+      "bbox": null
+    },
+    "cash_available": {
+      "value": 39000.0,
+      "bbox": null
+    },
+    "total_expenditures": {
+      "value": 12357.7,
+      "bbox": null
+    },
+    "cash_on_hand_close": {
+      "value": 26642.3,
+      "bbox": null
+    },
+    "in_kind_contributions": {
+      "value": null,
+      "bbox": null
+    },
+    "other_transactions": {
+      "value": null,
+      "bbox": null
+    },
+    "_page": 5
+  },
+  "contributions": [],
+  "expenditures": [
+    {
+      "_page": 5,
+      "date": "11/1/23",
+      "name": "City Print",
+      "address": "PO Box 75217 Wichita KS 67275",
+      "purpose": "Campaign Flyers",
+      "amount": 310.75
+    },
+    {
+      "_page": 5,
+      "date": "11/1/23",
+      "name": "Lowe's Home Improvement",
+      "address": "333 S Ridge Rd Wichita KS 67209",
+      "purpose": "Supplies for campaign signs",
+      "amount": 57.24
+    },
+    {
+      "_page": 5,
+      "date": "11/1/23",
+      "name": "FedEx",
+      "address": "8001 W Kellogg Dr Wichita KS 67209",
+      "purpose": "Shipping",
+      "amount": 15.54
+    },
+    {
+      "_page": 5,
+      "date": "11/1/23",
+      "name": "Office Depot",
+      "address": "3035 N Rock Rd Wichita KS 67226",
+      "purpose": "Office Supplies",
+      "amount": 23.78
+    },
+    {
+      "_page": 5,
+      "date": "11/1/23",
+      "name": "Walmart",
+      "address": "501 E Pawnee St Wichita KS 67211",
+      "purpose": "Snacks for volunteers",
+      "amount": 14.34
+    },
+    {
+      "_page": 5,
+      "date": "11/8/23",
+      "name": "Chick-fil-A",
+      "address": "10515 W 21st St N Wichita KS 67205",
+      "purpose": "Lunch for volunteers",
+      "amount": 31.45
+    },
+    {
+      "_page": 5,
+      "date": "11/8/23",
+      "name": "Dillons",
+      "address": "10515 W 21st St N Wichita KS 67205",
+      "purpose": "Lunch for volunteers",
+      "amount": 22.96
+    },
+    {
+      "_page": 5,
+      "date": "11/8/23",
+      "name": "Target",
+      "address": "10800 E 21st St N Wichita KS 67206",
+      "purpose": "Campaign Supplies",
+      "amount": 39.78
+    },
+    {
+      "_page": 5,
+      "date": "11/8/23",
+      "name": "Office Depot",
+      "address": "3035 N Rock Rd Wichita KS 67226",
+      "purpose": "Office Supplies",
+      "amount": 15.09
+    },
+    {
+      "_page": 5,
+      "date": "11/8/23",
+      "name": "QuikTrip",
+      "address": "6011 W Central Ave Wichita KS 67212",
+      "purpose": "Gas for campaign",
+      "amount": 45.0
+    }
+  ],
+  "other_transactions": [],
+  "in_kind_contributions": []
+}

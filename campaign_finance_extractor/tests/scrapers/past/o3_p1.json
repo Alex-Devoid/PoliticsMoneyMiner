@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "name": "Jared Cerullo",
+    "address": "6316 S Madison St",
+    "city": "Wichita",
+    "zip": "67216",
+    "county": "Sedgwick",
+    "office_sought": "City of Wichita - City Council",
+    "district": "3",
+    "_page": 1
+  },
+  "summary": {
+    "cash_on_hand_beginning": 2000.0,
+    "total_contributions": 10811.2,
+    "cash_available": 12811.2,
+    "total_expenditures": 3463.36,
+    "cash_on_hand_close": 9347.84,
+    "in_kind_contributions": 0.0,
+    "other_transactions": 0.0,
+    "_page": 1
+  },
+  "contributions": [],
+  "total_itemized_receipts": null,
+  "total_unitemized_contributions": null,
+  "expenditures": [],
+  "total_itemized_expenditures": null,
+  "total_unitemized_expenditures": null,
+  "other_transactions": []
+}

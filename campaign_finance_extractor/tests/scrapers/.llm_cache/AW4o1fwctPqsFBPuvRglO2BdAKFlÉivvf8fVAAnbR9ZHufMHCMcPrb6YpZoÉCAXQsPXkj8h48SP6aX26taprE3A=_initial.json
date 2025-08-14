@@ -1,0 +1,81 @@
+{
+  "candidate": {
+    "name": "Jared Cerullo",
+    "address": "6316 S. Madison St.",
+    "city": "Wichita",
+    "zip": "67216",
+    "county": "Sedgwick",
+    "office_sought": "Wichita Mayor",
+    "district": "City of Wichita",
+    "_page": 6
+  },
+  "summary": {
+    "total_contributions": null,
+    "cash_available": null,
+    "total_expenditures": 5372.44,
+    "cash_on_hand_close": -5372.44,
+    "_page": 6
+  },
+  "contributions": [],
+  "expenditures": [
+    {
+      "_page": 4,
+      "date": "1/17/23",
+      "name": "UPS Store",
+      "address": "620 N Rock Rd. Derby, KS 67037",
+      "purpose": "Copies for Petition",
+      "amount": 13.0
+    },
+    {
+      "_page": 4,
+      "date": "2/21/23",
+      "name": "Sedgwick County",
+      "address": "100 N. Broadway Ste. 100 Wichita, KS 67202",
+      "purpose": "Voter Data Registration List",
+      "amount": 61.31
+    },
+    {
+      "_page": 4,
+      "date": "3/24/23",
+      "name": "Office Max",
+      "address": "814 E. Kellogg Wichita, KS 67207",
+      "purpose": "Printer ink",
+      "amount": 80.82
+    },
+    {
+      "_page": 4,
+      "date": "5/1/23",
+      "name": "UPS Store",
+      "address": "6506 W. Douglas Ste. C Wichita, KS 67203",
+      "purpose": "Notary public fee",
+      "amount": 10.0
+    },
+    {
+      "_page": 4,
+      "date": "5/24/23",
+      "name": "Sedgwick County",
+      "address": "100 N. Broadway Ste. 100 Wichita, KS 67202",
+      "purpose": "Filing fee",
+      "amount": 50.0
+    },
+    {
+      "_page": 4,
+      "date": "7/19/23",
+      "name": "Sedgwick County",
+      "address": "100 N. Broadway Ste. 100 Wichita, KS 67202",
+      "purpose": "Voter Data Advance Ballot List",
+      "amount": 120.0
+    },
+    {
+      "_page": 4,
+      "date": "7/11/23",
+      "name": "Jabu Design",
+      "address": "802 E. Old Mill St. Wichita, KS 67226",
+      "purpose": "Campaign letters, mailer Palm Cards",
+      "amount": 5036.21
+    }
+  ],
+  "other_transactions": [],
+  "in_kind_contributions": [],
+  "total_itemized_expenditures": 5372.44
+}

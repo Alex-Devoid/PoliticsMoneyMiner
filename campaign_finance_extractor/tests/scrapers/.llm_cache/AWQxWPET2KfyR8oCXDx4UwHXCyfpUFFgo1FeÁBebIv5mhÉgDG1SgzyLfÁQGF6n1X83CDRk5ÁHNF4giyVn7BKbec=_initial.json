@@ -1,0 +1,136 @@
+{
+  "candidate": {
+    "name": "Jeff Blubaugh",
+    "address": "10915 W Atlanta Cir",
+    "city": "67215",
+    "county": "Sedgwick",
+    "office_sought": "County Commission",
+    "district": "II",
+    "_page": 5
+  },
+  "summary": {
+    "cash_on_hand_beginning": null,
+    "total_contributions": 39000,
+    "cash_available": 39000,
+    "total_expenditures": 12367.7,
+    "cash_on_hand_close": 26632.3,
+    "_page": 5
+  },
+  "contributions": [],
+  "expenditures": [
+    {
+      "_page": 5,
+      "date": "11/14/22",
+      "name": "Auburn Hills Golf Course",
+      "address": "443 S 135th St W Wichita KS 67235",
+      "purpose": "Dues - civic group",
+      "amount": 323.0
+    },
+    {
+      "_page": 5,
+      "date": "11/14/22",
+      "name": "Auburn Hills Golf Course",
+      "address": "443 S 135th St W Wichita KS 67235",
+      "purpose": "Dues - civic group",
+      "amount": 215.0
+    },
+    {
+      "_page": 5,
+      "date": "11/28/22",
+      "name": "Paypal Charge for contribution",
+      "address": "2211 N 1st St San Jose CA 95125",
+      "purpose": null,
+      "amount": 3.6
+    },
+    {
+      "_page": 5,
+      "date": "12/02/22",
+      "name": "Warren Boulaugh",
+      "address": "130 N Topeka Wichita KS 67202",
+      "purpose": "Reimbursement for parade candy",
+      "amount": 117.96
+    },
+    {
+      "_page": 5,
+      "date": "12/02/22",
+      "name": "Warren Boulaugh",
+      "address": "130 N Topeka Wichita KS 67202",
+      "purpose": "Reimbursement for parade candy",
+      "amount": 115.94
+    },
+    {
+      "_page": 5,
+      "date": "12/02/22",
+      "name": "Warren Boulaugh",
+      "address": "130 N Topeka Wichita KS 67202",
+      "purpose": "Reimbursement for parade candy",
+      "amount": 135.0
+    },
+    {
+      "_page": 5,
+      "date": "12/03/22",
+      "name": "Lynette Boulaugh",
+      "address": "7015 S Walnut Ave Wichita KS 67217",
+      "purpose": "Rembursement for campaign letters",
+      "amount": 59.25
+    },
+    {
+      "_page": 5,
+      "date": "12/03/22",
+      "name": "Lynette Boulaugh",
+      "address": "7015 S Walnut Ave Wichita KS 67217",
+      "purpose": "Rembursement for campaign letters",
+      "amount": 130.62
+    },
+    {
+      "_page": 5,
+      "date": "12/03/22",
+      "name": "Lynette Boulaugh",
+      "address": "7015 S Walnut Ave Wichita KS 67217",
+      "purpose": "Rembursement for campaign letters",
+      "amount": 190.23
+    },
+    {
+      "_page": 5,
+      "date": "12/03/22",
+      "name": "Lynette Boulaugh",
+      "address": "7015 S Walnut Ave Wichita KS 67217",
+      "purpose": "Lunch for campaign parade volunteers at Olive Garden",
+      "amount": 115.56
+    },
+    {
+      "_page": 5,
+      "date": "12/03/22",
+      "name": "Lynette Boulaugh",
+      "address": "7015 S Walnut Ave Wichita KS 67217",
+      "purpose": "Lunch for campaign parade volunteers at Olive Garden",
+      "amount": 135.0
+    },
+    {
+      "_page": 5,
+      "date": "12/03/22",
+      "name": "Warren Boulaugh",
+      "address": "130 N Topeka Wichita KS 67202",
+      "purpose": "Reimbursement for candy for parade",
+      "amount": 130.0
+    },
+    {
+      "_page": 5,
+      "date": "02/05/23",
+      "name": "Asian Garden",
+      "address": "2020 E 21st St N Wichita KS 67214",
+      "purpose": "Campaign meeting",
+      "amount": 37.23
+    },
+    {
+      "_page": 5,
+      "date": "03/17/23",
+      "name": "Koch Industries",
+      "address": "4111 E 37th St N Wichita KS 67220",
+      "purpose": "Campaign meeting",
+      "amount": 37.23
+    }
+  ],
+  "other_transactions": [],
+  "in_kind_contributions": []
+}

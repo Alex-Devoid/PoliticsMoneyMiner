@@ -1,0 +1,579 @@
+{
+  "candidate": {
+    "name": {
+      "value": "Jeff Blubaugh",
+      "bbox": null
+    },
+    "address": {
+      "value": "10915 W Atlanta Cir",
+      "bbox": null
+    },
+    "city": {
+      "value": "67215",
+      "bbox": null
+    },
+    "county": {
+      "value": "Sedgwick",
+      "bbox": null
+    },
+    "office_sought": {
+      "value": "County Commission",
+      "bbox": null
+    },
+    "district": {
+      "value": "II",
+      "bbox": null
+    },
+    "_page": 1
+  },
+  "summary": {
+    "cash_on_hand_beginning": {
+      "value": 0,
+      "bbox": null
+    },
+    "total_contributions": {
+      "value": 39000,
+      "bbox": null
+    },
+    "cash_available": {
+      "value": 39000,
+      "bbox": null
+    },
+    "total_expenditures": {
+      "value": 12367.7,
+      "bbox": null
+    },
+    "cash_on_hand_close": {
+      "value": 26632.3,
+      "bbox": null
+    },
+    "in_kind_contributions": {
+      "value": null,
+      "bbox": null
+    },
+    "other_transactions": {
+      "value": null,
+      "bbox": null
+    },
+    "_page": 1
+  },
+  "contributions": [
+    {
+      "_page": 2,
+      "date": {
+        "value": "3/2/23",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "Jeff Bixburgh",
+        "bbox": null
+      },
+      "address": {
+        "value": "1351 W Cambridge St",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Energy Analyst",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 2,
+      "date": {
+        "value": "3/3/23",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "Sophia Vanderhoff",
+        "bbox": null
+      },
+      "address": {
+        "value": "1200 Lawrence Ave",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Consultant",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 2,
+      "date": {
+        "value": "3/3/23",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "Amy Casey",
+        "bbox": null
+      },
+      "address": {
+        "value": "1256 E 7th St",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Attorney",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 2,
+      "date": {
+        "value": "3/3/23",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "David Billard",
+        "bbox": null
+      },
+      "address": {
+        "value": "1964 W University Ave",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Professor",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 2,
+      "date": {
+        "value": "3/5/23",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "Reagan Trust",
+        "bbox": null
+      },
+      "address": {
+        "value": "PO Box 17087",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Trust",
+        "bbox": null
+      },
+      "amount": {
+        "value": 200,
+        "bbox": null
+      }
+    }
+  ],
+  "expenditures": [
+    {
+      "_page": 3,
+      "date": {
+        "value": "7/25/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Rodney Wright",
+        "bbox": null
+      },
+      "address": {
+        "value": "2407 W 10th",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Reimbursement",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 3,
+      "date": {
+        "value": "8/8/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Maxex Inc. LLC",
+        "bbox": null
+      },
+      "address": {
+        "value": "3456 E Central",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 3,
+      "date": {
+        "value": "8/17/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "William Hayes",
+        "bbox": null
+      },
+      "address": {
+        "value": "1114 W Country Club",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 3,
+      "date": {
+        "value": "9/20/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "JDK LLC",
+        "bbox": null
+      },
+      "address": {
+        "value": "3945 E Central",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 3,
+      "date": {
+        "value": "11/2/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Continental Film",
+        "bbox": null
+      },
+      "address": {
+        "value": "100 N Broadway Ste 500",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 3,
+      "date": {
+        "value": "11/17/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Jacob Banaszak",
+        "bbox": null
+      },
+      "address": {
+        "value": "15 S Pershing St",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": "7/28/23",
+      "name": "Pay Pal",
+      "address": "2211 N 1st St, San Jose, CA 95131",
+      "purpose": "Charge for contribution",
+      "amount": 3.0
+    },
+    {
+      "_page": 5,
+      "date": "7/27/23",
+      "name": "Stamp for Plan Reimbursement",
+      "address": null,
+      "purpose": null,
+      "amount": 203.46
+    },
+    {
+      "_page": 5,
+      "date": "7/24/23",
+      "name": "Print Campaign Material",
+      "address": null,
+      "purpose": null,
+      "amount": 362.81
+    },
+    {
+      "_page": 5,
+      "date": "7/20/23",
+      "name": "Dues to Civic Group",
+      "address": null,
+      "purpose": null,
+      "amount": 250.0
+    },
+    {
+      "_page": 5,
+      "date": "7/18/23",
+      "name": "Reimbursement for Doubts for Afghanistan Clean Up",
+      "address": null,
+      "purpose": null,
+      "amount": 115.17
+    },
+    {
+      "_page": 5,
+      "date": "7/15/23",
+      "name": "Reimbursement for Campaign Candy",
+      "address": null,
+      "purpose": null,
+      "amount": 111.96
+    },
+    {
+      "_page": 5,
+      "date": "7/10/23",
+      "name": "Dues to Civic Group",
+      "address": null,
+      "purpose": null,
+      "amount": 110.0
+    },
+    {
+      "_page": 5,
+      "date": "7/13/23",
+      "name": "Reimbursement for Doubts for Parade",
+      "address": null,
+      "purpose": null,
+      "amount": 139.0
+    },
+    {
+      "_page": 5,
+      "date": "7/12/23",
+      "name": "Reimbursement for Sampling for Campaign Letters",
+      "address": null,
+      "purpose": null,
+      "amount": 132.0
+    },
+    {
+      "_page": 5,
+      "date": "7/10/23",
+      "name": "Lunch for Parade Attendees",
+      "address": null,
+      "purpose": null,
+      "amount": 184.02
+    },
+    {
+      "_page": 5,
+      "date": "7/9/23",
+      "name": "Campaign Work and Pan Order",
+      "address": null,
+      "purpose": null,
+      "amount": 193.32
+    },
+    {
+      "_page": 5,
+      "date": "7/8/23",
+      "name": "Reimbursement for Unit for Parade Volunteers at Olive Garden",
+      "address": null,
+      "purpose": null,
+      "amount": 160.05
+    },
+    {
+      "_page": 5,
+      "date": "7/7/23",
+      "name": "Reimbursement for Parade Candy",
+      "address": null,
+      "purpose": null,
+      "amount": 314.15
+    },
+    {
+      "_page": 5,
+      "date": "7/5/23",
+      "name": "Campaign Strategy Lunch",
+      "address": null,
+      "purpose": null,
+      "amount": 330.0
+    },
+    {
+      "_page": 5,
+      "date": "7/2/23",
+      "name": "Loan Repay Aaron Carriesdale",
+      "address": null,
+      "purpose": null,
+      "amount": 2375.5
+    },
+    {
+      "_page": 5,
+      "date": "7/1/23",
+      "name": "Campaign Management",
+      "address": null,
+      "purpose": null,
+      "amount": 298.28
+    },
+    {
+      "_page": 5,
+      "date": "6/30/23",
+      "name": "Campaign T-Shirts",
+      "address": null,
+      "purpose": null,
+      "amount": 567.0
+    },
+    {
+      "_page": 5,
+      "date": "6/25/23",
+      "name": "Logo Design & Campaign Work",
+      "address": null,
+      "purpose": null,
+      "amount": 313.75
+    },
+    {
+      "_page": 5,
+      "date": "6/18/23",
+      "name": "Campaign T-Shirts",
+      "address": null,
+      "purpose": null,
+      "amount": 193.25
+    },
+    {
+      "_page": 5,
+      "date": "6/13/23",
+      "name": "Logo Design & Campaign Work",
+      "address": null,
+      "purpose": null,
+      "amount": 182.3
+    },
+    {
+      "_page": 5,
+      "date": "6/10/23",
+      "name": "Campaign T-Shirts",
+      "address": null,
+      "purpose": null,
+      "amount": 806.25
+    },
+    {
+      "_page": 5,
+      "date": "6/5/23",
+      "name": "Distribute Posters & Mailing",
+      "address": null,
+      "purpose": null,
+      "amount": 156.0
+    },
+    {
+      "_page": 5,
+      "date": "6/1/23",
+      "name": "Loan Repay Aaron Carriesdale",
+      "address": null,
+      "purpose": null,
+      "amount": 616.61
+    },
+    {
+      "_page": 5,
+      "date": "5/28/23",
+      "name": "Campaign Trainer/Leader Training",
+      "address": null,
+      "purpose": null,
+      "amount": 689.98
+    },
+    {
+      "_page": 5,
+      "date": "5/23/23",
+      "name": "Campaign Design & Campaign Work",
+      "address": null,
+      "purpose": null,
+      "amount": 50.0
+    },
+    {
+      "_page": 6,
+      "date": {
+        "value": "11/02/22",
+        "bbox": null
+      },
+      "name": {
+        "value": "Wireless Independent Business Association",
+        "bbox": null
+      },
+      "address": {
+        "value": "100 N Broadway St Ste, Wichita, KS 67202",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": {
+        "value": 1200,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 6,
+      "date": {
+        "value": "12/02/22",
+        "bbox": null
+      },
+      "name": {
+        "value": "Pay Pal Charge for Contribution",
+        "bbox": null
+      },
+      "address": {
+        "value": "2211 N 1st St, San Jose, CA 95131",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": {
+        "value": 15,
+        "bbox": null
+      }
+    }
+  ],
+  "other_transactions": [
+    {
+      "_page": 4,
+      "date": {
+        "value": "12/29/22",
+        "bbox": null
+      },
+      "creditor": {
+        "value": "B&B, LLC",
+        "bbox": null
+      },
+      "purpose": {
+        "value": null,
+        "bbox": null
+      },
+      "balance": {
+        "value": 30000.0,
+        "bbox": null
+      }
+    }
+  ],
+  "in_kind_contributions": []
+}

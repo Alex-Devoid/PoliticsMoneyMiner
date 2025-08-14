@@ -1,0 +1,441 @@
+{
+  "candidate": {
+    "name": {
+      "value": "Jeff Blubaugh",
+      "bbox": null
+    },
+    "address": {
+      "value": "5944 N. Ridge Rd, Wichita, KS 67205",
+      "bbox": null
+    },
+    "city": "67215",
+    "county": "Sedgwick",
+    "office_sought": "County Commission",
+    "district": "II",
+    "_page": 5
+  },
+  "summary": {
+    "cash_on_hand_beginning": null,
+    "total_contributions": 39000,
+    "cash_available": 39000,
+    "total_expenditures": 12367.7,
+    "cash_on_hand_close": 26632.3,
+    "_page": 5
+  },
+  "contributions": [
+    {
+      "_page": 4,
+      "date": "12/21/22",
+      "contributor": "Vananda Conklin LLC",
+      "address": "3006 N Pepper Ridge St",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 4,
+      "date": "12/21/22",
+      "contributor": "Brennan Ford Trust",
+      "address": "150 N Market",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 4,
+      "date": "12/21/22",
+      "contributor": "Jamsot LLC",
+      "address": "1851 N Rock Rd",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 4,
+      "date": "12/21/22",
+      "contributor": "Kornets & Kelley Lindsay-Kornel",
+      "address": "7506 N Pebble Cir",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 4,
+      "date": "12/21/22",
+      "contributor": "DC Wichita LLC",
+      "address": "7515 W 37th St N",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 4,
+      "date": "12/22/22",
+      "contributor": "DC Wichita LLC",
+      "address": "7515 W 37th St N",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 4,
+      "date": "12/29/22",
+      "contributor": "Colsen Jenkins",
+      "address": "2713 N Wilderness Ct",
+      "occupation": "Retired",
+      "amount": 500
+    },
+    {
+      "_page": 4,
+      "date": "12/29/22",
+      "contributor": "Colsen Jenkins LLC",
+      "address": "2713 N Wilderness Ct",
+      "occupation": "Retired",
+      "amount": 500
+    },
+    {
+      "_page": 4,
+      "date": "1/2/23",
+      "contributor": "Vananda Conklin LLC",
+      "address": "3006 N Pepper Ridge St",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 4,
+      "date": "1/2/23",
+      "contributor": "Brennan Ford Trust",
+      "address": "150 N Market",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 4,
+      "date": "1/2/23",
+      "contributor": "Jamsot LLC",
+      "address": "1851 N Rock Rd",
+      "occupation": "Real Estate",
+      "amount": 500
+    }
+  ],
+  "expenditures": [
+    {
+      "_page": 5,
+      "date": {
+        "value": "5/4/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "ABJA Design Studio",
+        "bbox": null
+      },
+      "address": {
+        "value": "300 N. Main St, Wichita, KS 67202",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Logo design, T-shirts",
+        "bbox": null
+      },
+      "amount": {
+        "value": 193.23,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "5/12/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "ABJA Design Studio",
+        "bbox": null
+      },
+      "address": {
+        "value": "300 N. Main St, Wichita, KS 67202",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Logo design, campaign work",
+        "bbox": null
+      },
+      "amount": {
+        "value": 193.23,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "5/4/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Kurt Dinkel",
+        "bbox": null
+      },
+      "address": {
+        "value": "Loom 300, 300 E. Douglas Ave, Wichita, KS 67202",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Campaign work",
+        "bbox": null
+      },
+      "amount": {
+        "value": 816.35,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "6/1/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Red Door Three",
+        "bbox": null
+      },
+      "address": {
+        "value": "801 E. Douglas Ave, Wichita, KS 67202",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Campaign work",
+        "bbox": null
+      },
+      "amount": {
+        "value": 888.98,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "7/1/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Burghardt Liquidation Foundation",
+        "bbox": null
+      },
+      "address": {
+        "value": "601 N. Millwood Ave, Wichita, KS 67212",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Campaign management",
+        "bbox": null
+      },
+      "amount": {
+        "value": 212.5,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "9/30/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Friedman Public Affairs, LLC",
+        "bbox": null
+      },
+      "address": {
+        "value": "555 N. Webb Rd, Wichita, KS 67277",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Campaign management",
+        "bbox": null
+      },
+      "amount": {
+        "value": 212.5,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "10/2/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Meighan Burbaugh",
+        "bbox": null
+      },
+      "address": {
+        "value": "1015 W. Atlanta Cir, Wichita, KS 67211",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Reimbursement for parade candy",
+        "bbox": null
+      },
+      "amount": {
+        "value": 139.0,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "10/5/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Olive Garden",
+        "bbox": null
+      },
+      "address": {
+        "value": "2641 N. Maize Rd, Wichita, KS 67212",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Lunch payment for parade volunteers at Olive Garden",
+        "bbox": null
+      },
+      "amount": {
+        "value": 311.96,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "10/15/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "ABJA Design Studio",
+        "bbox": null
+      },
+      "address": {
+        "value": "300 N. Main St, Wichita, KS 67202",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Campaign printing for parade candy",
+        "bbox": null
+      },
+      "amount": {
+        "value": 315.0,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "10/25/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Friedman Public Affairs, LLC",
+        "bbox": null
+      },
+      "address": {
+        "value": "555 N. Webb Rd, Wichita, KS 67277",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Reimbursement for parade candy",
+        "bbox": null
+      },
+      "amount": {
+        "value": 315.0,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "11/4/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Meighan Burbaugh",
+        "bbox": null
+      },
+      "address": {
+        "value": "1015 W. Atlanta Cir, Wichita, KS 67211",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Reimbursement for parade candy",
+        "bbox": null
+      },
+      "amount": {
+        "value": 315.0,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "11/12/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Meighan Burbaugh",
+        "bbox": null
+      },
+      "address": {
+        "value": "1015 W. Atlanta Cir, Wichita, KS 67211",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Reimbursement for parade candy",
+        "bbox": null
+      },
+      "amount": {
+        "value": 315.0,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "11/14/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Meighan Burbaugh",
+        "bbox": null
+      },
+      "address": {
+        "value": "1015 W. Atlanta Cir, Wichita, KS 67211",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Reimbursement for parade candy",
+        "bbox": null
+      },
+      "amount": {
+        "value": 315.0,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "11/28/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "PayPal",
+        "bbox": null
+      },
+      "address": {
+        "value": "2211 N. 1st St, San Jose, CA 95131",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "PayPal charge for contribution",
+        "bbox": null
+      },
+      "amount": {
+        "value": 3.0,
+        "bbox": null
+      }
+    }
+  ],
+  "other_transactions": [],
+  "in_kind_contributions": []
+}

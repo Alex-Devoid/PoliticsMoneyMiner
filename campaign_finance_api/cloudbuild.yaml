@@ -1,0 +1,25 @@
+steps:
+  # Step to set up Docker Buildx for multi-platform builds
+  - name: 'gcr.io/cloud-builders/docker'
+    entrypoint: 'sh'
+    args:
+      - '-c'
+      - |
+        docker buildx create --use
+        docker buildx inspect --bootstrap
+
+  # Build the Docker image for the amd64 platform
+  - name: 'gcr.io/cloud-builders/docker'
+    args: [
+      'buildx', 'build',
+      '--platform=linux/amd64',  # Ensure the image is built for amd64
+      '-f', 'Dockerfile.meetings',  # Use the production Dockerfile
+      '-t', 'us-central1-docker.pkg.dev/${_PROJECT_ID}/${_ARTIFACT_REPO_NAME}/${_IMAGE_NAME}:latest',  # Use substitution variables
+      '--push',  # Push the image directly to the registry
+      '.'
+    ]
+
+substitutions:
+  _PROJECT_ID: 'placeholder'
+  _ARTIFACT_REPO_NAME: 'placeholder'
+  _IMAGE_NAME: 'placeholder'

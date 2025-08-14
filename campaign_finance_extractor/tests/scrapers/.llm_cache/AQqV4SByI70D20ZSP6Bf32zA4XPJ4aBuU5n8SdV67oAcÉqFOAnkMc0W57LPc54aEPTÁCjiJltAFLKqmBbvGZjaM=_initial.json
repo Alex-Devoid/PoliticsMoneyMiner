@@ -1,0 +1,138 @@
+{
+  "candidate": {
+    "name": {
+      "value": "John Doe",
+      "bbox": [
+        44.0,
+        128.0,
+        200.0,
+        142.0
+      ]
+    },
+    "address": {
+      "value": "123 Main St",
+      "bbox": [
+        44.0,
+        144.0,
+        200.0,
+        158.0
+      ]
+    },
+    "city": {
+      "value": "Anytown",
+      "bbox": [
+        44.0,
+        160.0,
+        200.0,
+        174.0
+      ]
+    },
+    "zip": {
+      "value": "12345",
+      "bbox": [
+        44.0,
+        176.0,
+        200.0,
+        190.0
+      ]
+    },
+    "county": {
+      "value": "Any County",
+      "bbox": [
+        44.0,
+        192.0,
+        200.0,
+        206.0
+      ]
+    },
+    "office_sought": {
+      "value": "Mayor",
+      "bbox": [
+        44.0,
+        208.0,
+        200.0,
+        222.0
+      ]
+    },
+    "district": {
+      "value": "1",
+      "bbox": [
+        44.0,
+        224.0,
+        200.0,
+        238.0
+      ]
+    },
+    "_page": 4
+  },
+  "summary": {
+    "cash_on_hand_beginning": {
+      "value": 1000,
+      "bbox": [
+        44.0,
+        244.0,
+        200.0,
+        258.0
+      ]
+    },
+    "total_contributions": {
+      "value": 5000,
+      "bbox": [
+        44.0,
+        260.0,
+        200.0,
+        274.0
+      ]
+    },
+    "cash_available": {
+      "value": 6000,
+      "bbox": [
+        44.0,
+        276.0,
+        200.0,
+        290.0
+      ]
+    },
+    "total_expenditures": {
+      "value": 1500,
+      "bbox": [
+        44.0,
+        292.0,
+        200.0,
+        306.0
+      ]
+    },
+    "cash_on_hand_close": {
+      "value": 4500,
+      "bbox": [
+        44.0,
+        308.0,
+        200.0,
+        322.0
+      ]
+    },
+    "in_kind_contributions": {
+      "value": 300,
+      "bbox": [
+        44.0,
+        324.0,
+        200.0,
+        338.0
+      ]
+    },
+    "other_transactions": {
+      "value": 200,
+      "bbox": [
+        44.0,
+        340.0,
+        200.0,
+        354.0
+      ]
+    },
+    "_page": 4
+  },
+  "contributions": [],
+  "expenditures": [],
+  "other_transactions": [],
+  "in_kind_contributions": []
+}

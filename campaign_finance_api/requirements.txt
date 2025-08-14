@@ -1,0 +1,66 @@
+# FastAPI for API framework
+fastapi
+
+# Uvicorn to serve FastAPI
+
+
+
+# Google authentication libraries for GCP
+google-auth>=2.0.0
+google-auth-oauthlib>=0.4.0
+google-auth-httplib2>=0.1.0
+pyjwt[crypto]>=2.0.0
+# Google Cloud Secret Manager for accessing secrets
+google-cloud-secret-manager
+# for Gmail
+google-api-python-client
+# # aiohttp for asynchronous HTTP requests
+# aiohttp
+
+# Pydantic for data validation
+pydantic
+pydantic[email]
+
+# Langchain for LLM-based functionalities
+langchain
+langchain-openai
+langchain-community
+langchain-text-splitters
+langsmith
+# Utilities for encoding/decoding in GPT models
+tiktoken
+
+# OpenAI API client
+openai
+
+# Requests for HTTP requests (used in cloud_function.email_service.py indirectly)
+requests
+requests-toolbelt
+
+# Dependencies for parsing PDFs
+PyPDF2
+pypdf
+pypdfium2
+
+# Other necessary utilities
+certifi
+charset-normalizer
+idna
+urllib3
+zipp
+
+# Email-related
+blinker
+
+# dotenv for loading environment variables
+python-dotenv
+
+google-cloud-storage
+google-cloud-firestore
+pandas==2.1.4
+requests==2.31.0
+civic-scraper==0.2.10 
+
+# Testing framework
+pytest
+uvicorn[standard]

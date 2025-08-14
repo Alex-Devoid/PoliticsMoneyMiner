@@ -1,0 +1,9384 @@
+{
+  "report_meta": {
+    "candidate_name": {
+      "value": "Unknown",
+      "bbox": null
+    },
+    "address": {
+      "value": "",
+      "bbox": null
+    },
+    "city": {
+      "value": "",
+      "bbox": null
+    },
+    "state": {
+      "value": "",
+      "bbox": null
+    },
+    "zip_code": {
+      "value": "",
+      "bbox": null
+    },
+    "county": {
+      "value": "",
+      "bbox": null
+    },
+    "office_sought": {
+      "value": "",
+      "bbox": null
+    },
+    "district": {
+      "value": "",
+      "bbox": null
+    },
+    "report_date": {
+      "value": "",
+      "bbox": null
+    },
+    "period_start": {
+      "value": "",
+      "bbox": null
+    },
+    "period_end": {
+      "value": "",
+      "bbox": null
+    },
+    "cash_on_hand_beginning": {
+      "value": "",
+      "bbox": null
+    },
+    "total_contributions_receipts": {
+      "value": "",
+      "bbox": null
+    },
+    "cash_available": {
+      "value": "",
+      "bbox": null
+    },
+    "total_expenditures_disbursements": {
+      "value": "",
+      "bbox": null
+    },
+    "cash_on_hand_closing": {
+      "value": "",
+      "bbox": null
+    },
+    "signature_name": {
+      "value": "",
+      "bbox": null
+    },
+    "signature_date": {
+      "value": "",
+      "bbox": null
+    }
+  },
+  "schedule_a": [],
+  "schedule_c": [],
+  "tokens": [
+    {
+      "page": 1,
+      "text": "1 References are",
+      "bbox": [
+        0,
+        0,
+        2550,
+        3300
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "1 References are",
+          "x0": 0,
+          "y0": 0,
+          "x1": 2550,
+          "y1": 3300
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "1 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 1 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 KANSAS GovernmentAL ETHICS Commission Governmental ethics commission",
+      "bbox": [
+        108,
+        150,
+        2439,
+        3029
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "1 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000",
+          "x0": 108,
+          "y0": 150,
+          "x1": 2439,
+          "y1": 3029
+        },
+        {
+          "page": 1,
+          "text": "1 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000",
+          "x0": 112,
+          "y0": 150,
+          "x1": 2437,
+          "y1": 3029
+        },
+        {
+          "page": 1,
+          "text": "KANSAS GovernmentAL ETHICS Commission",
+          "x0": 435,
+          "y0": 150,
+          "x1": 2053,
+          "y1": 260
+        },
+        {
+          "page": 1,
+          "text": "Governmental ethics commission",
+          "x0": 733,
+          "y0": 150,
+          "x1": 2053,
+          "y1": 221
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "KANSAS",
+      "bbox": [
+        435,
+        169,
+        711,
+        260
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "KANSAS",
+          "x0": 435,
+          "y0": 169,
+          "x1": 711,
+          "y1": 260
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "SG SO ELECTION \" OF \" \"",
+      "bbox": [
+        294,
+        252,
+        787,
+        305
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "SG SO ELECTION \" OF \" \"",
+          "x0": 294,
+          "y0": 252,
+          "x1": 787,
+          "y1": 305
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "RECEIPTS AND EXPENDITURES REPORT",
+      "bbox": [
+        705,
+        288,
+        1803,
+        348
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "RECEIPTS AND EXPENDITURES REPORT",
+          "x0": 705,
+          "y0": 288,
+          "x1": 1803,
+          "y1": 348
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "2021 Jul 26 PM 2\" 4DFA CANDIDATE FOR CITY OFFICE",
+      "bbox": [
+        299,
+        350,
+        1743,
+        421
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "2021 Jul 26 PM 2\" 4DFA CANDIDATE FOR CITY OFFICE",
+          "x0": 299,
+          "y0": 350,
+          "x1": 1743,
+          "y1": 421
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "July 26, 2021",
+      "bbox": [
+        1044,
+        471,
+        1364,
+        528
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "July 26, 2021",
+          "x0": 1044,
+          "y0": 471,
+          "x1": 1364,
+          "y1": 528
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "FILE WITH COUNTY ELECTION OFFICER",
+      "bbox": [
+        706,
+        573,
+        1811,
+        633
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "FILE WITH COUNTY ELECTION OFFICER",
+          "x0": 706,
+          "y0": 573,
+          "x1": 1811,
+          "y1": 633
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "see reverse side for instructions",
+      "bbox": [
+        716,
+        632,
+        1800,
+        694
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "see reverse side for instructions",
+          "x0": 716,
+          "y0": 632,
+          "x1": 1800,
+          "y1": 694
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "A. Name of Candidate : DARED CERULLO VARED",
+      "bbox": [
+        147,
+        788,
+        1340,
+        860
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "A. Name of Candidate : DARED CERULLO",
+          "x0": 147,
+          "y0": 788,
+          "x1": 1340,
+          "y1": 860
+        },
+        {
+          "page": 1,
+          "text": "VARED",
+          "x0": 690,
+          "y0": 788,
+          "x1": 965,
+          "y1": 852
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "C FIELD",
+      "bbox": [
+        1042,
+        796,
+        1340,
+        854
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "C FIELD",
+          "x0": 1042,
+          "y0": 796,
+          "x1": 1340,
+          "y1": 854
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "A. Name of Candidate :",
+      "bbox": [
+        147,
+        814,
+        650,
+        860
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "A. Name of Candidate :",
+          "x0": 147,
+          "y0": 814,
+          "x1": 650,
+          "y1": 860
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "address : 63 lb.S. McPherson. ST 63",
+      "bbox": [
+        253,
+        894,
+        1360,
+        973
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "address : 63 lb.S. McPherson. ST",
+          "x0": 253,
+          "y0": 894,
+          "x1": 1360,
+          "y1": 973
+        },
+        {
+          "page": 1,
+          "text": "63",
+          "x0": 542,
+          "y0": 894,
+          "x1": 622,
+          "y1": 955
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "1 6 S MAROSON ST",
+      "bbox": [
+        647,
+        902,
+        1360,
+        966
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "1 6 S MAROSON ST",
+          "x0": 647,
+          "y0": 902,
+          "x1": 1360,
+          "y1": 966
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "Address:",
+      "bbox": [
+        253,
+        913,
+        426,
+        973
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "Address:",
+          "x0": 253,
+          "y0": 913,
+          "x1": 426,
+          "y1": 973
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "City and Zip Code : WITCHIATA 67216...____________________________________________________________________________________________________ 6 7 2 1",
+      "bbox": [
+        252,
+        977,
+        2321,
+        1069
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "City and Zip Code : WITCHIATA 67216...____________________________________________________________________________________________________",
+          "x0": 252,
+          "y0": 977,
+          "x1": 2321,
+          "y1": 1069
+        },
+        {
+          "page": 1,
+          "text": "6",
+          "x0": 1350,
+          "y0": 977,
+          "x1": 1380,
+          "y1": 1041
+        },
+        {
+          "page": 1,
+          "text": "7 2 1",
+          "x0": 1224,
+          "y0": 980,
+          "x1": 1335,
+          "y1": 1041
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "county : SEPHWICK 6",
+      "bbox": [
+        1166,
+        982,
+        2321,
+        1047
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "county : SEPHWICK",
+          "x0": 1820,
+          "y0": 982,
+          "x1": 2321,
+          "y1": 1040
+        },
+        {
+          "page": 1,
+          "text": "6",
+          "x0": 1166,
+          "y0": 983,
+          "x1": 1211,
+          "y1": 1047
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "ICHITA",
+      "bbox": [
+        758,
+        1004,
+        1009,
+        1053
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "ICHITA",
+          "x0": 758,
+          "y0": 1004,
+          "x1": 1009,
+          "y1": 1053
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "City and Zip Code : W.",
+      "bbox": [
+        252,
+        1011,
+        744,
+        1069
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "City and Zip Code : W.",
+          "x0": 252,
+          "y0": 1011,
+          "x1": 744,
+          "y1": 1069
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "office sought City of Wichita. City Lowell... District Cay",
+      "bbox": [
+        255,
+        1087,
+        1976,
+        1176
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "office sought City of Wichita. City Lowell... District",
+          "x0": 255,
+          "y0": 1087,
+          "x1": 1976,
+          "y1": 1176
+        },
+        {
+          "page": 1,
+          "text": "Cay",
+          "x0": 1132,
+          "y0": 1087,
+          "x1": 1259,
+          "y1": 1158
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "District:",
+      "bbox": [
+        1820,
+        1090,
+        1976,
+        1144
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "District:",
+          "x0": 1820,
+          "y0": 1090,
+          "x1": 1976,
+          "y1": 1144
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "a uncily chita-\"",
+      "bbox": [
+        922,
+        1096,
+        1495,
+        1153
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "a uncily",
+          "x0": 1339,
+          "y0": 1096,
+          "x1": 1495,
+          "y1": 1152
+        },
+        {
+          "page": 1,
+          "text": "chita-\"",
+          "x0": 922,
+          "y0": 1098,
+          "x1": 1098,
+          "y1": 1153
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "city",
+      "bbox": [
+        581,
+        1102,
+        705,
+        1176
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "city",
+          "x0": 581,
+          "y0": 1102,
+          "x1": 705,
+          "y1": 1176
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "of Wi",
+      "bbox": [
+        737,
+        1113,
+        907,
+        1163
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "of Wi",
+          "x0": 737,
+          "y0": 1113,
+          "x1": 907,
+          "y1": 1163
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "Office Sought :",
+      "bbox": [
+        255,
+        1120,
+        545,
+        1167
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "Office Sought :",
+          "x0": 255,
+          "y0": 1120,
+          "x1": 545,
+          "y1": 1167
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "is still",
+      "bbox": [
+        108,
+        1245,
+        2417,
+        1307
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "is still",
+          "x0": 108,
+          "y0": 1245,
+          "x1": 2417,
+          "y1": 1307
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "B. Check only if appropriate. ___ Amended Filling...___Termination Report Termination Report",
+      "bbox": [
+        160,
+        1366,
+        2091,
+        1439
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "B. Check only if appropriate. ___ Amended Filling...___Termination Report",
+          "x0": 160,
+          "y0": 1366,
+          "x1": 2091,
+          "y1": 1439
+        },
+        {
+          "page": 1,
+          "text": "Termination Report",
+          "x0": 1695,
+          "y0": 1366,
+          "x1": 2091,
+          "y1": 1410
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "Amended filing",
+      "bbox": [
+        1053,
+        1377,
+        1378,
+        1422
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "Amended filing",
+          "x0": 1053,
+          "y0": 1377,
+          "x1": 1378,
+          "y1": 1422
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "B. Check only if appropriate :",
+      "bbox": [
+        160,
+        1388,
+        784,
+        1439
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "B. Check only if appropriate :",
+          "x0": 160,
+          "y0": 1388,
+          "x1": 784,
+          "y1": 1439
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "is still",
+      "bbox": [
+        115,
+        1497,
+        2427,
+        1556
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "is still",
+          "x0": 115,
+          "y0": 1497,
+          "x1": 2427,
+          "y1": 1556
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "C. Summary ( covering the period from January 1, 2021 through July 22, 2021 ) through July 22, 2021 )",
+      "bbox": [
+        163,
+        1623,
+        1760,
+        1694
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "C. Summary ( covering the period from January 1, 2021 through July 22, 2021 )",
+          "x0": 163,
+          "y0": 1623,
+          "x1": 1760,
+          "y1": 1694
+        },
+        {
+          "page": 1,
+          "text": "through July 22, 2021 )",
+          "x0": 1315,
+          "y0": 1623,
+          "x1": 1760,
+          "y1": 1675
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "C. Summary ( covering the period from January 1, 2021",
+      "bbox": [
+        163,
+        1634,
+        1295,
+        1694
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "C. Summary ( covering the period from January 1, 2021",
+          "x0": 163,
+          "y0": 1634,
+          "x1": 1295,
+          "y1": 1694
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "I cash on hand a beginning of period ___________________________________________ 2000. 00",
+      "bbox": [
+        267,
+        1692,
+        2384,
+        1781
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "I cash on hand a beginning of period ___________________________________________",
+          "x0": 267,
+          "y0": 1692,
+          "x1": 2384,
+          "y1": 1781
+        },
+        {
+          "page": 1,
+          "text": "2000. 00",
+          "x0": 2114,
+          "y0": 1692,
+          "x1": 2384,
+          "y1": 1742
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": ". Cash on hand at beginning of period000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "bbox": [
+        267,
+        1729,
+        1992,
+        1781
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": ". Cash on hand at beginning of period000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+          "x0": 267,
+          "y0": 1729,
+          "x1": 1992,
+          "y1": 1781
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "2 Total Contributions and Other receipts, Use Schedule A000000 LPIM 08/1. 20",
+      "bbox": [
+        262,
+        1779,
+        2348,
+        1871
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "2 Total Contributions and Other receipts, Use Schedule A000000 LPIM",
+          "x0": 262,
+          "y0": 1779,
+          "x1": 2348,
+          "y1": 1871
+        },
+        {
+          "page": 1,
+          "text": "08/1. 20",
+          "x0": 2114,
+          "y0": 1779,
+          "x1": 2348,
+          "y1": 1833
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "2. Total Contributions and Other Recipients ( Use Schedule A000000000000000000000000000000000000000000000000",
+      "bbox": [
+        262,
+        1813,
+        1995,
+        1871
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "2. Total Contributions and Other Recipients ( Use Schedule A000000000000000000000000000000000000000000000000",
+          "x0": 262,
+          "y0": 1813,
+          "x1": 1995,
+          "y1": 1871
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "3 Cash available his period ( Add Lines 1 and 2 000 000 28 (1.20",
+      "bbox": [
+        265,
+        1868,
+        2397,
+        1964
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "3 Cash available his period ( Add Lines 1 and 2 000 000",
+          "x0": 265,
+          "y0": 1868,
+          "x1": 2397,
+          "y1": 1964
+        },
+        {
+          "page": 1,
+          "text": "28 (1.20",
+          "x0": 2127,
+          "y0": 1868,
+          "x1": 2397,
+          "y1": 1922
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "3. Cash available this period ( Add Lines I and Z000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "bbox": [
+        265,
+        1910,
+        1997,
+        1964
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "3. Cash available this period ( Add Lines I and Z000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+          "x0": 265,
+          "y0": 1910,
+          "x1": 1997,
+          "y1": 1964
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "4. Total Expenditures and Other Disbursements ( Use Schedule ( 100000 396333 G 65.3",
+      "bbox": [
+        264,
+        1961,
+        2384,
+        2059
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "4. Total Expenditures and Other Disbursements ( Use Schedule ( 100000 396333",
+          "x0": 264,
+          "y0": 1961,
+          "x1": 2384,
+          "y1": 2059
+        },
+        {
+          "page": 1,
+          "text": "G",
+          "x0": 2351,
+          "y0": 1961,
+          "x1": 2384,
+          "y1": 2027
+        },
+        {
+          "page": 1,
+          "text": "65.3",
+          "x0": 2205,
+          "y0": 1964,
+          "x1": 2339,
+          "y1": 2016
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "3 4",
+      "bbox": [
+        2113,
+        1968,
+        2194,
+        2031
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "3",
+          "x0": 2113,
+          "y0": 1968,
+          "x1": 2137,
+          "y1": 2031
+        },
+        {
+          "page": 1,
+          "text": "4",
+          "x0": 2159,
+          "y0": 1971,
+          "x1": 2194,
+          "y1": 2030
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "Schedule ( )000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "bbox": [
+        1357,
+        1994,
+        1997,
+        2038
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "Schedule ( )000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+          "x0": 1357,
+          "y0": 1994,
+          "x1": 1997,
+          "y1": 2038
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "4. Total Expenditures and Other Disbursements ( Use",
+      "bbox": [
+        264,
+        2000,
+        1341,
+        2059
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "4. Total Expenditures and Other Disbursements ( Use",
+          "x0": 264,
+          "y0": 2000,
+          "x1": 1341,
+          "y1": 2059
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "s cash on hand at close of period ( Subtract Line 4 from 3 000 000 / 7.84 8 4",
+      "bbox": [
+        268,
+        2040,
+        2388,
+        2146
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "s cash on hand at close of period ( Subtract Line 4 from 3 000 000 / 7.84",
+          "x0": 268,
+          "y0": 2040,
+          "x1": 2388,
+          "y1": 2146
+        },
+        {
+          "page": 1,
+          "text": "8 4",
+          "x0": 2312,
+          "y0": 2040,
+          "x1": 2388,
+          "y1": 2108
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "93 4 7s",
+      "bbox": [
+        2125,
+        2044,
+        2291,
+        2115
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "93",
+          "x0": 2125,
+          "y0": 2044,
+          "x1": 2192,
+          "y1": 2115
+        },
+        {
+          "page": 1,
+          "text": "4",
+          "x0": 2207,
+          "y0": 2047,
+          "x1": 2234,
+          "y1": 2115
+        },
+        {
+          "page": 1,
+          "text": "7s",
+          "x0": 2250,
+          "y0": 2047,
+          "x1": 2291,
+          "y1": 2106
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "5. Cash on hand at close of period ( Subtract Line 4 from 3 )000000000000000000000000000000000000",
+      "bbox": [
+        268,
+        2089,
+        2012,
+        2146
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "5. Cash on hand at close of period ( Subtract Line 4 from 3 )000000000000000000000000000000000000",
+          "x0": 268,
+          "y0": 2089,
+          "x1": 2012,
+          "y1": 2146
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "6. In-kind Contributions ( Use Schedule B ) _____ # AX",
+      "bbox": [
+        269,
+        2155,
+        1485,
+        2238
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "6. In-kind Contributions ( Use Schedule B ) _____ #",
+          "x0": 269,
+          "y0": 2155,
+          "x1": 1485,
+          "y1": 2238
+        },
+        {
+          "page": 1,
+          "text": "AX",
+          "x0": 1391,
+          "y0": 2155,
+          "x1": 1485,
+          "y1": 2233
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "6. In-kind Contributions ( Use Schedule By _________________________________________________________________________________________________________",
+      "bbox": [
+        269,
+        2187,
+        1271,
+        2238
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "6. In-kind Contributions ( Use Schedule By _________________________________________________________________________________________________________",
+          "x0": 269,
+          "y0": 2187,
+          "x1": 1271,
+          "y1": 2238
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "7. Other Transactions ( Use Schedule D ) _____ e",
+      "bbox": [
+        270,
+        2246,
+        1453,
+        2331
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "7. Other Transactions ( Use Schedule D ) _____",
+          "x0": 270,
+          "y0": 2246,
+          "x1": 1453,
+          "y1": 2331
+        },
+        {
+          "page": 1,
+          "text": "e",
+          "x0": 1385,
+          "y0": 2246,
+          "x1": 1453,
+          "y1": 2327
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "7. Other Transactions ( Use Schedule D ) ___________________________________________________________________________________________________________",
+      "bbox": [
+        270,
+        2281,
+        1261,
+        2331
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "7. Other Transactions ( Use Schedule D ) ___________________________________________________________________________________________________________",
+          "x0": 270,
+          "y0": 2281,
+          "x1": 1261,
+          "y1": 2331
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "a b c d",
+      "bbox": [
+        148,
+        2478,
+        2439,
+        2535
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "a b c d",
+          "x0": 148,
+          "y0": 2478,
+          "x1": 2439,
+          "y1": 2535
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "D. \" I declare that this report, including any accompanying schedules and statements, has been exemplified by MR accompanyinging",
+      "bbox": [
+        174,
+        2536,
+        2412,
+        2613
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "D. \" I declare that this report, including any accompanying schedules and statements, has been exemplified by MR",
+          "x0": 174,
+          "y0": 2536,
+          "x1": 2412,
+          "y1": 2613
+        },
+        {
+          "page": 1,
+          "text": "accompanyinging",
+          "x0": 1067,
+          "y0": 2536,
+          "x1": 1358,
+          "y1": 2611
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "schedules and statements, has been examined by me",
+      "bbox": [
+        1374,
+        2545,
+        2412,
+        2594
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "schedules and statements, has been examined by me",
+          "x0": 1374,
+          "y0": 2545,
+          "x1": 2412,
+          "y1": 2594
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "D. \" I declare that this report, including any",
+      "bbox": [
+        174,
+        2569,
+        1050,
+        2613
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "D. \" I declare that this report, including any",
+          "x0": 174,
+          "y0": 2569,
+          "x1": 1050,
+          "y1": 2613
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "and the best of my knowledge and belief is nice, correct and complete I understand that the intentional and complete. I understand that the intentional",
+      "bbox": [
+        288,
+        2594,
+        2397,
+        2667
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "and the best of my knowledge and belief is nice, correct and complete I understand that the intentional",
+          "x0": 288,
+          "y0": 2594,
+          "x1": 2397,
+          "y1": 2667
+        },
+        {
+          "page": 1,
+          "text": "and complete. I understand that the intentional",
+          "x0": 1475,
+          "y0": 2594,
+          "x1": 2397,
+          "y1": 2652
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "and to the best of my knowledge and belief is true, correct",
+      "bbox": [
+        288,
+        2614,
+        1460,
+        2667
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "and to the best of my knowledge and belief is true, correct",
+          "x0": 288,
+          "y0": 2614,
+          "x1": 1460,
+          "y1": 2667
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "failure to file this document or intentionally filling a false document is a class, A misdemeanor... is a class A misdemeanor....",
+      "bbox": [
+        288,
+        2654,
+        2198,
+        2718
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "failure to file this document or intentionally filling a false document is a class, A misdemeanor...",
+          "x0": 288,
+          "y0": 2654,
+          "x1": 2198,
+          "y1": 2718
+        },
+        {
+          "page": 1,
+          "text": "is a class A misdemeanor....",
+          "x0": 1659,
+          "y0": 2654,
+          "x1": 2198,
+          "y1": 2696
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "failure to file this document or intentionally filing a false document",
+      "bbox": [
+        288,
+        2664,
+        1645,
+        2718
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "failure to file this document or intentionally filing a false document",
+          "x0": 288,
+          "y0": 2664,
+          "x1": 1645,
+          "y1": 2718
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "226-202 ). GoodA.lenter Lender.",
+      "bbox": [
+        184,
+        2747,
+        1621,
+        2887
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "226-202 ). GoodA.lenter",
+          "x0": 184,
+          "y0": 2747,
+          "x1": 1621,
+          "y1": 2887
+        },
+        {
+          "page": 1,
+          "text": "Lender.",
+          "x0": 1214,
+          "y0": 2747,
+          "x1": 1621,
+          "y1": 2869
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "- 26",
+      "bbox": [
+        221,
+        2800,
+        334,
+        2875
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "- 26",
+          "x0": 221,
+          "y0": 2800,
+          "x1": 334,
+          "y1": 2875
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "2 /",
+      "bbox": [
+        184,
+        2807,
+        409,
+        2887
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "2",
+          "x0": 352,
+          "y0": 2807,
+          "x1": 409,
+          "y1": 2887
+        },
+        {
+          "page": 1,
+          "text": "/",
+          "x0": 184,
+          "y0": 2808,
+          "x1": 202,
+          "y1": 2886
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "02",
+      "bbox": [
+        414,
+        2814,
+        492,
+        2882
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "02",
+          "x0": 414,
+          "y0": 2814,
+          "x1": 492,
+          "y1": 2882
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": ".",
+      "bbox": [
+        1186,
+        2839,
+        1199,
+        2849
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": ".",
+          "x0": 1186,
+          "y0": 2839,
+          "x1": 1199,
+          "y1": 2849
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "Date # - Software of Candidate Treasurer venture of Candidate or Treasurer",
+      "bbox": [
+        177,
+        2881,
+        1563,
+        2948
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "Date # - Software of Candidate Treasurer",
+          "x0": 177,
+          "y0": 2881,
+          "x1": 1563,
+          "y1": 2948
+        },
+        {
+          "page": 1,
+          "text": "venture of Candidate or Treasurer",
+          "x0": 870,
+          "y0": 2881,
+          "x1": 1563,
+          "y1": 2923
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "Date",
+      "bbox": [
+        177,
+        2891,
+        269,
+        2948
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "Date",
+          "x0": 177,
+          "y0": 2891,
+          "x1": 269,
+          "y1": 2948
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "GEC Form 2021",
+      "bbox": [
+        1989,
+        2989,
+        2330,
+        3029
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "GEC Form 2021",
+          "x0": 1989,
+          "y0": 2989,
+          "x1": 2330,
+          "y1": 3029
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "Jump to navigation",
+      "bbox": [
+        0,
+        0,
+        2550,
+        3300
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "Jump to navigation",
+          "x0": 0,
+          "y0": 0,
+          "x1": 2550,
+          "y1": 3300
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "Richmond Post ( 1st votes schedule a",
+      "bbox": [
+        57,
+        141,
+        2383,
+        2995
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "Richmond Post ( 1st votes",
+          "x0": 57,
+          "y0": 141,
+          "x1": 2383,
+          "y1": 2995
+        },
+        {
+          "page": 2,
+          "text": "schedule a",
+          "x0": 1056,
+          "y0": 141,
+          "x1": 1376,
+          "y1": 181
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "contributions and other receipts",
+      "bbox": [
+        712,
+        196,
+        1715,
+        241
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "contributions and other receipts",
+          "x0": 712,
+          "y0": 196,
+          "x1": 1715,
+          "y1": 241
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "Jared Cerullo",
+      "bbox": [
+        69,
+        294,
+        317,
+        328
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "Jared Cerullo",
+          "x0": 69,
+          "y0": 294,
+          "x1": 317,
+          "y1": 328
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "a b c d",
+      "bbox": [
+        63,
+        337,
+        1561,
+        357
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "a b c d",
+          "x0": 63,
+          "y0": 337,
+          "x1": 1561,
+          "y1": 357
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "( Name of Candidate )",
+      "bbox": [
+        57,
+        360,
+        406,
+        400
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "( Name of Candidate )",
+          "x0": 57,
+          "y0": 360,
+          "x1": 406,
+          "y1": 400
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "Occupation of I Check. \" I Amounto Amount of",
+      "bbox": [
+        1126,
+        508,
+        2310,
+        563
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "Occupation of I Check. \" I Amounto",
+          "x0": 1126,
+          "y0": 508,
+          "x1": 2310,
+          "y1": 563
+        },
+        {
+          "page": 2,
+          "text": "Amount of",
+          "x0": 2119,
+          "y0": 508,
+          "x1": 2310,
+          "y1": 542
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "Check",
+      "bbox": [
+        1723,
+        516,
+        1834,
+        548
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "Check",
+          "x0": 1723,
+          "y0": 516,
+          "x1": 1834,
+          "y1": 548
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "Occupation of",
+      "bbox": [
+        1126,
+        521,
+        1378,
+        563
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "Occupation of",
+          "x0": 1126,
+          "y0": 521,
+          "x1": 1378,
+          "y1": 563
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "Name and Address. I Individual living more ( Appropriate Box, I Can Cheek Cash, Check.",
+      "bbox": [
+        475,
+        559,
+        2327,
+        609
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "Name and Address. I Individual living more ( Appropriate Box, I Can Cheek",
+          "x0": 475,
+          "y0": 559,
+          "x1": 2327,
+          "y1": 609
+        },
+        {
+          "page": 2,
+          "text": "Cash, Check.",
+          "x0": 2097,
+          "y0": 559,
+          "x1": 2327,
+          "y1": 595
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "Appropriate Box",
+      "bbox": [
+        1635,
+        564,
+        1932,
+        605
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "Appropriate Box",
+          "x0": 1635,
+          "y0": 564,
+          "x1": 1932,
+          "y1": 605
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "Individual Giving More",
+      "bbox": [
+        1040,
+        570,
+        1460,
+        608
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "Individual Giving More",
+          "x0": 1040,
+          "y0": 570,
+          "x1": 1460,
+          "y1": 608
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "Name and Address",
+      "bbox": [
+        475,
+        576,
+        812,
+        609
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "Name and Address",
+          "x0": 475,
+          "y0": 576,
+          "x1": 812,
+          "y1": 609
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "contributor ( TRANSISON OF THE NEWMANMAN Loan or Other",
+      "bbox": [
+        513,
+        607,
+        2341,
+        672
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "contributor ( TRANSISON OF THE NEWMANMAN",
+          "x0": 513,
+          "y0": 607,
+          "x1": 2341,
+          "y1": 672
+        },
+        {
+          "page": 2,
+          "text": "Loan or Other",
+          "x0": 2089,
+          "y0": 607,
+          "x1": 2341,
+          "y1": 640
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "crash Track Team # and Touch from # Than $150",
+      "bbox": [
+        1157,
+        616,
+        2279,
+        733
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "crash Track Team #",
+          "x0": 1516,
+          "y0": 616,
+          "x1": 2056,
+          "y1": 733
+        },
+        {
+          "page": 2,
+          "text": "and Touch from #",
+          "x0": 1516,
+          "y0": 616,
+          "x1": 2279,
+          "y1": 733
+        },
+        {
+          "page": 2,
+          "text": "Than $150",
+          "x0": 1157,
+          "y0": 620,
+          "x1": 1343,
+          "y1": 652
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "of Contributor",
+      "bbox": [
+        513,
+        626,
+        776,
+        659
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "of Contributor",
+          "x0": 513,
+          "y0": 626,
+          "x1": 776,
+          "y1": 659
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "fi, mind Check c",
+      "bbox": [
+        1546,
+        646,
+        2016,
+        672
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "fi, mind",
+          "x0": 1936,
+          "y0": 646,
+          "x1": 2016,
+          "y1": 667
+        },
+        {
+          "page": 2,
+          "text": "Check",
+          "x0": 1671,
+          "y0": 649,
+          "x1": 1748,
+          "y1": 670
+        },
+        {
+          "page": 2,
+          "text": "c",
+          "x0": 1546,
+          "y0": 651,
+          "x1": 1566,
+          "y1": 672
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "Regency 21, LLC............ real estate",
+      "bbox": [
+        316,
+        756,
+        1194,
+        805
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "Regency 21, LLC............",
+          "x0": 316,
+          "y0": 756,
+          "x1": 1194,
+          "y1": 805
+        },
+        {
+          "page": 2,
+          "text": "real estate",
+          "x0": 1003,
+          "y0": 756,
+          "x1": 1194,
+          "y1": 789
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "Regency 21, LLC",
+      "bbox": [
+        316,
+        760,
+        632,
+        805
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "Regency 21, LLC",
+          "x0": 316,
+          "y0": 760,
+          "x1": 632,
+          "y1": 805
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "overall time ( 1 ) p. ) p. 25005000 v $500.00 1 50 N. Market St.",
+      "bbox": [
+        104,
+        801,
+        2357,
+        894
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "overall time ( 1 ) p. ) p. 25005000",
+          "x0": 104,
+          "y0": 801,
+          "x1": 2357,
+          "y1": 894
+        },
+        {
+          "page": 2,
+          "text": "v",
+          "x0": 1685,
+          "y0": 801,
+          "x1": 1741,
+          "y1": 854
+        },
+        {
+          "page": 2,
+          "text": "$500.00",
+          "x0": 2213,
+          "y0": 804,
+          "x1": 2357,
+          "y1": 842
+        },
+        {
+          "page": 2,
+          "text": "1 50 N. Market St.",
+          "x0": 316,
+          "y0": 807,
+          "x1": 633,
+          "y1": 843
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "06129121 Wichita. \" KS.67202",
+      "bbox": [
+        104,
+        830,
+        666,
+        894
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "06129121 Wichita. \" KS.67202",
+          "x0": 104,
+          "y0": 830,
+          "x1": 666,
+          "y1": 894
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "Wichita Crossing. LLC.... '. '.'''''''''''''''''''''''''' ' real estate",
+      "bbox": [
+        319,
+        943,
+        1200,
+        988
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "Wichita Crossing. LLC.... '. '.'''''''''''''''''''''''''' '",
+          "x0": 319,
+          "y0": 943,
+          "x1": 1200,
+          "y1": 988
+        },
+        {
+          "page": 2,
+          "text": "real estate",
+          "x0": 1008,
+          "y0": 943,
+          "x1": 1200,
+          "y1": 977
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "Wichita Crossing. LLC",
+      "bbox": [
+        319,
+        946,
+        731,
+        988
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "Wichita Crossing. LLC",
+          "x0": 319,
+          "y0": 946,
+          "x1": 731,
+          "y1": 988
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "02292 1 351 MARKETS. v",
+      "bbox": [
+        107,
+        977,
+        2360,
+        1050
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "02292 1 351 MARKETS.",
+          "x0": 107,
+          "y0": 977,
+          "x1": 2360,
+          "y1": 1050
+        },
+        {
+          "page": 2,
+          "text": "v",
+          "x0": 1690,
+          "y0": 977,
+          "x1": 1748,
+          "y1": 1044
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "$500.00",
+      "bbox": [
+        2215,
+        984,
+        2360,
+        1022
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "$500.00",
+          "x0": 2215,
+          "y0": 984,
+          "x1": 2360,
+          "y1": 1022
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "08129121 ( 150 N. Market St.",
+      "bbox": [
+        107,
+        995,
+        639,
+        1050
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "08129121 ( 150 N. Market St.",
+          "x0": 107,
+          "y0": 995,
+          "x1": 639,
+          "y1": 1050
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "Wichita, KS 67202",
+      "bbox": [
+        320,
+        1042,
+        672,
+        1081
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "Wichita, KS 67202",
+          "x0": 320,
+          "y0": 1042,
+          "x1": 672,
+          "y1": 1081
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "Main Street Partners, LLC...'' I real estate Main Street Partners, LLC real estate",
+      "bbox": [
+        317,
+        1128,
+        1200,
+        1167
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "Main Street Partners, LLC...'' I real estate",
+          "x0": 317,
+          "y0": 1128,
+          "x1": 1200,
+          "y1": 1167
+        },
+        {
+          "page": 2,
+          "text": "Main Street Partners, LLC",
+          "x0": 317,
+          "y0": 1128,
+          "x1": 798,
+          "y1": 1167
+        },
+        {
+          "page": 2,
+          "text": "real estate",
+          "x0": 1009,
+          "y0": 1128,
+          "x1": 1200,
+          "y1": 1161
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "02292 1 F5NN MAISH. v",
+      "bbox": [
+        108,
+        1157,
+        2363,
+        1232
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "02292 1 F5NN MAISH.",
+          "x0": 108,
+          "y0": 1157,
+          "x1": 2363,
+          "y1": 1232
+        },
+        {
+          "page": 2,
+          "text": "v",
+          "x0": 1688,
+          "y0": 1157,
+          "x1": 1751,
+          "y1": 1221
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "$500.00",
+      "bbox": [
+        2219,
+        1169,
+        2363,
+        1206
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "$500.00",
+          "x0": 2219,
+          "y0": 1169,
+          "x1": 2363,
+          "y1": 1206
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "06129121 ( 150 N. Market St.",
+      "bbox": [
+        108,
+        1177,
+        636,
+        1232
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "06129121 ( 150 N. Market St.",
+          "x0": 108,
+          "y0": 1177,
+          "x1": 636,
+          "y1": 1232
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "Wichita, KS 67202",
+      "bbox": [
+        316,
+        1224,
+        658,
+        1264
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "Wichita, KS 67202",
+          "x0": 316,
+          "y0": 1224,
+          "x1": 658,
+          "y1": 1264
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "I Russell Communities LLC. \" I developer developer J Russell Communities LLC",
+      "bbox": [
+        321,
+        1308,
+        1194,
+        1351
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "I Russell Communities LLC. \" I developer",
+          "x0": 321,
+          "y0": 1308,
+          "x1": 1194,
+          "y1": 1351
+        },
+        {
+          "page": 2,
+          "text": "developer",
+          "x0": 1011,
+          "y0": 1308,
+          "x1": 1194,
+          "y1": 1350
+        },
+        {
+          "page": 2,
+          "text": "J Russell Communities LLC",
+          "x0": 321,
+          "y0": 1311,
+          "x1": 835,
+          "y1": 1351
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "08202. FEEG8337 _________________________________________________________________________________________________________________ /",
+      "bbox": [
+        111,
+        1340,
+        2365,
+        1410
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "08202. FEEG8337 _________________________________________________________________________________________________________________",
+          "x0": 111,
+          "y0": 1340,
+          "x1": 2365,
+          "y1": 1410
+        },
+        {
+          "page": 2,
+          "text": "/",
+          "x0": 1696,
+          "y0": 1340,
+          "x1": 1752,
+          "y1": 1394
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "$500.00",
+      "bbox": [
+        2221,
+        1350,
+        2365,
+        1388
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "$500.00",
+          "x0": 2221,
+          "y0": 1350,
+          "x1": 2365,
+          "y1": 1388
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "06/30121 ( PO Box 75337",
+      "bbox": [
+        111,
+        1363,
+        592,
+        1410
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "06/30121 ( PO Box 75337",
+          "x0": 111,
+          "y0": 1363,
+          "x1": 592,
+          "y1": 1410
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "Wichita, KS 67275",
+      "bbox": [
+        323,
+        1409,
+        664,
+        1449
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "Wichita, KS 67275",
+          "x0": 323,
+          "y0": 1409,
+          "x1": 664,
+          "y1": 1449
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "ay Russell Devel & Mgmt, Inc. ( developer developer ay Russell Devel & Mgmnt, Inc.",
+      "bbox": [
+        341,
+        1493,
+        1193,
+        1543
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "ay Russell Devel & Mgmt, Inc. ( developer",
+          "x0": 341,
+          "y0": 1493,
+          "x1": 1193,
+          "y1": 1543
+        },
+        {
+          "page": 2,
+          "text": "developer",
+          "x0": 1011,
+          "y0": 1493,
+          "x1": 1193,
+          "y1": 1533
+        },
+        {
+          "page": 2,
+          "text": "ay Russell Devel & Mgmnt, Inc.",
+          "x0": 341,
+          "y0": 1495,
+          "x1": 921,
+          "y1": 1543
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "03421 FEBCKTEST OF IN I ( I S5000 v",
+      "bbox": [
+        114,
+        1526,
+        2366,
+        1592
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "03421 FEBCKTEST OF IN I ( I S5000",
+          "x0": 114,
+          "y0": 1526,
+          "x1": 2366,
+          "y1": 1592
+        },
+        {
+          "page": 2,
+          "text": "v",
+          "x0": 1696,
+          "y0": 1526,
+          "x1": 1754,
+          "y1": 1588
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "$500.00",
+      "bbox": [
+        2221,
+        1532,
+        2366,
+        1569
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "$500.00",
+          "x0": 2221,
+          "y0": 1532,
+          "x1": 2366,
+          "y1": 1569
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "06/30121 ( PO Box 75337",
+      "bbox": [
+        114,
+        1546,
+        589,
+        1592
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "06/30121 ( PO Box 75337",
+          "x0": 114,
+          "y0": 1546,
+          "x1": 589,
+          "y1": 1592
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "ichita, KS 67275",
+      "bbox": [
+        362,
+        1592,
+        661,
+        1630
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "ichita, KS 67275",
+          "x0": 362,
+          "y0": 1592,
+          "x1": 661,
+          "y1": 1630
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "Tow Service Inc....... '.'''' Vehicle towing vehicle towing",
+      "bbox": [
+        324,
+        1670,
+        1274,
+        1716
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "Tow Service Inc....... '.'''' Vehicle towing",
+          "x0": 324,
+          "y0": 1670,
+          "x1": 1274,
+          "y1": 1716
+        },
+        {
+          "page": 2,
+          "text": "vehicle towing",
+          "x0": 1014,
+          "y0": 1670,
+          "x1": 1274,
+          "y1": 1710
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "Tow Service, Inc.",
+      "bbox": [
+        324,
+        1678,
+        640,
+        1716
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "Tow Service, Inc.",
+          "x0": 324,
+          "y0": 1678,
+          "x1": 640,
+          "y1": 1716
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "only sides today # # ( 1 ) # # # oY",
+      "bbox": [
+        114,
+        1697,
+        2369,
+        1774
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "only sides today # # ( 1 ) # # #",
+          "x0": 114,
+          "y0": 1697,
+          "x1": 2369,
+          "y1": 1774
+        },
+        {
+          "page": 2,
+          "text": "oY",
+          "x0": 1689,
+          "y0": 1697,
+          "x1": 1756,
+          "y1": 1766
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "$500.00",
+      "bbox": [
+        2224,
+        1712,
+        2369,
+        1748
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "$500.00",
+          "x0": 2224,
+          "y0": 1712,
+          "x1": 2369,
+          "y1": 1748
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "07101121 ( 376O S. Broadway",
+      "bbox": [
+        114,
+        1724,
+        663,
+        1774
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "07101121 ( 376O S. Broadway",
+          "x0": 114,
+          "y0": 1724,
+          "x1": 663,
+          "y1": 1774
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "Wichita, KS 67216",
+      "bbox": [
+        326,
+        1771,
+        666,
+        1810
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "Wichita, KS 67216",
+          "x0": 326,
+          "y0": 1771,
+          "x1": 666,
+          "y1": 1810
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "Kent's Auto Town, # #... '.'''''Vehicle towing' service vehicle towing/service",
+      "bbox": [
+        333,
+        1850,
+        1418,
+        1899
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "Kent's Auto Town, # #... '.'''''Vehicle towing' service",
+          "x0": 333,
+          "y0": 1850,
+          "x1": 1418,
+          "y1": 1899
+        },
+        {
+          "page": 2,
+          "text": "vehicle towing/service",
+          "x0": 1016,
+          "y0": 1850,
+          "x1": 1418,
+          "y1": 1893
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "Ken's Auto Town. Inc.",
+      "bbox": [
+        333,
+        1861,
+        709,
+        1899
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "Ken's Auto Town. Inc.",
+          "x0": 333,
+          "y0": 1861,
+          "x1": 709,
+          "y1": 1899
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "19321 375 Stockholm. I... I'll I feel I wv",
+      "bbox": [
+        118,
+        1884,
+        2373,
+        1958
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "19321 375 Stockholm. I... I'll I feel I",
+          "x0": 118,
+          "y0": 1884,
+          "x1": 2373,
+          "y1": 1958
+        },
+        {
+          "page": 2,
+          "text": "wv",
+          "x0": 1694,
+          "y0": 1884,
+          "x1": 1759,
+          "y1": 1948
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "$500.00",
+      "bbox": [
+        2228,
+        1896,
+        2373,
+        1932
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "$500.00",
+          "x0": 2228,
+          "y0": 1896,
+          "x1": 2373,
+          "y1": 1932
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "07101121 13760 S. Broadway",
+      "bbox": [
+        118,
+        1908,
+        671,
+        1958
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "07101121 13760 S. Broadway",
+          "x0": 118,
+          "y0": 1908,
+          "x1": 671,
+          "y1": 1958
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "Wichita, KS 67216",
+      "bbox": [
+        333,
+        1955,
+        673,
+        1995
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "Wichita, KS 67216",
+          "x0": 333,
+          "y0": 1955,
+          "x1": 673,
+          "y1": 1995
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "Reliable Towning of Wichita, LLC,, Vehicle towing vehicle towing",
+      "bbox": [
+        338,
+        2033,
+        1281,
+        2085
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "Reliable Towning of Wichita, LLC,, Vehicle towing",
+          "x0": 338,
+          "y0": 2033,
+          "x1": 1281,
+          "y1": 2085
+        },
+        {
+          "page": 2,
+          "text": "vehicle towing",
+          "x0": 1020,
+          "y0": 2033,
+          "x1": 1281,
+          "y1": 2073
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "Reliable Towing of Wichita. LLC",
+      "bbox": [
+        338,
+        2040,
+        929,
+        2085
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "Reliable Towing of Wichita. LLC",
+          "x0": 338,
+          "y0": 2040,
+          "x1": 929,
+          "y1": 2085
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "over 27 February 1950 wv",
+      "bbox": [
+        123,
+        2064,
+        2378,
+        2138
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "over 27 February 1950",
+          "x0": 123,
+          "y0": 2064,
+          "x1": 2378,
+          "y1": 2138
+        },
+        {
+          "page": 2,
+          "text": "wv",
+          "x0": 1698,
+          "y0": 2064,
+          "x1": 1758,
+          "y1": 2124
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "$500.00",
+      "bbox": [
+        2234,
+        2073,
+        2378,
+        2110
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "$500.00",
+          "x0": 2234,
+          "y0": 2073,
+          "x1": 2378,
+          "y1": 2110
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "07101121 ( 376O S. Broadway",
+      "bbox": [
+        123,
+        2092,
+        674,
+        2138
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "07101121 ( 376O S. Broadway",
+          "x0": 123,
+          "y0": 2092,
+          "x1": 674,
+          "y1": 2138
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "Wichita, KS 67216",
+      "bbox": [
+        337,
+        2138,
+        677,
+        2177
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "Wichita, KS 67216",
+          "x0": 337,
+          "y0": 2138,
+          "x1": 677,
+          "y1": 2177
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "Don Sherman..'\"'''' Human resources human resources",
+      "bbox": [
+        339,
+        2219,
+        1346,
+        2259
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "Don Sherman..'\"'''' Human resources",
+          "x0": 339,
+          "y0": 2219,
+          "x1": 1346,
+          "y1": 2259
+        },
+        {
+          "page": 2,
+          "text": "human resources",
+          "x0": 1026,
+          "y0": 2219,
+          "x1": 1346,
+          "y1": 2252
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "Don Sherman",
+      "bbox": [
+        339,
+        2225,
+        590,
+        2259
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "Don Sherman",
+          "x0": 339,
+          "y0": 2225,
+          "x1": 590,
+          "y1": 2259
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "over 2nd Speaker.. Is I I I I Need v",
+      "bbox": [
+        124,
+        2247,
+        2377,
+        2326
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "over 2nd Speaker.. Is I I I I Need",
+          "x0": 124,
+          "y0": 2247,
+          "x1": 2377,
+          "y1": 2326
+        },
+        {
+          "page": 2,
+          "text": "v",
+          "x0": 1701,
+          "y0": 2247,
+          "x1": 1764,
+          "y1": 2310
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "$250.00",
+      "bbox": [
+        2232,
+        2258,
+        2377,
+        2295
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "$250.00",
+          "x0": 2232,
+          "y0": 2258,
+          "x1": 2377,
+          "y1": 2295
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "07106121 ( 100 N. Broadway",
+      "bbox": [
+        124,
+        2269,
+        655,
+        2326
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "07106121 ( 100 N. Broadway",
+          "x0": 124,
+          "y0": 2269,
+          "x1": 655,
+          "y1": 2326
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "Wichita, KS 67202",
+      "bbox": [
+        338,
+        2316,
+        679,
+        2356
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "Wichita, KS 67202",
+          "x0": 338,
+          "y0": 2316,
+          "x1": 679,
+          "y1": 2356
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "Brandy Miller. engineering",
+      "bbox": [
+        342,
+        2392,
+        1240,
+        2448
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "Brandy Miller.",
+          "x0": 342,
+          "y0": 2392,
+          "x1": 1240,
+          "y1": 2448
+        },
+        {
+          "page": 2,
+          "text": "engineering",
+          "x0": 1025,
+          "y0": 2392,
+          "x1": 1240,
+          "y1": 2442
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "Brandy Miller",
+      "bbox": [
+        342,
+        2405,
+        582,
+        2448
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "Brandy Miller",
+          "x0": 342,
+          "y0": 2405,
+          "x1": 582,
+          "y1": 2448
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "money ( 2stt1Sitincis ( 1 ) I ( 1 ) y",
+      "bbox": [
+        123,
+        2437,
+        2383,
+        2500
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "money ( 2stt1Sitincis ( 1 ) I ( 1 )",
+          "x0": 123,
+          "y0": 2437,
+          "x1": 2383,
+          "y1": 2500
+        },
+        {
+          "page": 2,
+          "text": "y",
+          "x0": 1981,
+          "y0": 2437,
+          "x1": 2034,
+          "y1": 2487
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "$250.00",
+      "bbox": [
+        2238,
+        2441,
+        2383,
+        2477
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "$250.00",
+          "x0": 2238,
+          "y0": 2441,
+          "x1": 2383,
+          "y1": 2477
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "07107121 ( 2911 S. Illinois PI.",
+      "bbox": [
+        123,
+        2451,
+        668,
+        2500
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "07107121 ( 2911 S. Illinois PI.",
+          "x0": 123,
+          "y0": 2451,
+          "x1": 668,
+          "y1": 2500
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "Chandler, AZ 85286",
+      "bbox": [
+        342,
+        2497,
+        724,
+        2535
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "Chandler, AZ 85286",
+          "x0": 342,
+          "y0": 2497,
+          "x1": 724,
+          "y1": 2535
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "landscapers to farmers. It I v",
+      "bbox": [
+        343,
+        2558,
+        2040,
+        2659
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "landscapers to farmers. It I",
+          "x0": 343,
+          "y0": 2558,
+          "x1": 2040,
+          "y1": 2659
+        },
+        {
+          "page": 2,
+          "text": "v",
+          "x0": 1972,
+          "y0": 2558,
+          "x1": 2040,
+          "y1": 2659
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "engineering",
+      "bbox": [
+        1029,
+        2570,
+        1244,
+        2615
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "engineering",
+          "x0": 1029,
+          "y0": 2570,
+          "x1": 1244,
+          "y1": 2615
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "Joshua Kippenberger",
+      "bbox": [
+        343,
+        2582,
+        739,
+        2620
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "Joshua Kippenberger",
+          "x0": 343,
+          "y0": 2582,
+          "x1": 739,
+          "y1": 2620
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "05202 1 Illinois _______________________________________________________________________________________________________________________ $500 SONS. Topeka.......... ' 500.00",
+      "bbox": [
+        129,
+        2615,
+        2382,
+        2707
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "05202 1 Illinois _______________________________________________________________________________________________________________________",
+          "x0": 129,
+          "y0": 2615,
+          "x1": 2325,
+          "y1": 2707
+        },
+        {
+          "page": 2,
+          "text": "$500",
+          "x0": 2237,
+          "y0": 2615,
+          "x1": 2325,
+          "y1": 2651
+        },
+        {
+          "page": 2,
+          "text": "SONS. Topeka.......... '",
+          "x0": 345,
+          "y0": 2616,
+          "x1": 2382,
+          "y1": 2665
+        },
+        {
+          "page": 2,
+          "text": "500.00",
+          "x0": 2260,
+          "y0": 2616,
+          "x1": 2382,
+          "y1": 2647
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "500 S. Topeka",
+      "bbox": [
+        345,
+        2625,
+        612,
+        2665
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "500 S. Topeka",
+          "x0": 345,
+          "y0": 2625,
+          "x1": 612,
+          "y1": 2665
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "05120121",
+      "bbox": [
+        129,
+        2643,
+        283,
+        2676
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "05120121",
+          "x0": 129,
+          "y0": 2643,
+          "x1": 283,
+          "y1": 2676
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "Wichita, KS 67202",
+      "bbox": [
+        345,
+        2669,
+        685,
+        2707
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "Wichita, KS 67202",
+          "x0": 345,
+          "y0": 2669,
+          "x1": 685,
+          "y1": 2707
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "$5,000. 00 $5,000.00",
+      "bbox": [
+        2203,
+        2764,
+        2382,
+        2806
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "$5,000. 00",
+          "x0": 2203,
+          "y0": 2764,
+          "x1": 2382,
+          "y1": 2806
+        },
+        {
+          "page": 2,
+          "text": "$5,000.00",
+          "x0": 2203,
+          "y0": 2764,
+          "x1": 2382,
+          "y1": 2806
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "rage ( _ or 6 6",
+      "bbox": [
+        2062,
+        2925,
+        2353,
+        2995
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "rage ( _ or 6",
+          "x0": 2062,
+          "y0": 2925,
+          "x1": 2353,
+          "y1": 2995
+        },
+        {
+          "page": 2,
+          "text": "6",
+          "x0": 2317,
+          "y0": 2925,
+          "x1": 2353,
+          "y1": 2983
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "of",
+      "bbox": [
+        2264,
+        2955,
+        2300,
+        2985
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "of",
+          "x0": 2264,
+          "y0": 2955,
+          "x1": 2300,
+          "y1": 2985
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "Page",
+      "bbox": [
+        2062,
+        2958,
+        2136,
+        2995
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "Page",
+          "x0": 2062,
+          "y0": 2958,
+          "x1": 2136,
+          "y1": 2995
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "See felt",
+      "bbox": [
+        0,
+        0,
+        2550,
+        3300
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "See felt",
+          "x0": 0,
+          "y0": 0,
+          "x1": 2550,
+          "y1": 3300
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "50 ft. ft. Steve F. Miller 0 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000",
+      "bbox": [
+        44,
+        67,
+        2393,
+        3000
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "50 ft. ft.",
+          "x0": 44,
+          "y0": 67,
+          "x1": 2393,
+          "y1": 3000
+        },
+        {
+          "page": 3,
+          "text": "Steve F. Miller",
+          "x0": 44,
+          "y0": 67,
+          "x1": 2391,
+          "y1": 2997
+        },
+        {
+          "page": 3,
+          "text": "0 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000",
+          "x0": 44,
+          "y0": 67,
+          "x1": 365,
+          "y1": 122
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "schedule a",
+      "bbox": [
+        1061,
+        141,
+        1380,
+        180
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "schedule a",
+          "x0": 1061,
+          "y0": 141,
+          "x1": 1380,
+          "y1": 180
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "contributions and other receipts",
+      "bbox": [
+        719,
+        195,
+        1720,
+        242
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "contributions and other receipts",
+          "x0": 719,
+          "y0": 195,
+          "x1": 1720,
+          "y1": 242
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "Jared Cerullo",
+      "bbox": [
+        75,
+        296,
+        323,
+        331
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "Jared Cerullo",
+          "x0": 75,
+          "y0": 296,
+          "x1": 323,
+          "y1": 331
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "a b",
+      "bbox": [
+        68,
+        338,
+        1566,
+        360
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "a b",
+          "x0": 68,
+          "y0": 338,
+          "x1": 1566,
+          "y1": 360
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "( Name of Candidate )",
+      "bbox": [
+        62,
+        363,
+        412,
+        403
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "( Name of Candidate )",
+          "x0": 62,
+          "y0": 363,
+          "x1": 412,
+          "y1": 403
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "Occupational.. Check. Check. \" I Amaunt of Amoune of",
+      "bbox": [
+        1131,
+        509,
+        2315,
+        566
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "Occupational.. Check. Check. \" I Amaunt of",
+          "x0": 1131,
+          "y0": 509,
+          "x1": 2315,
+          "y1": 566
+        },
+        {
+          "page": 3,
+          "text": "Amoune of",
+          "x0": 2125,
+          "y0": 509,
+          "x1": 2315,
+          "y1": 542
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "Cheek",
+      "bbox": [
+        1728,
+        518,
+        1841,
+        549
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "Cheek",
+          "x0": 1728,
+          "y0": 518,
+          "x1": 1841,
+          "y1": 549
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "Occupation of",
+      "bbox": [
+        1131,
+        523,
+        1384,
+        566
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "Occupation of",
+          "x0": 1131,
+          "y0": 523,
+          "x1": 1384,
+          "y1": 566
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "Named Address. Individuals' Giving More ) Appropriate Box ( CashCheck Cash, Check,",
+      "bbox": [
+        482,
+        559,
+        2333,
+        613
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "Named Address. Individuals' Giving More ) Appropriate Box ( CashCheck",
+          "x0": 482,
+          "y0": 559,
+          "x1": 2333,
+          "y1": 613
+        },
+        {
+          "page": 3,
+          "text": "Cash, Check,",
+          "x0": 2104,
+          "y0": 559,
+          "x1": 2333,
+          "y1": 596
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "Appropriate Box",
+      "bbox": [
+        1641,
+        566,
+        1939,
+        607
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "Appropriate Box",
+          "x0": 1641,
+          "y0": 566,
+          "x1": 1939,
+          "y1": 607
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "Individual Giving More",
+      "bbox": [
+        1046,
+        572,
+        1466,
+        612
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "Individual Giving More",
+          "x0": 1046,
+          "y0": 572,
+          "x1": 1466,
+          "y1": 612
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "Name and Address",
+      "bbox": [
+        482,
+        579,
+        819,
+        613
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "Name and Address",
+          "x0": 482,
+          "y0": 579,
+          "x1": 819,
+          "y1": 613
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "contributor I reassess I am I want Longer Over Loan or Other",
+      "bbox": [
+        519,
+        608,
+        2346,
+        672
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "contributor I reassess I am I want Longer Over",
+          "x0": 519,
+          "y0": 608,
+          "x1": 2346,
+          "y1": 672
+        },
+        {
+          "page": 3,
+          "text": "Loan or Other",
+          "x0": 2096,
+          "y0": 608,
+          "x1": 2346,
+          "y1": 642
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "cash knock # can face those, #",
+      "bbox": [
+        1523,
+        618,
+        2284,
+        736
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "cash knock #",
+          "x0": 1523,
+          "y0": 618,
+          "x1": 2064,
+          "y1": 736
+        },
+        {
+          "page": 3,
+          "text": "can face those, #",
+          "x0": 1523,
+          "y0": 618,
+          "x1": 2284,
+          "y1": 736
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "Than $1.50",
+      "bbox": [
+        1163,
+        622,
+        1349,
+        654
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "Than $1.50",
+          "x0": 1163,
+          "y0": 622,
+          "x1": 1349,
+          "y1": 654
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "of Contributor",
+      "bbox": [
+        519,
+        629,
+        783,
+        662
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "of Contributor",
+          "x0": 519,
+          "y0": 629,
+          "x1": 783,
+          "y1": 662
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "fi alc",
+      "bbox": [
+        1594,
+        648,
+        1957,
+        672
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "fi",
+          "x0": 1943,
+          "y0": 648,
+          "x1": 1957,
+          "y1": 668
+        },
+        {
+          "page": 3,
+          "text": "alc",
+          "x0": 1594,
+          "y0": 651,
+          "x1": 1695,
+          "y1": 672
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "Summit Holdings.. Propererly management property management",
+      "bbox": [
+        321,
+        757,
+        1415,
+        805
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "Summit Holdings.. Propererly management",
+          "x0": 321,
+          "y0": 757,
+          "x1": 1415,
+          "y1": 805
+        },
+        {
+          "page": 3,
+          "text": "property management",
+          "x0": 1009,
+          "y0": 757,
+          "x1": 1415,
+          "y1": 801
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "Summit Holdings",
+      "bbox": [
+        321,
+        764,
+        632,
+        805
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "Summit Holdings",
+          "x0": 321,
+          "y0": 764,
+          "x1": 632,
+          "y1": 805
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "07122 households ( ) ) ) I ( I spend Vv",
+      "bbox": [
+        110,
+        800,
+        2363,
+        896
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "07122 households ( ) ) ) I ( I spend",
+          "x0": 110,
+          "y0": 800,
+          "x1": 2363,
+          "y1": 896
+        },
+        {
+          "page": 3,
+          "text": "Vv",
+          "x0": 1687,
+          "y0": 800,
+          "x1": 1745,
+          "y1": 887
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "$500.00",
+      "bbox": [
+        2219,
+        805,
+        2363,
+        842
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "$500.00",
+          "x0": 2219,
+          "y0": 805,
+          "x1": 2363,
+          "y1": 842
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "741 W. 2nd St. N.",
+      "bbox": [
+        321,
+        810,
+        646,
+        845
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "741 W. 2nd St. N.",
+          "x0": 321,
+          "y0": 810,
+          "x1": 646,
+          "y1": 845
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "07/1 2121",
+      "bbox": [
+        110,
+        834,
+        265,
+        867
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "07/1 2121",
+          "x0": 110,
+          "y0": 834,
+          "x1": 265,
+          "y1": 867
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "Wichita, KS 67203",
+      "bbox": [
+        321,
+        857,
+        661,
+        896
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "Wichita, KS 67203",
+          "x0": 321,
+          "y0": 857,
+          "x1": 661,
+          "y1": 896
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "Marketplace Properties. Property management property management",
+      "bbox": [
+        328,
+        941,
+        1420,
+        991
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "Marketplace Properties. Property management",
+          "x0": 328,
+          "y0": 941,
+          "x1": 1420,
+          "y1": 991
+        },
+        {
+          "page": 3,
+          "text": "property management",
+          "x0": 1014,
+          "y0": 941,
+          "x1": 1420,
+          "y1": 984
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "Marketplace Properties",
+      "bbox": [
+        328,
+        947,
+        755,
+        991
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "Marketplace Properties",
+          "x0": 328,
+          "y0": 947,
+          "x1": 755,
+          "y1": 991
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "071424151 Nicholson6 0 0 0 0 0 0 $500.00 v",
+      "bbox": [
+        114,
+        983,
+        2367,
+        1044
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "071424151 Nicholson6 0 0 0 0 0 0",
+          "x0": 114,
+          "y0": 983,
+          "x1": 2367,
+          "y1": 1044
+        },
+        {
+          "page": 3,
+          "text": "$500.00",
+          "x0": 2222,
+          "y0": 983,
+          "x1": 2367,
+          "y1": 1020
+        },
+        {
+          "page": 3,
+          "text": "v",
+          "x0": 1696,
+          "y0": 986,
+          "x1": 1752,
+          "y1": 1039
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "07/14721 ( 151 N. Rock Island. Ste. 1A.",
+      "bbox": [
+        114,
+        993,
+        841,
+        1044
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "07/14721 ( 151 N. Rock Island. Ste. 1A.",
+          "x0": 114,
+          "y0": 993,
+          "x1": 841,
+          "y1": 1044
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "Wichita, KS 67202",
+      "bbox": [
+        328,
+        1041,
+        680,
+        1081
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "Wichita, KS 67202",
+          "x0": 328,
+          "y0": 1041,
+          "x1": 680,
+          "y1": 1081
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "stealer ( Max A Cohen Trust Max A Cohen Trust",
+      "bbox": [
+        86,
+        1125,
+        887,
+        1254
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "stealer ( Max A Cohen Trust",
+          "x0": 86,
+          "y0": 1125,
+          "x1": 887,
+          "y1": 1254
+        },
+        {
+          "page": 3,
+          "text": "Max A Cohen Trust",
+          "x0": 336,
+          "y0": 1125,
+          "x1": 887,
+          "y1": 1185
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "5 7'",
+      "bbox": [
+        86,
+        1140,
+        143,
+        1254
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "5 7'",
+          "x0": 86,
+          "y0": 1140,
+          "x1": 143,
+          "y1": 1254
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "4 I did it is developer 1 1 VT 1500 / 500 000",
+      "bbox": [
+        190,
+        1169,
+        2364,
+        1281
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "4 I did it is developer 1 1 VT 1500",
+          "x0": 190,
+          "y0": 1169,
+          "x1": 2364,
+          "y1": 1281
+        },
+        {
+          "page": 3,
+          "text": "/",
+          "x0": 1703,
+          "y0": 1169,
+          "x1": 1762,
+          "y1": 1232
+        },
+        {
+          "page": 3,
+          "text": "500 000",
+          "x0": 2194,
+          "y0": 1172,
+          "x1": 2364,
+          "y1": 1235
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "( 24",
+      "bbox": [
+        190,
+        1178,
+        257,
+        1262
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "( 24",
+          "x0": 190,
+          "y0": 1178,
+          "x1": 257,
+          "y1": 1262
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "Devel ofer",
+      "bbox": [
+        1022,
+        1184,
+        1340,
+        1272
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "Devel ofer",
+          "x0": 1022,
+          "y0": 1184,
+          "x1": 1340,
+          "y1": 1272
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "After a man who were # 0 1 1 1 3WD 26",
+      "bbox": [
+        140,
+        1194,
+        2296,
+        1228
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "After a man who were # 0 1 1 1 3WD",
+          "x0": 140,
+          "y0": 1194,
+          "x1": 2296,
+          "y1": 1228
+        },
+        {
+          "page": 3,
+          "text": "26",
+          "x0": 140,
+          "y0": 1194,
+          "x1": 192,
+          "y1": 1228
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": ".",
+      "bbox": [
+        2290,
+        1198,
+        2296,
+        1208
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": ".",
+          "x0": 2290,
+          "y0": 1198,
+          "x1": 2296,
+          "y1": 1208
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "which. to",
+      "bbox": [
+        354,
+        1214,
+        569,
+        1281
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "which. to",
+          "x0": 354,
+          "y0": 1214,
+          "x1": 569,
+          "y1": 1281
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "ks",
+      "bbox": [
+        598,
+        1222,
+        672,
+        1278
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "ks",
+          "x0": 598,
+          "y0": 1222,
+          "x1": 672,
+          "y1": 1278
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "Sixty-four Hundred CEC sixty - Four Hundred CEC",
+      "bbox": [
+        348,
+        1317,
+        884,
+        1385
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "Sixty-four Hundred CEC",
+          "x0": 348,
+          "y0": 1317,
+          "x1": 884,
+          "y1": 1385
+        },
+        {
+          "page": 3,
+          "text": "sixty",
+          "x0": 348,
+          "y0": 1317,
+          "x1": 454,
+          "y1": 1385
+        },
+        {
+          "page": 3,
+          "text": "- Four Hundred CEC",
+          "x0": 474,
+          "y0": 1321,
+          "x1": 884,
+          "y1": 1362
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "Italy ( minutes. As I Developer, I Will I said v.",
+      "bbox": [
+        105,
+        1352,
+        2347,
+        1464
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "Italy ( minutes. As I Developer, I Will I said",
+          "x0": 105,
+          "y0": 1352,
+          "x1": 2347,
+          "y1": 1464
+        },
+        {
+          "page": 3,
+          "text": "v.",
+          "x0": 1693,
+          "y0": 1352,
+          "x1": 1770,
+          "y1": 1450
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "Developer",
+      "bbox": [
+        1025,
+        1363,
+        1312,
+        1464
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "Developer",
+          "x0": 1025,
+          "y0": 1363,
+          "x1": 1312,
+          "y1": 1464
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "stealer I wish to be S.W. 00",
+      "bbox": [
+        105,
+        1367,
+        2347,
+        1461
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "stealer I wish to be",
+          "x0": 105,
+          "y0": 1367,
+          "x1": 721,
+          "y1": 1461
+        },
+        {
+          "page": 3,
+          "text": "S.W. 00",
+          "x0": 2166,
+          "y0": 1370,
+          "x1": 2347,
+          "y1": 1412
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "zdlat!..., ins..'''''''Developer 26",
+      "bbox": [
+        150,
+        1383,
+        1262,
+        1435
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "zdlat!..., ins..'''''''Developer",
+          "x0": 150,
+          "y0": 1383,
+          "x1": 1262,
+          "y1": 1435
+        },
+        {
+          "page": 3,
+          "text": "26",
+          "x0": 150,
+          "y0": 1383,
+          "x1": 203,
+          "y1": 1435
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "2",
+      "bbox": [
+        1250,
+        1386,
+        1262,
+        1403
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "2",
+          "x0": 1250,
+          "y0": 1386,
+          "x1": 1262,
+          "y1": 1403
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": ",",
+      "bbox": [
+        1126,
+        1401,
+        1130,
+        1404
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": ",",
+          "x0": 1126,
+          "y0": 1401,
+          "x1": 1130,
+          "y1": 1404
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "water ( early faculties. In which I willzzocio Ferris Consulting",
+      "bbox": [
+        92,
+        1500,
+        2364,
+        1616
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "water ( early faculties. In which I willzzocio",
+          "x0": 92,
+          "y0": 1500,
+          "x1": 2364,
+          "y1": 1616
+        },
+        {
+          "page": 3,
+          "text": "Ferris Consulting",
+          "x0": 349,
+          "y0": 1500,
+          "x1": 766,
+          "y1": 1567
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "2so \" so",
+      "bbox": [
+        2131,
+        1519,
+        2364,
+        1592
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "2so \" so",
+          "x0": 2131,
+          "y0": 1519,
+          "x1": 2364,
+          "y1": 1592
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "father I'mcitaites \" Consultant ( 1P ) 1 2500 SO let I'm so. \" It is a 1 1VT I 250-A \" X ( 2",
+      "bbox": [
+        110,
+        1546,
+        2346,
+        1661
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "father I'mcitaites \" Consultant ( 1P ) 1 2500",
+          "x0": 110,
+          "y0": 1546,
+          "x1": 2267,
+          "y1": 1661
+        },
+        {
+          "page": 3,
+          "text": "SO",
+          "x0": 2183,
+          "y0": 1546,
+          "x1": 2267,
+          "y1": 1632
+        },
+        {
+          "page": 3,
+          "text": "let I'm so. \" It is a 1 1VT I 250-A",
+          "x0": 167,
+          "y0": 1549,
+          "x1": 2346,
+          "y1": 1611
+        },
+        {
+          "page": 3,
+          "text": "\" X",
+          "x0": 2277,
+          "y0": 1549,
+          "x1": 2346,
+          "y1": 1586
+        },
+        {
+          "page": 3,
+          "text": "( 2",
+          "x0": 110,
+          "y0": 1550,
+          "x1": 166,
+          "y1": 1661
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "v",
+      "bbox": [
+        1684,
+        1552,
+        1751,
+        1603
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "v",
+          "x0": 1684,
+          "y0": 1552,
+          "x1": 1751,
+          "y1": 1603
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "Conse",
+      "bbox": [
+        1036,
+        1566,
+        1188,
+        1646
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "Conse",
+          "x0": 1036,
+          "y0": 1566,
+          "x1": 1188,
+          "y1": 1646
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "\"",
+      "bbox": [
+        92,
+        1569,
+        117,
+        1616
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "\"",
+          "x0": 92,
+          "y0": 1569,
+          "x1": 117,
+          "y1": 1616
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "7/2 I Can't",
+      "bbox": [
+        167,
+        1579,
+        1371,
+        1639
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "7/2",
+          "x0": 167,
+          "y0": 1579,
+          "x1": 250,
+          "y1": 1611
+        },
+        {
+          "page": 3,
+          "text": "I Can't",
+          "x0": 1208,
+          "y0": 1579,
+          "x1": 1371,
+          "y1": 1639
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "Wichita. KS",
+      "bbox": [
+        357,
+        1589,
+        695,
+        1647
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "Wichita. KS",
+          "x0": 357,
+          "y0": 1589,
+          "x1": 695,
+          "y1": 1647
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "vteMunicipal taxonomicism ) 1 vol I soon zfzr fz",
+      "bbox": [
+        104,
+        1713,
+        2323,
+        1826
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "vteMunicipal taxonomicism ) 1 vol I soon",
+          "x0": 104,
+          "y0": 1713,
+          "x1": 2323,
+          "y1": 1826
+        },
+        {
+          "page": 3,
+          "text": "zfzr fz",
+          "x0": 104,
+          "y0": 1713,
+          "x1": 272,
+          "y1": 1826
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "Iwichita les I Auto Repair I ( 4 500 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000",
+      "bbox": [
+        280,
+        1721,
+        2323,
+        1834
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "Iwichita les I Auto Repair I (",
+          "x0": 280,
+          "y0": 1721,
+          "x1": 1769,
+          "y1": 1834
+        },
+        {
+          "page": 3,
+          "text": "4",
+          "x0": 1705,
+          "y0": 1721,
+          "x1": 1769,
+          "y1": 1778
+        },
+        {
+          "page": 3,
+          "text": "500 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000",
+          "x0": 2112,
+          "y0": 1723,
+          "x1": 2323,
+          "y1": 1775
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "Auto Repair",
+      "bbox": [
+        1058,
+        1747,
+        1406,
+        1817
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "Auto Repair",
+          "x0": 1058,
+          "y0": 1747,
+          "x1": 1406,
+          "y1": 1817
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "\" I wish it a, let",
+      "bbox": [
+        280,
+        1750,
+        752,
+        1834
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "\" I wish it a, let",
+          "x0": 280,
+          "y0": 1750,
+          "x1": 752,
+          "y1": 1834
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "y",
+      "bbox": [
+        536,
+        1771,
+        547,
+        1783
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "y",
+          "x0": 536,
+          "y0": 1771,
+          "x1": 547,
+          "y1": 1783
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "2,750 000",
+      "bbox": [
+        2122,
+        2728,
+        2333,
+        2772
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "2,750 000",
+          "x0": 2122,
+          "y0": 2728,
+          "x1": 2333,
+          "y1": 2772
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "a b c d 000-00",
+      "bbox": [
+        617,
+        2759,
+        2393,
+        2843
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "a b c d",
+          "x0": 617,
+          "y0": 2759,
+          "x1": 2393,
+          "y1": 2843
+        },
+        {
+          "page": 3,
+          "text": "000-00",
+          "x0": 2192,
+          "y0": 2759,
+          "x1": 2393,
+          "y1": 2815
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": ".",
+      "bbox": [
+        617,
+        2841,
+        619,
+        2843
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": ".",
+          "x0": 617,
+          "y0": 2841,
+          "x1": 619,
+          "y1": 2843
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "page 2 or 2",
+      "bbox": [
+        2070,
+        2920,
+        2308,
+        3000
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "page 2 or",
+          "x0": 2070,
+          "y0": 2920,
+          "x1": 2308,
+          "y1": 3000
+        },
+        {
+          "page": 3,
+          "text": "2",
+          "x0": 2173,
+          "y0": 2920,
+          "x1": 2234,
+          "y1": 3000
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "of",
+      "bbox": [
+        2272,
+        2954,
+        2308,
+        2986
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "of",
+          "x0": 2272,
+          "y0": 2954,
+          "x1": 2308,
+          "y1": 2986
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "Page",
+      "bbox": [
+        2070,
+        2958,
+        2146,
+        2997
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "Page",
+          "x0": 2070,
+          "y0": 2958,
+          "x1": 2146,
+          "y1": 2997
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "June. E. Welch",
+      "bbox": [
+        0,
+        0,
+        2550,
+        3300
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "June. E. Welch",
+          "x0": 0,
+          "y0": 0,
+          "x1": 2550,
+          "y1": 3300
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "evidence of the Decree of a b c d e f",
+      "bbox": [
+        49,
+        65,
+        2434,
+        3089
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "evidence of the Decree of",
+          "x0": 49,
+          "y0": 65,
+          "x1": 2434,
+          "y1": 3089
+        },
+        {
+          "page": 4,
+          "text": "a b c d e f",
+          "x0": 49,
+          "y0": 65,
+          "x1": 421,
+          "y1": 111
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "schedule a",
+      "bbox": [
+        1066,
+        142,
+        1385,
+        181
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "schedule a",
+          "x0": 1066,
+          "y0": 142,
+          "x1": 1385,
+          "y1": 181
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "contributions and other receipts",
+      "bbox": [
+        722,
+        197,
+        1725,
+        243
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "contributions and other receipts",
+          "x0": 722,
+          "y0": 197,
+          "x1": 1725,
+          "y1": 243
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "Jared Cerullo",
+      "bbox": [
+        77,
+        301,
+        324,
+        335
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "Jared Cerullo",
+          "x0": 77,
+          "y0": 301,
+          "x1": 324,
+          "y1": 335
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "Name of Candidate )",
+      "bbox": [
+        67,
+        361,
+        416,
+        402
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "Name of Candidate )",
+          "x0": 67,
+          "y0": 361,
+          "x1": 416,
+          "y1": 402
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "Occupation of I Check. \" I Amounto Amount of",
+      "bbox": [
+        1137,
+        511,
+        2319,
+        565
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "Occupation of I Check. \" I Amounto",
+          "x0": 1137,
+          "y0": 511,
+          "x1": 2319,
+          "y1": 565
+        },
+        {
+          "page": 4,
+          "text": "Amount of",
+          "x0": 2129,
+          "y0": 511,
+          "x1": 2319,
+          "y1": 544
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "Check Occupation of",
+      "bbox": [
+        1137,
+        520,
+        1845,
+        565
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "Check",
+          "x0": 1733,
+          "y0": 520,
+          "x1": 1845,
+          "y1": 551
+        },
+        {
+          "page": 4,
+          "text": "Occupation of",
+          "x0": 1137,
+          "y0": 524,
+          "x1": 1387,
+          "y1": 565
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "Named Address. Individual Giving More ( Appropriate Box ) CashCheck Cash, Check,",
+      "bbox": [
+        485,
+        560,
+        2337,
+        612
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "Named Address. Individual Giving More ( Appropriate Box ) CashCheck",
+          "x0": 485,
+          "y0": 560,
+          "x1": 2337,
+          "y1": 612
+        },
+        {
+          "page": 4,
+          "text": "Cash, Check,",
+          "x0": 2106,
+          "y0": 560,
+          "x1": 2337,
+          "y1": 597
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "Appropriate Box",
+      "bbox": [
+        1644,
+        566,
+        1942,
+        608
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "Appropriate Box",
+          "x0": 1644,
+          "y0": 566,
+          "x1": 1942,
+          "y1": 608
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "Individual Giving More Name and Address",
+      "bbox": [
+        485,
+        573,
+        1470,
+        612
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "Individual Giving More",
+          "x0": 1050,
+          "y0": 573,
+          "x1": 1470,
+          "y1": 612
+        },
+        {
+          "page": 4,
+          "text": "Name and Address",
+          "x0": 485,
+          "y0": 579,
+          "x1": 822,
+          "y1": 612
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "contributor ( Then $150 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 Loan or Other",
+      "bbox": [
+        523,
+        609,
+        2351,
+        676
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "contributor ( Then $150 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000",
+          "x0": 523,
+          "y0": 609,
+          "x1": 2351,
+          "y1": 676
+        },
+        {
+          "page": 4,
+          "text": "Loan or Other",
+          "x0": 2098,
+          "y0": 609,
+          "x1": 2351,
+          "y1": 643
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "crash Track Team # runs Tonock Town ( 1965",
+      "bbox": [
+        1526,
+        618,
+        2289,
+        736
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "crash Track Team #",
+          "x0": 1526,
+          "y0": 618,
+          "x1": 2066,
+          "y1": 736
+        },
+        {
+          "page": 4,
+          "text": "runs Tonock Town ( 1965",
+          "x0": 1526,
+          "y0": 618,
+          "x1": 2289,
+          "y1": 736
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "Than $150 of Contributor",
+      "bbox": [
+        523,
+        622,
+        1353,
+        676
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "Than $150",
+          "x0": 1168,
+          "y0": 622,
+          "x1": 1353,
+          "y1": 655
+        },
+        {
+          "page": 4,
+          "text": "of Contributor",
+          "x0": 523,
+          "y0": 623,
+          "x1": 785,
+          "y1": 676
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "fund heck",
+      "bbox": [
+        1702,
+        648,
+        2025,
+        672
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "fund",
+          "x0": 1972,
+          "y0": 648,
+          "x1": 2025,
+          "y1": 669
+        },
+        {
+          "page": 4,
+          "text": "heck",
+          "x0": 1702,
+          "y0": 651,
+          "x1": 1759,
+          "y1": 672
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "c.",
+      "bbox": [
+        1556,
+        653,
+        1576,
+        674
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "c.",
+          "x0": 1556,
+          "y0": 653,
+          "x1": 1576,
+          "y1": 674
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "Ames Ludwig. retired Ames Ludwig",
+      "bbox": [
+        343,
+        760,
+        1130,
+        804
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "Ames Ludwig.",
+          "x0": 343,
+          "y0": 760,
+          "x1": 1130,
+          "y1": 804
+        },
+        {
+          "page": 4,
+          "text": "retired",
+          "x0": 1015,
+          "y0": 760,
+          "x1": 1130,
+          "y1": 794
+        },
+        {
+          "page": 4,
+          "text": "Ames Ludwig",
+          "x0": 343,
+          "y0": 763,
+          "x1": 584,
+          "y1": 804
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "orange # France y",
+      "bbox": [
+        112,
+        785,
+        2368,
+        860
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "orange # France",
+          "x0": 112,
+          "y0": 785,
+          "x1": 2368,
+          "y1": 860
+        },
+        {
+          "page": 4,
+          "text": "y",
+          "x0": 1685,
+          "y0": 785,
+          "x1": 1756,
+          "y1": 852
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "$400.00",
+      "bbox": [
+        2222,
+        803,
+        2368,
+        841
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "$400.00",
+          "x0": 2222,
+          "y0": 803,
+          "x1": 2368,
+          "y1": 841
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "01/20121 (226E. Prairie Point (t.",
+      "bbox": [
+        112,
+        808,
+        743,
+        860
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "01/20121 (226E. Prairie Point (t.",
+          "x0": 112,
+          "y0": 808,
+          "x1": 743,
+          "y1": 860
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "Andover, KS 67002",
+      "bbox": [
+        324,
+        856,
+        682,
+        895
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "Andover, KS 67002",
+          "x0": 324,
+          "y0": 856,
+          "x1": 682,
+          "y1": 895
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "Tom & Gerry Winters. retired",
+      "bbox": [
+        329,
+        942,
+        1133,
+        988
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "Tom & Gerry Winters.",
+          "x0": 329,
+          "y0": 942,
+          "x1": 1133,
+          "y1": 988
+        },
+        {
+          "page": 4,
+          "text": "retired",
+          "x0": 1018,
+          "y0": 942,
+          "x1": 1133,
+          "y1": 975
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "Tom & Gerry Winters",
+      "bbox": [
+        329,
+        947,
+        721,
+        988
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "Tom & Gerry Winters",
+          "x0": 329,
+          "y0": 947,
+          "x1": 721,
+          "y1": 988
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "0123121 Representative ( # ( 1 ) Isson v",
+      "bbox": [
+        115,
+        967,
+        2371,
+        1044
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "0123121 Representative ( # ( 1 ) Isson",
+          "x0": 115,
+          "y0": 967,
+          "x1": 2371,
+          "y1": 1044
+        },
+        {
+          "page": 4,
+          "text": "v",
+          "x0": 1690,
+          "y0": 967,
+          "x1": 1763,
+          "y1": 1038
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "$500.00",
+      "bbox": [
+        2225,
+        985,
+        2371,
+        1022
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "$500.00",
+          "x0": 2225,
+          "y0": 985,
+          "x1": 2371,
+          "y1": 1022
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "01/25121 ( 607N. Wheatland Ave.",
+      "bbox": [
+        115,
+        992,
+        758,
+        1044
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "01/25121 ( 607N. Wheatland Ave.",
+          "x0": 115,
+          "y0": 992,
+          "x1": 758,
+          "y1": 1044
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "Wichita, KS 67235",
+      "bbox": [
+        331,
+        1040,
+        672,
+        1079
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "Wichita, KS 67235",
+          "x0": 331,
+          "y0": 1040,
+          "x1": 672,
+          "y1": 1079
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "allow a friend v",
+      "bbox": [
+        333,
+        1114,
+        1761,
+        1216
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "allow a friend",
+          "x0": 333,
+          "y0": 1114,
+          "x1": 1761,
+          "y1": 1216
+        },
+        {
+          "page": 4,
+          "text": "v",
+          "x0": 1693,
+          "y0": 1114,
+          "x1": 1761,
+          "y1": 1216
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "retired Gerald Blood",
+      "bbox": [
+        333,
+        1125,
+        1135,
+        1166
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "retired",
+          "x0": 1020,
+          "y0": 1125,
+          "x1": 1135,
+          "y1": 1159
+        },
+        {
+          "page": 4,
+          "text": "Gerald Blood",
+          "x0": 333,
+          "y0": 1131,
+          "x1": 573,
+          "y1": 1166
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "returned to the fall 95",
+      "bbox": [
+        333,
+        1172,
+        2247,
+        1264
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "returned to the fall",
+          "x0": 333,
+          "y0": 1172,
+          "x1": 2247,
+          "y1": 1264
+        },
+        {
+          "page": 4,
+          "text": "95",
+          "x0": 2227,
+          "y0": 1172,
+          "x1": 2247,
+          "y1": 1209
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "early 16345 Secondary. I Am, Why I Is Enough 200.00 02110121 16346 S. Broadway",
+      "bbox": [
+        116,
+        1173,
+        2373,
+        1230
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "early 16345 Secondary. I Am, Why I Is Enough",
+          "x0": 116,
+          "y0": 1173,
+          "x1": 2373,
+          "y1": 1230
+        },
+        {
+          "page": 4,
+          "text": "200.00",
+          "x0": 2251,
+          "y0": 1173,
+          "x1": 2373,
+          "y1": 1205
+        },
+        {
+          "page": 4,
+          "text": "02110121 16346 S. Broadway",
+          "x0": 116,
+          "y0": 1178,
+          "x1": 673,
+          "y1": 1230
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "Wichita, KS 67216",
+      "bbox": [
+        333,
+        1224,
+        675,
+        1264
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "Wichita, KS 67216",
+          "x0": 333,
+          "y0": 1224,
+          "x1": 675,
+          "y1": 1264
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "Steven M. Johnson..'''''''''''''''''''''''''''''''''''''''''''''''''''''''' ' medical sales",
+      "bbox": [
+        333,
+        1309,
+        1274,
+        1351
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "Steven M. Johnson..'''''''''''''''''''''''''''''''''''''''''''''''''''''''' '",
+          "x0": 333,
+          "y0": 1309,
+          "x1": 1274,
+          "y1": 1351
+        },
+        {
+          "page": 4,
+          "text": "medical sales",
+          "x0": 1023,
+          "y0": 1309,
+          "x1": 1274,
+          "y1": 1343
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "Steven M. Johnson",
+      "bbox": [
+        333,
+        1315,
+        686,
+        1351
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "Steven M. Johnson",
+          "x0": 333,
+          "y0": 1315,
+          "x1": 686,
+          "y1": 1351
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "04821 References ( 100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 01 00 000 000 000 000 000 000 000 000 000 000 000 000000000 1 000000000 00000 000 000 0 000 0 000 0 000 0000000 0000000 0000000 0000000 0000000 0000000 vw",
+      "bbox": [
+        119,
+        1331,
+        2376,
+        1415
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "04821 References ( 100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 01 00 000 000 000 000 000 000 000 000 000 000 000 000000000 1 000000000 00000 000 000 0 000 0 000 0 000 0000000 0000000 0000000 0000000 0000000 0000000",
+          "x0": 119,
+          "y0": 1331,
+          "x1": 2376,
+          "y1": 1415
+        },
+        {
+          "page": 4,
+          "text": "vw",
+          "x0": 1692,
+          "y0": 1331,
+          "x1": 1761,
+          "y1": 1400
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "$200.00",
+      "bbox": [
+        2230,
+        1353,
+        2376,
+        1389
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "$200.00",
+          "x0": 2230,
+          "y0": 1353,
+          "x1": 2376,
+          "y1": 1389
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "Point ( t. 03/16/21/32RBIP- Prairie",
+      "bbox": [
+        119,
+        1360,
+        754,
+        1415
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "Point ( t.",
+          "x0": 598,
+          "y0": 1360,
+          "x1": 754,
+          "y1": 1394
+        },
+        {
+          "page": 4,
+          "text": "03/16/21/32RBIP- Prairie",
+          "x0": 119,
+          "y0": 1362,
+          "x1": 582,
+          "y1": 1415
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "Andover, KS 67002",
+      "bbox": [
+        333,
+        1409,
+        693,
+        1448
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "Andover, KS 67002",
+          "x0": 333,
+          "y0": 1409,
+          "x1": 693,
+          "y1": 1448
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "David A. Doolittle.. \" In-In-home medical care In-home medical care",
+      "bbox": [
+        337,
+        1490,
+        1422,
+        1534
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "David A. Doolittle.. \" In-In-home medical care",
+          "x0": 337,
+          "y0": 1490,
+          "x1": 1422,
+          "y1": 1534
+        },
+        {
+          "page": 4,
+          "text": "In-home medical care",
+          "x0": 1025,
+          "y0": 1490,
+          "x1": 1422,
+          "y1": 1527
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "David A. Doolittle",
+      "bbox": [
+        337,
+        1497,
+        653,
+        1534
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "David A. Doolittle",
+          "x0": 337,
+          "y0": 1497,
+          "x1": 653,
+          "y1": 1534
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "PRESIDENT OF v",
+      "bbox": [
+        336,
+        1520,
+        1770,
+        1630
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "PRESIDENT OF",
+          "x0": 336,
+          "y0": 1520,
+          "x1": 1770,
+          "y1": 1630
+        },
+        {
+          "page": 4,
+          "text": "v",
+          "x0": 1698,
+          "y0": 1520,
+          "x1": 1770,
+          "y1": 1588
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "AMORLY PERIZATE OF OF VOTES SECOND SECOND $300.00",
+      "bbox": [
+        121,
+        1534,
+        2378,
+        1597
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "AMORLY PERIZATE OF OF VOTES SECOND SECOND",
+          "x0": 121,
+          "y0": 1534,
+          "x1": 2378,
+          "y1": 1597
+        },
+        {
+          "page": 4,
+          "text": "$300.00",
+          "x0": 2232,
+          "y0": 1534,
+          "x1": 2378,
+          "y1": 1571
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "04103121 ( PO Box 12475",
+      "bbox": [
+        121,
+        1546,
+        604,
+        1597
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "04103121 ( PO Box 12475",
+          "x0": 121,
+          "y0": 1546,
+          "x1": 604,
+          "y1": 1597
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "Wichita, KS 67277",
+      "bbox": [
+        336,
+        1592,
+        678,
+        1630
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "Wichita, KS 67277",
+          "x0": 336,
+          "y0": 1592,
+          "x1": 678,
+          "y1": 1630
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "Susan Snyder retired",
+      "bbox": [
+        340,
+        1672,
+        1143,
+        1720
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "Susan Snyder",
+          "x0": 340,
+          "y0": 1672,
+          "x1": 1143,
+          "y1": 1720
+        },
+        {
+          "page": 4,
+          "text": "retired",
+          "x0": 1028,
+          "y0": 1672,
+          "x1": 1143,
+          "y1": 1705
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "Susan Snyder",
+      "bbox": [
+        340,
+        1678,
+        599,
+        1720
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "Susan Snyder",
+          "x0": 340,
+          "y0": 1678,
+          "x1": 599,
+          "y1": 1720
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "crazy experience # # # # /",
+      "bbox": [
+        127,
+        1698,
+        2380,
+        1776
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "crazy experience # # # #",
+          "x0": 127,
+          "y0": 1698,
+          "x1": 2380,
+          "y1": 1776
+        },
+        {
+          "page": 4,
+          "text": "/",
+          "x0": 1697,
+          "y0": 1698,
+          "x1": 1768,
+          "y1": 1765
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "$200.00",
+      "bbox": [
+        2235,
+        1714,
+        2380,
+        1751
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "$200.00",
+          "x0": 2235,
+          "y0": 1714,
+          "x1": 2380,
+          "y1": 1751
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "06127121 ( 2525 N. High Point Cir.",
+      "bbox": [
+        127,
+        1721,
+        764,
+        1776
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "06127121 ( 2525 N. High Point Cir.",
+          "x0": 127,
+          "y0": 1721,
+          "x1": 764,
+          "y1": 1776
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "Wichita, KS 67205",
+      "bbox": [
+        340,
+        1771,
+        682,
+        1810
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "Wichita, KS 67205",
+          "x0": 340,
+          "y0": 1771,
+          "x1": 682,
+          "y1": 1810
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "Venture Investments, Inc...'' freak estate real estate",
+      "bbox": [
+        341,
+        1856,
+        1222,
+        1896
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "Venture Investments, Inc...'' freak estate",
+          "x0": 341,
+          "y0": 1856,
+          "x1": 1222,
+          "y1": 1896
+        },
+        {
+          "page": 4,
+          "text": "real estate",
+          "x0": 1029,
+          "y0": 1856,
+          "x1": 1222,
+          "y1": 1890
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "Venture Investments. Inc.",
+      "bbox": [
+        341,
+        1857,
+        811,
+        1896
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "Venture Investments. Inc.",
+          "x0": 341,
+          "y0": 1857,
+          "x1": 811,
+          "y1": 1896
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "2021 INPORT v",
+      "bbox": [
+        128,
+        1883,
+        1774,
+        1992
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "2021 INPORT",
+          "x0": 128,
+          "y0": 1883,
+          "x1": 1774,
+          "y1": 1992
+        },
+        {
+          "page": 4,
+          "text": "v",
+          "x0": 1702,
+          "y0": 1883,
+          "x1": 1774,
+          "y1": 1950
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "APSONMANY OF THE OF OF $500.00",
+      "bbox": [
+        174,
+        1894,
+        2384,
+        1958
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "APSONMANY OF THE OF OF",
+          "x0": 174,
+          "y0": 1894,
+          "x1": 2384,
+          "y1": 1958
+        },
+        {
+          "page": 4,
+          "text": "$500.00",
+          "x0": 2238,
+          "y0": 1894,
+          "x1": 2384,
+          "y1": 1931
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "St.",
+      "bbox": [
+        615,
+        1902,
+        662,
+        1947
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "St.",
+          "x0": 615,
+          "y0": 1902,
+          "x1": 662,
+          "y1": 1947
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "1 50 N. Market",
+      "bbox": [
+        344,
+        1908,
+        601,
+        1942
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "1 50 N. Market",
+          "x0": 344,
+          "y0": 1908,
+          "x1": 601,
+          "y1": 1942
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "/29/21 06/28",
+      "bbox": [
+        128,
+        1926,
+        282,
+        1960
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "/29/21",
+          "x0": 174,
+          "y0": 1926,
+          "x1": 282,
+          "y1": 1958
+        },
+        {
+          "page": 4,
+          "text": "06/28",
+          "x0": 128,
+          "y0": 1927,
+          "x1": 230,
+          "y1": 1960
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "Wichita, KS 67202",
+      "bbox": [
+        342,
+        1953,
+        694,
+        1992
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "Wichita, KS 67202",
+          "x0": 342,
+          "y0": 1953,
+          "x1": 694,
+          "y1": 1992
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "Pepper Land Company, LLC...'''' real estate real estate",
+      "bbox": [
+        347,
+        2032,
+        1227,
+        2086
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "Pepper Land Company, LLC...'''' real estate",
+          "x0": 347,
+          "y0": 2032,
+          "x1": 1227,
+          "y1": 2086
+        },
+        {
+          "page": 4,
+          "text": "real estate",
+          "x0": 1033,
+          "y0": 2032,
+          "x1": 1227,
+          "y1": 2065
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "Pepper Land Company, LLC",
+      "bbox": [
+        347,
+        2038,
+        874,
+        2086
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "Pepper Land Company, LLC",
+          "x0": 347,
+          "y0": 2038,
+          "x1": 874,
+          "y1": 2086
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "cases ( France # 100 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 v",
+      "bbox": [
+        132,
+        2054,
+        2383,
+        2139
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "cases ( France # 100 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000",
+          "x0": 132,
+          "y0": 2054,
+          "x1": 2383,
+          "y1": 2139
+        },
+        {
+          "page": 4,
+          "text": "v",
+          "x0": 1705,
+          "y0": 2054,
+          "x1": 1777,
+          "y1": 2127
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "$500.00",
+      "bbox": [
+        2237,
+        2075,
+        2383,
+        2113
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "$500.00",
+          "x0": 2237,
+          "y0": 2075,
+          "x1": 2383,
+          "y1": 2113
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "06129121 ( 150 N. Market St.",
+      "bbox": [
+        132,
+        2088,
+        665,
+        2139
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "06129121 ( 150 N. Market St.",
+          "x0": 132,
+          "y0": 2088,
+          "x1": 665,
+          "y1": 2139
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "Wichita, KS 67202",
+      "bbox": [
+        346,
+        2135,
+        687,
+        2175
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "Wichita, KS 67202",
+          "x0": 346,
+          "y0": 2135,
+          "x1": 687,
+          "y1": 2175
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "a b c d e f g / 2,800 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 .",
+      "bbox": [
+        1507,
+        2221,
+        2390,
+        2271
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "a b c d e f g / 2,800 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000",
+          "x0": 1507,
+          "y0": 2221,
+          "x1": 2390,
+          "y1": 2271
+        },
+        {
+          "page": 4,
+          "text": ".",
+          "x0": 1507,
+          "y0": 2221,
+          "x1": 1510,
+          "y1": 2224
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "$2,800.00",
+      "bbox": [
+        2210,
+        2231,
+        2390,
+        2271
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "$2,800.00",
+          "x0": 2210,
+          "y0": 2231,
+          "x1": 2390,
+          "y1": 2271
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": ",",
+      "bbox": [
+        1782,
+        2266,
+        1784,
+        2268
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": ",",
+          "x0": 1782,
+          "y0": 2266,
+          "x1": 1784,
+          "y1": 2268
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "Complete if last page of Schedule A",
+      "bbox": [
+        874,
+        2437,
+        1631,
+        2491
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "Complete if last page of Schedule A",
+          "x0": 874,
+          "y0": 2437,
+          "x1": 1631,
+          "y1": 2491
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "10 550. 00",
+      "bbox": [
+        2162,
+        2546,
+        2392,
+        2587
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "10 550. 00",
+          "x0": 2162,
+          "y0": 2546,
+          "x1": 2392,
+          "y1": 2587
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "coalUniniemised Contributions, 150 000 000 000 2nd age",
+      "bbox": [
+        364,
+        2602,
+        2400,
+        2690
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "coalUniniemised Contributions, 150 000 000 000",
+          "x0": 364,
+          "y0": 2602,
+          "x1": 2400,
+          "y1": 2690
+        },
+        {
+          "page": 4,
+          "text": "2nd age",
+          "x0": 2145,
+          "y0": 2602,
+          "x1": 2400,
+          "y1": 2690
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "264.20",
+      "bbox": [
+        1592,
+        2647,
+        1788,
+        2688
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "264.20",
+          "x0": 1592,
+          "y0": 2647,
+          "x1": 1788,
+          "y1": 2688
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "Total Unitenized Contributions ( SSD or less )",
+      "bbox": [
+        364,
+        2651,
+        1119,
+        2689
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "Total Unitenized Contributions ( SSD or less )",
+          "x0": 364,
+          "y0": 2651,
+          "x1": 1119,
+          "y1": 2689
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "3ate Political Materials, 2nd century",
+      "bbox": [
+        366,
+        2685,
+        2401,
+        2775
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "3ate Political Materials,",
+          "x0": 366,
+          "y0": 2685,
+          "x1": 2401,
+          "y1": 2775
+        },
+        {
+          "page": 4,
+          "text": "2nd century",
+          "x0": 2145,
+          "y0": 2685,
+          "x1": 2401,
+          "y1": 2774
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "Sale of Political Materials (Unitemized )",
+      "bbox": [
+        366,
+        2735,
+        1033,
+        2775
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "Sale of Political Materials (Unitemized )",
+          "x0": 366,
+          "y0": 2735,
+          "x1": 1033,
+          "y1": 2775
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "Total Constitutions When Contributor Not 0 0",
+      "bbox": [
+        366,
+        2769,
+        2402,
+        2858
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "Total Constitutions When Contributor Not",
+          "x0": 366,
+          "y0": 2769,
+          "x1": 2402,
+          "y1": 2858
+        },
+        {
+          "page": 4,
+          "text": "0 0",
+          "x0": 2146,
+          "y0": 2769,
+          "x1": 2402,
+          "y1": 2858
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "Total Contributions When Contributor Not Known",
+      "bbox": [
+        366,
+        2818,
+        1217,
+        2856
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "Total Contributions When Contributor Not Known",
+          "x0": 366,
+          "y0": 2818,
+          "x1": 1217,
+          "y1": 2856
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "( 08/1. 20",
+      "bbox": [
+        2173,
+        2940,
+        2434,
+        2992
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "( 08/1. 20",
+          "x0": 2173,
+          "y0": 2940,
+          "x1": 2434,
+          "y1": 2992
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "page 3 of 6 G",
+      "bbox": [
+        2068,
+        3016,
+        2390,
+        3089
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "page 3 of 6",
+          "x0": 2068,
+          "y0": 3016,
+          "x1": 2390,
+          "y1": 3089
+        },
+        {
+          "page": 4,
+          "text": "G",
+          "x0": 2342,
+          "y0": 3016,
+          "x1": 2390,
+          "y1": 3089
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "5",
+      "bbox": [
+        2217,
+        3024,
+        2232,
+        3079
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "5",
+          "x0": 2217,
+          "y0": 3024,
+          "x1": 2232,
+          "y1": 3079
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "of.",
+      "bbox": [
+        2272,
+        3035,
+        2309,
+        3082
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "of.",
+          "x0": 2272,
+          "y0": 3035,
+          "x1": 2309,
+          "y1": 3082
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "Page",
+      "bbox": [
+        2068,
+        3043,
+        2146,
+        3080
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "Page",
+          "x0": 2068,
+          "y0": 3043,
+          "x1": 2146,
+          "y1": 3080
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "text": "Black- \" Feel I",
+      "bbox": [
+        0,
+        0,
+        2550,
+        3300
+      ],
+      "tokens": [
+        {
+          "page": 5,
+          "text": "Black- \" Feel I",
+          "x0": 0,
+          "y0": 0,
+          "x1": 2550,
+          "y1": 3300
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "text": "between the West schedule c",
+      "bbox": [
+        62,
+        141,
+        2481,
+        3200
+      ],
+      "tokens": [
+        {
+          "page": 5,
+          "text": "between the West",
+          "x0": 62,
+          "y0": 141,
+          "x1": 2481,
+          "y1": 3200
+        },
+        {
+          "page": 5,
+          "text": "schedule c",
+          "x0": 1060,
+          "y0": 141,
+          "x1": 1380,
+          "y1": 180
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "text": "Expenditures and other disbursements",
+      "bbox": [
+        641,
+        196,
+        1793,
+        241
+      ],
+      "tokens": [
+        {
+          "page": 5,
+          "text": "Expenditures and other disbursements",
+          "x0": 641,
+          "y0": 196,
+          "x1": 1793,
+          "y1": 241
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "text": "Jared Cebullo",
+      "bbox": [
+        108,
+        275,
+        831,
+        355
+      ],
+      "tokens": [
+        {
+          "page": 5,
+          "text": "Jared Cebullo",
+          "x0": 108,
+          "y0": 275,
+          "x1": 831,
+          "y1": 355
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "text": "( Name of Candidate )",
+      "bbox": [
+        62,
+        364,
+        409,
+        403
+      ],
+      "tokens": [
+        {
+          "page": 5,
+          "text": "( Name of Candidate )",
+          "x0": 62,
+          "y0": 364,
+          "x1": 409,
+          "y1": 403
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "text": "rate I remembered it possible I must",
+      "bbox": [
+        66,
+        484,
+        2368,
+        686
+      ],
+      "tokens": [
+        {
+          "page": 5,
+          "text": "rate I remembered it possible I must",
+          "x0": 66,
+          "y0": 484,
+          "x1": 2368,
+          "y1": 686
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "text": "Name and Address...'''''''' Amount",
+      "bbox": [
+        590,
+        569,
+        2292,
+        612
+      ],
+      "tokens": [
+        {
+          "page": 5,
+          "text": "Name and Address...''''''''",
+          "x0": 590,
+          "y0": 569,
+          "x1": 2292,
+          "y1": 612
+        },
+        {
+          "page": 5,
+          "text": "Amount",
+          "x0": 2153,
+          "y0": 569,
+          "x1": 2292,
+          "y1": 596
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "text": "or Disbursement",
+      "bbox": [
+        1498,
+        575,
+        1791,
+        604
+      ],
+      "tokens": [
+        {
+          "page": 5,
+          "text": "or Disbursement",
+          "x0": 1498,
+          "y0": 575,
+          "x1": 1791,
+          "y1": 604
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "text": "Name and Address",
+      "bbox": [
+        590,
+        583,
+        928,
+        612
+      ],
+      "tokens": [
+        {
+          "page": 5,
+          "text": "Name and Address",
+          "x0": 590,
+          "y0": 583,
+          "x1": 928,
+          "y1": 612
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "text": "ESPER ( Walmort W. of mort",
+      "bbox": [
+        136,
+        700,
+        616,
+        772
+      ],
+      "tokens": [
+        {
+          "page": 5,
+          "text": "ESPER ( Walmort",
+          "x0": 136,
+          "y0": 700,
+          "x1": 616,
+          "y1": 772
+        },
+        {
+          "page": 5,
+          "text": "W. of mort",
+          "x0": 348,
+          "y0": 700,
+          "x1": 616,
+          "y1": 756
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "text": "2",
+      "bbox": [
+        224,
+        731,
+        255,
+        763
+      ],
+      "tokens": [
+        {
+          "page": 5,
+          "text": "2",
+          "x0": 224,
+          "y0": 731,
+          "x1": 255,
+          "y1": 763
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "text": "15",
+      "bbox": [
+        136,
+        737,
+        199,
+        772
+      ],
+      "tokens": [
+        {
+          "page": 5,
+          "text": "15",
+          "x0": 136,
+          "y0": 737,
+          "x1": 199,
+          "y1": 772
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "text": "countries...'Office Supplies, 1927 21",
+      "bbox": [
+        341,
+        743,
+        2313,
+        836
+      ],
+      "tokens": [
+        {
+          "page": 5,
+          "text": "countries...'Office Supplies, 1927",
+          "x0": 341,
+          "y0": 743,
+          "x1": 2313,
+          "y1": 836
+        },
+        {
+          "page": 5,
+          "text": "21",
+          "x0": 2244,
+          "y0": 743,
+          "x1": 2313,
+          "y1": 801
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "text": "( 9 \" Supplies",
+      "bbox": [
+        1522,
+        751,
+        2214,
+        830
+      ],
+      "tokens": [
+        {
+          "page": 5,
+          "text": "( 9 \"",
+          "x0": 2128,
+          "y0": 751,
+          "x1": 2214,
+          "y1": 816
+        },
+        {
+          "page": 5,
+          "text": "Supplies",
+          "x0": 1522,
+          "y0": 752,
+          "x1": 1794,
+          "y1": 830
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "text": "ALFice",
+      "bbox": [
+        1269,
+        757,
+        1489,
+        816
+      ],
+      "tokens": [
+        {
+          "page": 5,
+          "text": "ALFice",
+          "x0": 1269,
+          "y0": 757,
+          "x1": 1489,
+          "y1": 816
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "text": "elicits its",
+      "bbox": [
+        341,
+        786,
+        694,
+        836
+      ],
+      "tokens": [
+        {
+          "page": 5,
+          "text": "elicits its",
+          "x0": 341,
+          "y0": 786,
+          "x1": 694,
+          "y1": 836
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "text": "2ini121 I Let Made Cafe Cofe",
+      "bbox": [
+        96,
+        892,
+        863,
+        968
+      ],
+      "tokens": [
+        {
+          "page": 5,
+          "text": "2ini121 I Let Made Cafe",
+          "x0": 96,
+          "y0": 892,
+          "x1": 863,
+          "y1": 968
+        },
+        {
+          "page": 5,
+          "text": "Cofe",
+          "x0": 724,
+          "y0": 892,
+          "x1": 863,
+          "y1": 957
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "text": "mind e 2 -",
+      "bbox": [
+        352,
+        898,
+        681,
+        968
+      ],
+      "tokens": [
+        {
+          "page": 5,
+          "text": "mind e",
+          "x0": 478,
+          "y0": 898,
+          "x1": 681,
+          "y1": 961
+        },
+        {
+          "page": 5,
+          "text": "2 -",
+          "x0": 352,
+          "y0": 902,
+          "x1": 394,
+          "y1": 968
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "text": "2",
+      "bbox": [
+        96,
+        905,
+        133,
+        954
+      ],
+      "tokens": [
+        {
+          "page": 5,
+          "text": "2",
+          "x0": 96,
+          "y0": 905,
+          "x1": 133,
+          "y1": 954
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "text": "Julia Barton",
+      "bbox": [
+        354,
+        1072,
+        793,
+        1139
+      ],
+      "tokens": [
+        {
+          "page": 5,
+          "text": "Julia Barton",
+          "x0": 354,
+          "y0": 1072,
+          "x1": 793,
+          "y1": 1139
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "text": "4/20/2 1",
+      "bbox": [
+        87,
+        1107,
+        288,
+        1212
+      ],
+      "tokens": [
+        {
+          "page": 5,
+          "text": "4/20/2 1",
+          "x0": 87,
+          "y0": 1107,
+          "x1": 288,
+          "y1": 1212
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "text": "WikiCRIPES FROM REARRISONMENTATION OF PRODUCED 95.0",
+      "bbox": [
+        356,
+        1215,
+        2368,
+        1406
+      ],
+      "tokens": [
+        {
+          "page": 5,
+          "text": "WikiCRIPES FROM REARRISONMENTATION OF PRODUCED",
+          "x0": 356,
+          "y0": 1215,
+          "x1": 2368,
+          "y1": 1406
+        },
+        {
+          "page": 5,
+          "text": "95.0",
+          "x0": 2081,
+          "y0": 1215,
+          "x1": 2368,
+          "y1": 1406
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "text": "Mike Carroll",
+      "bbox": [
+        356,
+        1258,
+        774,
+        1322
+      ],
+      "tokens": [
+        {
+          "page": 5,
+          "text": "Mike Carroll",
+          "x0": 356,
+          "y0": 1258,
+          "x1": 774,
+          "y1": 1322
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "text": "HelpLearn to editCommunity portalRecent changes. It is HelpLearn to edit",
+      "bbox": [
+        131,
+        1281,
+        2333,
+        1414
+      ],
+      "tokens": [
+        {
+          "page": 5,
+          "text": "HelpLearn to editCommunity portalRecent changes. It is",
+          "x0": 131,
+          "y0": 1281,
+          "x1": 2333,
+          "y1": 1414
+        },
+        {
+          "page": 5,
+          "text": "HelpLearn to edit",
+          "x0": 131,
+          "y0": 1281,
+          "x1": 752,
+          "y1": 1414
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "text": "5142I ( 1nd. \" I...... Whats. I 75 5141 2 ( Campaign Photos",
+      "bbox": [
+        93,
+        1301,
+        2235,
+        1395
+      ],
+      "tokens": [
+        {
+          "page": 5,
+          "text": "5142I ( 1nd. \" I...... Whats. I 75",
+          "x0": 93,
+          "y0": 1301,
+          "x1": 2235,
+          "y1": 1357
+        },
+        {
+          "page": 5,
+          "text": "5141 2 (",
+          "x0": 93,
+          "y0": 1301,
+          "x1": 261,
+          "y1": 1357
+        },
+        {
+          "page": 5,
+          "text": "Campaign Photos",
+          "x0": 1268,
+          "y0": 1303,
+          "x1": 1845,
+          "y1": 1395
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "text": "75. 00",
+      "bbox": [
+        2119,
+        1308,
+        2333,
+        1358
+      ],
+      "tokens": [
+        {
+          "page": 5,
+          "text": "75. 00",
+          "x0": 2119,
+          "y0": 1308,
+          "x1": 2333,
+          "y1": 1358
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "text": ":",
+      "bbox": [
+        2225,
+        1336,
+        2235,
+        1344
+      ],
+      "tokens": [
+        {
+          "page": 5,
+          "text": ":",
+          "x0": 2225,
+          "y0": 1336,
+          "x1": 2235,
+          "y1": 1344
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "text": "Hicks, I City Blue Print Porat",
+      "bbox": [
+        117,
+        1435,
+        885,
+        1513
+      ],
+      "tokens": [
+        {
+          "page": 5,
+          "text": "Hicks, I City Blue Print",
+          "x0": 117,
+          "y0": 1435,
+          "x1": 885,
+          "y1": 1513
+        },
+        {
+          "page": 5,
+          "text": "Porat",
+          "x0": 718,
+          "y0": 1435,
+          "x1": 885,
+          "y1": 1502
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "text": "Bie",
+      "bbox": [
+        542,
+        1441,
+        670,
+        1499
+      ],
+      "tokens": [
+        {
+          "page": 5,
+          "text": "Bie",
+          "x0": 542,
+          "y0": 1441,
+          "x1": 670,
+          "y1": 1499
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "text": "city",
+      "bbox": [
+        376,
+        1448,
+        499,
+        1513
+      ],
+      "tokens": [
+        {
+          "page": 5,
+          "text": "city",
+          "x0": 376,
+          "y0": 1448,
+          "x1": 499,
+          "y1": 1513
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "text": "per Stationary and Envel-of-of-",
+      "bbox": [
+        117,
+        1489,
+        2027,
+        1576
+      ],
+      "tokens": [
+        {
+          "page": 5,
+          "text": "per",
+          "x0": 117,
+          "y0": 1489,
+          "x1": 147,
+          "y1": 1500
+        },
+        {
+          "page": 5,
+          "text": "Stationary and Envel-of-of-",
+          "x0": 1276,
+          "y0": 1489,
+          "x1": 2027,
+          "y1": 1576
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "text": "Stationary and",
+      "bbox": [
+        1276,
+        1507,
+        1691,
+        1576
+      ],
+      "tokens": [
+        {
+          "page": 5,
+          "text": "Stationary and",
+          "x0": 1276,
+          "y0": 1507,
+          "x1": 1691,
+          "y1": 1576
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "text": "Julia Burton Bourton",
+      "bbox": [
+        343,
+        1613,
+        750,
+        1680
+      ],
+      "tokens": [
+        {
+          "page": 5,
+          "text": "Julia Burton",
+          "x0": 343,
+          "y0": 1613,
+          "x1": 750,
+          "y1": 1680
+        },
+        {
+          "page": 5,
+          "text": "Bourton",
+          "x0": 539,
+          "y0": 1613,
+          "x1": 750,
+          "y1": 1680
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "text": "Julia",
+      "bbox": [
+        343,
+        1623,
+        506,
+        1679
+      ],
+      "tokens": [
+        {
+          "page": 5,
+          "text": "Julia",
+          "x0": 343,
+          "y0": 1623,
+          "x1": 506,
+          "y1": 1679
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "text": "Tight wrap 2 Print Shop",
+      "bbox": [
+        357,
+        1805,
+        1078,
+        1878
+      ],
+      "tokens": [
+        {
+          "page": 5,
+          "text": "Tight wrap 2 Print Shop",
+          "x0": 357,
+          "y0": 1805,
+          "x1": 1078,
+          "y1": 1878
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "text": "Goalal # # Palm Cards, 3000 cards",
+      "bbox": [
+        95,
+        1831,
+        2286,
+        1968
+      ],
+      "tokens": [
+        {
+          "page": 5,
+          "text": "Goalal # # Palm Cards, 3000",
+          "x0": 95,
+          "y0": 1831,
+          "x1": 2286,
+          "y1": 1968
+        },
+        {
+          "page": 5,
+          "text": "cards",
+          "x0": 1546,
+          "y0": 1831,
+          "x1": 1757,
+          "y1": 1959
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "text": "tale",
+      "bbox": [
+        1290,
+        1834,
+        1484,
+        1929
+      ],
+      "tokens": [
+        {
+          "page": 5,
+          "text": "tale",
+          "x0": 1290,
+          "y0": 1834,
+          "x1": 1484,
+          "y1": 1929
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "text": "6/23, 2 1 3 00 0",
+      "bbox": [
+        95,
+        1853,
+        2286,
+        1942
+      ],
+      "tokens": [
+        {
+          "page": 5,
+          "text": "6/23, 2 1",
+          "x0": 95,
+          "y0": 1853,
+          "x1": 265,
+          "y1": 1942
+        },
+        {
+          "page": 5,
+          "text": "3 00 0",
+          "x0": 2115,
+          "y0": 1853,
+          "x1": 2286,
+          "y1": 1903
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "text": "Wichita KS",
+      "bbox": [
+        367,
+        1909,
+        733,
+        1968
+      ],
+      "tokens": [
+        {
+          "page": 5,
+          "text": "Wichita KS",
+          "x0": 367,
+          "y0": 1909,
+          "x1": 733,
+          "y1": 1968
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "text": "fatal violations. \" Campaign Banner, 10 Campaign Banner madign Banner. I looked oO",
+      "bbox": [
+        113,
+        2401,
+        2353,
+        2520
+      ],
+      "tokens": [
+        {
+          "page": 5,
+          "text": "fatal violations. \" Campaign Banner, 10",
+          "x0": 113,
+          "y0": 2401,
+          "x1": 2205,
+          "y1": 2520
+        },
+        {
+          "page": 5,
+          "text": "Campaign Banner",
+          "x0": 1275,
+          "y0": 2401,
+          "x1": 1928,
+          "y1": 2477
+        },
+        {
+          "page": 5,
+          "text": "madign Banner. I looked",
+          "x0": 1376,
+          "y0": 2403,
+          "x1": 2353,
+          "y1": 2463
+        },
+        {
+          "page": 5,
+          "text": "oO",
+          "x0": 2279,
+          "y0": 2403,
+          "x1": 2353,
+          "y1": 2447
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "text": "( 0",
+      "bbox": [
+        2143,
+        2408,
+        2205,
+        2462
+      ],
+      "tokens": [
+        {
+          "page": 5,
+          "text": "( 0",
+          "x0": 2143,
+          "y0": 2408,
+          "x1": 2205,
+          "y1": 2462
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "text": "D.",
+      "bbox": [
+        2213,
+        2411,
+        2262,
+        2451
+      ],
+      "tokens": [
+        {
+          "page": 5,
+          "text": "D.",
+          "x0": 2213,
+          "y0": 2411,
+          "x1": 2262,
+          "y1": 2451
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "text": "7fal 2'",
+      "bbox": [
+        113,
+        2416,
+        281,
+        2511
+      ],
+      "tokens": [
+        {
+          "page": 5,
+          "text": "7fal 2'",
+          "x0": 113,
+          "y0": 2416,
+          "x1": 281,
+          "y1": 2511
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "text": "n",
+      "bbox": [
+        1750,
+        2421,
+        1783,
+        2463
+      ],
+      "tokens": [
+        {
+          "page": 5,
+          "text": "n",
+          "x0": 1750,
+          "y0": 2421,
+          "x1": 1783,
+          "y1": 2463
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "text": "in p a f g.n.",
+      "bbox": [
+        1376,
+        2429,
+        1584,
+        2460
+      ],
+      "tokens": [
+        {
+          "page": 5,
+          "text": "in p a f g.n.",
+          "x0": 1376,
+          "y0": 2429,
+          "x1": 1584,
+          "y1": 2460
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "text": "with its IC.S.",
+      "bbox": [
+        387,
+        2462,
+        751,
+        2520
+      ],
+      "tokens": [
+        {
+          "page": 5,
+          "text": "with its IC.S.",
+          "x0": 387,
+          "y0": 2462,
+          "x1": 751,
+          "y1": 2520
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "text": "race 4 or 6",
+      "bbox": [
+        2059,
+        2867,
+        2398,
+        2958
+      ],
+      "tokens": [
+        {
+          "page": 5,
+          "text": "race 4 or 6",
+          "x0": 2059,
+          "y0": 2867,
+          "x1": 2398,
+          "y1": 2958
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "text": "1 0 0",
+      "bbox": [
+        2168,
+        3130,
+        2481,
+        3200
+      ],
+      "tokens": [
+        {
+          "page": 5,
+          "text": "1 0 0",
+          "x0": 2168,
+          "y0": 3130,
+          "x1": 2481,
+          "y1": 3200
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "text": "apost. The key",
+      "bbox": [
+        0,
+        0,
+        2550,
+        3300
+      ],
+      "tokens": [
+        {
+          "page": 6,
+          "text": "apost. The key",
+          "x0": 0,
+          "y0": 0,
+          "x1": 2550,
+          "y1": 3300
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "text": "a b c d a b c d e f g h h h",
+      "bbox": [
+        57,
+        70,
+        2474,
+        3219
+      ],
+      "tokens": [
+        {
+          "page": 6,
+          "text": "a b c d",
+          "x0": 57,
+          "y0": 70,
+          "x1": 2474,
+          "y1": 3219
+        },
+        {
+          "page": 6,
+          "text": "a b c d e f g h h h",
+          "x0": 57,
+          "y0": 70,
+          "x1": 492,
+          "y1": 92
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "text": "schedule c",
+      "bbox": [
+        1065,
+        152,
+        1387,
+        189
+      ],
+      "tokens": [
+        {
+          "page": 6,
+          "text": "schedule c",
+          "x0": 1065,
+          "y0": 152,
+          "x1": 1387,
+          "y1": 189
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "text": "Expenditures and other disbursements",
+      "bbox": [
+        647,
+        209,
+        1800,
+        248
+      ],
+      "tokens": [
+        {
+          "page": 6,
+          "text": "Expenditures and other disbursements",
+          "x0": 647,
+          "y0": 209,
+          "x1": 1800,
+          "y1": 248
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "text": "Jared Cervulco",
+      "bbox": [
+        139,
+        298,
+        836,
+        366
+      ],
+      "tokens": [
+        {
+          "page": 6,
+          "text": "Jared Cervulco",
+          "x0": 139,
+          "y0": 298,
+          "x1": 836,
+          "y1": 366
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "text": "( Name of Candidate )",
+      "bbox": [
+        66,
+        368,
+        423,
+        405
+      ],
+      "tokens": [
+        {
+          "page": 6,
+          "text": "( Name of Candidate )",
+          "x0": 66,
+          "y0": 368,
+          "x1": 423,
+          "y1": 405
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "text": "Date. I Remember. Amount or Disbursement",
+      "bbox": [
+        147,
+        587,
+        2292,
+        622
+      ],
+      "tokens": [
+        {
+          "page": 6,
+          "text": "Date. I Remember.",
+          "x0": 147,
+          "y0": 587,
+          "x1": 2292,
+          "y1": 622
+        },
+        {
+          "page": 6,
+          "text": "Amount",
+          "x0": 2151,
+          "y0": 587,
+          "x1": 2292,
+          "y1": 614
+        },
+        {
+          "page": 6,
+          "text": "or Disbursement",
+          "x0": 1501,
+          "y0": 589,
+          "x1": 1795,
+          "y1": 618
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "text": "Name and Address Date",
+      "bbox": [
+        147,
+        592,
+        932,
+        622
+      ],
+      "tokens": [
+        {
+          "page": 6,
+          "text": "Name and Address",
+          "x0": 591,
+          "y0": 592,
+          "x1": 932,
+          "y1": 621
+        },
+        {
+          "page": 6,
+          "text": "Date",
+          "x0": 147,
+          "y0": 595,
+          "x1": 226,
+          "y1": 622
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "text": "Sedgwick County Election Cou vty",
+      "bbox": [
+        372,
+        703,
+        1098,
+        784
+      ],
+      "tokens": [
+        {
+          "page": 6,
+          "text": "Sedgwick County Election",
+          "x0": 372,
+          "y0": 703,
+          "x1": 1098,
+          "y1": 784
+        },
+        {
+          "page": 6,
+          "text": "Cou",
+          "x0": 664,
+          "y0": 703,
+          "x1": 756,
+          "y1": 762
+        },
+        {
+          "page": 6,
+          "text": "vty",
+          "x0": 763,
+          "y0": 704,
+          "x1": 859,
+          "y1": 770
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "text": "Electon Sed gwock",
+      "bbox": [
+        372,
+        705,
+        1098,
+        784
+      ],
+      "tokens": [
+        {
+          "page": 6,
+          "text": "Electon",
+          "x0": 904,
+          "y0": 705,
+          "x1": 1098,
+          "y1": 752
+        },
+        {
+          "page": 6,
+          "text": "Sed gwock",
+          "x0": 372,
+          "y0": 707,
+          "x1": 600,
+          "y1": 784
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "text": "which takes \" Peter Information ( 61.3 Voter Information. \" 61.31 780/24 ( 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 7 ( 80",
+      "bbox": [
+        89,
+        754,
+        2292,
+        867
+      ],
+      "tokens": [
+        {
+          "page": 6,
+          "text": "which takes \" Peter Information ( 61.3",
+          "x0": 359,
+          "y0": 754,
+          "x1": 2292,
+          "y1": 867
+        },
+        {
+          "page": 6,
+          "text": "Voter Information. \" 61.31",
+          "x0": 1322,
+          "y0": 754,
+          "x1": 2292,
+          "y1": 839
+        },
+        {
+          "page": 6,
+          "text": "780/24 ( 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+          "x0": 89,
+          "y0": 757,
+          "x1": 1598,
+          "y1": 802
+        },
+        {
+          "page": 6,
+          "text": "7 ( 80",
+          "x0": 89,
+          "y0": 757,
+          "x1": 192,
+          "y1": 802
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "text": "eae",
+      "bbox": [
+        359,
+        800,
+        745,
+        867
+      ],
+      "tokens": [
+        {
+          "page": 6,
+          "text": "eae",
+          "x0": 359,
+          "y0": 800,
+          "x1": 745,
+          "y1": 867
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "text": "Italy, Facebook, ___ # Social media Acts tht",
+      "bbox": [
+        95,
+        878,
+        1912,
+        1110
+      ],
+      "tokens": [
+        {
+          "page": 6,
+          "text": "Italy, Facebook, ___ # Social media Acts",
+          "x0": 95,
+          "y0": 878,
+          "x1": 1912,
+          "y1": 1110
+        },
+        {
+          "page": 6,
+          "text": "tht",
+          "x0": 95,
+          "y0": 878,
+          "x1": 264,
+          "y1": 1110
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "text": "Social media Acts",
+      "bbox": [
+        1314,
+        935,
+        1912,
+        1018
+      ],
+      "tokens": [
+        {
+          "page": 6,
+          "text": "Social media Acts",
+          "x0": 1314,
+          "y0": 935,
+          "x1": 1912,
+          "y1": 1018
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "text": "Tight average point. It is # overall to cut them.",
+      "bbox": [
+        347,
+        1073,
+        1006,
+        1162
+      ],
+      "tokens": [
+        {
+          "page": 6,
+          "text": "Tight average point. It is #",
+          "x0": 347,
+          "y0": 1073,
+          "x1": 1006,
+          "y1": 1162
+        },
+        {
+          "page": 6,
+          "text": "overall to cut them.",
+          "x0": 536,
+          "y0": 1073,
+          "x1": 1006,
+          "y1": 1136
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "text": "Tight",
+      "bbox": [
+        347,
+        1077,
+        504,
+        1162
+      ],
+      "tokens": [
+        {
+          "page": 6,
+          "text": "Tight",
+          "x0": 347,
+          "y0": 1077,
+          "x1": 504,
+          "y1": 1162
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "text": "trial ( sciences \" I Yard Signs. 1061.56 Yard",
+      "bbox": [
+        92,
+        1110,
+        2336,
+        1231
+      ],
+      "tokens": [
+        {
+          "page": 6,
+          "text": "trial ( sciences \" I Yard Signs. 1061.56",
+          "x0": 92,
+          "y0": 1110,
+          "x1": 2336,
+          "y1": 1231
+        },
+        {
+          "page": 6,
+          "text": "Yard",
+          "x0": 1339,
+          "y0": 1110,
+          "x1": 1487,
+          "y1": 1224
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "text": "106l. 56 Signs",
+      "bbox": [
+        1546,
+        1132,
+        2336,
+        1223
+      ],
+      "tokens": [
+        {
+          "page": 6,
+          "text": "106l. 56",
+          "x0": 2109,
+          "y0": 1132,
+          "x1": 2336,
+          "y1": 1209
+        },
+        {
+          "page": 6,
+          "text": "Signs",
+          "x0": 1546,
+          "y0": 1136,
+          "x1": 1721,
+          "y1": 1223
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "text": "72/27 ) wivede KS",
+      "bbox": [
+        92,
+        1142,
+        749,
+        1231
+      ],
+      "tokens": [
+        {
+          "page": 6,
+          "text": "72/27 ) wivede KS",
+          "x0": 92,
+          "y0": 1142,
+          "x1": 749,
+          "y1": 1231
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "text": "Payeal",
+      "bbox": [
+        379,
+        1275,
+        565,
+        1339
+      ],
+      "tokens": [
+        {
+          "page": 6,
+          "text": "Payeal",
+          "x0": 379,
+          "y0": 1275,
+          "x1": 565,
+          "y1": 1339
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "text": "itself lasted. \" I Transaction fees. I 363? 7/2427 ( Rare",
+      "bbox": [
+        98,
+        1300,
+        2300,
+        1400
+      ],
+      "tokens": [
+        {
+          "page": 6,
+          "text": "itself lasted. \" I Transaction fees. I 363?",
+          "x0": 98,
+          "y0": 1300,
+          "x1": 2300,
+          "y1": 1400
+        },
+        {
+          "page": 6,
+          "text": "7/2427 ( Rare",
+          "x0": 98,
+          "y0": 1300,
+          "x1": 498,
+          "y1": 1400
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "text": "Transaction fees",
+      "bbox": [
+        1284,
+        1305,
+        1856,
+        1381
+      ],
+      "tokens": [
+        {
+          "page": 6,
+          "text": "Transaction fees",
+          "x0": 1284,
+          "y0": 1305,
+          "x1": 1856,
+          "y1": 1381
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "text": "3637",
+      "bbox": [
+        2126,
+        1315,
+        2300,
+        1379
+      ],
+      "tokens": [
+        {
+          "page": 6,
+          "text": "3637",
+          "x0": 2126,
+          "y0": 1315,
+          "x1": 2300,
+          "y1": 1379
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "text": "( \" On Digital 360",
+      "bbox": [
+        356,
+        1440,
+        848,
+        1512
+      ],
+      "tokens": [
+        {
+          "page": 6,
+          "text": "( \" On Digital 360",
+          "x0": 356,
+          "y0": 1440,
+          "x1": 848,
+          "y1": 1512
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "text": "6191241 minutes. I Video Production Protocol Product to.",
+      "bbox": [
+        105,
+        1490,
+        2324,
+        1602
+      ],
+      "tokens": [
+        {
+          "page": 6,
+          "text": "6191241 minutes. I Video Production Protocol",
+          "x0": 105,
+          "y0": 1490,
+          "x1": 2324,
+          "y1": 1602
+        },
+        {
+          "page": 6,
+          "text": "Product to.",
+          "x0": 1545,
+          "y0": 1490,
+          "x1": 1874,
+          "y1": 1578
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "text": "6 jig, 4",
+      "bbox": [
+        105,
+        1494,
+        263,
+        1602
+      ],
+      "tokens": [
+        {
+          "page": 6,
+          "text": "6 jig, 4",
+          "x0": 105,
+          "y0": 1494,
+          "x1": 263,
+          "y1": 1602
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "text": "Video",
+      "bbox": [
+        1324,
+        1502,
+        1497,
+        1577
+      ],
+      "tokens": [
+        {
+          "page": 6,
+          "text": "Video",
+          "x0": 1324,
+          "y0": 1502,
+          "x1": 1497,
+          "y1": 1577
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "text": "0, 00",
+      "bbox": [
+        2186,
+        1528,
+        2324,
+        1568
+      ],
+      "tokens": [
+        {
+          "page": 6,
+          "text": "0, 00",
+          "x0": 2186,
+          "y0": 1528,
+          "x1": 2324,
+          "y1": 1568
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "text": "violate its",
+      "bbox": [
+        358,
+        1537,
+        721,
+        1595
+      ],
+      "tokens": [
+        {
+          "page": 6,
+          "text": "violate its",
+          "x0": 358,
+          "y0": 1537,
+          "x1": 721,
+          "y1": 1595
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "text": "a b. T3641 2faas",
+      "bbox": [
+        1760,
+        2155,
+        2386,
+        2283
+      ],
+      "tokens": [
+        {
+          "page": 6,
+          "text": "a b. T3641 2faas",
+          "x0": 1760,
+          "y0": 2155,
+          "x1": 2386,
+          "y1": 2283
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "text": "Complete if last page of Schedule c",
+      "bbox": [
+        866,
+        2406,
+        1612,
+        2457
+      ],
+      "tokens": [
+        {
+          "page": 6,
+          "text": "Complete if last page of Schedule c",
+          "x0": 866,
+          "y0": 2406,
+          "x1": 1612,
+          "y1": 2457
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "text": "Tourimized Expenditures This period #",
+      "bbox": [
+        329,
+        2497,
+        2388,
+        2594
+      ],
+      "tokens": [
+        {
+          "page": 6,
+          "text": "Tourimized Expenditures This period #",
+          "x0": 329,
+          "y0": 2497,
+          "x1": 2388,
+          "y1": 2594
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "text": "TourUnlemixed Expenditures of strokes.",
+      "bbox": [
+        330,
+        2583,
+        2388,
+        2675
+      ],
+      "tokens": [
+        {
+          "page": 6,
+          "text": "TourUnlemixed Expenditures of strokes.",
+          "x0": 330,
+          "y0": 2583,
+          "x1": 2388,
+          "y1": 2675
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "text": "page 5 or 6",
+      "bbox": [
+        2052,
+        2858,
+        2391,
+        2944
+      ],
+      "tokens": [
+        {
+          "page": 6,
+          "text": "page 5 or 6",
+          "x0": 2052,
+          "y0": 2858,
+          "x1": 2391,
+          "y1": 2944
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "text": "HelpLearn to editCommunity portalRecent changesUpload file",
+      "bbox": [
+        2123,
+        3190,
+        2474,
+        3219
+      ],
+      "tokens": [
+        {
+          "page": 6,
+          "text": "HelpLearn to editCommunity portalRecent changesUpload file",
+          "x0": 2123,
+          "y0": 3190,
+          "x1": 2474,
+          "y1": 3219
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "text": "# # W",
+      "bbox": [
+        0,
+        0,
+        2550,
+        3300
+      ],
+      "tokens": [
+        {
+          "page": 7,
+          "text": "# # W",
+          "x0": 0,
+          "y0": 0,
+          "x1": 2550,
+          "y1": 3300
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "text": "0 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 schedule D",
+      "bbox": [
+        64,
+        140,
+        2488,
+        3196
+      ],
+      "tokens": [
+        {
+          "page": 7,
+          "text": "0 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000",
+          "x0": 64,
+          "y0": 140,
+          "x1": 2488,
+          "y1": 3196
+        },
+        {
+          "page": 7,
+          "text": "schedule D",
+          "x0": 1062,
+          "y0": 140,
+          "x1": 1382,
+          "y1": 181
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "text": "other translations",
+      "bbox": [
+        928,
+        198,
+        1517,
+        241
+      ],
+      "tokens": [
+        {
+          "page": 7,
+          "text": "other translations",
+          "x0": 928,
+          "y0": 198,
+          "x1": 1517,
+          "y1": 241
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "text": "( Name of Candidate )",
+      "bbox": [
+        64,
+        367,
+        422,
+        406
+      ],
+      "tokens": [
+        {
+          "page": 7,
+          "text": "( Name of Candidate )",
+          "x0": 64,
+          "y0": 367,
+          "x1": 422,
+          "y1": 406
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "text": "Balance at",
+      "bbox": [
+        2135,
+        515,
+        2316,
+        544
+      ],
+      "tokens": [
+        {
+          "page": 7,
+          "text": "Balance at",
+          "x0": 2135,
+          "y0": 515,
+          "x1": 2316,
+          "y1": 544
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "text": "Name and Address... Nature of Accountor Losn Payable. \" I Close of Close of",
+      "bbox": [
+        481,
+        562,
+        2293,
+        617
+      ],
+      "tokens": [
+        {
+          "page": 7,
+          "text": "Name and Address... Nature of Accountor Losn Payable. \" I Close of",
+          "x0": 481,
+          "y0": 562,
+          "x1": 2293,
+          "y1": 617
+        },
+        {
+          "page": 7,
+          "text": "Close of",
+          "x0": 2153,
+          "y0": 562,
+          "x1": 2293,
+          "y1": 591
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "text": "Nature of Account or Loan Payable",
+      "bbox": [
+        1221,
+        570,
+        1852,
+        607
+      ],
+      "tokens": [
+        {
+          "page": 7,
+          "text": "Nature of Account or Loan Payable",
+          "x0": 1221,
+          "y0": 570,
+          "x1": 1852,
+          "y1": 607
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "text": "Name and Address",
+      "bbox": [
+        481,
+        585,
+        818,
+        617
+      ],
+      "tokens": [
+        {
+          "page": 7,
+          "text": "Name and Address",
+          "x0": 481,
+          "y0": 585,
+          "x1": 818,
+          "y1": 617
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "text": "or Loan Recetvable.. Period",
+      "bbox": [
+        1365,
+        611,
+        2278,
+        654
+      ],
+      "tokens": [
+        {
+          "page": 7,
+          "text": "or Loan Recetvable..",
+          "x0": 1365,
+          "y0": 611,
+          "x1": 2278,
+          "y1": 654
+        },
+        {
+          "page": 7,
+          "text": "Period",
+          "x0": 2164,
+          "y0": 611,
+          "x1": 2278,
+          "y1": 640
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "text": "or Loan Rece (able",
+      "bbox": [
+        1365,
+        621,
+        1708,
+        654
+      ],
+      "tokens": [
+        {
+          "page": 7,
+          "text": "or Loan Rece (able",
+          "x0": 1365,
+          "y0": 621,
+          "x1": 1708,
+          "y1": 654
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "text": "Complete if last page of Schedule D",
+      "bbox": [
+        882,
+        2747,
+        1630,
+        2800
+      ],
+      "tokens": [
+        {
+          "page": 7,
+          "text": "Complete if last page of Schedule D",
+          "x0": 882,
+          "y0": 2747,
+          "x1": 1630,
+          "y1": 2800
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "text": "pass to or & 0",
+      "bbox": [
+        2070,
+        2979,
+        2379,
+        3060
+      ],
+      "tokens": [
+        {
+          "page": 7,
+          "text": "pass to or &",
+          "x0": 2070,
+          "y0": 2979,
+          "x1": 2379,
+          "y1": 3060
+        },
+        {
+          "page": 7,
+          "text": "0",
+          "x0": 2329,
+          "y0": 2979,
+          "x1": 2379,
+          "y1": 3055
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "text": "b",
+      "bbox": [
+        2174,
+        2996,
+        2211,
+        3060
+      ],
+      "tokens": [
+        {
+          "page": 7,
+          "text": "b",
+          "x0": 2174,
+          "y0": 2996,
+          "x1": 2211,
+          "y1": 3060
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "text": "of",
+      "bbox": [
+        2274,
+        3020,
+        2310,
+        3048
+      ],
+      "tokens": [
+        {
+          "page": 7,
+          "text": "of",
+          "x0": 2274,
+          "y0": 3020,
+          "x1": 2310,
+          "y1": 3048
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "text": "Page",
+      "bbox": [
+        2070,
+        3024,
+        2146,
+        3057
+      ],
+      "tokens": [
+        {
+          "page": 7,
+          "text": "Page",
+          "x0": 2070,
+          "y0": 3024,
+          "x1": 2146,
+          "y1": 3057
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "text": "2nd century aa",
+      "bbox": [
+        2197,
+        3178,
+        2488,
+        3196
+      ],
+      "tokens": [
+        {
+          "page": 7,
+          "text": "2nd century",
+          "x0": 2197,
+          "y0": 3178,
+          "x1": 2488,
+          "y1": 3196
+        },
+        {
+          "page": 7,
+          "text": "aa",
+          "x0": 2197,
+          "y0": 3178,
+          "x1": 2488,
+          "y1": 3196
+        }
+      ]
+    }
+  ]
+}

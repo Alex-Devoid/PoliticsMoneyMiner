@@ -1,0 +1,40 @@
+{
+  "candidate": {
+    "name": "RYAN BATY",
+    "address": "10701 W 69TH ST N",
+    "city": "MAIZE",
+    "county": "SEDGWICK",
+    "office_sought": "COUNTY COMMISSION",
+    "district": "4",
+    "_page": 4
+  },
+  "summary": {
+    "cash_on_hand_beginning": 753.71,
+    "total_contributions": null,
+    "cash_available": 753.71,
+    "total_expenditures": 284.0,
+    "cash_on_hand_close": 469.71,
+    "other_transactions": 17450.0,
+    "_page": 4
+  },
+  "contributions": [],
+  "expenditures": [],
+  "other_transactions": [
+    {
+      "_page": 4,
+      "date": "11/28/22",
+      "creditor": "RYAN BATY",
+      "purpose": "LOAN TO CAMPAIGN",
+      "balance": 17450
+    }
+  ],
+  "in_kind_contributions": [],
+  "total_unitemized_contributions": {
+    "value": null,
+    "_page": 2
+  },
+  "total_itemized_receipts": {
+    "value": null,
+    "_page": 2
+  }
+}

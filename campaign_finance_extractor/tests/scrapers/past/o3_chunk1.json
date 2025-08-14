@@ -1,0 +1,420 @@
+{
+  "candidate": {
+    "name": "Jared Cerullo",
+    "bbox": null,
+    "address": "6316 S Madison St",
+    "city": "Wichita",
+    "zip": "67216",
+    "county": "Sedgwick",
+    "office_sought": "City of Wichita - City Council",
+    "district": "3"
+  },
+  "summary": {
+    "cash_on_hand_beginning": 2000.0,
+    "bbox": null,
+    "total_contributions": 10811.2,
+    "cash_available": 12811.2,
+    "total_expenditures": 3463.36,
+    "cash_on_hand_close": 9347.84,
+    "in_kind_contributions": 0.0,
+    "other_transactions": 0.0
+  },
+  "contributions": [
+    {
+      "date": "06/29/21",
+      "bbox": [
+        2213,
+        804,
+        2357,
+        842
+      ],
+      "contributor": "Regency 21, LLC",
+      "address": "150 N. Market St. Wichita, KS 67202",
+      "occupation": "real estate",
+      "amount": 500.0
+    },
+    {
+      "date": "06/29/21",
+      "bbox": [
+        2215,
+        984,
+        2360,
+        1022
+      ],
+      "contributor": "Wichita Crossing, LLC",
+      "address": "150 N. Market St. Wichita, KS 67202",
+      "occupation": "real estate",
+      "amount": 500.0
+    },
+    {
+      "date": "06/29/21",
+      "bbox": [
+        2219,
+        1169,
+        2363,
+        1206
+      ],
+      "contributor": "Main Street Partners, LLC",
+      "address": "150 N. Market St. Wichita, KS 67202",
+      "occupation": "real estate",
+      "amount": 500.0
+    },
+    {
+      "date": "06/30/21",
+      "bbox": [
+        2221,
+        1350,
+        2365,
+        1388
+      ],
+      "contributor": "J Russell Communities LLC",
+      "address": "PO Box 75337 Wichita, KS 67275",
+      "occupation": "developer",
+      "amount": 500.0
+    },
+    {
+      "date": "06/30/21",
+      "bbox": [
+        2221,
+        1532,
+        2366,
+        1569
+      ],
+      "contributor": "Jay Russell Devel & Mgmt, Inc.",
+      "address": "PO Box 75337 Wichita, KS 67275",
+      "occupation": "developer",
+      "amount": 500.0
+    },
+    {
+      "date": "07/01/21",
+      "bbox": [
+        2224,
+        1712,
+        2369,
+        1748
+      ],
+      "contributor": "Tow Service, Inc.",
+      "address": "3760 S. Broadway Wichita, KS 67216",
+      "occupation": "vehicle towing",
+      "amount": 500.0
+    },
+    {
+      "date": "07/01/21",
+      "bbox": [
+        2228,
+        1896,
+        2373,
+        1932
+      ],
+      "contributor": "Ken's Auto Tow, Inc.",
+      "address": "3760 S. Broadway Wichita, KS 67216",
+      "occupation": "vehicle towing/service",
+      "amount": 500.0
+    },
+    {
+      "date": "07/01/21",
+      "bbox": [
+        2234,
+        2073,
+        2378,
+        2110
+      ],
+      "contributor": "Reliable Towing of Wichita, LLC",
+      "address": "3760 S. Broadway Wichita, KS 67216",
+      "occupation": "vehicle towing",
+      "amount": 500.0
+    },
+    {
+      "date": "07/06/21",
+      "bbox": [
+        2232,
+        2258,
+        2377,
+        2295
+      ],
+      "contributor": "Don Sherman",
+      "address": "100 N. Broadway Wichita, KS 67202",
+      "occupation": "human resources",
+      "amount": 250.0
+    },
+    {
+      "date": "07/07/21",
+      "bbox": [
+        2238,
+        2441,
+        2383,
+        2477
+      ],
+      "contributor": "Brandy Miller",
+      "address": "2911 S. Illinois Pl. Chandler, AZ 85286",
+      "occupation": "engineering",
+      "amount": 250.0
+    },
+    {
+      "date": "05/20/21",
+      "bbox": [
+        2237,
+        2615,
+        2382,
+        2651
+      ],
+      "contributor": "Joshua Kippenberger",
+      "address": "500 S. Topeka Wichita, KS 67202",
+      "occupation": "engineering",
+      "amount": 500.0
+    },
+    {
+      "date": "07/12/21",
+      "bbox": [
+        2219,
+        805,
+        2363,
+        842
+      ],
+      "contributor": "Summit Holdings",
+      "address": "741 W. 2nd St. N. Wichita, KS 67203",
+      "occupation": "property management",
+      "amount": 500.0
+    },
+    {
+      "date": "07/14/21",
+      "bbox": null,
+      "contributor": "Marketplace Properties",
+      "address": "151 N. Rock Island Ste. 1A Wichita, KS 67202",
+      "occupation": "property management",
+      "amount": 500.0
+    },
+    {
+      "date": "5/26/21",
+      "bbox": null,
+      "contributor": "Max A Cohen Trust",
+      "address": "Wichita, KS",
+      "occupation": "developer",
+      "amount": 500.0
+    },
+    {
+      "date": "5/26/21",
+      "bbox": null,
+      "contributor": "Sixty-Four Hundred LLC",
+      "address": "Wichita, KS",
+      "occupation": "developer",
+      "amount": 500.0
+    },
+    {
+      "date": "7/22/21",
+      "bbox": null,
+      "contributor": "Ferris Consulting",
+      "address": "Wichita, KS",
+      "occupation": "consultant",
+      "amount": 250.0
+    },
+    {
+      "date": "7/27/21",
+      "bbox": null,
+      "contributor": "Expert Auto Care",
+      "address": "Wichita, KS",
+      "occupation": "auto repair",
+      "amount": 500.0
+    },
+    {
+      "date": "01/20/21",
+      "bbox": null,
+      "contributor": "James Ludwig",
+      "address": "226 E. Prairie Point Ct. Andover, KS 67002",
+      "occupation": "retired",
+      "amount": 400.0
+    },
+    {
+      "date": "01/25/21",
+      "bbox": null,
+      "contributor": "Tom & Gerry Winters",
+      "address": "607 N. Wheatland Ave. Wichita, KS 67235",
+      "occupation": "retired",
+      "amount": 500.0
+    },
+    {
+      "date": "02/10/21",
+      "bbox": null,
+      "contributor": "Gerald Blood",
+      "address": "6346 S. Broadway Wichita, KS 67216",
+      "occupation": "retired",
+      "amount": 200.0
+    },
+    {
+      "date": "03/16/21",
+      "bbox": null,
+      "contributor": "Steven M. Johnson",
+      "address": "328 E. Prairie Point Ct. Andover, KS 67002",
+      "occupation": "medical sales",
+      "amount": 200.0
+    },
+    {
+      "date": "04/03/21",
+      "bbox": null,
+      "contributor": "David A. Doolittle",
+      "address": "PO Box 12475 Wichita, KS 67277",
+      "occupation": "in-home medical care",
+      "amount": 300.0
+    },
+    {
+      "date": "06/27/21",
+      "bbox": null,
+      "contributor": "Susan Snyder",
+      "address": "2525 N. High Point Cir. Wichita, KS 67205",
+      "occupation": "retired",
+      "amount": 200.0
+    },
+    {
+      "date": "06/29/21",
+      "bbox": null,
+      "contributor": "Venture Investments, Inc.",
+      "address": "150 N. Market St. Wichita, KS 67202",
+      "occupation": "real estate",
+      "amount": 500.0
+    },
+    {
+      "date": "06/29/21",
+      "bbox": null,
+      "contributor": "Pepper Land Company, LLC",
+      "address": "150 N. Market St. Wichita, KS 67202",
+      "occupation": "real estate",
+      "amount": 500.0
+    }
+  ],
+  "total_itemized_receipts": 10550.0,
+  "bbox": null,
+  "total_unitemized_contributions": 261.2,
+  "expenditures": [
+    {
+      "date": "1/25/21",
+      "bbox": null,
+      "name": "Walmart",
+      "address": "Wichita, KS",
+      "purpose": "Office Supplies",
+      "amount": 19.27
+    },
+    {
+      "date": "2/11/21",
+      "bbox": null,
+      "name": "Le Monde Cafe",
+      "address": "Wichita, KS",
+      "purpose": "Campaign Lunch",
+      "amount": 30.16
+    },
+    {
+      "date": "4/20/21",
+      "bbox": null,
+      "name": "Julia Burton",
+      "address": "Wichita, KS",
+      "purpose": "Website Design",
+      "amount": 260.0
+    },
+    {
+      "date": "5/4/21",
+      "bbox": null,
+      "name": "Mike Carroll",
+      "address": "Wichita, KS",
+      "purpose": "Campaign Photos",
+      "amount": 75.0
+    },
+    {
+      "date": "5/18/21",
+      "bbox": null,
+      "name": "City Blue Print",
+      "address": "Wichita, KS",
+      "purpose": "Stationary and Envelopes",
+      "amount": 538.68
+    },
+    {
+      "date": "5/26/21",
+      "bbox": null,
+      "name": "Julia Burton",
+      "address": "Wichita, KS",
+      "purpose": "Website Design/Hosting",
+      "amount": 731.01
+    },
+    {
+      "date": "6/23/21",
+      "bbox": null,
+      "name": "Tight Wrapz Print Shop",
+      "address": "Wichita, KS",
+      "purpose": "Palm Cards",
+      "amount": 300.0
+    },
+    {
+      "date": "7/6/21",
+      "bbox": null,
+      "name": "Facebook",
+      "address": null,
+      "purpose": "Social Media Ads",
+      "amount": 20.0
+    },
+    {
+      "date": "7/7/21",
+      "bbox": null,
+      "name": "Facebook",
+      "address": null,
+      "purpose": "Social Media Ads",
+      "amount": 10.0
+    },
+    {
+      "date": "7/9/21",
+      "bbox": null,
+      "name": "Tight Wrapz Print Shop",
+      "address": "Wichita, KS",
+      "purpose": "Campaign Banners",
+      "amount": 100.0
+    },
+    {
+      "date": "7/12/21",
+      "bbox": null,
+      "name": "Facebook",
+      "address": null,
+      "purpose": "Social Media Ads",
+      "amount": 15.0
+    },
+    {
+      "date": "7/20/21",
+      "bbox": null,
+      "name": "Sedgwick County Election",
+      "address": "Wichita, KS",
+      "purpose": "Voter Information",
+      "amount": 61.31
+    },
+    {
+      "date": "7/20/21",
+      "bbox": null,
+      "name": "Facebook",
+      "address": null,
+      "purpose": "Social Media Ads",
+      "amount": 5.0
+    },
+    {
+      "date": "7/21/21",
+      "bbox": null,
+      "name": "Tight Wrapz Print Shop",
+      "address": "Wichita, KS",
+      "purpose": "Yard Signs",
+      "amount": 1061.56
+    },
+    {
+      "date": "7/22/21",
+      "bbox": null,
+      "name": "Paypal",
+      "address": null,
+      "purpose": "Transaction Fees",
+      "amount": 36.37
+    },
+    {
+      "date": "6/19/21",
+      "bbox": null,
+      "name": "K & G Digital 360",
+      "address": "Wichita, KS",
+      "purpose": "Video Production",
+      "amount": 200.0
+    }
+  ],
+  "total_itemized_expenditures": 3463.36,
+  "total_unitemized_expenditures": null,
+  "other_transactions": []
+}

@@ -1,0 +1,293 @@
+{
+  "candidate": {
+    "name": {
+      "value": "Jeff Blubaugh",
+      "bbox": null
+    },
+    "address": {
+      "value": "10915 W Atlanta Cir",
+      "bbox": null
+    },
+    "city": {
+      "value": "67215",
+      "bbox": null
+    },
+    "zip": {
+      "value": "67215",
+      "bbox": null
+    },
+    "county": {
+      "value": "Sedgwick",
+      "bbox": null
+    },
+    "office_sought": {
+      "value": "County Commission",
+      "bbox": null
+    },
+    "district": {
+      "value": "II",
+      "bbox": null
+    },
+    "_page": 1
+  },
+  "summary": {
+    "cash_on_hand_beginning": {
+      "value": 0,
+      "bbox": null
+    },
+    "total_contributions": {
+      "value": 39000,
+      "bbox": null
+    },
+    "cash_available": {
+      "value": 39000,
+      "bbox": null
+    },
+    "total_expenditures": {
+      "value": 12367.7,
+      "bbox": null
+    },
+    "cash_on_hand_close": {
+      "value": 26632.3,
+      "bbox": null
+    },
+    "in_kind_contributions": {
+      "value": null,
+      "bbox": null
+    },
+    "other_transactions": {
+      "value": null,
+      "bbox": null
+    },
+    "_page": 1
+  },
+  "contributions": [],
+  "expenditures": [
+    {
+      "_page": 2,
+      "date": "5/22/23",
+      "name": "Russell Construction, LLC",
+      "address": "210 W Woodlawn Suite",
+      "purpose": null,
+      "amount": 500.0
+    },
+    {
+      "_page": 2,
+      "date": "5/22/23",
+      "name": "Russell Develop & Mgmt",
+      "address": "PO Box 75337",
+      "purpose": null,
+      "amount": 250.0
+    },
+    {
+      "_page": 2,
+      "date": "5/22/23",
+      "name": "Brand Plumbing, Inc",
+      "address": "418 S Hoover",
+      "purpose": null,
+      "amount": 500.0
+    },
+    {
+      "_page": 2,
+      "date": "5/22/23",
+      "name": "Sod & Sods Install",
+      "address": "2014 N Concordia Rd",
+      "purpose": null,
+      "amount": 500.0
+    },
+    {
+      "_page": 2,
+      "date": "5/22/23",
+      "name": "Thomas & Erwin",
+      "address": "714 E Clouddown Ct",
+      "purpose": null,
+      "amount": 250.0
+    },
+    {
+      "_page": 2,
+      "date": "6/7/23",
+      "name": "Joseph Hinzman",
+      "address": "8225 E Harry St",
+      "purpose": null,
+      "amount": 500.0
+    },
+    {
+      "_page": 2,
+      "date": "6/7/23",
+      "name": "Premier Food Service",
+      "address": "8225 E Harry St",
+      "purpose": null,
+      "amount": 500.0
+    },
+    {
+      "_page": 2,
+      "date": "6/27/23",
+      "name": "Michael Green",
+      "address": "2199 N May",
+      "purpose": null,
+      "amount": 100.0
+    },
+    {
+      "_page": 2,
+      "date": "7/7/23",
+      "name": "Colyer Hill Sudden, LLC",
+      "address": "150 N Market",
+      "purpose": null,
+      "amount": 500.0
+    },
+    {
+      "_page": 2,
+      "date": "7/12/23",
+      "name": "LSN Investments of Kansas",
+      "address": "150 N Market",
+      "purpose": null,
+      "amount": 500.0
+    },
+    {
+      "_page": 2,
+      "date": "7/20/23",
+      "name": "LSN Works, LLC",
+      "address": "1700 N Woodlawn, Suite 110",
+      "purpose": null,
+      "amount": 500.0
+    },
+    {
+      "_page": 2,
+      "date": "7/20/23",
+      "name": "Booth & LLC",
+      "address": "1700 N Woodlawn, Suite 110",
+      "purpose": null,
+      "amount": 500.0
+    },
+    {
+      "_page": 2,
+      "date": "8/7/23",
+      "name": "William Wages",
+      "address": "11114 E Central",
+      "purpose": null,
+      "amount": 500.0
+    },
+    {
+      "_page": 2,
+      "date": "9/6/23",
+      "name": "Maximus Inc",
+      "address": "9435 E Central",
+      "purpose": null,
+      "amount": 500.0
+    },
+    {
+      "_page": 2,
+      "date": "10/2/23",
+      "name": "TXM LLC",
+      "address": "9435 E Central",
+      "purpose": null,
+      "amount": 500.0
+    },
+    {
+      "_page": 2,
+      "date": "11/1/23",
+      "name": "Brooke Sheets",
+      "address": null,
+      "purpose": null,
+      "amount": 500.0
+    },
+    {
+      "_page": 2,
+      "date": "11/1/23",
+      "name": "Collison Specialties",
+      "address": null,
+      "purpose": null,
+      "amount": 500.0
+    },
+    {
+      "_page": 2,
+      "date": "11/1/23",
+      "name": "Beggars & Mob",
+      "address": "1927 N Webb Rd",
+      "purpose": null,
+      "amount": 500.0
+    },
+    {
+      "_page": 2,
+      "date": "11/4/23",
+      "name": "Beggars Gun",
+      "address": "6609 E Central",
+      "purpose": null,
+      "amount": 500.0
+    },
+    {
+      "_page": 2,
+      "date": "11/4/23",
+      "name": "Continental Fire Firm",
+      "address": null,
+      "purpose": null,
+      "amount": 500.0
+    },
+    {
+      "_page": 2,
+      "date": "11/7/23",
+      "name": "Ledo Jamback",
+      "address": "1545 N Burning St",
+      "purpose": null,
+      "amount": 500.0
+    },
+    {
+      "_page": 3,
+      "date": "07/22/23",
+      "name": "Wesley Building 7300 W 13th St, Wichita, KS 67212",
+      "address": "7300 W 13th St, Wichita, KS 67212",
+      "purpose": "Campaign work and sign order",
+      "amount": 750.0
+    },
+    {
+      "_page": 3,
+      "date": "07/23/23",
+      "name": "John Doe",
+      "address": "1234 Elm St, Anytown, KS 12345",
+      "purpose": "Campaign design/graphic work",
+      "amount": 300.0
+    },
+    {
+      "_page": 3,
+      "date": "07/24/23",
+      "name": "Jane Smith",
+      "address": "5678 Oak St, Anytown, KS 12345",
+      "purpose": "Campaign shirts",
+      "amount": 500.25
+    },
+    {
+      "_page": 3,
+      "date": "07/25/23",
+      "name": "Olive Garden",
+      "address": "1010 Olive Dr, Wichita, KS 67212",
+      "purpose": "Campaign meal",
+      "amount": 150.0
+    },
+    {
+      "_page": 3,
+      "date": "07/26/23",
+      "name": "Parade Candy",
+      "address": null,
+      "purpose": "Reimbursement for parade candy",
+      "amount": 131.15
+    },
+    {
+      "_page": 3,
+      "date": "07/27/23",
+      "name": "Campaign Energy Unit",
+      "address": null,
+      "purpose": "Campaign planning",
+      "amount": 220.0
+    },
+    {
+      "_page": 3,
+      "date": "07/28/23",
+      "name": "Lunch for Parade Attendees",
+      "address": null,
+      "purpose": "Reimbursement for shipping for parade items",
+      "amount": 158.62
+    }
+  ],
+  "other_transactions": [],
+  "in_kind_contributions": []
+}

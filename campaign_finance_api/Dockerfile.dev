@@ -1,0 +1,60 @@
+# Use the official Python 3.10 slim image for a smaller base
+FROM python:3.10-slim
+
+# Set environment variables for Python to prevent buffering and cache clutter
+ENV PYTHONUNBUFFERED=1 \
+    PYTHONDONTWRITEBYTECODE=1 \
+    PIP_NO_CACHE_DIR=1 \
+    DEBIAN_FRONTEND=noninteractive
+
+
+# Set the working directory inside the container
+WORKDIR /app
+
+# Copy requirements first to leverage Docker layer caching
+COPY requirements.txt .
+
+# Install system dependencies and Python libraries
+RUN apt-get update && \
+    apt-get install -y --no-install-recommends \
+    apt-transport-https \
+    ca-certificates \
+    gnupg \
+    curl \
+    git \
+    vim \
+    net-tools \
+    build-essential \
+    openssh-client && \
+    curl -fsSL https://packages.cloud.google.com/apt/doc/apt-key.gpg | gpg --dearmor -o /usr/share/keyrings/cloud.google.gpg && \
+    echo "deb [signed-by=/usr/share/keyrings/cloud.google.gpg] https://packages.cloud.google.com/apt cloud-sdk main" | tee -a /etc/apt/sources.list.d/google-cloud-sdk.list && \
+    apt-get update && \
+    apt-get install -y --no-install-recommends google-cloud-cli google-cloud-cli-cloud-run-proxy && \
+    pip install --no-cache-dir -r requirements.txt && \
+    pip install uvicorn[standard] watchfiles && \
+    apt-get clean && \
+    rm -rf /var/lib/apt/lists/*
+
+# Create the vscode user and configure sudoers
+# ARG USERNAME=vscode
+# ARG USER_UID=1000
+# ARG USER_GID=$USER_UID
+# RUN groupadd --gid $USER_GID $USERNAME && \
+#     useradd --uid $USER_UID --gid $USER_GID -m $USERNAME && \
+#     mkdir -p /etc/sudoers.d && \
+#     echo "$USERNAME ALL=(ALL) NOPASSWD:ALL" > /etc/sudoers.d/$USERNAME && \
+#     chmod 0440 /etc/sudoers.d/$USERNAME && \
+#     mkdir -p /root/.ssh && chmod 700 /root/.ssh
+
+# # Switch to the vscode user for running commands
+# USER $USERNAME
+
+# Copy application code into the container
+COPY . /app
+ENV ENV="development"
+# Expose the application port
+EXPOSE 8080
+
+# Set the default command to run the app
+CMD ["uvicorn", "cloud_function.main:app", "--host", "0.0.0.0", "--port", "8080","--reload", "--log-level", "debug"]
+

@@ -1,0 +1,710 @@
+{
+  "candidate": {
+    "name": {
+      "value": "Jeff Blubaugh",
+      "bbox": null
+    },
+    "address": {
+      "value": "10915 W Atlanta Cir",
+      "bbox": null
+    },
+    "city": {
+      "value": "67215",
+      "bbox": null
+    },
+    "county": {
+      "value": "Sedgwick",
+      "bbox": null
+    },
+    "office_sought": {
+      "value": "County Commission",
+      "bbox": null
+    },
+    "district": {
+      "value": "II",
+      "bbox": null
+    },
+    "_page": 1
+  },
+  "summary": {
+    "cash_on_hand_beginning": {
+      "value": 0.0,
+      "bbox": null
+    },
+    "total_contributions": {
+      "value": 39000,
+      "bbox": null
+    },
+    "cash_available": {
+      "value": 39000,
+      "bbox": null
+    },
+    "total_expenditures": {
+      "value": 12367.7,
+      "bbox": null
+    },
+    "cash_on_hand_close": {
+      "value": 26632.3,
+      "bbox": null
+    },
+    "in_kind_contributions": {
+      "value": null,
+      "bbox": null
+    },
+    "other_transactions": {
+      "value": null,
+      "bbox": null
+    },
+    "_page": 1
+  },
+  "contributions": [
+    {
+      "_page": 2,
+      "date": "2/22/23",
+      "contributor": "Young America Insurance Agency",
+      "address": {
+        "value": "1200 East Santa Fe",
+        "bbox": null
+      },
+      "occupation": null,
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "2/22/23",
+      "contributor": "Vanguard Energy Company",
+      "address": {
+        "value": "1916 E. Henry, Apt #03",
+        "bbox": null
+      },
+      "occupation": null,
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "2/27/23",
+      "contributor": "Rajar, LLC",
+      "address": {
+        "value": "PO Box 7007",
+        "bbox": null
+      },
+      "occupation": null,
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "3/2/23",
+      "contributor": "William Powel",
+      "address": {
+        "value": "1820 N. Mahan Ave",
+        "bbox": null
+      },
+      "occupation": null,
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "3/2/23",
+      "contributor": "William Powel",
+      "address": {
+        "value": "PO Box 7507",
+        "bbox": null
+      },
+      "occupation": null,
+      "amount": 500
+    }
+  ],
+  "expenditures": [
+    {
+      "_page": 3,
+      "date": "6/24/22",
+      "name": "Russell Construction, LLC",
+      "address": {
+        "value": "210 W Woodrow Wilson Suite",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "6/24/22",
+      "name": "Russell Develop & Mgmt",
+      "address": {
+        "value": "PO Box 15337",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "6/24/22",
+      "name": "Band Plumbing, Inc.",
+      "address": {
+        "value": "218 S Hoover",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "6/24/22",
+      "name": "Soda & Kake Russell",
+      "address": {
+        "value": "PO Box 15337",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 250
+    },
+    {
+      "_page": 3,
+      "date": "6/24/22",
+      "name": "Thomas E Blevins",
+      "address": {
+        "value": "PO Box 15337",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 250
+    },
+    {
+      "_page": 3,
+      "date": "6/24/22",
+      "name": "Joseph Hineman",
+      "address": {
+        "value": "6225 W Irving St",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "6/24/22",
+      "name": "Premier Food Services",
+      "address": {
+        "value": "5555 E 34th St N 100",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "6/27/22",
+      "name": "Wichita Window Coverings, LLC",
+      "address": {
+        "value": "1730 S Maize",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "7/20/22",
+      "name": "Celophay Hill Sugars, LLC",
+      "address": {
+        "value": "LNS Enterprises of Kansas, LLC",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "7/20/22",
+      "name": "RML Ventures Company, LLC",
+      "address": {
+        "value": "150 N Market St",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "7/20/22",
+      "name": "Book L.C.",
+      "address": {
+        "value": "150 N Market St",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "8/7/22",
+      "name": "William Hayes",
+      "address": {
+        "value": "2417 W 10th",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "9/30/22",
+      "name": "VSK, LLC",
+      "address": {
+        "value": "9345 E Central",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "11/1/22",
+      "name": "Monica Sheets",
+      "address": {
+        "value": "4025 Broadway Ave",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "11/1/22",
+      "name": "Coleman Specialist",
+      "address": {
+        "value": "8922 N Webb Rd",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "7/12/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Wells Fargo Bank NA",
+        "bbox": null
+      },
+      "address": {
+        "value": "3300 N. Broadway Wichita, KS 67226",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Campaign Design & Mailing",
+        "bbox": null
+      },
+      "amount": {
+        "value": 5686.89,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "7/12/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Office Depot",
+        "bbox": null
+      },
+      "address": {
+        "value": "3035 N. Rock Rd., Wichita, KS 67226",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Campaign Supplies",
+        "bbox": null
+      },
+      "amount": {
+        "value": 1616.07,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "7/12/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Kansas Democratic Party",
+        "bbox": null
+      },
+      "address": {
+        "value": "501 SE Jefferson St., Topeka, KS 66607",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Dues & Voice Group",
+        "bbox": null
+      },
+      "amount": {
+        "value": 1565.0,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "7/12/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Credit Union of America",
+        "bbox": null
+      },
+      "address": {
+        "value": "106 S. Ridge Rd., Wichita, KS 67209",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Logo Design & Campaign Work",
+        "bbox": null
+      },
+      "amount": {
+        "value": 1782.3,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "7/12/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Credit Union of America",
+        "bbox": null
+      },
+      "address": {
+        "value": "106 S. Ridge Rd., Wichita, KS 67209",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Campaign & Shirts",
+        "bbox": null
+      },
+      "amount": {
+        "value": 1939.0,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "7/12/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Credit Union of America",
+        "bbox": null
+      },
+      "address": {
+        "value": "106 S. Ridge Rd., Wichita, KS 67209",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Campaign & Shirts",
+        "bbox": null
+      },
+      "amount": {
+        "value": 5767.0,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "7/12/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Wells Fargo Bank NA",
+        "bbox": null
+      },
+      "address": {
+        "value": "3300 N. Broadway Wichita, KS 67226",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Campaign Management",
+        "bbox": null
+      },
+      "amount": {
+        "value": 2228.28,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "7/12/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Village Inn",
+        "bbox": null
+      },
+      "address": {
+        "value": "3535 S. Meridian Wichita, KS 67217",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Campaign Strategy Lunch",
+        "bbox": null
+      },
+      "amount": {
+        "value": 32.5,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "7/12/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Kansas Democratic Party",
+        "bbox": null
+      },
+      "address": {
+        "value": "501 SE Jefferson St., Topeka, KS 66607",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Reimbursement for Parade Candy",
+        "bbox": null
+      },
+      "amount": {
+        "value": 3143.15,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "7/12/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Credit Union of America",
+        "bbox": null
+      },
+      "address": {
+        "value": "106 S. Ridge Rd., Wichita, KS 67209",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Reimbursement for Parade Volunteers & Olive Garden Lunch",
+        "bbox": null
+      },
+      "amount": {
+        "value": 1939.52,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "7/12/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Kansas Democratic Party",
+        "bbox": null
+      },
+      "address": {
+        "value": "501 SE Jefferson St., Topeka, KS 66607",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Reimbursement for Campaign Letters",
+        "bbox": null
+      },
+      "amount": {
+        "value": 1320.0,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "7/12/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Topeka Blueprint",
+        "bbox": null
+      },
+      "address": {
+        "value": "1515 E. 10th St., Topeka, KS 66607",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Campaign Work and Parade Accessories",
+        "bbox": null
+      },
+      "amount": {
+        "value": 5186.02,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "7/12/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Topeka Blueprint",
+        "bbox": null
+      },
+      "address": {
+        "value": "1515 E. 10th St., Topeka, KS 66607",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Campaign Accessories",
+        "bbox": null
+      },
+      "amount": {
+        "value": 5193.0,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "7/12/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Wells Fargo Bank NA",
+        "bbox": null
+      },
+      "address": {
+        "value": "3300 N. Broadway Wichita, KS 67226",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Campaign & Shirts",
+        "bbox": null
+      },
+      "amount": {
+        "value": 1110.75,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "7/12/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Topeka Blueprint",
+        "bbox": null
+      },
+      "address": {
+        "value": "1515 E. 10th St., Topeka, KS 66607",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Reimbursement for Community Clean Up",
+        "bbox": null
+      },
+      "amount": {
+        "value": 1151.17,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 6,
+      "date": {
+        "value": "11/02/22",
+        "bbox": null
+      },
+      "name": {
+        "value": "Wichita Independent Business Association",
+        "bbox": null
+      },
+      "address": {
+        "value": "100 N Broadway St Ste, Wichita, KS 67202",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": {
+        "value": 1250.0,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 6,
+      "date": {
+        "value": "12/08/22",
+        "bbox": null
+      },
+      "name": {
+        "value": "Pay Pal",
+        "bbox": null
+      },
+      "address": {
+        "value": "2211 N 1st St, San Jose, CA 95131",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Pay Pal Charge for Contribution",
+        "bbox": null
+      },
+      "amount": {
+        "value": 11.5,
+        "bbox": null
+      }
+    }
+  ],
+  "other_transactions": [
+    {
+      "_page": 4,
+      "date": "12/22/22",
+      "creditor": "D Craig Nelson",
+      "purpose": null,
+      "balance": 5000.0
+    },
+    {
+      "_page": 4,
+      "date": "12/22/22",
+      "creditor": "BHL LLC Cooks Heating & Cooling",
+      "purpose": null,
+      "balance": 5000.0
+    },
+    {
+      "_page": 4,
+      "date": "12/22/22",
+      "creditor": "Bob and Virginia Traechel",
+      "purpose": null,
+      "balance": 5000.0
+    },
+    {
+      "_page": 4,
+      "date": "12/22/22",
+      "creditor": "Loop Family Entertainment",
+      "purpose": null,
+      "balance": 5000.0
+    },
+    {
+      "_page": 4,
+      "date": "12/22/22",
+      "creditor": "BEBE, LLC",
+      "purpose": null,
+      "balance": 5000.0
+    }
+  ],
+  "in_kind_contributions": []
+}

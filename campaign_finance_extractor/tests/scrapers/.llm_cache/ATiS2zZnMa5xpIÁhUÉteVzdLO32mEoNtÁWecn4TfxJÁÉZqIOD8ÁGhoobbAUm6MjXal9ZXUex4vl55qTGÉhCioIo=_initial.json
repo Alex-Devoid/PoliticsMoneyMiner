@@ -1,0 +1,91 @@
+{
+  "candidate": {
+    "name": "Jared Cerullo",
+    "address": "6316 S. Madison St.",
+    "city": "Wichita",
+    "zip": "67216",
+    "county": "Sedgwick",
+    "office_sought": "Mayor",
+    "district": "Wichita",
+    "_page": 3
+  },
+  "summary": {
+    "cash_on_hand_beginning": null,
+    "total_contributions": null,
+    "cash_available": null,
+    "total_expenditures": null,
+    "cash_on_hand_close": null,
+    "in_kind_contributions": 5372.44,
+    "other_transactions": 5372.44,
+    "_page": 3
+  },
+  "contributions": [],
+  "expenditures": [],
+  "other_transactions": [
+    {
+      "_page": 3,
+      "date": "8/10/23",
+      "creditor": "Jared Cerullo",
+      "purpose": "Loan payable to Jared Cerullo to cover expenses for 2023 mayoral campaign",
+      "balance": 5372.44
+    },
+    {
+      "_page": 3,
+      "date": "8/11/23",
+      "creditor": "Jared Cerullo",
+      "purpose": "Forgiveness of loan paid on 8/10/23",
+      "balance": 0.0
+    }
+  ],
+  "in_kind_contributions": [
+    {
+      "_page": 2,
+      "date": "1/13/23",
+      "contributor": "Jared Cerullo",
+      "description": "copies for petition",
+      "value": 13.0
+    },
+    {
+      "_page": 2,
+      "date": "2/23/23",
+      "contributor": "Jared Cerullo",
+      "description": "voter data registration list",
+      "value": 61.31
+    },
+    {
+      "_page": 2,
+      "date": "3/26/23",
+      "contributor": "Jared Cerullo",
+      "description": "printer ink",
+      "value": 80.82
+    },
+    {
+      "_page": 2,
+      "date": "5/19/23",
+      "contributor": "Jared Cerullo",
+      "description": "notary public fee",
+      "value": 10.0
+    },
+    {
+      "_page": 2,
+      "date": "5/24/23",
+      "contributor": "Jared Cerullo",
+      "description": "filing fee",
+      "value": 51.1
+    },
+    {
+      "_page": 2,
+      "date": "7/19/23",
+      "contributor": "Jared Cerullo",
+      "description": "voter data advance ballot list",
+      "value": 120.0
+    },
+    {
+      "_page": 2,
+      "date": "7/11/23",
+      "contributor": "Jared Cerullo",
+      "description": "campaign letter palm cards mailer",
+      "value": 5036.21
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "name": "Shelia Davis Rayman",
+    "address": "3215 E 16th St N",
+    "city": "Wichita",
+    "zip": "67208",
+    "county": "Sedgwick",
+    "office_sought": "Mayor",
+    "district": "CCD 1",
+    "_page": 1
+  },
+  "summary": {
+    "cash_on_hand_beginning": null,
+    "total_contributions": null,
+    "cash_available": null,
+    "total_expenditures": null,
+    "cash_on_hand_close": null,
+    "in_kind_contributions": null,
+    "other_transactions": null,
+    "_page": 1
+  },
+  "contributions": [],
+  "expenditures": [],
+  "other_transactions": [],
+  "in_kind_contributions": []
+}

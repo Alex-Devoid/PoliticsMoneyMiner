@@ -1,0 +1,87 @@
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+
+# Virtual environment
+venv/
+*/.env
+*.env
+*.venv
+*/Pipfile
+*/Pipfile.lock
+
+# macOS
+.DS_Store
+
+# Pytest and Test Cache
+*/.pytest_cache/
+.scraped_data.json  # Exclude test data output
+
+# Google Cloud & Firestore Emulator
+firebase-debug.log
+.cloud/
+gcloud-debug.log
+firestore-emulator/
+firebase-export.json
+
+# GitHub Actions / CI/CD specific
+.github/workflows/*.log
+.github/workflows/*.cache
+.github/workflows/*.tmp
+
+# Ignore Docker-related files (if used for Cloud Run)
+*.dockerignore
+docker-compose.override.yml
+.envrc
+create_firestore_reaser_sa.sh
+meetings_auth_sa.sh
+*.sh
+c.sh
+github_setup.sh
+*/github_setup.sh
+deploy_meetings.sh
+cloud_function/routes/iap_auth.py
+
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+*/node_modules
+*/dist
+*/dist-ssr
+*.local
+*/.env
+*/.env.dev
+# Editor directories and files
+*/.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.env
+.nuxt
+# Nuxt build and cache directories
+*/.nuxt
+*/node_modules
+*/dist
+github_setup.sh
+setup_fronted_sa.sh
+c.sh
+c.sh
+
+
+campaign_finance_extractor/trocr-cache/models--microsoft--trocr-small-handwritten/*

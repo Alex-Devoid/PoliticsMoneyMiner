@@ -1,0 +1,661 @@
+{
+  "candidate": {
+    "name": "Jeff Blubaugh",
+    "address": {
+      "value": "10915 W Atlanta Cir",
+      "bbox": null
+    },
+    "city": {
+      "value": "Wichita",
+      "bbox": null
+    },
+    "zip": {
+      "value": "67215",
+      "bbox": null
+    },
+    "county": {
+      "value": "Sedgwick",
+      "bbox": null
+    },
+    "office_sought": {
+      "value": "County Commission",
+      "bbox": null
+    },
+    "district": {
+      "value": "II",
+      "bbox": null
+    },
+    "_page": 9
+  },
+  "summary": {
+    "cash_on_hand_beginning": {
+      "value": 26632.3,
+      "bbox": null
+    },
+    "total_contributions": {
+      "value": 32745.0,
+      "bbox": null
+    },
+    "cash_available": {
+      "value": 59377.3,
+      "bbox": null
+    },
+    "total_expenditures": {
+      "value": 12145.84,
+      "bbox": null
+    },
+    "cash_on_hand_close": {
+      "value": 47231.46,
+      "bbox": null
+    },
+    "in_kind_contributions": {
+      "value": 317.33,
+      "bbox": null
+    },
+    "other_transactions": {
+      "value": 0,
+      "bbox": null
+    },
+    "_page": 9
+  },
+  "contributions": [],
+  "expenditures": [
+    {
+      "_page": 8,
+      "date": {
+        "value": "3/25/24",
+        "bbox": null
+      },
+      "name": {
+        "value": "Wichita Chamber 350 W Douglas",
+        "bbox": null
+      },
+      "address": {
+        "value": "Wichita, KS 67202",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Chamber civic lunch",
+        "bbox": null
+      },
+      "amount": {
+        "value": 60.0,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 8,
+      "date": {
+        "value": "3/25/24",
+        "bbox": null
+      },
+      "name": {
+        "value": "Wichita Chamber 350 W Douglas",
+        "bbox": null
+      },
+      "address": {
+        "value": "Wichita, KS 67202",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Chamber Networking breakfast",
+        "bbox": null
+      },
+      "amount": {
+        "value": 20.0,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 8,
+      "date": {
+        "value": "3/25/24",
+        "bbox": null
+      },
+      "name": {
+        "value": "Wichita Chamber 350 W Douglas",
+        "bbox": null
+      },
+      "address": {
+        "value": "Wichita, KS 67202",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Chamber Networking event",
+        "bbox": null
+      },
+      "amount": {
+        "value": 10.0,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 8,
+      "date": {
+        "value": "3/27/24",
+        "bbox": null
+      },
+      "name": {
+        "value": "Women in Commercial Real Estate, 701 E Douglas Ave.",
+        "bbox": null
+      },
+      "address": {
+        "value": "Wichita, KS 67202",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Community Connect event",
+        "bbox": null
+      },
+      "amount": {
+        "value": 35.0,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 8,
+      "date": {
+        "value": "4/2/24",
+        "bbox": null
+      },
+      "name": {
+        "value": "Wichita Crime Commission 100 S Main St.",
+        "bbox": null
+      },
+      "address": {
+        "value": "Wichita, KS 67202",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Quarty Lunches Jan., Feb., Mar $20 Each",
+        "bbox": null
+      },
+      "amount": {
+        "value": 60.0,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 8,
+      "date": {
+        "value": "4/3/24",
+        "bbox": null
+      },
+      "name": {
+        "value": "WIBA N Broadway St Ste. L105,",
+        "bbox": null
+      },
+      "address": {
+        "value": "Wichita, KS 67202",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Monthly Lunch",
+        "bbox": null
+      },
+      "amount": {
+        "value": 25.0,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 8,
+      "date": {
+        "value": "4/11/24",
+        "bbox": null
+      },
+      "name": {
+        "value": "City Elders P.O. Box 87, Benton KS 67017",
+        "bbox": null
+      },
+      "address": null,
+      "purpose": {
+        "value": "Network Political Dinner",
+        "bbox": null
+      },
+      "amount": {
+        "value": 25.0,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 8,
+      "date": {
+        "value": "4/19/24",
+        "bbox": null
+      },
+      "name": {
+        "value": "JABU Design Julie Button 8302 E Old Mill ST Wichita, KS 67226",
+        "bbox": null
+      },
+      "address": null,
+      "purpose": {
+        "value": "Campaign work, banner, website",
+        "bbox": null
+      },
+      "amount": {
+        "value": 1033.56,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 8,
+      "date": {
+        "value": "4/22/24",
+        "bbox": null
+      },
+      "name": {
+        "value": "Kurt Siragest Shurtz Apparel 4520 E Mt Vernon St Wichita, KS 67218",
+        "bbox": null
+      },
+      "address": null,
+      "purpose": {
+        "value": "Campaign Shirts",
+        "bbox": null
+      },
+      "amount": {
+        "value": 806.25,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 8,
+      "date": {
+        "value": "4/22/24",
+        "bbox": null
+      },
+      "name": {
+        "value": "Pay Pal 2211 N 1st St. San Jose, CA 95123",
+        "bbox": null
+      },
+      "address": null,
+      "purpose": {
+        "value": "Pay Pal Charge for contribution",
+        "bbox": null
+      },
+      "amount": {
+        "value": 3.38,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 8,
+      "date": {
+        "value": "5/2/24",
+        "bbox": null
+      },
+      "name": {
+        "value": "Twelve Restaurant 12111 W Maple St #121, Wichita, KS 67235",
+        "bbox": null
+      },
+      "address": null,
+      "purpose": {
+        "value": "Campaign lunch Logan Patrick",
+        "bbox": null
+      },
+      "amount": {
+        "value": 70.69,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 8,
+      "date": {
+        "value": "5/9/24",
+        "bbox": null
+      },
+      "name": {
+        "value": "Pay Pal 2211 N 1st St. San Jose, CA",
+        "bbox": null
+      },
+      "address": null,
+      "purpose": {
+        "value": "Pay Pal Charge for contribution",
+        "bbox": null
+      },
+      "amount": {
+        "value": 13.94,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 8,
+      "date": {
+        "value": "5/9/24",
+        "bbox": null
+      },
+      "name": {
+        "value": "Meghan Blubaugh 10915 W Atlanta Circle Wichita, KS 67215",
+        "bbox": null
+      },
+      "address": null,
+      "purpose": {
+        "value": "Reimbursment for Stamps",
+        "bbox": null
+      },
+      "amount": {
+        "value": 120.0,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 8,
+      "date": {
+        "value": "5/20/24",
+        "bbox": null
+      },
+      "name": {
+        "value": "Victory Visions, LLC 9901 Hoover Road. Peck KS 67120",
+        "bbox": null
+      },
+      "address": null,
+      "purpose": {
+        "value": "Campaign Consulting",
+        "bbox": null
+      },
+      "amount": {
+        "value": 923.0,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 8,
+      "date": {
+        "value": "5/26/24",
+        "bbox": null
+      },
+      "name": {
+        "value": "Pay Pal 2211 N 1st St, San Jose, CA 95123",
+        "bbox": null
+      },
+      "address": null,
+      "purpose": {
+        "value": "Pay Pal Charge for contribution",
+        "bbox": null
+      },
+      "amount": {
+        "value": 1.94,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 8,
+      "date": {
+        "value": "5/26/24",
+        "bbox": null
+      },
+      "name": {
+        "value": "Titan Signs 1455 S Washington St., Wichita, KS 67211",
+        "bbox": null
+      },
+      "address": null,
+      "purpose": {
+        "value": "Campaign Signs",
+        "bbox": null
+      },
+      "amount": {
+        "value": 494.5,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 8,
+      "date": {
+        "value": "5/26/24",
+        "bbox": null
+      },
+      "name": {
+        "value": "Kurt Siragest Shurtz Apparel 4520 E Mt Vernon St Wichita, KS 67218",
+        "bbox": null
+      },
+      "address": null,
+      "purpose": {
+        "value": "Campaign Shirts",
+        "bbox": null
+      },
+      "amount": {
+        "value": 434.3,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 8,
+      "date": {
+        "value": "6/4/24",
+        "bbox": null
+      },
+      "name": {
+        "value": "Sandbox Derby KS 2412 N Rock Rd, Derby, KS 67037",
+        "bbox": null
+      },
+      "address": null,
+      "purpose": {
+        "value": "Lunch for campaign workers",
+        "bbox": null
+      },
+      "amount": {
+        "value": 68.72,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 8,
+      "date": {
+        "value": "6/17/24",
+        "bbox": null
+      },
+      "name": {
+        "value": "U.S. Logo 520 N West St, Wichita, KS 67203",
+        "bbox": null
+      },
+      "address": null,
+      "purpose": {
+        "value": "Campaign Signs",
+        "bbox": null
+      },
+      "amount": {
+        "value": 1075.0,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 8,
+      "date": {
+        "value": "6/20/24",
+        "bbox": null
+      },
+      "name": {
+        "value": "Jabu Design Julie Button 8302 E Old Mill ST Wichita, KS 67226",
+        "bbox": null
+      },
+      "address": null,
+      "purpose": {
+        "value": "Campaign Management Work",
+        "bbox": null
+      },
+      "amount": {
+        "value": 2170.4,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 8,
+      "date": {
+        "value": "6/24/24",
+        "bbox": null
+      },
+      "name": {
+        "value": "Monarch 579 W Douglas Wichita, KS 67213",
+        "bbox": null
+      },
+      "address": null,
+      "purpose": {
+        "value": "Campaign lunch Logan Patrick",
+        "bbox": null
+      },
+      "amount": {
+        "value": 33.27,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 8,
+      "date": {
+        "value": "6/25/24",
+        "bbox": null
+      },
+      "name": {
+        "value": "Titan Signs 1455 S Washington St., Wichita, KS 67211",
+        "bbox": null
+      },
+      "address": null,
+      "purpose": {
+        "value": "Campaign Signs",
+        "bbox": null
+      },
+      "amount": {
+        "value": 1386.75,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 8,
+      "date": {
+        "value": "6/25/24",
+        "bbox": null
+      },
+      "name": {
+        "value": "Westlake Ace Hardware 8829 W Central Ave Wichita, KS 67212",
+        "bbox": null
+      },
+      "address": null,
+      "purpose": {
+        "value": "Sign Hardware",
+        "bbox": null
+      },
+      "amount": {
+        "value": 69.68,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 8,
+      "date": {
+        "value": "6/25/24",
+        "bbox": null
+      },
+      "name": {
+        "value": "Pay Pal 2211 N 1st St. San Jose, CA 95123",
+        "bbox": null
+      },
+      "address": null,
+      "purpose": {
+        "value": "Pay Pal Charge for contribution",
+        "bbox": null
+      },
+      "amount": {
+        "value": 3.38,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 9,
+      "date": "7/1/24",
+      "name": "Pay Pal 2211 N 1st St, San Jose, CA 95123",
+      "address": null,
+      "purpose": "Pay Pal Charge for contribution",
+      "amount": 14.94
+    },
+    {
+      "_page": 9,
+      "date": "7/2/24",
+      "name": "US Logo 520 N West St. Wichita, KS 67203",
+      "address": null,
+      "purpose": "Campaign Signs",
+      "amount": 537.5
+    },
+    {
+      "_page": 9,
+      "date": "7/2/24",
+      "name": "Candle Club",
+      "address": null,
+      "purpose": "Campaign lunch Logan Patrick",
+      "amount": 49.46
+    },
+    {
+      "_page": 9,
+      "date": "7/8/24",
+      "name": "Pay Pal 2211 N 1st St, San Jose, CA 95123",
+      "address": null,
+      "purpose": "Pay Pal Charge for contribution",
+      "amount": 14.94
+    },
+    {
+      "_page": 9,
+      "date": "7/10/24",
+      "name": "Pay Pal 2211 N 1st St, San Jose, CA 95123",
+      "address": null,
+      "purpose": "Pay Pal Charge for contribution",
+      "amount": 6.27
+    },
+    {
+      "_page": 9,
+      "date": "7/12/24",
+      "name": "Pay Pal 2211 N 1st St, San Jose, CA 95123",
+      "address": null,
+      "purpose": "Pay Pal Charge for contribution",
+      "amount": 9.16
+    },
+    {
+      "_page": 9,
+      "date": "7/20/24",
+      "name": "Pay Pal 2211 N 1st St, San Jose, CA 95123",
+      "address": null,
+      "purpose": "Pay Pal Charge for contribution",
+      "amount": 14.94
+    },
+    {
+      "_page": 9,
+      "date": "7/20/24",
+      "name": "Pay Pal 2211 N 1st St, San Jose, CA 95123",
+      "address": null,
+      "purpose": "Pay Pal Charge for contribution",
+      "amount": 4.83
+    },
+    {
+      "_page": 9,
+      "date": "7/21/24",
+      "name": "Pay Pal 2211 N 1st St, San Jose, CA 95123",
+      "address": null,
+      "purpose": "Pay Pal Charge for contribution",
+      "amount": 1.94
+    },
+    {
+      "_page": 9,
+      "date": "7/23/24",
+      "name": "Pay Pal 2211 N 1st St, San Jose, CA 95123",
+      "address": null,
+      "purpose": "Pay Pal Charge for contribution",
+      "amount": 7.72
+    },
+    {
+      "_page": 9,
+      "date": "7/24/24",
+      "name": "Pay Pal 2211 N 1st St, San Jose, CA 95123",
+      "address": null,
+      "purpose": "Pay Pal Charge for contribution",
+      "amount": 14.94
+    }
+  ],
+  "other_transactions": [],
+  "in_kind_contributions": [
+    {
+      "_page": 6,
+      "date": "6/25/24",
+      "contributor": "Bryan Frye",
+      "description": "Food / Decor for fundraiser",
+      "value": 317.33
+    }
+  ],
+  "total_itemized_expenditures": 12145.84
+}

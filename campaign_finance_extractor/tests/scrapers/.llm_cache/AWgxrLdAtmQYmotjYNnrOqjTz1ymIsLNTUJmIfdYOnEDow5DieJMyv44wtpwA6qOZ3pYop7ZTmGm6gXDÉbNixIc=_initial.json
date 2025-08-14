@@ -1,0 +1,141 @@
+{
+  "candidate": {
+    "name": {
+      "value": "Jeff Blubaugh",
+      "bbox": null
+    },
+    "address": {
+      "value": "10915 W Atlanta Cir",
+      "bbox": null
+    },
+    "city": {
+      "value": "Wichita",
+      "bbox": null
+    },
+    "zip": {
+      "value": "67215",
+      "bbox": null
+    },
+    "county": {
+      "value": "Sedgwick",
+      "bbox": null
+    },
+    "office_sought": {
+      "value": "County Commission",
+      "bbox": null
+    },
+    "district": {
+      "value": "2",
+      "bbox": null
+    },
+    "_page": 1
+  },
+  "summary": {
+    "cash_on_hand_beginning": {
+      "value": 19511.52,
+      "bbox": null
+    },
+    "total_contributions": {
+      "value": 16210.0,
+      "bbox": null
+    },
+    "cash_available": {
+      "value": 35721.52,
+      "bbox": null
+    },
+    "total_expenditures": {
+      "value": 31538.68,
+      "bbox": null
+    },
+    "cash_on_hand_close": {
+      "value": 4182.84,
+      "bbox": null
+    },
+    "in_kind_contributions": {
+      "value": null,
+      "bbox": null
+    },
+    "other_transactions": {
+      "value": null,
+      "bbox": null
+    },
+    "_page": 1
+  },
+  "contributions": [
+    {
+      "_page": 2,
+      "date": "11/12/24",
+      "contributor": "Hayes Leasing, LLC",
+      "address": "565 W Douglas Wichita KS 67213",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "11/13/24",
+      "contributor": "Bob Aldrich",
+      "address": "5025 N Sandkey Ct Wichita KS 67204",
+      "occupation": "Parts supplier",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "11/14/24",
+      "contributor": "Paul Kelsey",
+      "address": "1022 Firefly Circle Wichita KS 67235",
+      "occupation": "Developer",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "11/14/24",
+      "contributor": "DRK LC",
+      "address": "741 W 2nd St N Wichita KS 67203",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "11/20/24",
+      "contributor": "740 Development",
+      "address": "2038 N Gow St Wichita KS 67203",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "11/20/24",
+      "contributor": "KCC Construction",
+      "address": "1815 Southwest Blvd Wichita KS 67213",
+      "occupation": "Construction",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "11/24/24",
+      "contributor": "Virginia Crossland & Larry Macha",
+      "address": "30 Cypress Breeze Blvd Santa Rosa FL 32549",
+      "occupation": "Retired Math teacher",
+      "amount": 1000
+    },
+    {
+      "_page": 2,
+      "date": "12/15/24",
+      "contributor": "Wichita Regional Chamber PAC",
+      "address": "359 West Douglas Wichita KS 67002",
+      "occupation": "PAC",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "12/15/24",
+      "contributor": "Spirit PAC",
+      "address": "3801 S Oliver Wichita KS 67210",
+      "occupation": "PAC",
+      "amount": 500
+    }
+  ],
+  "expenditures": [],
+  "other_transactions": [],
+  "in_kind_contributions": []
+}

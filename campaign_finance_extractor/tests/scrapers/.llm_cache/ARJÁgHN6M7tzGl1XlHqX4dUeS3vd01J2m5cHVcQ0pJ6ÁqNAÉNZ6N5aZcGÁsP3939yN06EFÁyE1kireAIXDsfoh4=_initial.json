@@ -1,0 +1,62 @@
+{
+  "candidate": {
+    "name": "Chandra Knowles",
+    "_page": 2
+  },
+  "summary": {
+    "_page": 2
+  },
+  "contributions": [
+    {
+      "_page": 2,
+      "date": "2/22/23",
+      "contributor": "Steve DiRaddo",
+      "address": "9404 W University",
+      "occupation": "Retired",
+      "amount": 100
+    },
+    {
+      "_page": 2,
+      "date": "2/22/23",
+      "contributor": "Emily Bastian",
+      "address": "255 N. Holyoke",
+      "occupation": "Attorney",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "2/21/23",
+      "contributor": "Phil Robinson",
+      "address": "13715 W Autumn Ridge",
+      "occupation": "Construction",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "3/1/23",
+      "contributor": "Kelley Womack",
+      "address": "1251 N Rock Rd Ste 410",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "4/12/23",
+      "contributor": "Darryl Clouse",
+      "address": "1129 W 30th St S",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "5/24/23",
+      "contributor": "Co-op Properties",
+      "address": "200 S Emporia St",
+      "occupation": "Real Estate",
+      "amount": 500
+    }
+  ],
+  "expenditures": [],
+  "other_transactions": [],
+  "in_kind_contributions": []
+}

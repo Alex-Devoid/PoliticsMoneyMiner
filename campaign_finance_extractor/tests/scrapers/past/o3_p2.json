@@ -1,0 +1,107 @@
+{
+  "candidate": {
+    "name": "Jared Cerullo",
+    "address": null,
+    "city": null,
+    "zip": null,
+    "county": null,
+    "office_sought": null,
+    "district": null,
+    "_page": 2
+  },
+  "summary": {
+    "cash_on_hand_beginning": null,
+    "total_contributions": null,
+    "cash_available": null,
+    "total_expenditures": null,
+    "cash_on_hand_close": null,
+    "in_kind_contributions": null,
+    "other_transactions": null,
+    "_page": 2
+  },
+  "contributions": [
+    {
+      "date": "06/29/21",
+      "contributor": "Regency 21, LLC",
+      "address": "150 N. Market St. Wichita, KS 67202",
+      "occupation": "real estate",
+      "amount": 500.0
+    },
+    {
+      "date": "06/29/21",
+      "contributor": "Wichita Crossing, LLC",
+      "address": "150 N. Market St. Wichita, KS 67202",
+      "occupation": "real estate",
+      "amount": 500.0
+    },
+    {
+      "date": "06/29/21",
+      "contributor": "Main Street Partners, LLC",
+      "address": "150 N. Market St. Wichita, KS 67202",
+      "occupation": "real estate",
+      "amount": 500.0
+    },
+    {
+      "date": "06/30/21",
+      "contributor": "J Russell Communities LLC",
+      "address": "PO Box 75337 Wichita, KS 67275",
+      "occupation": "developer",
+      "amount": 500.0
+    },
+    {
+      "date": "06/30/21",
+      "contributor": "Jay Russell Devel & Mgmt, Inc.",
+      "address": "PO Box 75337 Wichita, KS 67275",
+      "occupation": "developer",
+      "amount": 500.0
+    },
+    {
+      "date": "07/01/21",
+      "contributor": "Tow Service, Inc.",
+      "address": "3760 S. Broadway Wichita, KS 67216",
+      "occupation": "vehicle towing",
+      "amount": 500.0
+    },
+    {
+      "date": "07/01/21",
+      "contributor": "Ken's Auto Tow, Inc.",
+      "address": "3760 S. Broadway Wichita, KS 67216",
+      "occupation": "vehicle towing/service",
+      "amount": 500.0
+    },
+    {
+      "date": "07/01/21",
+      "contributor": "Reliable Towing of Wichita, LLC",
+      "address": "3760 S. Broadway Wichita, KS 67216",
+      "occupation": "vehicle towing",
+      "amount": 500.0
+    },
+    {
+      "date": "07/06/21",
+      "contributor": "Don Sherman",
+      "address": "100 N. Broadway Wichita, KS 67202",
+      "occupation": "human resources",
+      "amount": 250.0
+    },
+    {
+      "date": "07/07/21",
+      "contributor": "Brandy Miller",
+      "address": "2911 S. Illinois Pl. Chandler, AZ 85286",
+      "occupation": "engineering",
+      "amount": 250.0
+    },
+    {
+      "date": "05/20/21",
+      "contributor": "Joshua Kippenberger",
+      "address": "500 S. Topeka Wichita, KS 67202",
+      "occupation": "engineering",
+      "amount": 500.0
+    }
+  ],
+  "total_itemized_receipts": 5000.0,
+  "total_unitemized_contributions": null,
+  "expenditures": [],
+  "total_itemized_expenditures": null,
+  "total_unitemized_expenditures": null,
+  "other_transactions": []
+}

@@ -1,0 +1,20 @@
+# The .gcloudignore file
+
+# Exclude Git-related files and directories
+.git/
+.gitignore
+.github/
+.devcontainer/
+# Exclude local environment files
+__pycache__/
+.env
+.env.yaml
+
+# Exclude unnecessary files and directories
+README.md
+
+gmail_setup/
+
+# Exclude test-related files (not needed in the cloud function)
+tests/
+existing_buisness_logic

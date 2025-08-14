@@ -1,0 +1,29 @@
+steps:
+  # Step to set up Docker Buildx for multi-platform builds
+  - name: 'gcr.io/cloud-builders/docker'
+    entrypoint: 'sh'
+    args:
+      - '-c'
+      - |
+        docker buildx create --use
+        docker buildx inspect --bootstrap
+
+  # Build the Docker image for the amd64 platform
+  - name: 'gcr.io/cloud-builders/docker'
+    args: [
+      'buildx', 'build',
+      '--platform=linux/amd64',
+      '--build-arg', 'API_URL=https://argus-meetings-api-963969693847.us-central1.run.app',
+      '--build-arg', 'IAPClientIdPublic=963969693847-chj3jnud2t7auti21aq1i4fud71la729.apps.googleusercontent.com',
+      '--build-arg', 'NODE_ENV=production',
+      '-f', 'Dockerfile.prod',
+      '-t', 'us-central1-docker.pkg.dev/${_PROJECT_ID}/${_ARTIFACT_REPO_NAME}/${_IMAGE_NAME}:latest',
+      '--push',
+      '.'
+    ]
+
+
+substitutions:
+  _PROJECT_ID: 'placeholder'
+  _ARTIFACT_REPO_NAME: 'placeholder'
+  _IMAGE_NAME: 'placeholder'

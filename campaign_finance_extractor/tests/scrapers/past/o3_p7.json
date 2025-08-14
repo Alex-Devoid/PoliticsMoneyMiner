@@ -1,0 +1,29 @@
+{
+  "candidate": {
+    "name": "Jared Cerullo",
+    "address": null,
+    "city": null,
+    "zip": null,
+    "county": null,
+    "office_sought": null,
+    "district": null,
+    "_page": 7
+  },
+  "summary": {
+    "cash_on_hand_beginning": null,
+    "total_contributions": null,
+    "cash_available": null,
+    "total_expenditures": null,
+    "cash_on_hand_close": null,
+    "in_kind_contributions": null,
+    "other_transactions": 0.0,
+    "_page": 7
+  },
+  "contributions": [],
+  "total_itemized_receipts": null,
+  "total_unitemized_contributions": null,
+  "expenditures": [],
+  "total_itemized_expenditures": null,
+  "total_unitemized_expenditures": null,
+  "other_transactions": []
+}

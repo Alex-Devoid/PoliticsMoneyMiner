@@ -1,0 +1,84 @@
+# ── backend/Dockerfile.dev ─────────────────────────────────────────────
+FROM python:3.11-slim
+
+ENV DEBIAN_FRONTEND=noninteractive \
+    PYTHONUNBUFFERED=1 \
+    TRANSFORMERS_CACHE=/opt/hf-cache \
+    HF_HUB_ENABLE_HF_TRANSFER=1
+
+WORKDIR /app
+COPY requirements.txt .
+
+# ----------------------------------------------------------------------
+# 🧰 System & Google-Cloud tools  +  OCR build deps
+# ----------------------------------------------------------------------
+RUN set -eux \
+ && . /etc/os-release \
+ && echo "deb http://deb.debian.org/debian ${VERSION_CODENAME}-backports main" \
+      > /etc/apt/sources.list.d/backports.list \
+ \
+ && apt-get update \
+ && apt-get install -y --no-install-recommends \
+      ca-certificates gnupg curl git git-lfs vim net-tools \
+      build-essential pkg-config gcc g++ \
+      openssh-client \
+      poppler-utils \
+      tesseract-ocr tesseract-ocr-eng \
+      libtesseract-dev \          
+      libleptonica-dev \
+ \
+ && curl -fsSL https://packages.cloud.google.com/apt/doc/apt-key.gpg \
+      | gpg --dearmor -o /usr/share/keyrings/cloud.google.gpg \
+ && echo "deb [signed-by=/usr/share/keyrings/cloud.google.gpg] https://packages.cloud.google.com/apt cloud-sdk main" \
+      > /etc/apt/sources.list.d/google-cloud-sdk.list \
+ && apt-get update \
+ && apt-get install -y --no-install-recommends google-cloud-cli \
+ \
+ && apt-get clean && rm -rf /var/lib/apt/lists/*
+
+# ----------------------------------------------------------------------
+# 🔗 Python deps  – architecture-aware Torch
+# ----------------------------------------------------------------------
+ARG TORCH_VER=2.2.2
+ARG TVISION_VER=0.17.2
+ARG TARGETARCH
+
+RUN set -eux \
+ && if [ "$TARGETARCH" = "amd64" ]; then \
+        pip install --no-cache-dir --extra-index-url https://download.pytorch.org/whl/cpu \
+            torch==${TORCH_VER}+cpu torchvision==${TVISION_VER}+cpu ; \
+    else \
+        pip install --no-cache-dir torch==${TORCH_VER} torchvision==${TVISION_VER} ; \
+    fi \
+ && pip install --no-cache-dir -r requirements.txt \
+      transformers==4.41.2 huggingface_hub==0.23.3 hf_transfer==0.1.6 \
+      pytesseract langchain_community \
+ && pip install --no-cache-dir uvicorn[standard] watchfiles
+
+
+ # before `pip install -r requirements.txt`
+RUN apt-get update && \
+    apt-get install -y --no-install-recommends libgl1 && \
+    rm -rf /var/lib/apt/lists/*
+
+# ----------------------------------------------------------------------
+# 🔽 Pre-download TrOCR-small weights to speed up first run
+# ----------------------------------------------------------------------
+RUN python - <<'PY'
+import huggingface_hub as hf
+hf.snapshot_download(
+    repo_id="microsoft/trocr-small-handwritten",
+    cache_dir="/opt/hf-cache",
+    allow_patterns=[
+        "config.json", "pytorch_model.bin", "preprocessor_config.json",
+        "tokenizer.json", "special_tokens_map.json", "merges.txt", "vocab.json",
+    ],
+)
+PY
+
+# ----------------------------------------------------------------------
+# 🛂 App code & runtime
+# ----------------------------------------------------------------------
+COPY cloud_function /app/cloud_function
+EXPOSE 8080
+CMD ["uvicorn", "cloud_function.main:app", "--host", "0.0.0.0", "--port", "8080", "--reload"]

@@ -1,0 +1,83 @@
+services:
+  backend-campaign-finance-api:
+    build:
+      context: ../argus_campaign_finance_api
+      dockerfile: Dockerfile.dev
+    volumes:
+      - ../argus_campaign_finance_api:/app:cached
+    ports:
+      - "8085:8080"  # Forward backend app port
+    env_file:
+      - ../argus_campaign_finance_api/.env  # Load environment variables, including DATABASE_URL
+    depends_on:
+      - firestore-emulator  # Ensure Firestore emulator is ready before backend starts
+    networks:
+      - dev_network
+    environment:
+      FIRESTORE_EMULATOR_HOST: "firestore-emulator:8080"  # Custom Firestore emulator port
+      GOOGLE_CLOUD_PROJECT: "dev-emulated-project"     
+      STORAGE_EMULATOR_HOST:  "firestore-emulator:9199"         
+
+  frontend:
+    build:
+      context: ../argus_frontend
+      dockerfile: Dockerfile.dev
+    volumes:
+      - ../argus_frontend:/app:cached  # Mount entire project except node_modules
+      - node_modules_data:/app/node_modules
+      - /app/.nuxt   
+
+    ports:
+      - "3000:3000"  # Map container port to local machine
+    env_file:
+      - ../argus_frontend/.env  # Load environment variables
+    environment:
+      MOCK_DATA: "off"      
+    networks:
+      - dev_network
+
+  firestore-emulator:
+    container_name: firebase-emulator
+    build:
+      context: ./firebase-emulator
+      dockerfile: Dockerfile
+    environment:
+      FIRESTORE_EMULATOR_HOST: "0.0.0.0:8080"
+      GOOGLE_CLOUD_PROJECT: "dev-emulated-project"
+      FIRESTORE_LOG_LEVEL: "debug"
+    ports:
+      - 8080:8080 # FIRESTORE_PORT      
+      - 4000:4000 # UI_PORT
+      - 9199:9199
+    networks:
+      - dev_network
+    volumes:
+      - firestore-data:/firestore-data
+
+  backend-campaign-finance:
+    build:
+      context: ../argus_campaign_finance
+      dockerfile: Dockerfile.dev
+    env_file: ../argus_campaign_finance/.env     
+    ports:
+      - "8086:8080"  # Forward backend app port       
+    depends_on:
+      - firestore-emulator  # Ensure Firestore emulator is ready before backend starts  
+    volumes:
+      - ../argus_campaign_finance:/workspace/backend:cached 
+      - ../argus_campaign_finance/trocr-cache:/opt/hf-cache
+    shm_size: "2gb"
+    networks:
+      - dev_network      
+
+
+volumes:
+  firestore-data:
+  node_modules_data:
+  trocr-cache:
+
+networks:
+  dev_network:
+    driver: bridge
+
+

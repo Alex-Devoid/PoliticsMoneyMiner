@@ -1,0 +1,200 @@
+[
+    {
+        "meeting_id": "civicplus_pa-centrecounty_01072025-2003",
+        "asset_type": "minutes",
+        "asset_name": "Board of Commissioners- Tuesday, January 7, 2025 10:00 A.M.",
+        "committee_name": "Board of Commissioners",
+        "scrape_date": "2025-01-17T18:45:10.503014+00:00",
+        "state": "pa",
+        "place": "centrecounty",
+        "asset_url": "https://pa-centrecounty.civicplus.com/AgendaCenter/ViewFile/Minutes/_01072025-2003",
+        "meeting_date": "2025-01-07T00:00:00+00:00"
+    },
+    {
+        "meeting_id": "civicplus_pa-centrecounty_01142025-2009",
+        "asset_type": "agenda",
+        "asset_name": "Board of Commissioners- Tuesday, January 14, 2025 10:00 A.M.",
+        "committee_name": "Board of Commissioners",
+        "scrape_date": "2025-01-17T18:45:10.503014+00:00",
+        "state": "pa",
+        "place": "centrecounty",
+        "asset_url": "https://pa-centrecounty.civicplus.com/AgendaCenter/ViewFile/Agenda/_01142025-2009",
+        "meeting_date": "2025-01-14T00:00:00+00:00"
+    },
+    {
+        "meeting_id": "civicplus_pa-centrecounty_01212025-2013",
+        "asset_type": "agenda",
+        "asset_name": "Board of Commissioners- Tuesday, January 21, 2025 10:00 A.M.",
+        "committee_name": "Board of Commissioners",
+        "scrape_date": "2025-01-17T18:45:10.503014+00:00",
+        "state": "pa",
+        "place": "centrecounty",
+        "asset_url": "https://pa-centrecounty.civicplus.com/AgendaCenter/ViewFile/Agenda/_01212025-2013",
+        "meeting_date": "2025-01-21T00:00:00+00:00"
+    },
+    {
+        "meeting_id": "civicplus_pa-centrecounty_01092025-2007",
+        "asset_type": "agenda",
+        "asset_name": "Salary Board - Thursday, January 9, 2025 at 10:00 AM",
+        "committee_name": "Board of Commissioners - Salary Board",
+        "scrape_date": "2025-01-17T18:45:10.503014+00:00",
+        "state": "pa",
+        "place": "centrecounty",
+        "asset_url": "https://pa-centrecounty.civicplus.com/AgendaCenter/ViewFile/Agenda/_01092025-2007",
+        "meeting_date": "2025-01-09T00:00:00+00:00"
+    },
+    {
+        "meeting_id": "civicplus_pa-centrecounty_01092025-2008",
+        "asset_type": "agenda",
+        "asset_name": "Board of Commissioners - Thursday, January 9, 2025 at 10:00 AM",
+        "committee_name": "Board of Commissioners - Salary Board",
+        "scrape_date": "2025-01-17T18:45:10.503014+00:00",
+        "state": "pa",
+        "place": "centrecounty",
+        "asset_url": "https://pa-centrecounty.civicplus.com/AgendaCenter/ViewFile/Agenda/_01092025-2008",
+        "meeting_date": "2025-01-09T00:00:00+00:00"
+    },
+    {
+        "meeting_id": "civicplus_pa-pattontownship_01062025-187",
+        "asset_type": "agenda",
+        "asset_name": "Board of Supervisors Regular Meeting Agenda (PDF)",
+        "committee_name": "Board of Supervisors",
+        "scrape_date": "2025-01-17T18:45:18.216078+00:00",
+        "state": "pa",
+        "place": "pattontownship",
+        "asset_url": "https://pa-pattontownship.civicplus.com/AgendaCenter/ViewFile/Agenda/_01062025-187",
+        "meeting_date": "2025-01-06T00:00:00+00:00"
+    },
+    {
+        "meeting_id": "civicplus_pa-pattontownship_01222025-191",
+        "asset_type": "agenda",
+        "asset_name": "Board of Supervisors Regular Meeting Agenda (PDF)",
+        "committee_name": "Board of Supervisors",
+        "scrape_date": "2025-01-17T18:45:18.216078+00:00",
+        "state": "pa",
+        "place": "pattontownship",
+        "asset_url": "https://pa-pattontownship.civicplus.com/AgendaCenter/ViewFile/Agenda/_01222025-191",
+        "meeting_date": "2025-01-22T00:00:00+00:00"
+    },
+    {
+        "meeting_id": "civicplus_nc-durham_01062025-2954",
+        "asset_type": "agenda_packet",
+        "asset_name": "January 6, 2025 Durham City Council Meeting",
+        "committee_name": "City Council",
+        "scrape_date": "2025-01-17T18:45:24.080340+00:00",
+        "state": "nc",
+        "place": "durham",
+        "asset_url": "https://nc-durham.civicplus.com/AgendaCenter/ViewFile/Agenda/_01062025-2954?packet=true",
+        "meeting_date": "2025-01-06T00:00:00+00:00"
+    },
+    {
+        "meeting_id": "civicplus_nc-durham_01092025-2956",
+        "asset_type": "agenda_packet",
+        "asset_name": "January 9, 2025 Durham City Council Work Session",
+        "committee_name": "City Council",
+        "scrape_date": "2025-01-17T18:45:24.080340+00:00",
+        "state": "nc",
+        "place": "durham",
+        "asset_url": "https://nc-durham.civicplus.com/AgendaCenter/ViewFile/Agenda/_01092025-2956?packet=true",
+        "meeting_date": "2025-01-09T00:00:00+00:00"
+    },
+    {
+        "meeting_id": "civicplus_nc-durham_01212025-2971",
+        "asset_type": "agenda_packet",
+        "asset_name": "January 21, 2025 Durham City Council Meeting",
+        "committee_name": "City Council",
+        "scrape_date": "2025-01-17T18:45:24.080340+00:00",
+        "state": "nc",
+        "place": "durham",
+        "asset_url": "https://nc-durham.civicplus.com/AgendaCenter/ViewFile/Agenda/_01212025-2971?packet=true",
+        "meeting_date": "2025-01-21T00:00:00+00:00"
+    },
+    {
+        "meeting_id": "civicplus_nc-durham_01232025-2972",
+        "asset_type": "agenda_packet",
+        "asset_name": "January 23, 2025 Durham City Council Work Session",
+        "committee_name": "City Council",
+        "scrape_date": "2025-01-17T18:45:24.080340+00:00",
+        "state": "nc",
+        "place": "durham",
+        "asset_url": "https://nc-durham.civicplus.com/AgendaCenter/ViewFile/Agenda/_01232025-2972?packet=true",
+        "meeting_date": "2025-01-23T00:00:00+00:00"
+    },
+    {
+        "meeting_id": "civicplus_pa-collegetownship_01062025-500",
+        "asset_type": "agenda",
+        "asset_name": "CT Council 1/6/25 Reorganizational Meeting Agenda Packet (PDF)",
+        "committee_name": "College Township Council Meeting Agendas & Minutes",
+        "scrape_date": "2025-01-17T18:45:15.184406+00:00",
+        "state": "pa",
+        "place": "collegetownship",
+        "asset_url": "https://pa-collegetownship.civicplus.com/AgendaCenter/ViewFile/Agenda/_01062025-500",
+        "meeting_date": "2025-01-06T00:00:00+00:00"
+    },
+    {
+        "meeting_id": "civicplus_pa-collegetownship_01062025-501",
+        "asset_type": "agenda",
+        "asset_name": "CT Council 1/6/25 Regular Meeting Agenda Packet (PDF)",
+        "committee_name": "College Township Council Meeting Agendas & Minutes",
+        "scrape_date": "2025-01-17T18:45:15.184406+00:00",
+        "state": "pa",
+        "place": "collegetownship",
+        "asset_url": "https://pa-collegetownship.civicplus.com/AgendaCenter/ViewFile/Agenda/_01062025-501",
+        "meeting_date": "2025-01-06T00:00:00+00:00"
+    },
+    {
+        "meeting_id": "civicplus_pa-collegetownship_01162025-503",
+        "asset_type": "agenda",
+        "asset_name": "CT Council 1/16/25 Regular Meeting Agenda Packet (PDF)",
+        "committee_name": "College Township Council Meeting Agendas & Minutes",
+        "scrape_date": "2025-01-17T18:45:15.184406+00:00",
+        "state": "pa",
+        "place": "collegetownship",
+        "asset_url": "https://pa-collegetownship.civicplus.com/AgendaCenter/ViewFile/Agenda/_01162025-503",
+        "meeting_date": "2025-01-16T00:00:00+00:00"
+    },
+    {
+        "meeting_id": "civicplus_pa-centrecounty_01212025-2012",
+        "asset_type": "agenda",
+        "asset_name": "Centre County Planning Commission 1/21/2025",
+        "committee_name": "Planning Commission",
+        "scrape_date": "2025-01-17T18:45:10.503014+00:00",
+        "state": "pa",
+        "place": "centrecounty",
+        "asset_url": "https://pa-centrecounty.civicplus.com/AgendaCenter/ViewFile/Agenda/_01212025-2012",
+        "meeting_date": "2025-01-21T00:00:00+00:00"
+    },
+    {
+        "meeting_id": "civicplus_pa-collegetownship_01072025-498",
+        "asset_type": "agenda",
+        "asset_name": "CT Planning Commission Regular Meeting Packet (PDF)",
+        "committee_name": "Planning Commission",
+        "scrape_date": "2025-01-17T18:45:15.184406+00:00",
+        "state": "pa",
+        "place": "collegetownship",
+        "asset_url": "https://pa-collegetownship.civicplus.com/AgendaCenter/ViewFile/Agenda/_01072025-498",
+        "meeting_date": "2025-01-07T00:00:00+00:00"
+    },
+    {
+        "meeting_id": "civicplus_pa-collegetownship_01212025-504",
+        "asset_type": "agenda",
+        "asset_name": "Planning Commission 1-21-25 regular meeting agenda packet (PDF)",
+        "committee_name": "Planning Commission",
+        "scrape_date": "2025-01-17T18:45:15.184406+00:00",
+        "state": "pa",
+        "place": "collegetownship",
+        "asset_url": "https://pa-collegetownship.civicplus.com/AgendaCenter/ViewFile/Agenda/_01212025-504",
+        "meeting_date": "2025-01-21T00:00:00+00:00"
+    },
+    {
+        "meeting_id": "civicplus_pa-pattontownship_01132025-189",
+        "asset_type": "agenda",
+        "asset_name": "Planning Commission Regular Meeting Agenda (PDF)",
+        "committee_name": "Planning Commission",
+        "scrape_date": "2025-01-17T18:45:18.216078+00:00",
+        "state": "pa",
+        "place": "pattontownship",
+        "asset_url": "https://pa-pattontownship.civicplus.com/AgendaCenter/ViewFile/Agenda/_01132025-189",
+        "meeting_date": "2025-01-13T00:00:00+00:00"
+    }
+]

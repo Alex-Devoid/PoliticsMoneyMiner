@@ -1,0 +1,107 @@
+{
+  "candidate": {
+    "name": "Jared Cerullo",
+    "address": null,
+    "city": null,
+    "zip": null,
+    "county": null,
+    "office_sought": null,
+    "district": null,
+    "_page": 5
+  },
+  "summary": {
+    "cash_on_hand_beginning": null,
+    "total_contributions": null,
+    "cash_available": null,
+    "total_expenditures": null,
+    "cash_on_hand_close": null,
+    "in_kind_contributions": null,
+    "other_transactions": null,
+    "_page": 5
+  },
+  "contributions": [],
+  "total_itemized_receipts": null,
+  "total_unitemized_contributions": null,
+  "expenditures": [
+    {
+      "date": "1/25/21",
+      "name": "Walmart",
+      "address": "Wichita KS",
+      "purpose": "Office Supplies",
+      "amount": 19.27
+    },
+    {
+      "date": "2/11/21",
+      "name": "Le Monde Cafe",
+      "address": "Wichita KS",
+      "purpose": "Campaign Lunch",
+      "amount": 30.16
+    },
+    {
+      "date": "4/20/21",
+      "name": "Julia Burton",
+      "address": "Wichita KS",
+      "purpose": "Website Design",
+      "amount": 260.0
+    },
+    {
+      "date": "5/4/21",
+      "name": "Mike Carroll",
+      "address": "Wichita KS",
+      "purpose": "Campaign Photos",
+      "amount": 75.0
+    },
+    {
+      "date": "5/18/21",
+      "name": "City Blue Print",
+      "address": "Wichita KS",
+      "purpose": "Stationary and Envelopes",
+      "amount": 538.68
+    },
+    {
+      "date": "5/26/21",
+      "name": "Julia Burton",
+      "address": "Wichita KS",
+      "purpose": "Website Design/Hosting",
+      "amount": 731.01
+    },
+    {
+      "date": "6/23/21",
+      "name": "Tight Wrapz Print Shop",
+      "address": "Wichita KS",
+      "purpose": "Palm Cards",
+      "amount": 300.0
+    },
+    {
+      "date": "7/6/21",
+      "name": "Facebook",
+      "address": null,
+      "purpose": "Social Media Ads",
+      "amount": 20.0
+    },
+    {
+      "date": "7/7/21",
+      "name": "Facebook",
+      "address": null,
+      "purpose": "Social Media Ads",
+      "amount": 10.0
+    },
+    {
+      "date": "7/9/21",
+      "name": "Tight Wrapz Print Shop",
+      "address": "Wichita KS",
+      "purpose": "Campaign Banners",
+      "amount": 100.0
+    },
+    {
+      "date": "7/12/21",
+      "name": "Facebook",
+      "address": null,
+      "purpose": "Social Media Ads",
+      "amount": 15.0
+    }
+  ],
+  "total_itemized_expenditures": null,
+  "total_unitemized_expenditures": null,
+  "other_transactions": []
+}

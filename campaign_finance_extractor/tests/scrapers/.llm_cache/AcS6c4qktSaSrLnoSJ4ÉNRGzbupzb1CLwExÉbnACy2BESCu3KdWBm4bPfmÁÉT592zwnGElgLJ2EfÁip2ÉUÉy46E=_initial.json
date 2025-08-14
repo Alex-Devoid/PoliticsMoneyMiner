@@ -1,0 +1,1014 @@
+{
+  "candidate": {
+    "name": "Jeff Blubaugh",
+    "address": "10915 W Atlanta Cir",
+    "city": "67215",
+    "county": "Sedgwick",
+    "office_sought": "County Commission",
+    "district": "II",
+    "_page": 1
+  },
+  "summary": {
+    "cash_on_hand_beginning": null,
+    "total_contributions": 39000,
+    "cash_available": 39000,
+    "total_expenditures": 12367.7,
+    "cash_on_hand_close": 26632.3,
+    "_page": 1
+  },
+  "contributions": [
+    {
+      "_page": 2,
+      "date": "2/21/23",
+      "contributor": "Brandon & Chandra Knowles",
+      "address": "1335 N St Andrews Dr",
+      "occupation": "Banking",
+      "amount": 1000
+    },
+    {
+      "_page": 2,
+      "date": "2/21/23",
+      "contributor": "KMK Realty",
+      "address": "1700 Waterfront #600",
+      "occupation": null,
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "2/21/23",
+      "contributor": "Younger Enterprises",
+      "address": "9415 E Harry, Ste 403",
+      "occupation": "Oil",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "2/21/23",
+      "contributor": "Younger Energy Company",
+      "address": "9415 E Harry, Ste 403",
+      "occupation": "Oil",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "2/22/23",
+      "contributor": "David Lawrence Insurance Agency",
+      "address": "3610 W Central Ave",
+      "occupation": "Insurance",
+      "amount": 100
+    },
+    {
+      "_page": 2,
+      "date": "2/22/23",
+      "contributor": "Scott Schwindaman",
+      "address": "4860 S 183rs St W",
+      "occupation": "Retired Engineer",
+      "amount": 250
+    },
+    {
+      "_page": 2,
+      "date": "2/22/23",
+      "contributor": "Steve Dillard",
+      "address": "9211 Lakepoint Dr",
+      "occupation": "Oil",
+      "amount": 100
+    },
+    {
+      "_page": 2,
+      "date": "2/23/23",
+      "contributor": "Amy Carey",
+      "address": "1936 W University",
+      "occupation": "Education",
+      "amount": 100
+    },
+    {
+      "_page": 2,
+      "date": "2/23/23",
+      "contributor": "Clay Bastian",
+      "address": "255 N Belmont",
+      "occupation": "Banking",
+      "amount": 100
+    },
+    {
+      "_page": 2,
+      "date": "2/24/23",
+      "contributor": "Phil Ruffin",
+      "address": "P.O. Box 17087",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "2/24/23",
+      "contributor": "Phil Ruffin, JR",
+      "address": "1815 N Paddock Green St",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "3/1/23",
+      "contributor": "Nate Robertson",
+      "address": "7918 W 53rd",
+      "occupation": "Retired Baseball",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "3/2/23",
+      "contributor": "Hampton Property Management",
+      "address": "554 S Wetmore",
+      "occupation": "Construction",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "3/2/23",
+      "contributor": "JCT Holdings",
+      "address": "1815 Southwest Blvd",
+      "occupation": "Construction",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "3/2/23",
+      "contributor": "Nicholas Cowgill",
+      "address": "1403 E Juniper Crest",
+      "occupation": "Construction",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "3/2/23",
+      "contributor": "Brian Brundage",
+      "address": "2416 N Greenleaf Ct",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "3/2/23",
+      "contributor": "R Ryan Trust",
+      "address": "P.O Box 17087",
+      "occupation": "Aviation",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "3/2/23",
+      "contributor": "Nick Mills",
+      "address": "3209 E Aster St",
+      "occupation": null,
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "3/17/23",
+      "contributor": "Harvey Sorensen",
+      "address": "13 Colonial Ct",
+      "occupation": "Attorney",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "3/17/23",
+      "contributor": "N Brent Wooten",
+      "address": "7304 W Clearmeadow Cir",
+      "occupation": "Civil Engineer",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "3/9/23",
+      "contributor": "William Pickert",
+      "address": "1628 N Rocky Creek Rd",
+      "occupation": "Accounting",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "3/20/23",
+      "contributor": "Eck-90 Trust",
+      "address": "13410 W Hayden",
+      "occupation": "Insurance",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "3/31/23",
+      "contributor": "William Darrah",
+      "address": "125 N Market St Ste 1425",
+      "occupation": "Oil",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "4/11/23",
+      "contributor": "Central Power Systems & Services",
+      "address": "9200 Liberty Drive",
+      "occupation": null,
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "4/23/23",
+      "contributor": "Gary Crotts",
+      "address": "2607 Williamsburg",
+      "occupation": "Real Estate",
+      "amount": 50
+    },
+    {
+      "_page": 2,
+      "date": "4/20/23",
+      "contributor": "Ron Cocker",
+      "address": "3101 W 119th",
+      "occupation": "Engineer",
+      "amount": 250
+    },
+    {
+      "_page": 2,
+      "date": "4/26/23",
+      "contributor": "Stephanie & Braden McCurdy",
+      "address": "3166 E Ayesbury",
+      "occupation": "Real Estate",
+      "amount": 150
+    },
+    {
+      "_page": 2,
+      "date": "5/24/23",
+      "contributor": "KTW LLC",
+      "address": "9435 E Central Bldg 200",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "5/24/23",
+      "contributor": "Co-Co Properties",
+      "address": "9435 E Central Ave STE 200",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "5/24/23",
+      "contributor": "Sixty-Four Hundred LLC",
+      "address": "9435 E Central Ave STE 200",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "5/24/23",
+      "contributor": "Foulston Construction, LLC",
+      "address": "2024 N Woodlawn Suite 210",
+      "occupation": "Construction",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "5/24/23",
+      "contributor": "J Russell Develop & Mgmt",
+      "address": "PO Box 75337",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "5/24/23",
+      "contributor": "JB Financing, LLC",
+      "address": "PO Box 75337",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "5/24/23",
+      "contributor": "Brand Plumbing, Inc",
+      "address": "2418 S Hoover",
+      "occupation": "Plumbing",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "5/24/23",
+      "contributor": "RL Kutter, DVM",
+      "address": "2011 N Crooked Pine",
+      "occupation": "Veterinarian",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "5/24/23",
+      "contributor": "Scott & Katie Rosell",
+      "address": "1938 N Castle Rock Ct",
+      "occupation": "Banking",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "5/24/23",
+      "contributor": "Thomas R Devlin",
+      "address": "PO Box 782170",
+      "occupation": "Real Estate",
+      "amount": 250
+    },
+    {
+      "_page": 3,
+      "date": "6/1/23",
+      "contributor": "William Landman",
+      "address": "7114 E Chadowes Street",
+      "occupation": "Retired Engineer",
+      "amount": 50
+    },
+    {
+      "_page": 3,
+      "date": "6/2/23",
+      "contributor": "Joseph Hemmegam",
+      "address": "6225 W Irving St",
+      "occupation": "Food & Beverage",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "6/2/23",
+      "contributor": "Premier Food Service",
+      "address": "6225 W Irving St",
+      "occupation": "Food Service",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "6/2/23",
+      "contributor": "The Humidor #1 LLC",
+      "address": "8558 W 21st Ste 100",
+      "occupation": "Beverage",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "6/26/23",
+      "contributor": "Michael Gomm",
+      "address": "1903 W Dora",
+      "occupation": "Window Repair",
+      "amount": 50
+    },
+    {
+      "_page": 3,
+      "date": "7/13/23",
+      "contributor": "Klaver Construction",
+      "address": "3219 W May",
+      "occupation": "Construction",
+      "amount": 400
+    },
+    {
+      "_page": 3,
+      "date": "7/20/23",
+      "contributor": "College Hill Square, LLC",
+      "address": "150 N Market",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "7/20/23",
+      "contributor": "KB Properties of Kansas, LLC",
+      "address": "150 N Market",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "7/20/23",
+      "contributor": "LNS Investments of Kansas",
+      "address": "150 N Market",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "7/20/23",
+      "contributor": "MOB Development Company, LLC",
+      "address": "1720 N Webb, Suite 110",
+      "occupation": "Development",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "7/20/23",
+      "contributor": "Booth 2, LLC",
+      "address": "150 N Market",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "7/20/23",
+      "contributor": "TDFW, LLC",
+      "address": "1720 N Webb, Suite 110",
+      "occupation": "Development",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "8/1/23",
+      "contributor": "William Hayes",
+      "address": "11114 W Central",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "9/30/23",
+      "contributor": "Maxac LLC",
+      "address": "9435 E Central",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "9/30/23",
+      "contributor": "Summitt Ave LLC",
+      "address": "9435 E Central",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "9/30/23",
+      "contributor": "IKM LLC",
+      "address": "18 E Valverde Wichita",
+      "occupation": "Restaurateur",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "10/22/23",
+      "contributor": "More Sheets",
+      "address": "4202 S Broadway Ave",
+      "occupation": "Tow Company",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "11/2/23",
+      "contributor": "Tow IT",
+      "address": "8923 W Kellogg",
+      "occupation": "Autobody Repair",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "11/2/23",
+      "contributor": "Collision Specialist",
+      "address": "1720 N Webb Rd",
+      "occupation": "Restaurant Owner",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "11/2/23",
+      "contributor": "B & C Companies",
+      "address": "154 S Pershing St",
+      "occupation": "Title Company",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "11/2/23",
+      "contributor": "Craig Burns",
+      "address": "154 S Pershing St",
+      "occupation": "Real Estate",
+      "amount": 250
+    },
+    {
+      "_page": 3,
+      "date": "11/28/23",
+      "contributor": "Nicholas Bonivia",
+      "address": "100 N Broadway Ste 400",
+      "occupation": "Attorney",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "11/30/23",
+      "contributor": "McConnell Law Firm",
+      "address": "100 N Broadway Ste 400",
+      "occupation": "Real Estate",
+      "amount": 200
+    },
+    {
+      "_page": 3,
+      "date": "11/30/23",
+      "contributor": "Jacob Ramstack",
+      "address": "154 S Pershing St",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "12/5/23",
+      "contributor": "Rodney Wright",
+      "address": "22401 W 107th",
+      "occupation": "HOA MGMT",
+      "amount": 500
+    },
+    {
+      "_page": 4,
+      "date": "12/6/23",
+      "contributor": "Anthony Caputo",
+      "address": "515 S. Main Apt 512 Wichita KS 67202",
+      "occupation": "Retired",
+      "amount": 500
+    },
+    {
+      "_page": 4,
+      "date": "12/7/23",
+      "contributor": "Key Construction",
+      "address": "741 W 2nd St N Wichita KS 67203",
+      "occupation": "Construction",
+      "amount": 500
+    },
+    {
+      "_page": 4,
+      "date": "12/7/23",
+      "contributor": "Barry Carroll",
+      "address": "1134 N Coolidge Ave Wichita KS 67203",
+      "occupation": "Retired",
+      "amount": 100
+    },
+    {
+      "_page": 4,
+      "date": "12/7/23",
+      "contributor": "Summit Holdings, LLC",
+      "address": "741 W 2nd St N Wichita KS 67203",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 4,
+      "date": "12/8/23",
+      "contributor": "Coleen Jennison",
+      "address": "2713 N Wilderness Ct Wichita KS 67226",
+      "occupation": "Executive",
+      "amount": 500
+    },
+    {
+      "_page": 4,
+      "date": "12/8/23",
+      "contributor": "Yingling Aviation",
+      "address": "PO Box 9248 Wichita KS 67277",
+      "occupation": "Aviation",
+      "amount": 500
+    },
+    {
+      "_page": 4,
+      "date": "12/14/23",
+      "contributor": "Veranda Court LLC",
+      "address": "150 N Market Wichita KS 67202",
+      "occupation": "Real Estate Property",
+      "amount": 500
+    },
+    {
+      "_page": 4,
+      "date": "12/14/23",
+      "contributor": "D Brian Byrd Trust",
+      "address": "3006 N Pepper Ridge St Wichita KS 67205",
+      "occupation": "Management",
+      "amount": 500
+    },
+    {
+      "_page": 4,
+      "date": "12/14/23",
+      "contributor": "Vision Partners, LLC",
+      "address": "150 N Market Wichita KS 67202",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 4,
+      "date": "12/14/23",
+      "contributor": "James Korroch & Kelly Lindsay-Korroch",
+      "address": "1835 N Cranbrook Cir Wichita KS 67206",
+      "occupation": "Real Estate",
+      "amount": 100
+    },
+    {
+      "_page": 4,
+      "date": "12/14/23",
+      "contributor": "LOF JL",
+      "address": "150 N Market Wichita KS 67202",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 4,
+      "date": "12/14/23",
+      "contributor": "BF Wichita, LLC",
+      "address": "150 N Market Wichita KS 67202",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 4,
+      "date": "12/14/23",
+      "contributor": "Goddard Galleria, LLC",
+      "address": "10180 SW Blvd Wichita KS 67215",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 4,
+      "date": "12/14/23",
+      "contributor": "Venture Investments",
+      "address": "150 N Market Wichita KS 67202",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 4,
+      "date": "12/20/23",
+      "contributor": "Doug and Sharon Scott",
+      "address": "1490 Sand Castle Road Sanibel FL 33957",
+      "occupation": "Aviation",
+      "amount": 200
+    },
+    {
+      "_page": 4,
+      "date": "12/23/23",
+      "contributor": "Fred Berry Jr & Suzanne Berry",
+      "address": "8917 E Douglas Ave Wichita KS 67207",
+      "occupation": "Equipment Sales",
+      "amount": 250
+    },
+    {
+      "_page": 4,
+      "date": "12/27/23",
+      "contributor": "David Wells",
+      "address": "741 W 2nd St N Wichita KS 67203",
+      "occupation": "Construction",
+      "amount": 500
+    },
+    {
+      "_page": 4,
+      "date": "12/28/23",
+      "contributor": "George Pearson Jr",
+      "address": "800 E 21st N Wichita KS 67214",
+      "occupation": "Construction",
+      "amount": 500
+    },
+    {
+      "_page": 4,
+      "date": "12/28/23",
+      "contributor": "DCN Holding Company, LLC",
+      "address": "17498 SW Meadowlark Rd Rose Hill KS 67133",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 4,
+      "date": "12/28/23",
+      "contributor": "D. Craig Nelson",
+      "address": "17498 SW Meadowlark Rd Rose Hill KS 67133",
+      "occupation": "Construction",
+      "amount": 500
+    },
+    {
+      "_page": 4,
+      "date": "12/26/23",
+      "contributor": "BBH, LLC Cooks Heating & Cooling",
+      "address": "2215 S West Street Wichita KS 67213",
+      "occupation": "Heating & Air",
+      "amount": 500
+    },
+    {
+      "_page": 4,
+      "date": "12/29/23",
+      "contributor": "Paul and Virginia Treadwell",
+      "address": "10101 E 47th S Derby KS 67037",
+      "occupation": "Housing",
+      "amount": 500
+    },
+    {
+      "_page": 4,
+      "date": "12/29/23",
+      "contributor": "Welcome Home, LLC",
+      "address": "5111 South Meridian Ave Wichita KS 67217",
+      "occupation": "Housing",
+      "amount": 500
+    },
+    {
+      "_page": 4,
+      "date": "12/29/23",
+      "contributor": "Leap Family Entertainment",
+      "address": "6100 E Central Ave Bldg 3 Wichita KS 67208",
+      "occupation": "Entertainment",
+      "amount": 500
+    },
+    {
+      "_page": 4,
+      "date": "12/29/23",
+      "contributor": "Manapart, LLC",
+      "address": "6100 E Central Ave Bldg 3 Wichita KS 67209",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 4,
+      "date": "12/29/23",
+      "contributor": "CBRJ, LLC",
+      "address": "6100 E Central Ave Bldg 3 Wichita KS 67208",
+      "occupation": "Real Estate",
+      "amount": 500
+    }
+  ],
+  "expenditures": [
+    {
+      "_page": 5,
+      "date": "3/2/23",
+      "name": "Bennington Bank 3954 N. Ridge Rd, Wichita KS 67205",
+      "address": null,
+      "purpose": "Check order",
+      "amount": 47.23
+    },
+    {
+      "_page": 5,
+      "date": "3/2/23",
+      "name": "Office Aide 911 E Orme Wichita, KS 67211",
+      "address": null,
+      "purpose": "Campaign Fundraiser Mailing",
+      "amount": 869.98
+    },
+    {
+      "_page": 5,
+      "date": "3/7/23",
+      "name": "JABU Design Julie Burton 8302 E Old Mill ST Wichita, KS 67226",
+      "address": null,
+      "purpose": "Logo Design & Campaign work",
+      "amount": 866.61
+    },
+    {
+      "_page": 5,
+      "date": "3/7/23",
+      "name": "J Blare 10915 W Atlanta Circle Wichita, KS 67215",
+      "address": null,
+      "purpose": "Reimburse Postage for Mailing",
+      "amount": 161.38
+    },
+    {
+      "_page": 5,
+      "date": "4/1/23",
+      "name": "Haysville Chamber 220 S Main St, Haysville, KS 67060",
+      "address": null,
+      "purpose": "Dues to civic group",
+      "amount": 165.0
+    },
+    {
+      "_page": 5,
+      "date": "4/6/23",
+      "name": "Kurt Shurts Shurts Logo 300 Osage Wichita, KS 67218",
+      "address": null,
+      "purpose": "Campaign T Shirts",
+      "amount": 306.25
+    },
+    {
+      "_page": 5,
+      "date": "4/27/23",
+      "name": "JABU Design Julie Burton 8302 E Old Mill ST Wichita, KS 67226",
+      "address": null,
+      "purpose": "Logo Design & Campaign work",
+      "amount": 1782.3
+    },
+    {
+      "_page": 5,
+      "date": "5/5/23",
+      "name": "Kurt Shurts Shurts Logo 300 Osage Wichita, KS 67218",
+      "address": null,
+      "purpose": "Campaign T Shirts",
+      "amount": 193.5
+    },
+    {
+      "_page": 5,
+      "date": "5/5/23",
+      "name": "JABU Design Julie Burton 8302 E Old Mill ST Wichita, KS 67226",
+      "address": null,
+      "purpose": "Campaign work",
+      "amount": 123.75
+    },
+    {
+      "_page": 5,
+      "date": "8/14/23",
+      "name": "Kurt Shurts Shurts Logo 300 Osage Wichita, KS 67218",
+      "address": null,
+      "purpose": "Campaign T Shirts",
+      "amount": 767.55
+    },
+    {
+      "_page": 5,
+      "date": "7/10/23",
+      "name": "JABU Design Julie Burton 8302 E Old Mill ST Wichita, KS 67226",
+      "address": null,
+      "purpose": "Campaign Management",
+      "amount": 2322.98
+    },
+    {
+      "_page": 5,
+      "date": "9/30/23",
+      "name": "Haysville Education Foundation 1745 W Grand Ave. Haysville, KS 67060",
+      "address": null,
+      "purpose": "Barn Bash event Fundraiser",
+      "amount": 217.5
+    },
+    {
+      "_page": 5,
+      "date": "10/4/23",
+      "name": "Village Inn 3535 S Meridian Wichita, KS 67217",
+      "address": null,
+      "purpose": "Campaign Strategy Lunch",
+      "amount": 35.0
+    },
+    {
+      "_page": 5,
+      "date": "10/6/23",
+      "name": "City Print PO 75217 Wichita KS 67275",
+      "address": null,
+      "purpose": "Campaign Printing",
+      "amount": 131.15
+    },
+    {
+      "_page": 5,
+      "date": "10/5/23",
+      "name": "Meghan Blubaugh 10915 W Atlanta Circle Wichita, KS 67215",
+      "address": null,
+      "purpose": "Reimbursement for Parade Candy",
+      "amount": 235.92
+    },
+    {
+      "_page": 5,
+      "date": "10/7/23",
+      "name": "Meghan Blubaugh 10915 W Atlanta Circle Wichita, KS 67215",
+      "address": null,
+      "purpose": "Reimbursement for lunch for parade volunteers at Olive Garden",
+      "amount": 160.65
+    },
+    {
+      "_page": 5,
+      "date": "10/12/23",
+      "name": "JABU Design Julie Burton 8302 E Old Mill ST Wichita, KS 67226",
+      "address": null,
+      "purpose": "Campaign work and Pen order",
+      "amount": 1579.23
+    },
+    {
+      "_page": 5,
+      "date": "10/21/23",
+      "name": "Texas Roadhouse 6707 West Kellogg Wichita, KS 67209",
+      "address": null,
+      "purpose": "Lunch for parade attendees",
+      "amount": 186.02
+    },
+    {
+      "_page": 5,
+      "date": "10/24/23",
+      "name": "Meghan Blubaugh 10915 W Atlanta Circle Wichita, KS 67215",
+      "address": null,
+      "purpose": "Reimbursement for stamps for campaign letters",
+      "amount": 132.0
+    },
+    {
+      "_page": 5,
+      "date": "10/24/23",
+      "name": "Meghan Blubaugh 10915 W Atlanta Circle Wichita, KS 67215",
+      "address": null,
+      "purpose": "Reimbursement for donuts for parade",
+      "amount": 19.3
+    },
+    {
+      "_page": 5,
+      "date": "10/24/23",
+      "name": "Albert Pike 332 E 1st N Wichita, KS 67202",
+      "address": null,
+      "purpose": "Dues to civic group",
+      "amount": 135.0
+    },
+    {
+      "_page": 5,
+      "date": "10/24/23",
+      "name": "Midan Shrine 130 N Topeka Wichita, KS 67202",
+      "address": null,
+      "purpose": "Dues to civic group",
+      "amount": 170.0
+    },
+    {
+      "_page": 5,
+      "date": "10/25/23",
+      "name": "Meghan Blubaugh 10915 W Atlanta Circle Wichita, KS 67215",
+      "address": null,
+      "purpose": "Reimbursement for parade candy",
+      "amount": 117.96
+    },
+    {
+      "_page": 5,
+      "date": "11/2/23",
+      "name": "Brooke Kaucbax 455 N Main Wichita, KS 67202",
+      "address": null,
+      "purpose": "Reimbursement for donuts for neighborhood clean up",
+      "amount": 115.17
+    },
+    {
+      "_page": 5,
+      "date": "11/14/23",
+      "name": "Wichita Independent Business Association 100 N Broadway St Ste. 1005, Wichita, KS 67202",
+      "address": null,
+      "purpose": "Dues to civic group",
+      "amount": 250.0
+    },
+    {
+      "_page": 5,
+      "date": "11/20/23",
+      "name": "City Print PO 75217 Wichita KS 67275",
+      "address": null,
+      "purpose": "Print Campaign Material",
+      "amount": 362.81
+    },
+    {
+      "_page": 5,
+      "date": "11/22/23",
+      "name": "Meghan Blubaugh 10915 W Atlanta Circle Wichita, KS 67215",
+      "address": null,
+      "purpose": "Stamps and Pens Reimbursement",
+      "amount": 205.46
+    },
+    {
+      "_page": 5,
+      "date": "11/28/23",
+      "name": "Pay Pal 2211 N 1st St, San Jose, CA 95123",
+      "address": null,
+      "purpose": "Pay Pal Charge for contribution",
+      "amount": 8.0
+    },
+    {
+      "_page": 6,
+      "date": {
+        "value": "11/30/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Wichita Independent Business Association 100 N Broadway St Ste. L105, Wichita, KS 67202",
+        "bbox": null
+      },
+      "address": null,
+      "purpose": {
+        "value": "Business Group Event",
+        "bbox": null
+      },
+      "amount": {
+        "value": 150,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 6,
+      "date": {
+        "value": "12/5/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Pay Pal 2211 N 1st St, San Jose, CA 95123",
+        "bbox": null
+      },
+      "address": null,
+      "purpose": {
+        "value": "Pay Pal Charge for contribution",
+        "bbox": null
+      },
+      "amount": {
+        "value": 15,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 6,
+      "date": {
+        "value": "12/8/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Pay Pal 2211 N 1st St, San Jose, CA 95123",
+        "bbox": null
+      },
+      "address": null,
+      "purpose": {
+        "value": "Pay Pal Charge for contribution",
+        "bbox": null
+      },
+      "amount": {
+        "value": 12367.7,
+        "bbox": null
+      }
+    }
+  ],
+  "other_transactions": [],
+  "in_kind_contributions": [],
+  "total_itemized_receipts": 39000
+}

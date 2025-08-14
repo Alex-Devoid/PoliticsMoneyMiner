@@ -1,0 +1,598 @@
+{
+  "candidate": {
+    "name": {
+      "value": "Jeff Blubaugh",
+      "bbox": null
+    },
+    "address": {
+      "value": "2021 N Woodlawn Suite 2",
+      "bbox": null
+    },
+    "city": {
+      "value": "Wichita",
+      "bbox": null
+    },
+    "county": {
+      "value": "Sedgwick",
+      "bbox": null
+    },
+    "office_sought": {
+      "value": "County Commission",
+      "bbox": null
+    },
+    "district": {
+      "value": "II",
+      "bbox": null
+    },
+    "_page": 3,
+    "zip": {
+      "value": "67208",
+      "bbox": null
+    }
+  },
+  "summary": {
+    "cash_on_hand_beginning": {
+      "value": 0.0,
+      "bbox": null
+    },
+    "total_contributions": {
+      "value": 39000,
+      "bbox": null
+    },
+    "cash_available": {
+      "value": 39000.0,
+      "bbox": null
+    },
+    "total_expenditures": {
+      "value": 12367.7,
+      "bbox": null
+    },
+    "cash_on_hand_close": {
+      "value": 26632.3,
+      "bbox": null
+    },
+    "in_kind_contributions": {
+      "value": null,
+      "bbox": null
+    },
+    "other_transactions": {
+      "value": null,
+      "bbox": null
+    },
+    "_page": 3
+  },
+  "contributions": [
+    {
+      "_page": 3,
+      "date": {
+        "value": "5/24/23",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "Fourson Construction, LLC",
+        "bbox": null
+      },
+      "address": {
+        "value": "PO Box 75337",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Construction",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 3,
+      "date": {
+        "value": "5/24/23",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "J Russell Develop & Mgmt",
+        "bbox": null
+      },
+      "address": {
+        "value": "PO Box 75337",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 3,
+      "date": {
+        "value": "5/24/23",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "Brammer Plumbing, Inc",
+        "bbox": null
+      },
+      "address": {
+        "value": "2416 S St. Clair",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Plumbing",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 3,
+      "date": {
+        "value": "5/24/23",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "Scott Kelley Mcneil",
+        "bbox": null
+      },
+      "address": {
+        "value": "13811 N Cascade Pkwy Ct.",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 3,
+      "date": {
+        "value": "5/24/23",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "Thomas L. Bachman",
+        "bbox": null
+      },
+      "address": {
+        "value": "PO Box 782170",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Retired Engineer",
+        "bbox": null
+      },
+      "amount": {
+        "value": 250,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 3,
+      "date": {
+        "value": "6/22/23",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "Joseph Tom Service",
+        "bbox": null
+      },
+      "address": {
+        "value": "6225 W. 51st St.",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Food & Beverage",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 3,
+      "date": {
+        "value": "6/22/23",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "Michael Linn Croft LLC",
+        "bbox": null
+      },
+      "address": {
+        "value": "15590 W. 58th St. N.",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Mortgage Repair",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 3,
+      "date": {
+        "value": "6/22/23",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "Kelley Hill South LLC",
+        "bbox": null
+      },
+      "address": {
+        "value": "15590 W. 58th St. N.",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 3,
+      "date": {
+        "value": "7/12/23",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "KS Properties of Kansas LLC",
+        "bbox": null
+      },
+      "address": {
+        "value": "150 N. Market, Suite 110",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 3,
+      "date": {
+        "value": "7/20/23",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "MGB Development Company LLC",
+        "bbox": null
+      },
+      "address": {
+        "value": "150 N. Market, Suite 110",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 3,
+      "date": {
+        "value": "7/20/23",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "NS Properties of Kansas LLC",
+        "bbox": null
+      },
+      "address": {
+        "value": "150 N. Market, Suite 110",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 3,
+      "date": {
+        "value": "8/21/23",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "Richard Eagers",
+        "bbox": null
+      },
+      "address": {
+        "value": "1710 N. Nickelton",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Retired",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 3,
+      "date": {
+        "value": "8/23/23",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "Summit HC LLC",
+        "bbox": null
+      },
+      "address": {
+        "value": "216 S. Edward Wichita",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 3,
+      "date": {
+        "value": "9/30/23",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "William T. Hayes",
+        "bbox": null
+      },
+      "address": {
+        "value": "2832 W. Nottingham Cir",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Retired",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 3,
+      "date": {
+        "value": "10/12/23",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "Collect LLC",
+        "bbox": null
+      },
+      "address": {
+        "value": "316 N. Mead St. Suite 400",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 3,
+      "date": {
+        "value": "11/1/23",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "MCG Law Firm",
+        "bbox": null
+      },
+      "address": {
+        "value": "316 N. Mead St. Suite 400",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Legal",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 3,
+      "date": {
+        "value": "11/1/23",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "McPherson Law Firm",
+        "bbox": null
+      },
+      "address": {
+        "value": "316 N. Mead St. Suite 400",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Legal",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 3,
+      "date": {
+        "value": "11/1/23",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "B & D Companies",
+        "bbox": null
+      },
+      "address": {
+        "value": "316 N. Mead St. Suite 400",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 3,
+      "date": {
+        "value": "11/15/23",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "B & D Companies",
+        "bbox": null
+      },
+      "address": {
+        "value": "316 N. Mead St. Suite 400",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 3,
+      "date": {
+        "value": "11/18/23",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "B & D Companies",
+        "bbox": null
+      },
+      "address": {
+        "value": "316 N. Mead St. Suite 400",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 3,
+      "date": {
+        "value": "11/28/23",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "B & D Companies",
+        "bbox": null
+      },
+      "address": {
+        "value": "316 N. Mead St. Suite 400",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 3,
+      "date": {
+        "value": "12/5/23",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "B & D Companies",
+        "bbox": null
+      },
+      "address": {
+        "value": "316 N. Mead St. Suite 400",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 3,
+      "date": {
+        "value": "12/12/23",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "Rodney Wright",
+        "bbox": null
+      },
+      "address": {
+        "value": "2300 W. 107th St.",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "HOA MGMT",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    }
+  ],
+  "expenditures": [],
+  "other_transactions": [],
+  "in_kind_contributions": []
+}

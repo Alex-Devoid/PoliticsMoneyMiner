@@ -1,0 +1,35 @@
+# .gcloudignore
+# ----------------------------------------------------------------------------
+# This file specifies files/folders that are *not* uploaded to Google Cloud
+# when using 'gcloud builds submit' or other gcloud commands.
+#
+# See https://cloud.google.com/sdk/gcloud/reference/topic/gcloudignore
+# for more details.
+# ----------------------------------------------------------------------------
+
+# Ignore the .git folder and any .gitignore/.gcloudignore files themselves
+.git
+.gitignore
+.gcloudignore
+
+# macOS metadata
+.DS_Store
+
+# Python compiled files/folders
+__pycache__/
+*.py[cod]
+
+# (Optional) Exclude local environment/secret files
+# e.g., .env, *.key, etc., if you have them
+*.env
+*.key
+
+# (Optional) If you have credentials or keys in sheets_setup, exclude them:
+sheets_setup/*.json
+
+# (Optional) Exclude logs or any ephemeral files if they exist
+*.log
+
+
+tests/
+# ----------------------------------------------------------------------------

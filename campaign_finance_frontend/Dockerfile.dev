@@ -1,0 +1,52 @@
+# Use latest Node.js version recommended by Nuxt
+FROM node:22-alpine
+
+# Set the working directory inside the container
+WORKDIR /app
+
+# Install essential packages for development
+RUN apk update && apk add --no-cache \
+    curl \
+    wget \
+    unzip \
+    git \
+    vim \
+    net-tools \
+    build-base \
+    openssh-client \
+    ffmpeg \
+    gnupg \
+    ca-certificates 
+
+# Enable Corepack (for Yarn or PNPM)
+RUN corepack enable
+
+# Copy only essential package files first (leverages Docker caching)
+COPY package.json yarn.lock ./
+
+# Set Yarn to use node_modules instead of Plug'n'Play
+RUN yarn config set nodeLinker node-modules
+RUN apk add --no-cache chromium nss freetype ttf-freefont
+RUN apk add --no-cache fontconfig freetype --update-cache
+ENV PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
+# Install dependencies in immutable mode
+RUN yarn install --immutable
+
+# Copy the rest of the project files
+COPY . .
+
+# Expose Nuxt's development server port
+EXPOSE 3000
+
+# Set environment variables for Nuxt dev mode
+ENV NITRO_PRESET=node
+ENV HOST=0.0.0.0
+ENV PORT=3000
+ENV MOCK_DATA=off
+ENV API_URL=http://backend:8080
+ENV FINANCE_API_URL=http://backend-campaign-finance-api:8080
+ENV NODE_ENV=development
+ENV DEV_USER_EMAIL=testatIAP_CAPTURE.com
+
+# Start the Nuxt development server
+CMD ["yarn", "dev"]

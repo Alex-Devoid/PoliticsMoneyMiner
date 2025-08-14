@@ -1,0 +1,557 @@
+{
+  "candidate": {
+    "name": {
+      "value": "Jeff Blubaugh",
+      "bbox": null
+    },
+    "address": {
+      "value": "10915 W Atlanta Cir",
+      "bbox": null
+    },
+    "city": {
+      "value": "Wichita",
+      "bbox": null
+    },
+    "zip": {
+      "value": "67215",
+      "bbox": null
+    },
+    "county": {
+      "value": "Sedgwick",
+      "bbox": null
+    },
+    "office_sought": {
+      "value": "County Commission",
+      "bbox": null
+    },
+    "district": {
+      "value": "2",
+      "bbox": null
+    },
+    "_page": 1
+  },
+  "summary": {
+    "cash_on_hand_beginning": {
+      "value": 46231.46,
+      "bbox": null
+    },
+    "total_contributions": {
+      "value": 49772.5,
+      "bbox": null
+    },
+    "cash_available": {
+      "value": 96003.96,
+      "bbox": null
+    },
+    "total_expenditures": {
+      "value": 76492.44,
+      "bbox": null
+    },
+    "cash_on_hand_close": {
+      "value": 19511.52,
+      "bbox": null
+    },
+    "in_kind_contributions": {
+      "value": 0.0,
+      "bbox": null
+    },
+    "other_transactions": {
+      "value": 0.0,
+      "bbox": null
+    },
+    "_page": 1
+  },
+  "contributions": [],
+  "expenditures": [
+    {
+      "_page": 2,
+      "date": "10/17/22",
+      "name": "Joe Self Chevrolet",
+      "address": {
+        "value": "8801 E Kellogg",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Automobile",
+        "bbox": null
+      },
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/17/22",
+      "name": "Homewood",
+      "address": {
+        "value": "116 W Third",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Construction",
+        "bbox": null
+      },
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/17/22",
+      "name": "S & J Turnkey",
+      "address": {
+        "value": "555 N Webb Road",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/17/22",
+      "name": "R & J Contractors",
+      "address": {
+        "value": "2126 N Ohio",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Construction",
+        "bbox": null
+      },
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/17/22",
+      "name": "B & B Companies",
+      "address": {
+        "value": "1700 N Market Road",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/17/22",
+      "name": "J.E. Dunn Construction",
+      "address": {
+        "value": "150 N Market Road",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/17/22",
+      "name": "D.O. C. Companies",
+      "address": {
+        "value": "1720 N Market Road",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/17/22",
+      "name": "Gregory Melugin",
+      "address": {
+        "value": "2340 N Lakeview",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/17/22",
+      "name": "Cargill Meat Solutions",
+      "address": {
+        "value": "151 N Rock Road",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/17/22",
+      "name": "S.L. Construction",
+      "address": {
+        "value": "801 E 21st N",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/17/22",
+      "name": "Castle Holdings",
+      "address": {
+        "value": "3155 S Webb Road",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/17/22",
+      "name": "Castle Holdings",
+      "address": {
+        "value": "3155 S Webb Road",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Automobile",
+        "bbox": null
+      },
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/17/22",
+      "name": "Eldridge Realty",
+      "address": {
+        "value": "3155 S Webb Road",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/17/22",
+      "name": "B & G Oil",
+      "address": {
+        "value": "3155 S Webb Road",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/17/22",
+      "name": "J.L. L.C.",
+      "address": {
+        "value": "3155 S Webb Road",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Automobile",
+        "bbox": null
+      },
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/17/22",
+      "name": "Lyon County",
+      "address": {
+        "value": "3155 S Webb Road",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Construction",
+        "bbox": null
+      },
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/17/22",
+      "name": "Vogt Bros",
+      "address": {
+        "value": "3155 S Webb Road",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Construction",
+        "bbox": null
+      },
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/17/22",
+      "name": "Vogt Bros",
+      "address": {
+        "value": "3155 S Webb Road",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/17/22",
+      "name": "Cargill Meat Solutions",
+      "address": {
+        "value": "3155 S Webb Road",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/17/22",
+      "name": "S.L. Construction",
+      "address": {
+        "value": "3155 S Webb Road",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "10/12/22",
+      "name": "Nathan Gosney",
+      "address": "2109 W Haskell",
+      "purpose": "Investment",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "10/12/22",
+      "name": "Market Advisory",
+      "address": "110 E Waterman",
+      "purpose": "Check",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "10/12/22",
+      "name": "Market Medcare",
+      "address": "110 E Waterman",
+      "purpose": "Check",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "10/21/22",
+      "name": "Market Medcare",
+      "address": "110 E Waterman",
+      "purpose": "Check",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "10/22/22",
+      "name": "Market Medcare",
+      "address": "110 E Waterman",
+      "purpose": "E-Funds",
+      "amount": 100
+    },
+    {
+      "_page": 3,
+      "date": "10/22/22",
+      "name": "Joseph Sullivan",
+      "address": "2756 S Lorna Rd",
+      "purpose": "Advertising work",
+      "amount": 250
+    },
+    {
+      "_page": 3,
+      "date": "10/22/22",
+      "name": "Joseph Sullivan",
+      "address": "2756 S Lorna Rd",
+      "purpose": "Check",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "10/22/22",
+      "name": "J & L Electric",
+      "address": "2418 S Hoover",
+      "purpose": "Plumbing",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "10/24/22",
+      "name": "Rick Long",
+      "address": "4545 E Windham",
+      "purpose": "Business Owner",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "10/24/22",
+      "name": "Rick Gangwal",
+      "address": "2920 N Twin Ct",
+      "purpose": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "10/24/22",
+      "name": "Nick Lin",
+      "address": "1202 S Cinn Oak",
+      "purpose": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "10/24/22",
+      "name": "Sky Four Investments LLC",
+      "address": "2920 W Central",
+      "purpose": "Real Estate",
+      "amount": 10
+    },
+    {
+      "_page": 3,
+      "date": "10/24/22",
+      "name": "Sky Four Investments LLC",
+      "address": "2920 W Central",
+      "purpose": "Check",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "10/25/22",
+      "name": "Market Mechane",
+      "address": "9435 E Central",
+      "purpose": "Hotel",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "10/25/22",
+      "name": "Market Mechane",
+      "address": "9435 E Central",
+      "purpose": "PAC",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "10/26/22",
+      "name": "Market Mechane",
+      "address": "3130 W Douglas",
+      "purpose": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "10/26/22",
+      "name": "Market Mechane",
+      "address": "3130 W Douglas",
+      "purpose": "Check",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "10/26/22",
+      "name": "Home Doc Custom",
+      "address": "6821 E Rough Creek",
+      "purpose": "Construction",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "10/26/22",
+      "name": "Cory Atherhead",
+      "address": "864 E Rough Creek",
+      "purpose": "Check",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "10/26/22",
+      "name": "Cory Atherhead",
+      "address": "864 E Rough Creek",
+      "purpose": "Paypal",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "10/29/22",
+      "name": "Marshall Dugan",
+      "address": "600 W 198th",
+      "purpose": "Real Estate",
+      "amount": 4500
+    },
+    {
+      "_page": 3,
+      "date": "10/29/22",
+      "name": "Marshall Dugan",
+      "address": "600 W 198th",
+      "purpose": "Homeowner",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "10/29/22",
+      "name": "Kayla Neal",
+      "address": "8024 E Clubside",
+      "purpose": "Check",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "10/29/22",
+      "name": "Kayla Neal",
+      "address": "8024 E Clubside",
+      "purpose": "Construction",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "10/29/24",
+      "name": "Ryan Hill LLC",
+      "address": "3801 S Meridian",
+      "purpose": "Check",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "10/29/24",
+      "name": "Ryan Hill LLC",
+      "address": "7250 S 95th",
+      "purpose": "Construction",
+      "amount": 500
+    }
+  ],
+  "other_transactions": [],
+  "in_kind_contributions": []
+}

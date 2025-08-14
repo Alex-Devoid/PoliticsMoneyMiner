@@ -1,0 +1,765 @@
+{
+  "candidate": {
+    "name": {
+      "value": "Yeff Blubaugh",
+      "bbox": null
+    },
+    "address": {
+      "value": "10915 W Atlanta Cir",
+      "bbox": null
+    },
+    "city": {
+      "value": "67215",
+      "bbox": null
+    },
+    "county": {
+      "value": "Sedgwick",
+      "bbox": null
+    },
+    "office_sought": {
+      "value": "County Commission",
+      "bbox": null
+    },
+    "district": {
+      "value": "1",
+      "bbox": null
+    },
+    "_page": 1
+  },
+  "summary": {
+    "cash_on_hand_beginning": {
+      "value": 0,
+      "bbox": null
+    },
+    "total_contributions": {
+      "value": 399.0,
+      "bbox": null
+    },
+    "cash_available": {
+      "value": 399.0,
+      "bbox": null
+    },
+    "total_expenditures": {
+      "value": 512.7,
+      "bbox": null
+    },
+    "cash_on_hand_close": {
+      "value": 246.3,
+      "bbox": null
+    },
+    "in_kind_contributions": {
+      "value": 0,
+      "bbox": null
+    },
+    "other_transactions": {
+      "value": 0,
+      "bbox": null
+    },
+    "_page": 1
+  },
+  "contributions": [
+    {
+      "_page": 2,
+      "date": {
+        "value": "2/1/23",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "Jeff Blubaugh",
+        "bbox": null
+      },
+      "address": {
+        "value": "13541 W Central Ave",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Baby",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 2,
+      "date": {
+        "value": "2/1/23",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "Sarah Marchand",
+        "bbox": null
+      },
+      "address": {
+        "value": "4860 S 103rd St W",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Retired Teacher",
+        "bbox": null
+      },
+      "amount": {
+        "value": 250,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 2,
+      "date": {
+        "value": "2/1/23",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "William",
+        "bbox": null
+      },
+      "address": {
+        "value": "67230 Insurance",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 2,
+      "date": {
+        "value": "2/1/23",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "Michael",
+        "bbox": null
+      },
+      "address": {
+        "value": "67230 Real Estate",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    }
+  ],
+  "expenditures": [
+    {
+      "_page": 3,
+      "date": {
+        "value": "7/25/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Rodney Wright",
+        "bbox": null
+      },
+      "address": {
+        "value": "2401 W 10th",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Radio Broadcast",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 3,
+      "date": {
+        "value": "7/20/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Book L.L.C.",
+        "bbox": null
+      },
+      "address": {
+        "value": "150 N Market",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Real Estate Check",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 3,
+      "date": {
+        "value": "7/2/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Russell Develop & Mgmt",
+        "bbox": null
+      },
+      "address": {
+        "value": "PO Box 75337",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Real Estate Check",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 3,
+      "date": {
+        "value": "5/2/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Soda & Kasha Rossi",
+        "bbox": null
+      },
+      "address": {
+        "value": "PO Box 75327",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Real Estate Check",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 3,
+      "date": {
+        "value": "5/2/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Band Plumbing, Inc",
+        "bbox": null
+      },
+      "address": {
+        "value": "248 S Hoover",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Plumbing Check",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 3,
+      "date": {
+        "value": "6/7/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Premier Food Services",
+        "bbox": null
+      },
+      "address": {
+        "value": "8225 W Irving, #100",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Food & Beverage Check",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 3,
+      "date": {
+        "value": "6/7/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Joseph Hummelman",
+        "bbox": null
+      },
+      "address": {
+        "value": "8225 W Irving, #100",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Food & Beverage Check",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 3,
+      "date": {
+        "value": "6/6/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Medsker Custom",
+        "bbox": null
+      },
+      "address": {
+        "value": "3199 W May",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Window Construction",
+        "bbox": null
+      },
+      "amount": {
+        "value": 450,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 3,
+      "date": {
+        "value": "7/20/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Collage Hill Square, LLC",
+        "bbox": null
+      },
+      "address": {
+        "value": "150 N Market",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Real Estate Check",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 3,
+      "date": {
+        "value": "7/20/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "LNS Investments of Kansas",
+        "bbox": null
+      },
+      "address": {
+        "value": "150 N Market",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Real Estate Check",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 3,
+      "date": {
+        "value": "7/20/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "LNS Developers of Kansas, LLC",
+        "bbox": null
+      },
+      "address": {
+        "value": "150 N Market",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Real Estate Check",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 3,
+      "date": {
+        "value": "7/30/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Maxea, LLC",
+        "bbox": null
+      },
+      "address": {
+        "value": "9345 E Central",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Real Estate Check",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 3,
+      "date": {
+        "value": "8/7/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "William Hayes",
+        "bbox": null
+      },
+      "address": {
+        "value": "11144 W Central",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Real Estate Check",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 3,
+      "date": {
+        "value": "8/7/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "TWM, L.L.C.",
+        "bbox": null
+      },
+      "address": {
+        "value": "150 N Market",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Real Estate Check",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 4,
+      "date": "12/31/22",
+      "name": {
+        "value": "D Craig Nelson",
+        "bbox": [
+          134.0,
+          484.0,
+          234.0,
+          498.0
+        ]
+      },
+      "address": {
+        "value": "4656 SW Meadowlark Rd",
+        "bbox": [
+          234.0,
+          484.0,
+          364.0,
+          498.0
+        ]
+      },
+      "purpose": {
+        "value": "BPU, LLC - Cook Heating & Cooling",
+        "bbox": [
+          364.0,
+          484.0,
+          600.0,
+          498.0
+        ]
+      },
+      "amount": {
+        "value": 500,
+        "bbox": [
+          600.0,
+          484.0,
+          650.0,
+          498.0
+        ]
+      }
+    },
+    {
+      "_page": 4,
+      "date": "12/29/22",
+      "name": {
+        "value": "George Palmer Jr",
+        "bbox": [
+          134.0,
+          498.0,
+          234.0,
+          512.0
+        ]
+      },
+      "address": {
+        "value": "800 N 2nd St N",
+        "bbox": [
+          234.0,
+          498.0,
+          364.0,
+          512.0
+        ]
+      },
+      "purpose": {
+        "value": "BPU, LLC - Cook Heating & Cooling",
+        "bbox": [
+          364.0,
+          498.0,
+          600.0,
+          512.0
+        ]
+      },
+      "amount": {
+        "value": 500,
+        "bbox": [
+          600.0,
+          498.0,
+          650.0,
+          512.0
+        ]
+      }
+    },
+    {
+      "_page": 4,
+      "date": "12/28/22",
+      "name": {
+        "value": "DEW Electric",
+        "bbox": [
+          134.0,
+          512.0,
+          234.0,
+          526.0
+        ]
+      },
+      "address": {
+        "value": "1237 NE 67th Ave",
+        "bbox": [
+          234.0,
+          512.0,
+          364.0,
+          526.0
+        ]
+      },
+      "purpose": {
+        "value": "BPU, LLC - Cook Heating & Cooling",
+        "bbox": [
+          364.0,
+          512.0,
+          600.0,
+          526.0
+        ]
+      },
+      "amount": {
+        "value": 500,
+        "bbox": [
+          600.0,
+          512.0,
+          650.0,
+          526.0
+        ]
+      }
+    },
+    {
+      "_page": 5,
+      "date": "7/1/22",
+      "name": "Campaign Strategy Unit",
+      "address": null,
+      "purpose": "Campaign Planning",
+      "amount": 533.5
+    },
+    {
+      "_page": 5,
+      "date": "7/1/22",
+      "name": "Brain Basin Aerial Filmmakers",
+      "address": null,
+      "purpose": "Campaign Management",
+      "amount": 1222.89
+    },
+    {
+      "_page": 5,
+      "date": "7/1/22",
+      "name": "Campaign & Sons",
+      "address": null,
+      "purpose": "Campaign Work",
+      "amount": 735.75
+    },
+    {
+      "_page": 5,
+      "date": "7/1/22",
+      "name": "Campaign & Sons",
+      "address": null,
+      "purpose": "Campaign Work",
+      "amount": 1329.0
+    },
+    {
+      "_page": 5,
+      "date": "7/1/22",
+      "name": "Campaign & Sons",
+      "address": null,
+      "purpose": "Campaign & Shirts",
+      "amount": 8006.25
+    },
+    {
+      "_page": 5,
+      "date": "7/1/22",
+      "name": "Campaign & Sons",
+      "address": null,
+      "purpose": "Logo Design & Campaign Work",
+      "amount": 1782.3
+    },
+    {
+      "_page": 5,
+      "date": "7/1/22",
+      "name": "Campaign & Sons",
+      "address": null,
+      "purpose": "Logo Design & Campaign Work",
+      "amount": 1686.61
+    },
+    {
+      "_page": 5,
+      "date": "7/1/22",
+      "name": "Campaign Postage & Mailing",
+      "address": null,
+      "purpose": "Distribute Postage & Mailing",
+      "amount": 1516.0
+    },
+    {
+      "_page": 5,
+      "date": "7/1/22",
+      "name": "Campaign & Shirts",
+      "address": null,
+      "purpose": "Campaign & Shirts",
+      "amount": 1939.0
+    },
+    {
+      "_page": 5,
+      "date": "7/1/22",
+      "name": "Campaign & Shirts",
+      "address": null,
+      "purpose": "Campaign & Shirts",
+      "amount": 5767.0
+    },
+    {
+      "_page": 5,
+      "date": "7/1/22",
+      "name": "Campaign & Shirts",
+      "address": null,
+      "purpose": "Campaign & Shirts",
+      "amount": 2122.89
+    },
+    {
+      "_page": 5,
+      "date": "7/1/22",
+      "name": "Campaign & Shirts",
+      "address": null,
+      "purpose": "Campaign & Shirts",
+      "amount": 1313.75
+    },
+    {
+      "_page": 6,
+      "date": {
+        "value": "11/30/22",
+        "bbox": null
+      },
+      "name": {
+        "value": "Willow Glen Business Association",
+        "bbox": null
+      },
+      "address": {
+        "value": "1261 Lincoln Ave, Suite 217, San Jose, CA 95112",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Party fair charge for contribution",
+        "bbox": null
+      },
+      "amount": {
+        "value": 150.0,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 6,
+      "date": {
+        "value": "12/03/22",
+        "bbox": null
+      },
+      "name": {
+        "value": "Willow Glen Business Association",
+        "bbox": null
+      },
+      "address": {
+        "value": "1261 Lincoln Ave, Suite 217, San Jose, CA 95112",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Party fair charge for contribution",
+        "bbox": null
+      },
+      "amount": {
+        "value": 150.0,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 6,
+      "date": {
+        "value": "12/05/22",
+        "bbox": null
+      },
+      "name": {
+        "value": "Willow Glen Business Association",
+        "bbox": null
+      },
+      "address": {
+        "value": "1261 Lincoln Ave, Suite 217, San Jose, CA 95112",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Party fair charge for contribution",
+        "bbox": null
+      },
+      "amount": {
+        "value": 1236.7,
+        "bbox": null
+      }
+    }
+  ],
+  "other_transactions": [],
+  "in_kind_contributions": []
+}

@@ -1,0 +1,62 @@
+# ── Web API ───────────────────────────────
+fastapi==0.111.1
+uvicorn[standard]==0.29.0
+
+# ── Google Cloud ──────────────────────────
+google-auth>=2.0.0,<3
+google-auth-oauthlib>=0.4.0,<1
+google-auth-httplib2>=0.1.0,<1
+google-cloud-secret-manager>=2.19,<3
+google-api-python-client>=2.125,<3
+google-cloud-storage
+google-cloud-firestore
+# ── LangChain split packages (0.3-line) ──
+langchain[openai,text-splitters]==0.3.26
+langsmith>=0.3.45,<1.0.0
+
+# ── LLM client & helpers ──────────────────
+openai>=1.86.0,<2.0.0
+tiktoken>=0.7,<1.0.0
+python-dotenv==1.0.1
+
+# ── OCR / PDF parsing ─────────────────────
+pdf2image==1.17.0
+pytesseract==0.3.10
+PyPDF2==3.0.1
+pypdf==4.2.0
+pymupdf==1.24.14
+psutil
+# ── Hand-writing OCR (TrOCR) ──────────────
+torch==2.3.0
+torchvision==0.18.0
+transformers==4.41.2
+sentencepiece==0.2.0
+huggingface_hub==0.23.3
+
+
+# ── HTTP & data ───────────────────────────
+requests>=2.31,<3
+requests-toolbelt>=1.0,<2
+beautifulsoup4==4.12.3
+lxml==5.4.0
+pandas==2.2.3
+
+# ── Database layer ────────────────────────
+sqlalchemy==2.0.41
+sqlalchemy-utils==0.41.2
+psycopg2-binary==2.9.10
+alembic==1.13.3
+
+
+
+# ── Testing & misc ────────────────────────
+pytest==8.3.5
+anyio==4.3.0
+pydantic==2.9.2
+typing_extensions>=4.14.0
+rapidfuzz
+
+
+# ── document-orientation classifier (PaddleOCR) ─────────────
+paddleocr
+paddlepaddle==2.6.2

@@ -1,0 +1,436 @@
+{
+  "candidate": {
+    "name": {
+      "value": "Jeff Blubaugh",
+      "bbox": null
+    },
+    "address": {
+      "value": "10915 W Atlanta Cir",
+      "bbox": null
+    },
+    "city": {
+      "value": "Wichita",
+      "bbox": null
+    },
+    "zip": {
+      "value": "67215",
+      "bbox": null
+    },
+    "county": {
+      "value": "Sedgwick",
+      "bbox": null
+    },
+    "office_sought": {
+      "value": "County Commission",
+      "bbox": null
+    },
+    "district": {
+      "value": "2",
+      "bbox": null
+    },
+    "_page": 1
+  },
+  "summary": {
+    "cash_on_hand_beginning": {
+      "value": 19511.52,
+      "bbox": null
+    },
+    "total_contributions": {
+      "value": 16210.0,
+      "bbox": null
+    },
+    "cash_available": {
+      "value": 35721.52,
+      "bbox": null
+    },
+    "total_expenditures": {
+      "value": 31538.68,
+      "bbox": null
+    },
+    "cash_on_hand_close": {
+      "value": 4182.84,
+      "bbox": null
+    },
+    "in_kind_contributions": {
+      "value": null,
+      "bbox": null
+    },
+    "other_transactions": {
+      "value": null,
+      "bbox": null
+    },
+    "_page": 1
+  },
+  "contributions": [],
+  "expenditures": [
+    {
+      "_page": 2,
+      "date": "11/12/24",
+      "name": "Kays Property Management",
+      "address": {
+        "value": "555 W Douglas",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "11/12/24",
+      "name": "Wichita Hayes",
+      "address": {
+        "value": "665 N Central",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "11/12/24",
+      "name": "Wichita KS",
+      "address": {
+        "value": "67203",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "11/12/24",
+      "name": "MAMR LLC",
+      "address": {
+        "value": "6010 E Central",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "11/11/24",
+      "name": "Tamasa Electrical LLC",
+      "address": {
+        "value": "8801 E Kellogg Wichita KS 67207",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "11/11/24",
+      "name": "Brandon & Karen Steven",
+      "address": {
+        "value": "1100 S Greenwich Wichita KS 67207",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "11/11/24",
+      "name": "Regina Daniels",
+      "address": {
+        "value": "1610 E Kellogg Wichita KS 67211",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "11/11/24",
+      "name": "Season of Wichita",
+      "address": {
+        "value": "1920 Prescott St Wichita KS 67213",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "11/11/24",
+      "name": "John Avery",
+      "address": {
+        "value": "3700 E Kellogg Wichita KS 67211",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "11/11/24",
+      "name": "Tracy Rapp",
+      "address": {
+        "value": "1761 E Sagebrush Wichita KS 67230",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 200
+    },
+    {
+      "_page": 2,
+      "date": "11/11/24",
+      "name": "Kyle Jones",
+      "address": {
+        "value": "67202 Tech Support",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 250
+    },
+    {
+      "_page": 2,
+      "date": "11/11/24",
+      "name": "Emily Entertainment",
+      "address": {
+        "value": "67208 Real Estate",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "11/11/24",
+      "name": "67208 Real Estate",
+      "address": {
+        "value": "67207 Car Sales",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "11/11/24",
+      "name": "67207 Car Sales",
+      "address": {
+        "value": "67207 Car Sales",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 1000
+    },
+    {
+      "_page": 2,
+      "date": "10/29/24",
+      "name": "Andrew Wiles",
+      "address": {
+        "value": "13419 W 89th N Texaco KS 66627",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 50
+    },
+    {
+      "_page": 2,
+      "date": "10/29/24",
+      "name": "Janie Cobb",
+      "address": {
+        "value": "2429 KS Smokyview",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 250
+    },
+    {
+      "_page": 3,
+      "date": "11/02/24",
+      "name": "LCC Construction",
+      "address": {
+        "value": "1815 Southwest Blvd Wichita, KS",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "11/02/24",
+      "name": "RO Development",
+      "address": {
+        "value": "2083 S Cov Wichita, KS",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "11/11/24",
+      "name": "DLC",
+      "address": {
+        "value": "741 E 2nd St N Wichita, KS",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "11/11/24",
+      "name": "Ross Keyley",
+      "address": {
+        "value": "1022 N Emily Blvd Wichita, KS",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "11/13/24",
+      "name": "Bob Andrich",
+      "address": {
+        "value": "9052 N Sundaisy Ct Wichita, KS",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "11/15/24",
+      "name": "Hayes Leasing, LLC",
+      "address": {
+        "value": "555 W Douglas Wichita, KS",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "11/21/24",
+      "name": "Vigna Crossland & Larry",
+      "address": {
+        "value": "30 Cypress Breeze Blvd Santa Rosa FL",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": {
+        "value": 1000,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 3,
+      "date": "12/15/24",
+      "name": "Chamber PAC",
+      "address": {
+        "value": "350 W Douglas Wichita, KS",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "12/15/24",
+      "name": "Spirit PAC",
+      "address": {
+        "value": "3801 S Oliver Wichita, KS",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 4,
+      "date": "10/25/24",
+      "name": "First Responders 5K",
+      "address": "5025 E Kellogg Drive Wichita, KS 67218",
+      "purpose": "Sponsorship for First responders",
+      "amount": 250
+    },
+    {
+      "_page": 4,
+      "date": "10/28/24",
+      "name": "Ax Captial",
+      "address": "800 W 47th St Ste 200 Kansas City, MO 64112",
+      "purpose": "Campaign Work",
+      "amount": 9014.68
+    },
+    {
+      "_page": 4,
+      "date": "10/28/24",
+      "name": "PayPal",
+      "address": "2211 N 1st San Jose, CA 95131",
+      "purpose": "Campaign transaction Fees",
+      "amount": 87
+    },
+    {
+      "_page": 4,
+      "date": "11/4/24",
+      "name": "Ax Captial",
+      "address": "800 W 47th St Ste 200 Kansas City, MO 64112",
+      "purpose": "Campaign Work",
+      "amount": 400
+    },
+    {
+      "_page": 4,
+      "date": "11/15/24",
+      "name": "Victory Visions LLC",
+      "address": "9901 S. Hoover Rd. Peck, KS 67120",
+      "purpose": "Campaign Work",
+      "amount": 4500
+    },
+    {
+      "_page": 4,
+      "date": "11/15/24",
+      "name": "Candle Club",
+      "address": "6135 E 13th Wichita, KS 67208",
+      "purpose": "Campaign Team Lunch",
+      "amount": 180
+    },
+    {
+      "_page": 4,
+      "date": "11/26/24",
+      "name": "Ax Captial",
+      "address": "800 W 47th St Ste 200 Kansas City, MO 64112",
+      "purpose": "Campaign Work",
+      "amount": 2500
+    },
+    {
+      "_page": 4,
+      "date": "12/4/24",
+      "name": "Victory Visions LLC",
+      "address": "9901 S. Hoover Rd. Peck, KS 67120",
+      "purpose": "Campaign work final",
+      "amount": 2000
+    },
+    {
+      "_page": 4,
+      "date": "12/16/24",
+      "name": "Wichita Metro Crime Commission",
+      "address": "100 S Main Ste 415 Wichita, KS 67202",
+      "purpose": "Annual Dues",
+      "amount": 320
+    },
+    {
+      "_page": 4,
+      "date": "12/16/24",
+      "name": "Albert Pike",
+      "address": "PO Box 75505 Wichita, KS 67275",
+      "purpose": "Annual Dues",
+      "amount": 135
+    },
+    {
+      "_page": 4,
+      "date": "12/30/24",
+      "name": "JABU Design Julie Burton",
+      "address": "8302 E Old Mill ST Wichita, KS 67226",
+      "purpose": "Campaign work & Web hosting",
+      "amount": 1812
+    }
+  ],
+  "other_transactions": [],
+  "in_kind_contributions": [],
+  "total_itemized_expenditures": 16210
+}

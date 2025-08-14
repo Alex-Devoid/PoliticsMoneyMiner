@@ -1,0 +1,298 @@
+{
+  "candidate": {
+    "name": {
+      "value": "Jeff Blubaugh",
+      "bbox": null
+    },
+    "address": {
+      "value": "10915 W Atlanta Cir",
+      "bbox": null
+    },
+    "city": {
+      "value": "67215",
+      "bbox": null
+    },
+    "zip": {
+      "value": "67215",
+      "bbox": null
+    },
+    "county": {
+      "value": "Sedgwick",
+      "bbox": null
+    },
+    "office_sought": {
+      "value": "County Commission",
+      "bbox": null
+    },
+    "district": {
+      "value": "II",
+      "bbox": null
+    },
+    "_page": 1
+  },
+  "summary": {
+    "cash_on_hand_beginning": {
+      "value": 0,
+      "bbox": null
+    },
+    "total_contributions": {
+      "value": 39000,
+      "bbox": null
+    },
+    "cash_available": {
+      "value": 39000,
+      "bbox": null
+    },
+    "total_expenditures": {
+      "value": 12367.7,
+      "bbox": null
+    },
+    "cash_on_hand_close": {
+      "value": 26632.3,
+      "bbox": null
+    },
+    "in_kind_contributions": {
+      "value": null,
+      "bbox": null
+    },
+    "other_transactions": {
+      "value": null,
+      "bbox": null
+    },
+    "_page": 1
+  },
+  "contributions": [],
+  "expenditures": [
+    {
+      "_page": 2,
+      "date": "5/22/23",
+      "name": "Russell Construction, LLC",
+      "address": "210 Woodlawn Suite",
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "5/22/23",
+      "name": "Russell Develop & Mgmt",
+      "address": "PO Box 1537",
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "5/23/23",
+      "name": "Brand Plumbing, Inc",
+      "address": "418 N Concordia Rd",
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "5/23/23",
+      "name": "Scott & Kellie Russell",
+      "address": "PO Box 28710",
+      "purpose": null,
+      "amount": 250
+    },
+    {
+      "_page": 2,
+      "date": "5/23/23",
+      "name": "Thomas C Devlin",
+      "address": "714 E Clowes Dr",
+      "purpose": null,
+      "amount": 250
+    },
+    {
+      "_page": 2,
+      "date": "5/23/23",
+      "name": "Joseph Heinemann",
+      "address": "8225 W Irving St",
+      "purpose": null,
+      "amount": 250
+    },
+    {
+      "_page": 2,
+      "date": "5/23/23",
+      "name": "Premier Food Service",
+      "address": "8225 W Irving St",
+      "purpose": null,
+      "amount": 250
+    },
+    {
+      "_page": 2,
+      "date": "5/23/23",
+      "name": "Michael Gomm",
+      "address": "3199 N May",
+      "purpose": null,
+      "amount": 100
+    },
+    {
+      "_page": 2,
+      "date": "7/20/23",
+      "name": "Colyer Hill Sugar, LLC",
+      "address": "150 N Market",
+      "purpose": null,
+      "amount": 150
+    },
+    {
+      "_page": 2,
+      "date": "7/20/23",
+      "name": "LNS Investments of Kansas",
+      "address": "150 N Market",
+      "purpose": null,
+      "amount": 150
+    },
+    {
+      "_page": 2,
+      "date": "7/20/23",
+      "name": "1700 110 Wood, Wichita KS",
+      "address": "1700 110 Wood",
+      "purpose": null,
+      "amount": 170
+    },
+    {
+      "_page": 2,
+      "date": "7/20/23",
+      "name": "Book IT, LLC",
+      "address": "1700 110 Wood",
+      "purpose": null,
+      "amount": 170
+    },
+    {
+      "_page": 2,
+      "date": "8/1/23",
+      "name": "William Keyes",
+      "address": "3445 E Central",
+      "purpose": null,
+      "amount": 1114
+    },
+    {
+      "_page": 2,
+      "date": "9/20/23",
+      "name": "Tommy Like LLC",
+      "address": "9345 E Central",
+      "purpose": null,
+      "amount": 9345
+    },
+    {
+      "_page": 2,
+      "date": "10/2/23",
+      "name": "Monie Sheets",
+      "address": "4202 Broadway Ave",
+      "purpose": null,
+      "amount": 13
+    },
+    {
+      "_page": 2,
+      "date": "11/1/23",
+      "name": "Collision Specialist",
+      "address": "8929 E Kellogg",
+      "purpose": null,
+      "amount": 150
+    },
+    {
+      "_page": 2,
+      "date": "11/8/23",
+      "name": "Clegg Guns",
+      "address": "909 S 10th St",
+      "purpose": null,
+      "amount": 150
+    },
+    {
+      "_page": 2,
+      "date": "11/10/23",
+      "name": "Continental Film",
+      "address": "100 N Broadway Ave",
+      "purpose": null,
+      "amount": 100
+    },
+    {
+      "_page": 2,
+      "date": "11/10/23",
+      "name": "Ledo Restaurant",
+      "address": "154 S Pershing St",
+      "purpose": null,
+      "amount": 150
+    },
+    {
+      "_page": 3,
+      "date": "7/21/23",
+      "name": "Jan Blubaugh",
+      "address": {
+        "value": "1935 E. 140th Ave N. Mulvane, KS 67110",
+        "bbox": null
+      },
+      "purpose": "Stamp and ink pad for reimbursement",
+      "amount": 26.46
+    },
+    {
+      "_page": 3,
+      "date": "7/21/23",
+      "name": "Jan Blubaugh",
+      "address": {
+        "value": "1935 E. 140th Ave N. Mulvane, KS 67110",
+        "bbox": null
+      },
+      "purpose": "Pay Pal charge for contribution",
+      "amount": 8.0
+    },
+    {
+      "_page": 3,
+      "date": "7/18/23",
+      "name": "Wichita Independent Business Association",
+      "address": {
+        "value": "200 E. 1st St. N, Suite 101 Wichita, KS 67202",
+        "bbox": null
+      },
+      "purpose": "Dues to civic group",
+      "amount": 250.0
+    },
+    {
+      "_page": 3,
+      "date": "7/10/23",
+      "name": "Sedgwick County Democratic Association",
+      "address": {
+        "value": "555 N. Woodlawn Wichita, KS 67208",
+        "bbox": null
+      },
+      "purpose": "Dues to civic group",
+      "amount": 110.0
+    },
+    {
+      "_page": 3,
+      "date": "7/4/23",
+      "name": "Wichita Eagle",
+      "address": {
+        "value": "330 N. Mead Wichita, KS 67202",
+        "bbox": null
+      },
+      "purpose": "Reimbursement for parade candy",
+      "amount": 119.96
+    },
+    {
+      "_page": 3,
+      "date": "7/1/23",
+      "name": "Office Depot",
+      "address": {
+        "value": "3035 N Rock Rd Wichita, KS 67226",
+        "bbox": null
+      },
+      "purpose": "Printing of campaign materials",
+      "amount": 223.28
+    },
+    {
+      "_page": 3,
+      "date": "6/30/23",
+      "name": "Sedgwick County Democratic Association",
+      "address": {
+        "value": "555 N. Woodlawn Wichita, KS 67208",
+        "bbox": null
+      },
+      "purpose": "Contribution to campaign",
+      "amount": 300.0
+    }
+  ],
+  "other_transactions": [],
+  "in_kind_contributions": []
+}

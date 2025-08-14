@@ -1,0 +1,88 @@
+{
+  "candidate": {
+    "name": "Jeff Blubaugh",
+    "address": "10915 W Atlanta Cir",
+    "city": "67215",
+    "county": "Sedgwick",
+    "office_sought": "County Commission",
+    "district": "II",
+    "_page": 5
+  },
+  "summary": {
+    "cash_on_hand_beginning": null,
+    "total_contributions": 39000,
+    "cash_available": 39000,
+    "total_expenditures": 12367.7,
+    "cash_on_hand_close": 26632.3,
+    "_page": 5
+  },
+  "contributions": [],
+  "expenditures": [
+    {
+      "_page": 5,
+      "date": "11/14/22",
+      "name": "City of Wichita",
+      "address": "455 N Main St. Wichita, KS 67202",
+      "purpose": "Reimbursement for parade candy",
+      "amount": 253.9
+    },
+    {
+      "_page": 5,
+      "date": "11/19/22",
+      "name": "City of Wichita",
+      "address": "455 N Main St. Wichita, KS 67202",
+      "purpose": "Reimbursement for parade candy",
+      "amount": 117.95
+    },
+    {
+      "_page": 5,
+      "date": "12/3/22",
+      "name": "Norden Blubaugh",
+      "address": "10915 W Atlanta Cir Wichita, KS 67215",
+      "purpose": "Reimbursement for parade candy cookout for neighborhood cleanup",
+      "amount": 33
+    },
+    {
+      "_page": 5,
+      "date": "12/4/22",
+      "name": "Norden Blubaugh",
+      "address": "10915 W Atlanta Cir Wichita, KS 67215",
+      "purpose": "Reimbursement for parade candy cookout for neighborhood cleanup",
+      "amount": 13.9
+    },
+    {
+      "_page": 5,
+      "date": "12/4/22",
+      "name": "Norden Blubaugh",
+      "address": "10915 W Atlanta Cir Wichita, KS 67215",
+      "purpose": "Reimbursement for parade candy cookout for neighborhood cleanup",
+      "amount": 33
+    },
+    {
+      "_page": 5,
+      "date": "1/6/23",
+      "name": "ASF Direct Mail",
+      "address": "301 E Grand Ave, Haysville, KS 67060",
+      "purpose": "Campaign Signs",
+      "amount": 212.5
+    },
+    {
+      "_page": 5,
+      "date": "3/1/23",
+      "name": "JABUL Construction",
+      "address": "8080 E Old Mill Ct, Wichita, KS 67226",
+      "purpose": "Campaign Signs",
+      "amount": 212.5
+    },
+    {
+      "_page": 5,
+      "date": "3/17/23",
+      "name": "JABUL Construction",
+      "address": "8080 E Old Mill Ct, Wichita, KS 67226",
+      "purpose": "Campaign Signs",
+      "amount": 212.5
+    }
+  ],
+  "other_transactions": [],
+  "in_kind_contributions": []
+}

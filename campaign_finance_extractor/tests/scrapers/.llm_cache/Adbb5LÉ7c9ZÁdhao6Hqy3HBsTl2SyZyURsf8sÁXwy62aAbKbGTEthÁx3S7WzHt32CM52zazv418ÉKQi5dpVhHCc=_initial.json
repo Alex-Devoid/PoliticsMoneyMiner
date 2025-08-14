@@ -1,0 +1,129 @@
+{
+  "candidate": {
+    "name": {
+      "value": "James A. Clendenin",
+      "bbox": null
+    },
+    "address": {
+      "value": "2501 N. Woodlawn, Suite 200",
+      "bbox": null
+    },
+    "city": {
+      "value": "Wichita",
+      "bbox": null
+    },
+    "county": "Sedgwick",
+    "office_sought": "County Commission",
+    "district": "II",
+    "_page": 3,
+    "zip": {
+      "value": "KS 67220",
+      "bbox": null
+    }
+  },
+  "summary": {
+    "cash_on_hand_beginning": null,
+    "total_contributions": 39000.0,
+    "cash_available": 39000.0,
+    "total_expenditures": 12357.7,
+    "cash_on_hand_close": 26642.3,
+    "_page": 3
+  },
+  "contributions": [],
+  "expenditures": [
+    {
+      "_page": 3,
+      "date": {
+        "value": "6/22/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Freedom Constructors, LLC",
+        "bbox": null
+      },
+      "address": {
+        "value": "PO Box 3537",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Consult",
+        "bbox": null
+      },
+      "amount": {
+        "value": 1500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 3,
+      "date": {
+        "value": "6/22/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Pinnacle Enterprises, LLC",
+        "bbox": null
+      },
+      "address": {
+        "value": "2250 N. Rock Rd",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Food",
+        "bbox": null
+      },
+      "amount": {
+        "value": 350,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 3,
+      "date": {
+        "value": "6/22/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Brenda M. Davis",
+        "bbox": null
+      },
+      "address": {
+        "value": "1800 W. Dayton, Suite 100",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Printing",
+        "bbox": null
+      },
+      "amount": {
+        "value": 250,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 3,
+      "date": {
+        "value": "6/23/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Patriot Power Sports",
+        "bbox": null
+      },
+      "address": {
+        "value": "301 N. Rock Rd",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Signs",
+        "bbox": null
+      },
+      "amount": {
+        "value": 105,
+        "bbox": null
+      }
+    }
+  ],
+  "other_transactions": [],
+  "in_kind_contributions": []
+}

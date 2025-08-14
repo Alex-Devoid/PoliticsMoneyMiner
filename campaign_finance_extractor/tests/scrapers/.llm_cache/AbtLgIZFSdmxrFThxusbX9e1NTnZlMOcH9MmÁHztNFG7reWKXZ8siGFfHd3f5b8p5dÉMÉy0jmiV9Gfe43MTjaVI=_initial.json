@@ -1,0 +1,259 @@
+{
+  "candidate": {
+    "name": "Jeff Blubaugh",
+    "address": "10915 W Atlanta Cir",
+    "city": "67215",
+    "county": "Sedgwick",
+    "office_sought": "County Commission",
+    "district": "II",
+    "_page": 1
+  },
+  "summary": {
+    "cash_on_hand_beginning": 0.0,
+    "total_contributions": 39000,
+    "cash_available": 39000,
+    "total_expenditures": 12367.7,
+    "cash_on_hand_close": 26632.3,
+    "_page": 1
+  },
+  "contributions": [
+    {
+      "_page": 2,
+      "date": {
+        "value": "2/21/23",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "Self",
+        "bbox": null
+      },
+      "address": {
+        "value": "1234 N Kansas Ave",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Engineer",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 2,
+      "date": {
+        "value": "2/22/23",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "John Doe",
+        "bbox": null
+      },
+      "address": {
+        "value": "5678 S Main St",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Teacher",
+        "bbox": null
+      },
+      "amount": {
+        "value": 100,
+        "bbox": null
+      }
+    }
+  ],
+  "expenditures": [
+    {
+      "_page": 3,
+      "date": "7/20/23",
+      "name": "Russell Beverage Co of Kansas LLC",
+      "address": {
+        "value": "PO Box 110",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "7/20/23",
+      "name": "Book L.L.C.",
+      "address": {
+        "value": "150 W Market",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "8/7/23",
+      "name": "William Hayes",
+      "address": {
+        "value": "3445 E Central",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "9/6/23",
+      "name": "Maxxie Inc LLC",
+      "address": {
+        "value": "3445 E Central",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "11/7/23",
+      "name": "Monica Schrubs",
+      "address": {
+        "value": "4202 Broadway Ave",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "11/7/23",
+      "name": "Addison Specialist",
+      "address": {
+        "value": "8922 E Murdock",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "11/8/23",
+      "name": "Craig Burns",
+      "address": {
+        "value": "9109 E Lincoln",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "11/8/23",
+      "name": "Bill Northcutt",
+      "address": {
+        "value": "100 W Broadway Ste 100",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 5,
+      "date": "7/22/22",
+      "name": "Bennington Chamber",
+      "address": "1234 N Main St, Bennington, KS 67422",
+      "purpose": "Campaign Expense for Mailing",
+      "amount": 161.67
+    },
+    {
+      "_page": 5,
+      "date": "8/1/22",
+      "name": "John Doe",
+      "address": "456 W 5th Ave, Wichita, KS 67202",
+      "purpose": "Campaign Work",
+      "amount": 668.99
+    },
+    {
+      "_page": 5,
+      "date": "8/15/22",
+      "name": "Lynn's Printing",
+      "address": "789 S Maple St, Wichita, KS 67213",
+      "purpose": "Campaign Materials",
+      "amount": 50.0
+    },
+    {
+      "_page": 5,
+      "date": "8/20/22",
+      "name": "Campaign Strategy LLC",
+      "address": "321 N Broadway St, Wichita, KS 67202",
+      "purpose": "Campaign Planning",
+      "amount": 230.0
+    },
+    {
+      "_page": 5,
+      "date": "8/25/22",
+      "name": "Olive Garden",
+      "address": "Italian Restaurant, 1234 W 8th St, Wichita, KS 67212",
+      "purpose": "Campaign Lunch",
+      "amount": 160.0
+    },
+    {
+      "_page": 5,
+      "date": "9/1/22",
+      "name": "Jane's Design",
+      "address": "987 E Douglas Ave, Wichita, KS 67211",
+      "purpose": "Logo Design & Campaign Work",
+      "amount": 500.0
+    },
+    {
+      "_page": 5,
+      "date": "9/10/22",
+      "name": "Hayesville Education Foundation",
+      "address": "756 S Old Main St, Hayesville, KS 67060",
+      "purpose": "Campaign Donation",
+      "amount": 50.0
+    },
+    {
+      "_page": 6,
+      "date": "11/30/22",
+      "name": "Business Group Event",
+      "address": "100 N Broadway St Ste, Wichita, KS 67202",
+      "purpose": null,
+      "amount": 1200.0
+    },
+    {
+      "_page": 6,
+      "date": "12/02/22",
+      "name": "Piry Pal",
+      "address": "211 N 1st St, San Jose, CA 95112",
+      "purpose": null,
+      "amount": 515.0
+    },
+    {
+      "_page": 6,
+      "date": "12/03/22",
+      "name": "Marketing Solutions",
+      "address": "50 Market St, San Francisco, CA 94103",
+      "purpose": null,
+      "amount": 12367.7
+    }
+  ],
+  "other_transactions": [
+    {
+      "_page": 4,
+      "date": {
+        "value": "12/31/22",
+        "bbox": null
+      },
+      "creditor": {
+        "value": "Craig Olson",
+        "bbox": null
+      },
+      "purpose": {
+        "value": null,
+        "bbox": null
+      },
+      "balance": {
+        "value": 30000,
+        "bbox": null
+      }
+    }
+  ],
+  "in_kind_contributions": []
+}

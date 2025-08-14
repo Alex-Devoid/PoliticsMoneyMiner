@@ -1,0 +1,121 @@
+name: Build and Deploy argus frontend to Cloud Run
+
+on:
+  push:
+    branches:
+      - main
+  # Uncomment for manual triggers:
+# on:  
+#   workflow_dispatch:
+
+jobs:
+  build_and_deploy:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: 'read'
+      id-token: 'write'  # Required for Workload Identity Federation
+      packages: 'read'   # Required if Artifact Registry is private
+
+
+
+    steps:
+      # Step 1: Checkout the latest code
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # Fetch full history for accurate diffs
+
+      # Step 2: Authenticate to Google Cloud using Workload Identity Federation
+      - name: Authenticate to Google Cloud
+        uses: google-github-actions/auth@v2
+        with:
+          workload_identity_provider: ${{ secrets.WORKLOAD_IDENTITY_PROVIDER }}
+          service_account: ${{ secrets.SERVICE_ACCOUNT_EMAIL }}
+
+      # Step 3: Set up Google Cloud SDK
+      - name: Set up Google Cloud SDK
+        uses: google-github-actions/setup-gcloud@v2
+        with:
+          project_id: ${{ secrets.PROJECT_ID }}
+           
+
+
+      # Step 4: Validate Changed Files Against .gcloudignore
+      - name: Validate Changed Files Against .gcloudignore
+        id: validate_files
+        run: |
+          # Determine changed files
+          if [ "${{ github.event.before }}" = "0000000000000000000000000000000000000000" ] || [ -z "${{ github.event.before }}" ]; then
+            CHANGED_FILES=$(git ls-files)
+          else
+            CHANGED_FILES=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }})
+          fi
+
+          echo "Changed files:"
+          echo "$CHANGED_FILES"
+
+          # Validate files against .gcloudignore
+          if [ -n "$CHANGED_FILES" ]; then
+            VALID_FILES=$(gcloud meta list-files-for-upload | grep -Fxf <(echo "$CHANGED_FILES") || true)
+          else
+            VALID_FILES=""
+          fi
+
+          echo "Files to deploy:"
+          echo "$VALID_FILES"
+
+          # Exit if no valid files are found
+          if [ -z "$VALID_FILES" ]; then
+            echo "No relevant files changed. Skipping deployment."
+            exit 0
+          fi
+        shell: bash
+
+
+      # Step 5: Ensure Artifact Registry Repository Exists
+      - name: Ensure Artifact Registry Repository Exists
+        run: |
+          REPO_NAME=${{ secrets.ARTIFACT_REPO_NAME }}
+          REGION="us-central1"
+          PROJECT_ID=${{ secrets.PROJECT_ID }}
+
+          if ! gcloud artifacts repositories describe "$REPO_NAME" --location="$REGION" --project="$PROJECT_ID" &>/dev/null; then
+            echo "Repository $REPO_NAME does not exist. Creating..."
+            gcloud artifacts repositories create "$REPO_NAME" \
+              --repository-format=docker \
+              --location="$REGION" \
+              --description="Docker repository for CI/CD"
+          else
+            echo "Repository $REPO_NAME already exists."
+          fi
+
+      # Step 6: Submit Build to Cloud Build Using `cloudbuild.yaml`
+      - name: Submit Build Using Cloud Build
+        run: |
+          gcloud builds submit \
+            --config=cloudbuild.yaml \
+            --project=${{ secrets.PROJECT_ID }} \
+            --substitutions=_PROJECT_ID=${{ secrets.PROJECT_ID }},_ARTIFACT_REPO_NAME=${{ secrets.ARTIFACT_REPO_NAME }},_IMAGE_NAME=${{ secrets.IMAGE_NAME }}
+
+            
+      # Step 7: Deploy the Image to Cloud Run      
+      # Step 7: Deploy the Image to Cloud Run      
+      - name: Deploy to Cloud Run (Scraper)
+        run: |
+            gcloud run deploy ${{ secrets.IMAGE_NAME }} \
+            --image "us-central1-docker.pkg.dev/${{ secrets.PROJECT_ID }}/${{ secrets.ARTIFACT_REPO_NAME }}/${{ secrets.IMAGE_NAME }}:latest" \
+            --region "us-central1" \
+            --platform "managed" \
+            --ingress internal-and-cloud-load-balancing \
+            --port 8080 \
+            --vpc-connector ai-team-vpc-connector \
+            --vpc-egress all-traffic \
+            --set-env-vars GOOGLE_CLOUD_PROJECT=${{ secrets.PROJECT_ID }},FIRESTORE_DATABASE_ID=${{ secrets.FIRESTORE_DATABASE_ID }},ENV=production,GMAIL_MICROSERVICE_URL=${{ secrets.GMAIL_MICROSERVICE_URL }} \
+            --service-account="argus-firestore-reader@content-audit-333003.iam.gserviceaccount.com"             
+
+        
+
+
+
+

@@ -1,0 +1,64 @@
+{
+  "candidate": {
+    "name": {
+      "value": "RYAN BATY",
+      "bbox": null
+    },
+    "address": {
+      "value": "10701 W 69TH ST N",
+      "bbox": null
+    },
+    "city": {
+      "value": "MAIZE",
+      "bbox": null
+    },
+    "county": {
+      "value": "SEDGWICK",
+      "bbox": null
+    },
+    "office_sought": {
+      "value": "COUNTY COMMISSION",
+      "bbox": null
+    },
+    "district": {
+      "value": "4",
+      "bbox": null
+    },
+    "_page": 1
+  },
+  "summary": {
+    "cash_on_hand_beginning": {
+      "value": 753.71,
+      "bbox": null
+    },
+    "total_contributions": {
+      "value": 0.0,
+      "bbox": null
+    },
+    "cash_available": {
+      "value": 753.71,
+      "bbox": null
+    },
+    "total_expenditures": {
+      "value": 284.0,
+      "bbox": null
+    },
+    "cash_on_hand_close": {
+      "value": 469.71,
+      "bbox": null
+    },
+    "in_kind_contributions": {
+      "value": 0.0,
+      "bbox": null
+    },
+    "other_transactions": {
+      "value": 17450.0,
+      "bbox": null
+    },
+    "_page": 1
+  },
+  "contributions": [],
+  "expenditures": [],
+  "other_transactions": [],
+  "in_kind_contributions": []
+}

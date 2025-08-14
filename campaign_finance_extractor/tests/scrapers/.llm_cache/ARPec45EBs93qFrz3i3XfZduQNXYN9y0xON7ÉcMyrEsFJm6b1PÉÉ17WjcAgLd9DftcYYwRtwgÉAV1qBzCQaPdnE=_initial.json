@@ -1,0 +1,138 @@
+{
+  "candidate": {
+    "name": {
+      "value": "Danielle S. Underwood",
+      "bbox": [
+        73.0,
+        43.0,
+        237.0,
+        54.0
+      ]
+    },
+    "address": {
+      "value": "17941 W. 157th Terrace",
+      "bbox": [
+        73.0,
+        56.0,
+        237.0,
+        67.0
+      ]
+    },
+    "city": {
+      "value": "Olathe",
+      "bbox": [
+        73.0,
+        69.0,
+        237.0,
+        81.0
+      ]
+    },
+    "zip": {
+      "value": "66062",
+      "bbox": [
+        73.0,
+        82.0,
+        237.0,
+        93.0
+      ]
+    },
+    "county": {
+      "value": "Johnson",
+      "bbox": [
+        73.0,
+        95.0,
+        237.0,
+        107.0
+      ]
+    },
+    "office_sought": {
+      "value": "Olathe School Board",
+      "bbox": [
+        73.0,
+        108.0,
+        237.0,
+        119.0
+      ]
+    },
+    "district": {
+      "value": "USD 233",
+      "bbox": [
+        73.0,
+        121.0,
+        237.0,
+        133.0
+      ]
+    },
+    "_page": 6
+  },
+  "summary": {
+    "cash_on_hand_beginning": {
+      "value": 0,
+      "bbox": [
+        445.0,
+        67.0,
+        513.0,
+        79.0
+      ]
+    },
+    "total_contributions": {
+      "value": 0,
+      "bbox": [
+        445.0,
+        80.0,
+        513.0,
+        92.0
+      ]
+    },
+    "cash_available": {
+      "value": 0,
+      "bbox": [
+        445.0,
+        93.0,
+        513.0,
+        105.0
+      ]
+    },
+    "total_expenditures": {
+      "value": 0,
+      "bbox": [
+        445.0,
+        106.0,
+        513.0,
+        118.0
+      ]
+    },
+    "cash_on_hand_close": {
+      "value": 0,
+      "bbox": [
+        445.0,
+        119.0,
+        513.0,
+        131.0
+      ]
+    },
+    "in_kind_contributions": {
+      "value": 0,
+      "bbox": [
+        445.0,
+        132.0,
+        513.0,
+        144.0
+      ]
+    },
+    "other_transactions": {
+      "value": 0,
+      "bbox": [
+        445.0,
+        145.0,
+        513.0,
+        157.0
+      ]
+    },
+    "_page": 6
+  },
+  "contributions": [],
+  "expenditures": [],
+  "other_transactions": [],
+  "in_kind_contributions": []
+}

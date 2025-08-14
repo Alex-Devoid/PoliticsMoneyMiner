@@ -1,0 +1,24 @@
+{
+  "candidate": {
+    "name": "Jeff Blubaugh",
+    "address": "10915 W Atlanta Cir",
+    "city": "Wichita",
+    "zip": "67215",
+    "county": "Sedgwick",
+    "office_sought": "County Commission",
+    "district": "2",
+    "_page": 1
+  },
+  "summary": {
+    "cash_on_hand_beginning": 19511.52,
+    "total_contributions": 16210.0,
+    "cash_available": 35721.52,
+    "total_expenditures": 31538.68,
+    "cash_on_hand_close": 4182.84,
+    "_page": 1
+  },
+  "contributions": [],
+  "expenditures": [],
+  "other_transactions": [],
+  "in_kind_contributions": []
+}

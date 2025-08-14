@@ -1,0 +1,146 @@
+{
+  "candidate": {
+    "name": {
+      "value": "Jeff Blubaugh",
+      "bbox": null
+    },
+    "address": {
+      "value": "10915 W Atlanta Cir",
+      "bbox": null
+    },
+    "city": {
+      "value": "Wichita",
+      "bbox": null
+    },
+    "zip": {
+      "value": "67215",
+      "bbox": null
+    },
+    "county": {
+      "value": "Sedgwick",
+      "bbox": null
+    },
+    "office_sought": {
+      "value": "County Commission",
+      "bbox": null
+    },
+    "district": {
+      "value": "2",
+      "bbox": null
+    },
+    "_page": 1
+  },
+  "summary": {
+    "cash_on_hand_beginning": {
+      "value": 19511.52,
+      "bbox": null
+    },
+    "total_contributions": {
+      "value": 16210.0,
+      "bbox": null
+    },
+    "cash_available": {
+      "value": 35721.52,
+      "bbox": null
+    },
+    "total_expenditures": {
+      "value": 31538.68,
+      "bbox": null
+    },
+    "cash_on_hand_close": {
+      "value": 4182.84,
+      "bbox": null
+    },
+    "in_kind_contributions": {
+      "value": null,
+      "bbox": null
+    },
+    "other_transactions": {
+      "value": null,
+      "bbox": null
+    },
+    "_page": 1
+  },
+  "contributions": [],
+  "expenditures": [
+    {
+      "_page": 2,
+      "date": "11/28/22",
+      "name": "Bob Hamilton",
+      "address": {
+        "value": "656 N Douglas",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "11/29/22",
+      "name": "Hayes Leasing, LLC",
+      "address": {
+        "value": "5025 N Sanberg Ct",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "11/29/22",
+      "name": "Fred Kesley",
+      "address": {
+        "value": "1022 Kremy Kwanis",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "11/30/22",
+      "name": "DRE, LC",
+      "address": {
+        "value": "741 W 2nd St N",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "11/30/22",
+      "name": "Alo Development",
+      "address": {
+        "value": "2083 S Cow",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "11/30/22",
+      "name": "RCC Construction",
+      "address": {
+        "value": "1815 Southwest Blvd",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "11/30/22",
+      "name": "Nigina Croissant & Larry",
+      "address": {
+        "value": "30 Cypress Breeze Blvd Santa Rosa FL",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 1000
+    }
+  ],
+  "other_transactions": [],
+  "in_kind_contributions": []
+}

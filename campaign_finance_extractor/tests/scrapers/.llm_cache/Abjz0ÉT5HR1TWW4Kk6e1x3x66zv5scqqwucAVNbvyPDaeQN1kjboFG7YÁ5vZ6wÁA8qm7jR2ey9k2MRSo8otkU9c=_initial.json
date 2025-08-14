@@ -1,0 +1,463 @@
+{
+  "candidate": {
+    "name": {
+      "value": "Jeff Blubaugh",
+      "bbox": null
+    },
+    "address": {
+      "value": "10915 W Atlanta Cir",
+      "bbox": null
+    },
+    "city": {
+      "value": "67215",
+      "bbox": null
+    },
+    "county": {
+      "value": "Sedgwick",
+      "bbox": null
+    },
+    "office_sought": {
+      "value": "County Commission",
+      "bbox": null
+    },
+    "district": {
+      "value": "1",
+      "bbox": null
+    },
+    "_page": 1
+  },
+  "summary": {
+    "cash_on_hand_beginning": {
+      "value": 0.0,
+      "bbox": null
+    },
+    "total_contributions": {
+      "value": 3999.0,
+      "bbox": null
+    },
+    "cash_available": {
+      "value": 3999.0,
+      "bbox": null
+    },
+    "total_expenditures": {
+      "value": 2143.7,
+      "bbox": null
+    },
+    "cash_on_hand_close": {
+      "value": 1855.3,
+      "bbox": null
+    },
+    "in_kind_contributions": {
+      "value": null,
+      "bbox": null
+    },
+    "other_transactions": {
+      "value": null,
+      "bbox": null
+    },
+    "_page": 1
+  },
+  "contributions": [
+    {
+      "_page": 2,
+      "date": "2/21/23",
+      "contributor": "Margaret Knowles",
+      "address": "1330 S. Arborwood Dr.",
+      "occupation": "Banking",
+      "amount": 1000
+    },
+    {
+      "_page": 2,
+      "date": "2/21/23",
+      "contributor": "Mike Mull",
+      "address": "3708 S. St. Clair",
+      "occupation": "Banking",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "2/21/23",
+      "contributor": "Younger Enterprises",
+      "address": "1331 E. Harry St. #400",
+      "occupation": "Oil",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "2/21/23",
+      "contributor": "David Schwinn Insurance Agency",
+      "address": "9441 E. 16th St. N",
+      "occupation": "Insurance",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "2/21/23",
+      "contributor": "Steve Dillard",
+      "address": "3508 W. Covington St.",
+      "occupation": "Engineer",
+      "amount": 250
+    },
+    {
+      "_page": 2,
+      "date": "2/22/23",
+      "contributor": "Clay Bastian",
+      "address": "250 N. Minnesota",
+      "occupation": "Education",
+      "amount": 100
+    },
+    {
+      "_page": 2,
+      "date": "2/24/23",
+      "contributor": "Phil Ruffin, Jr.",
+      "address": "1815 W. Padgett",
+      "occupation": "Real Estate",
+      "amount": 300
+    },
+    {
+      "_page": 2,
+      "date": "3/2/23",
+      "contributor": "Bill Bicknell",
+      "address": "1645 S. Whisong Blvd.",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "3/2/23",
+      "contributor": "Jim Nicklaus",
+      "address": "1516 S. Vine",
+      "occupation": "Construction",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "3/2/23",
+      "contributor": "Nicholas O'Neill",
+      "address": "2309 E. Victor Pl.",
+      "occupation": "Construction",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "3/2/23",
+      "contributor": "Ryan Tinsley",
+      "address": "4110 S. Womer Street",
+      "occupation": "Construction",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "3/2/23",
+      "contributor": "Marky Stephenson",
+      "address": "7500 E. Central Ct.",
+      "occupation": "Construction",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "3/2/23",
+      "contributor": "William Pickett",
+      "address": "1200 W. 110th St.",
+      "occupation": "Accounting",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "3/2/23",
+      "contributor": "Nelson Pickett",
+      "address": "7500 E. Central Ct.",
+      "occupation": "Accounting",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "3/9/23",
+      "contributor": "Jeffrey S. Turner",
+      "address": "2000 N. Webb Rd.",
+      "occupation": "Attorney",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "3/9/23",
+      "contributor": "Morgan Management",
+      "address": "1233 N. Green St.",
+      "occupation": "Attorney",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "3/12/23",
+      "contributor": "Eck-Mundy",
+      "address": "12621 N. Cedarbrook Cir.",
+      "occupation": "Engineer",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "3/12/23",
+      "contributor": "Davis, Clark & Associates",
+      "address": "12621 N. Cedarbrook Cir.",
+      "occupation": "Engineer",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "3/12/23",
+      "contributor": "Schoenhofer Systems & Services",
+      "address": "125 N. Market St. Suite 425",
+      "occupation": "Construction",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "3/12/23",
+      "contributor": "Baraden McCurdy",
+      "address": "230 N. Wabash",
+      "occupation": "Construction",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "4/12/23",
+      "contributor": "Jeff Blueth",
+      "address": "3101 E. 47th St. S.",
+      "occupation": "Insurance",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "4/22/23",
+      "contributor": "Sky-Vue Ranch",
+      "address": "3820 W. Douglas",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "5/24/23",
+      "contributor": "Co-Co Properties",
+      "address": "500 S. Topeka Blvd.",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "5/24/23",
+      "contributor": "Sky-For Hundreds LLC",
+      "address": "9435 E. Central Ave. STE 200",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 4,
+      "date": "12/22/23",
+      "contributor": "Craig Nelson Company, LLC",
+      "address": "1748 SW Meadowlark Rd",
+      "occupation": "Construction",
+      "amount": 500
+    }
+  ],
+  "expenditures": [
+    {
+      "_page": 3,
+      "date": "5/24/23",
+      "name": "Fusion Construction, LLC",
+      "address": "2201 N Woodlawn Suite 100",
+      "purpose": "Construction",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "5/24/23",
+      "name": "Russell Develop. & Mgmt",
+      "address": "P.O. Box 75337",
+      "purpose": "Real Estate",
+      "amount": 550
+    },
+    {
+      "_page": 5,
+      "date": "3/1/23",
+      "name": "Jeff Blubaugh",
+      "address": "1525 N. Ridge Rd. Wichita, KS 67205",
+      "purpose": "Check order for fundraiser mailing",
+      "amount": 47.23
+    },
+    {
+      "_page": 5,
+      "date": "3/7/23",
+      "name": "Sedgwick County Republican Party",
+      "address": "650 N Carriage Pkwy Wichita, KS 67208",
+      "purpose": "Booth space for campaign work",
+      "amount": 868.99
+    },
+    {
+      "_page": 5,
+      "date": "3/12/23",
+      "name": "Jeff Blubaugh",
+      "address": "1525 N. Ridge Rd. Wichita, KS 67205",
+      "purpose": "Reimbursement for parade candy",
+      "amount": 166.38
+    },
+    {
+      "_page": 5,
+      "date": "3/14/23",
+      "name": "USPS",
+      "address": "9350 E Corporate Hills Dr Wichita, KS 67207",
+      "purpose": "Campaign postage - mailings",
+      "amount": 180.25
+    },
+    {
+      "_page": 5,
+      "date": "3/18/23",
+      "name": "Sedgwick County Election Office",
+      "address": "510 N Main St #101 Wichita, KS 67203",
+      "purpose": "Campaign filing fee",
+      "amount": 100.0
+    },
+    {
+      "_page": 5,
+      "date": "3/25/23",
+      "name": "Vista Print",
+      "address": "95 Hayden Ave Lexington, MA 02421",
+      "purpose": "Campaign shirts",
+      "amount": 159.3
+    },
+    {
+      "_page": 5,
+      "date": "4/1/23",
+      "name": "Signarama",
+      "address": "3600 W 13th St N Wichita, KS 67203",
+      "purpose": "Campaign signs",
+      "amount": 375.0
+    },
+    {
+      "_page": 5,
+      "date": "4/4/23",
+      "name": "Sedgwick County Fair",
+      "address": "308 S Main Cheney, KS 67025",
+      "purpose": "Campaign booth",
+      "amount": 512.35
+    },
+    {
+      "_page": 5,
+      "date": "4/25/23",
+      "name": "Sedgwick County Republicans",
+      "address": "650 N Carriage Pkwy Wichita, KS 67208",
+      "purpose": "Campaign work",
+      "amount": 212.5
+    },
+    {
+      "_page": 5,
+      "date": "5/1/23",
+      "name": "Jeff Blubaugh",
+      "address": "1525 N. Ridge Rd. Wichita, KS 67205",
+      "purpose": "Campaign work - reimbursement",
+      "amount": 213.3
+    },
+    {
+      "_page": 5,
+      "date": "5/15/23",
+      "name": "Sedgwick County Fair",
+      "address": "308 S Main Cheney, KS 67025",
+      "purpose": "Campaign booth",
+      "amount": 113.15
+    },
+    {
+      "_page": 5,
+      "date": "6/14/23",
+      "name": "Jeff Blubaugh",
+      "address": "1525 N. Ridge Rd. Wichita, KS 67205",
+      "purpose": "Campaign printing for parade candy",
+      "amount": 113.96
+    },
+    {
+      "_page": 5,
+      "date": "6/30/23",
+      "name": "Olive Garden",
+      "address": "2641 N Maize Rd Wichita, KS 67205",
+      "purpose": "Campaign meeting",
+      "amount": 88.14
+    },
+    {
+      "_page": 5,
+      "date": "7/10/23",
+      "name": "PayPal",
+      "address": "2211 N 1st St San Jose, CA 95131",
+      "purpose": "PayPal charge for contribution",
+      "amount": 8.0
+    },
+    {
+      "_page": 6,
+      "date": {
+        "value": "11/20/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Newark Independent Business Association",
+        "bbox": null
+      },
+      "address": {
+        "value": "100 Broadway, Ste 300, Newark, NJ 07102",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Business Group Event",
+        "bbox": null
+      },
+      "amount": {
+        "value": 150.0,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 6,
+      "date": {
+        "value": "12/06/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Pay Pal",
+        "bbox": null
+      },
+      "address": {
+        "value": "2211 N 1st St, San Jose, CA 95131",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Charge for contribution",
+        "bbox": null
+      },
+      "amount": {
+        "value": 15.0,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 6,
+      "date": {
+        "value": "12/06/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Pay Pal",
+        "bbox": null
+      },
+      "address": {
+        "value": "2211 N 1st St, San Jose, CA 95131",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Charge for contribution",
+        "bbox": null
+      },
+      "amount": {
+        "value": 1237.7,
+        "bbox": null
+      }
+    }
+  ],
+  "other_transactions": [],
+  "in_kind_contributions": []
+}

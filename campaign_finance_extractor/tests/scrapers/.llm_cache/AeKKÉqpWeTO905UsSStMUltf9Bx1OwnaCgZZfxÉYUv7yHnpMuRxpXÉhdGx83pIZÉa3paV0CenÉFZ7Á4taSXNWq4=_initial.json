@@ -1,0 +1,209 @@
+{
+  "candidate": {
+    "name": "James Clendenin",
+    "address": "10915 W Atlanta Cir",
+    "zip": "67215",
+    "county": "Sedgwick",
+    "office_sought": "County Commission",
+    "district": "II",
+    "_page": 5
+  },
+  "summary": {
+    "cash_on_hand_beginning": null,
+    "total_contributions": 39000.0,
+    "cash_available": 39000.0,
+    "total_expenditures": 12637.7,
+    "cash_on_hand_close": 26362.3,
+    "_page": 5
+  },
+  "contributions": [
+    {
+      "_page": 2,
+      "date": "2/3/23",
+      "contributor": "Sherry Crawford",
+      "address": "821 N Aberdeen Ct",
+      "occupation": "Retired",
+      "amount": 100.0
+    },
+    {
+      "_page": 2,
+      "date": "2/3/23",
+      "contributor": "Phyl Batson",
+      "address": "206 B. 170th",
+      "occupation": "Retired",
+      "amount": 100.0
+    },
+    {
+      "_page": 2,
+      "date": "2/7/23",
+      "contributor": "Phyl Batson",
+      "address": "206 B. 170th",
+      "occupation": "Retired",
+      "amount": 100.0
+    },
+    {
+      "_page": 2,
+      "date": "2/7/23",
+      "contributor": "Rex Rodenbaugh, JR",
+      "address": "1805 S. Westgate Place",
+      "occupation": "Owns Sutherlands Insurance Agency",
+      "amount": 500.0
+    },
+    {
+      "_page": 2,
+      "date": "2/12/23",
+      "contributor": "Boson Ron & Carolyn Keasling",
+      "address": "1709 N. Aberdeen Ct",
+      "occupation": "Retired Engineer",
+      "amount": 500.0
+    },
+    {
+      "_page": 2,
+      "date": "3/2/23",
+      "contributor": "Nestor Tax Group",
+      "address": "13308 E. Boston",
+      "occupation": "Corporation",
+      "amount": 500.0
+    },
+    {
+      "_page": 2,
+      "date": "3/2/23",
+      "contributor": "Nester Tax Group",
+      "address": "13308 E. Boston",
+      "occupation": "Corporation",
+      "amount": 500.0
+    },
+    {
+      "_page": 2,
+      "date": "3/2/23",
+      "contributor": "Signarama & Services",
+      "address": "3220 S. Hoover",
+      "occupation": "Corporation",
+      "amount": 500.0
+    },
+    {
+      "_page": 2,
+      "date": "4/7/23",
+      "contributor": "Ron Coonrad & Bexon McCurdy",
+      "address": "4632 E. 80th",
+      "occupation": "Retired",
+      "amount": 500.0
+    },
+    {
+      "_page": 2,
+      "date": "5/2/23",
+      "contributor": "KTMV LLC",
+      "address": "3142 N. Broadmoor",
+      "occupation": "Corporation",
+      "amount": 500.0
+    },
+    {
+      "_page": 2,
+      "date": "5/2/23",
+      "contributor": "CoOp Progressives",
+      "address": "5221 E. Convent Ave STE 200",
+      "occupation": "Corporation",
+      "amount": 500.0
+    }
+  ],
+  "expenditures": [
+    {
+      "_page": 5,
+      "date": "11/4/20",
+      "name": "City Print",
+      "address": "235 S. Kansas Ave",
+      "purpose": "Campaign Expense Mailing",
+      "amount": 2170.8
+    },
+    {
+      "_page": 5,
+      "date": "11/4/20",
+      "name": "Jacob Bullinger",
+      "address": "1061 S. Waco",
+      "purpose": "Campaign Staff",
+      "amount": 500.0
+    },
+    {
+      "_page": 5,
+      "date": "11/18/20",
+      "name": "Jacob Bullinger",
+      "address": "1061 S. Waco",
+      "purpose": "Campaign Staff",
+      "amount": 500.0
+    },
+    {
+      "_page": 5,
+      "date": "11/23/20",
+      "name": "Jacob Bullinger",
+      "address": "1061 S. Waco",
+      "purpose": "Campaign Staff",
+      "amount": 500.0
+    },
+    {
+      "_page": 5,
+      "date": "11/24/20",
+      "name": "Cypress",
+      "address": "PO Box 357",
+      "purpose": "Catering for Election Watch",
+      "amount": 171.02
+    },
+    {
+      "_page": 5,
+      "date": "11/25/20",
+      "name": "Chuy",
+      "address": "PO Box 357",
+      "purpose": "Catering for Election Watch",
+      "amount": 175.0
+    },
+    {
+      "_page": 5,
+      "date": "12/2/20",
+      "name": "Fast Print",
+      "address": "602 N. West Street",
+      "purpose": "Campaign Printing Expense",
+      "amount": 36.45
+    },
+    {
+      "_page": 5,
+      "date": "12/2/20",
+      "name": "Fast Print",
+      "address": "602 N. West Street",
+      "purpose": "Campaign Printing Expense",
+      "amount": 6.14
+    },
+    {
+      "_page": 5,
+      "date": "12/7/20",
+      "name": "Dillons",
+      "address": "3707 N. Woodlawn",
+      "purpose": "Lunch for election worker",
+      "amount": 3.19
+    },
+    {
+      "_page": 5,
+      "date": "12/14/20",
+      "name": "Dillons",
+      "address": "3707 N. Woodlawn",
+      "purpose": "Reimbursement for lunch for precinct volunteers at Olive Garden",
+      "amount": 7.68
+    },
+    {
+      "_page": 5,
+      "date": "12/15/20",
+      "name": "Dillons",
+      "address": "3707 N. Woodlawn",
+      "purpose": "Reimbursement for Covid-19 for poll site",
+      "amount": 12.96
+    },
+    {
+      "_page": 5,
+      "date": "12/28/20",
+      "name": "Dillons",
+      "address": "3707 N. Woodlawn",
+      "purpose": "Reimbursement for bottled water (for employees/CDC rules)",
+      "amount": 3.84
+    }
+  ],
+  "other_transactions": [],
+  "in_kind_contributions": []
+}

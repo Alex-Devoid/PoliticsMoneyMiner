@@ -1,0 +1,86 @@
+{
+  "candidate": {
+    "name": "Jared Cerullo",
+    "address": "6316 S. Madison St.",
+    "city": "Wichita",
+    "zip": "67216",
+    "county": "Sedgwick",
+    "office_sought": "Wichita Mayor",
+    "district": "City of Wichita",
+    "_page": 6
+  },
+  "summary": {
+    "cash_on_hand_beginning": null,
+    "total_contributions": null,
+    "cash_available": null,
+    "total_expenditures": 5372.44,
+    "cash_on_hand_close": -5372.44,
+    "in_kind_contributions": null,
+    "other_transactions": null,
+    "_page": 6
+  },
+  "contributions": [],
+  "expenditures": [
+    {
+      "_page": 4,
+      "date": "1/13/23",
+      "name": "UPS Store",
+      "address": "620 N. Rock Rd. Derby, KS 67037",
+      "purpose": "Copies for petition",
+      "amount": 13.0
+    },
+    {
+      "_page": 4,
+      "date": "1/23/23",
+      "name": "Sedgwick County",
+      "address": "100 N. Broadway Ste. 100 Wichita, KS 67202",
+      "purpose": "Voter Data Registration list",
+      "amount": 61.31
+    },
+    {
+      "_page": 4,
+      "date": "3/26/23",
+      "name": "Office Max",
+      "address": "8147 E. Kellogg Wichita, KS 67207",
+      "purpose": "Printer ink",
+      "amount": 80.82
+    },
+    {
+      "_page": 4,
+      "date": "5/1/23",
+      "name": "UPS Store",
+      "address": "810 W. Douglas Ste. C Wichita, KS 67203",
+      "purpose": "Notary public fee",
+      "amount": 70.0
+    },
+    {
+      "_page": 4,
+      "date": "5/24/23",
+      "name": "Sedgwick County",
+      "address": "100 N. Broadway Ste. 100 Wichita, KS 67202",
+      "purpose": "Filing fee",
+      "amount": 51.0
+    },
+    {
+      "_page": 4,
+      "date": "7/1/23",
+      "name": "Sedgwick County",
+      "address": "100 N. Broadway Ste. 100 Wichita, KS 67202",
+      "purpose": "Voter Data Advance Ballot list",
+      "amount": 120.0
+    },
+    {
+      "_page": 4,
+      "date": "7/11/23",
+      "name": "Jabo Design",
+      "address": "830 E. 1st St. Wichita, KS 67226",
+      "purpose": "Campaign letter mailer Palm Cards",
+      "amount": 5036.21
+    }
+  ],
+  "other_transactions": [],
+  "in_kind_contributions": [],
+  "total_unitemized_contributions": 0.0,
+  "total_itemized_receipts": 0.0,
+  "total_itemized_expenditures": 5372.44
+}

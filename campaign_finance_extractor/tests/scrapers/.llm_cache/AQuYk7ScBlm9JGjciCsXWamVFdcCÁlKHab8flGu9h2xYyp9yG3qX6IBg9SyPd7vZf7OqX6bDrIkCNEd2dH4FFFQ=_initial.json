@@ -1,0 +1,322 @@
+{
+  "candidate": {
+    "name": "Jeff Blubaugh",
+    "address": {
+      "value": "10915 W Atlanta Cir",
+      "bbox": null
+    },
+    "city": {
+      "value": "Wichita",
+      "bbox": null
+    },
+    "zip": {
+      "value": "67215",
+      "bbox": null
+    },
+    "county": {
+      "value": "Sedgwick",
+      "bbox": null
+    },
+    "office_sought": {
+      "value": "County Commission",
+      "bbox": null
+    },
+    "district": {
+      "value": "2",
+      "bbox": null
+    },
+    "_page": 2
+  },
+  "summary": {
+    "cash_on_hand_beginning": {
+      "value": 46231.46,
+      "bbox": null
+    },
+    "total_contributions": {
+      "value": 49772.5,
+      "bbox": null
+    },
+    "cash_available": {
+      "value": 96003.96,
+      "bbox": null
+    },
+    "total_expenditures": {
+      "value": 76492.44,
+      "bbox": null
+    },
+    "cash_on_hand_close": {
+      "value": 19511.52,
+      "bbox": null
+    },
+    "in_kind_contributions": {
+      "value": 0.0,
+      "bbox": null
+    },
+    "other_transactions": {
+      "value": 0.0,
+      "bbox": null
+    },
+    "_page": 2
+  },
+  "contributions": [
+    {
+      "_page": 2,
+      "date": "10/7/24",
+      "contributor": "Joseph Hermmegan",
+      "address": "8225 W Irving",
+      "occupation": "Food Service",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/7/24",
+      "contributor": "Farl Mies",
+      "address": "1746 W Driftwood Ct",
+      "occupation": "Construction",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/7/24",
+      "contributor": "Mies Construction",
+      "address": "1919 Southwest Blvd",
+      "occupation": "Construction",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/7/24",
+      "contributor": "Bill Landman",
+      "address": "7114 E Chadowes",
+      "occupation": "Retired",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/15/24",
+      "contributor": "Johnny W Stevens",
+      "address": "8120 Killarney Ct",
+      "occupation": "Oil",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/15/24",
+      "contributor": "March Oil",
+      "address": "PO Box 782257",
+      "occupation": "Oil",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/15/24",
+      "contributor": "Texas Investments",
+      "address": "PO Box 782257",
+      "occupation": "Oil",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/15/24",
+      "contributor": "Webb Road Development",
+      "address": "PO Box 782257",
+      "occupation": "Oil",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/15/24",
+      "contributor": "Caymus Investments",
+      "address": "151 S Whittier St #1500, Wichita, KS 67207",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/15/24",
+      "contributor": "Castle Holdings",
+      "address": "532 N Turnberry Circle",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/15/24",
+      "contributor": "555 N Webb Rd",
+      "address": "555 N Webb Road",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/15/24",
+      "contributor": "Mexican Title",
+      "address": "429 S 119th",
+      "occupation": "Title",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/15/24",
+      "contributor": "Gregory Melugin",
+      "address": "2340 N Lakeview Ct",
+      "occupation": "Home Healthcare",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/15/24",
+      "contributor": "Kirk Swilley",
+      "address": null,
+      "occupation": null,
+      "amount": 25
+    },
+    {
+      "_page": 2,
+      "date": "10/15/24",
+      "contributor": "Michael Nichols",
+      "address": null,
+      "occupation": null,
+      "amount": 50
+    },
+    {
+      "_page": 2,
+      "date": "10/17/24",
+      "contributor": "KS Properties of Kansas, LLC",
+      "address": "150 N Market",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/17/24",
+      "contributor": "MOB Development, LLC",
+      "address": "1720 N Webb Road Suite 110",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/17/24",
+      "contributor": "College Hill Square, LLC",
+      "address": "150 N Market St",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/17/24",
+      "contributor": "TDF, LLC",
+      "address": "1720 N Webb Road",
+      "occupation": "Auto Repair",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/17/24",
+      "contributor": "Booth & 2, LLC",
+      "address": "150 N Market W",
+      "occupation": "Vending",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/17/24",
+      "contributor": "B & C Companies, LLC",
+      "address": "1720 N Webb Road",
+      "occupation": "BBQ dining",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/17/24",
+      "contributor": "Pearson Ready Mix, LLC",
+      "address": "2901 N Mead",
+      "occupation": "Concrete",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/17/24",
+      "contributor": "SK, LLC",
+      "address": "800 E 21st N",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/17/24",
+      "contributor": "JCB, LLC",
+      "address": "800 E 21st N",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/17/24",
+      "contributor": "Tony & LewJene Caputo",
+      "address": "515 S Main",
+      "occupation": "Construction",
+      "amount": 750
+    },
+    {
+      "_page": 2,
+      "date": "10/17/24",
+      "contributor": "Paul and Virginia Treadwell",
+      "address": "10101 E 47th St S",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/17/24",
+      "contributor": "Treadwell Management",
+      "address": "10101 E 47th St S",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/17/24",
+      "contributor": "Welcore Home, LLC",
+      "address": "5111 South Meridian",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/17/24",
+      "contributor": "Harvey & Stephanie Screensn",
+      "address": "13 Colonial Ct",
+      "occupation": "Lawyer",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/17/24",
+      "contributor": "Craig Burns",
+      "address": "15 Stonebridge Ct",
+      "occupation": "Title Company",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/20/24",
+      "contributor": "Eric Ivey",
+      "address": "535 N Porter Ave",
+      "occupation": "Energy",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/20/24",
+      "contributor": "Market Tax Services",
+      "address": "330 S Main St",
+      "occupation": "Tax",
+      "amount": 500
+    }
+  ],
+  "expenditures": [],
+  "other_transactions": [],
+  "in_kind_contributions": []
+}

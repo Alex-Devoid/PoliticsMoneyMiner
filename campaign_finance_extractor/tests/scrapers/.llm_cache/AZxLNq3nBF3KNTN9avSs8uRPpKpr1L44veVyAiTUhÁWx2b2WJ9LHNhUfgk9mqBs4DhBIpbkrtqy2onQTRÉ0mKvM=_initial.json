@@ -1,0 +1,944 @@
+{
+  "candidate": {
+    "name": {
+      "value": "Jeff Blubaugh",
+      "bbox": null
+    },
+    "address": {
+      "value": "10915 W Atlanta Cir",
+      "bbox": null
+    },
+    "city": {
+      "value": "67215",
+      "bbox": null
+    },
+    "zip": {
+      "value": "67215",
+      "bbox": null
+    },
+    "county": {
+      "value": "Sedgwick",
+      "bbox": null
+    },
+    "office_sought": {
+      "value": "County Commission",
+      "bbox": null
+    },
+    "district": {
+      "value": "II",
+      "bbox": null
+    },
+    "_page": 1
+  },
+  "summary": {
+    "cash_on_hand_beginning": {
+      "value": 0.0,
+      "bbox": null
+    },
+    "total_contributions": {
+      "value": 39000,
+      "bbox": null
+    },
+    "cash_available": {
+      "value": 39000,
+      "bbox": null
+    },
+    "total_expenditures": {
+      "value": 12367.7,
+      "bbox": null
+    },
+    "cash_on_hand_close": {
+      "value": 26632.3,
+      "bbox": null
+    },
+    "in_kind_contributions": {
+      "value": null,
+      "bbox": null
+    },
+    "other_transactions": {
+      "value": null,
+      "bbox": null
+    },
+    "_page": 1
+  },
+  "contributions": [
+    {
+      "_page": 2,
+      "date": {
+        "value": "2/1/23",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "Jeff Blubaugh",
+        "bbox": null
+      },
+      "address": {
+        "value": "1355 N. Greenwich Rd. PO Box 780071",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Sedgwick County Commissioner",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 2,
+      "date": {
+        "value": "2/2/23",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "Young Energy Company",
+        "bbox": null
+      },
+      "address": {
+        "value": "1210 W. Douglas Ave",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Wichita, KS 67203",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 2,
+      "date": {
+        "value": "2/3/23",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "Amy Carey",
+        "bbox": null
+      },
+      "address": {
+        "value": "256 N. Belmont",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Wichita, KS 67208",
+        "bbox": null
+      },
+      "amount": {
+        "value": 100,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 2,
+      "date": {
+        "value": "2/3/23",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "Paul Firth",
+        "bbox": null
+      },
+      "address": {
+        "value": "1815 N. Womer",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Wichita, KS 67203",
+        "bbox": null
+      },
+      "amount": {
+        "value": 100,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 2,
+      "date": {
+        "value": "2/3/23",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "Mize",
+        "bbox": null
+      },
+      "address": {
+        "value": "17819 W. 59th",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Lawrence, KS 66047",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 2,
+      "date": {
+        "value": "2/3/23",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "Bob Rogers",
+        "bbox": null
+      },
+      "address": {
+        "value": "1564 S. Womer",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Wichita, KS 67203",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 2,
+      "date": {
+        "value": "2/3/23",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "LSI-Southern Blvd",
+        "bbox": null
+      },
+      "address": {
+        "value": "1400 S. Lumber Creek",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Wichita, KS 67211",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 2,
+      "date": {
+        "value": "2/4/23",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "Ben Boren",
+        "bbox": null
+      },
+      "address": {
+        "value": "PO Box 780071",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Wichita, KS 67203",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 4,
+      "date": {
+        "value": "7/2/22",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "Anthony Caruso",
+        "bbox": null
+      },
+      "address": {
+        "value": "515 SW Hays Ave ST2, Wichita, KS",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Retired",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 4,
+      "date": {
+        "value": "7/3/22",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "Key Construction",
+        "bbox": null
+      },
+      "address": {
+        "value": "741 W 2nd St N, Wichita, KS",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Construction",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 4,
+      "date": {
+        "value": "7/3/22",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "Summit Holdings, LLC",
+        "bbox": null
+      },
+      "address": {
+        "value": "PO Box 2949, Wichita, KS",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 4,
+      "date": {
+        "value": "7/4/22",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "Yingling Aviation",
+        "bbox": null
+      },
+      "address": {
+        "value": "2010 S Airport Rd, Wichita, KS",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Aviation",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 4,
+      "date": {
+        "value": "7/4/22",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "Vanada Homes LLC",
+        "bbox": null
+      },
+      "address": {
+        "value": "150 N Market, Wichita, KS",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 4,
+      "date": {
+        "value": "7/4/22",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "Orion Property Group",
+        "bbox": null
+      },
+      "address": {
+        "value": "3006 W Popper Ridge St, Wichita, KS",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 4,
+      "date": {
+        "value": "7/4/22",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "James Ronda & Kelly Lindsey-Ronda",
+        "bbox": null
+      },
+      "address": {
+        "value": "1835 N Charlotte Ct, Wichita, KS",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Retired",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 4,
+      "date": {
+        "value": "7/4/22",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "DE Wichita LLC",
+        "bbox": null
+      },
+      "address": {
+        "value": "150 N Market, Wichita, KS",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 4,
+      "date": {
+        "value": "7/4/22",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "Cochran Mortenson",
+        "bbox": null
+      },
+      "address": {
+        "value": "2133 N Williamsgate St, Wichita, KS",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Executive",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 4,
+      "date": {
+        "value": "7/4/22",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "George Pearson Jr",
+        "bbox": null
+      },
+      "address": {
+        "value": "800 S 215th St W, Wichita, KS",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Retired",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 4,
+      "date": {
+        "value": "7/8/22",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "D Craig Nelson",
+        "bbox": null
+      },
+      "address": {
+        "value": "14609 SW Meadowlark Rd, Andover, KS",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Retired",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 4,
+      "date": {
+        "value": "7/8/22",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "BHI, LLC Cooks Heating & Cooling",
+        "bbox": null
+      },
+      "address": {
+        "value": "2215 S West Street, Wichita, KS",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "HVAC",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 4,
+      "date": {
+        "value": "7/8/22",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "Jim and Myra Treadwell",
+        "bbox": null
+      },
+      "address": {
+        "value": "1010 E 47th St. S, Wichita, KS",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Retired",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 4,
+      "date": {
+        "value": "7/8/22",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "Leap Family Entertainment",
+        "bbox": null
+      },
+      "address": {
+        "value": "6100 E Central Ave Bldg 3, Wichita, KS",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Entertainment",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    }
+  ],
+  "expenditures": [
+    {
+      "_page": 3,
+      "date": {
+        "value": "7/27/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Cooper Hill Survey, LLC",
+        "bbox": null
+      },
+      "address": {
+        "value": "210 W Woodlawn Suite",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 3,
+      "date": {
+        "value": "7/27/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Rex Enterprises of Kansas, LLC",
+        "bbox": null
+      },
+      "address": {
+        "value": "150 N Market",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 3,
+      "date": {
+        "value": "7/27/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Roe Web, LLC",
+        "bbox": null
+      },
+      "address": {
+        "value": "150 N Market",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 3,
+      "date": {
+        "value": "7/27/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "William Hayes",
+        "bbox": null
+      },
+      "address": {
+        "value": "1144 W Central",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 3,
+      "date": {
+        "value": "8/10/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Maxek, LLC",
+        "bbox": null
+      },
+      "address": {
+        "value": "3145 E Central",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 3,
+      "date": {
+        "value": "9/30/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Itemize It, LLC",
+        "bbox": null
+      },
+      "address": {
+        "value": "1802 E Douglas Ave",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 3,
+      "date": {
+        "value": "11/1/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Jane Scheets",
+        "bbox": null
+      },
+      "address": {
+        "value": "4029 Broadview Blvd",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 3,
+      "date": {
+        "value": "11/2/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Melodie Roddy",
+        "bbox": null
+      },
+      "address": {
+        "value": "2407 W 10th",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Real Estate",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "7/21/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Reimbursement for Parade Candy",
+        "bbox": null
+      },
+      "address": {
+        "value": "1975 N Main Wichita, KS 67203",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Parade",
+        "bbox": null
+      },
+      "amount": {
+        "value": 519.3,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "7/22/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Reimbursement for Parade Candy",
+        "bbox": null
+      },
+      "address": {
+        "value": "1975 N Main Wichita, KS 67203",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Parade",
+        "bbox": null
+      },
+      "amount": {
+        "value": 519.3,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "7/21/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Reimbursement for Sampling for Campaign Flyers",
+        "bbox": null
+      },
+      "address": {
+        "value": "1975 N Main Wichita, KS 67203",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Sampling",
+        "bbox": null
+      },
+      "amount": {
+        "value": 132,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "7/22/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Lunch for Parade Volunteers",
+        "bbox": null
+      },
+      "address": {
+        "value": "507 W Maple Wichita, KS 67203",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Parade",
+        "bbox": null
+      },
+      "amount": {
+        "value": 186.02,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "7/21/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Reimbursement for Candy",
+        "bbox": null
+      },
+      "address": {
+        "value": "1975 N Main Wichita, KS 67203",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Candy",
+        "bbox": null
+      },
+      "amount": {
+        "value": 230.76,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "7/22/23",
+        "bbox": null
+      },
+      "name": {
+        "value": "Reimbursement for Candy",
+        "bbox": null
+      },
+      "address": {
+        "value": "1975 N Main Wichita, KS 67203",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Candy",
+        "bbox": null
+      },
+      "amount": {
+        "value": 230.76,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 6,
+      "date": {
+        "value": "12/8/22",
+        "bbox": null
+      },
+      "name": {
+        "value": "Pay Pal",
+        "bbox": null
+      },
+      "address": {
+        "value": "2211 N 1st St, San Jose, CA 95132",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Pay Pal Charge for contribution",
+        "bbox": null
+      },
+      "amount": {
+        "value": 15.0,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 6,
+      "date": {
+        "value": "11/30/22",
+        "bbox": null
+      },
+      "name": {
+        "value": "WinRed",
+        "bbox": null
+      },
+      "address": {
+        "value": "1095, McLean, VA 22102",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "WinRed Service Fee",
+        "bbox": null
+      },
+      "amount": {
+        "value": 12.36,
+        "bbox": null
+      }
+    }
+  ],
+  "other_transactions": [],
+  "in_kind_contributions": []
+}

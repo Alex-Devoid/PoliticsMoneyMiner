@@ -1,0 +1,72 @@
+{
+  "candidate": {
+    "name": "Jared Cerullo",
+    "address": null,
+    "city": null,
+    "zip": null,
+    "county": null,
+    "office_sought": null,
+    "district": null,
+    "_page": 3
+  },
+  "summary": {
+    "cash_on_hand_beginning": null,
+    "total_contributions": null,
+    "cash_available": null,
+    "total_expenditures": null,
+    "cash_on_hand_close": null,
+    "in_kind_contributions": null,
+    "other_transactions": null,
+    "_page": 3
+  },
+  "contributions": [
+    {
+      "date": "07/12/21",
+      "contributor": "Summit Holdings",
+      "address": "741 W. 2nd St. N. Wichita, KS 67203",
+      "occupation": "property management",
+      "amount": 500.0
+    },
+    {
+      "date": "07/14/21",
+      "contributor": "Marketplace Properties",
+      "address": "151 N. Rock Island Ste. 1A Wichita, KS 67202",
+      "occupation": "property management",
+      "amount": 500.0
+    },
+    {
+      "date": "5/26/21",
+      "contributor": "Max A Cohen Trust",
+      "address": "Wichita, KS",
+      "occupation": "Developer",
+      "amount": 500.0
+    },
+    {
+      "date": "5/26/21",
+      "contributor": "Sixty-Four Hundred LLC",
+      "address": "Wichita, KS",
+      "occupation": "Developer",
+      "amount": 500.0
+    },
+    {
+      "date": "7/2/21",
+      "contributor": "Ferris Consulting",
+      "address": "Wichita, KS",
+      "occupation": "Consultant",
+      "amount": 250.0
+    },
+    {
+      "date": "7/27/21",
+      "contributor": "Expert Auto Care",
+      "address": "Wichita, KS",
+      "occupation": "Auto Repair",
+      "amount": 500.0
+    }
+  ],
+  "total_itemized_receipts": 2750.0,
+  "total_unitemized_contributions": null,
+  "expenditures": [],
+  "total_itemized_expenditures": null,
+  "total_unitemized_expenditures": null,
+  "other_transactions": []
+}

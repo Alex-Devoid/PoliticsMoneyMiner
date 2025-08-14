@@ -1,0 +1,65 @@
+{
+  "candidate": {
+    "name": "Jared Cerullo",
+    "address": null,
+    "city": null,
+    "zip": null,
+    "county": null,
+    "office_sought": null,
+    "district": null,
+    "_page": 6
+  },
+  "summary": {
+    "cash_on_hand_beginning": null,
+    "total_contributions": null,
+    "cash_available": null,
+    "total_expenditures": null,
+    "cash_on_hand_close": null,
+    "in_kind_contributions": null,
+    "other_transactions": null,
+    "_page": 6
+  },
+  "contributions": [],
+  "total_itemized_receipts": null,
+  "total_unitemized_contributions": null,
+  "expenditures": [
+    {
+      "date": "7/20/21",
+      "name": "Sedgwick County Election",
+      "address": "Wichita KS",
+      "purpose": "Voter Information",
+      "amount": 61.31
+    },
+    {
+      "date": "7/20/21",
+      "name": "Facebook",
+      "address": null,
+      "purpose": "Social Media Ads",
+      "amount": 5.0
+    },
+    {
+      "date": "7/21/21",
+      "name": "Tightwrapz Print Shop",
+      "address": "Wichita KS",
+      "purpose": "Yard Signs",
+      "amount": 1061.56
+    },
+    {
+      "date": "7/22/21",
+      "name": "Paypal",
+      "address": null,
+      "purpose": "Transaction Fees",
+      "amount": 36.37
+    },
+    {
+      "date": "6/19/21",
+      "name": "K&G Digital 360",
+      "address": "Wichita KS",
+      "purpose": "Video Production",
+      "amount": 200.0
+    }
+  ],
+  "total_itemized_expenditures": 1364.24,
+  "total_unitemized_expenditures": null,
+  "other_transactions": []
+}

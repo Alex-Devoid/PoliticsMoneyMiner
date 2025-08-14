@@ -1,0 +1,19 @@
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile.dev
+    env_file: .env          
+    volumes:
+      - .:/workspace/backend:cached 
+      - trocr-cache:/opt/hf-cache
+    shm_size: "2gb"
+    networks:
+      - dev_network
+
+volumes:
+  trocr-cache:
+
+networks:
+  dev_network:
+    driver: bridge

@@ -1,0 +1,133 @@
+{
+  "candidate": {
+    "name": {
+      "value": "Jeff Blubaugh",
+      "bbox": null
+    },
+    "address": {
+      "value": "10915 W Atlanta Cir",
+      "bbox": null
+    },
+    "city": {
+      "value": "Wichita",
+      "bbox": null
+    },
+    "zip": {
+      "value": "67215",
+      "bbox": null
+    },
+    "county": {
+      "value": "Sedgwick",
+      "bbox": null
+    },
+    "office_sought": {
+      "value": "County Commission",
+      "bbox": null
+    },
+    "district": {
+      "value": "2",
+      "bbox": null
+    },
+    "_page": 1
+  },
+  "summary": {
+    "cash_on_hand_beginning": {
+      "value": 46231.46,
+      "bbox": null
+    },
+    "total_contributions": {
+      "value": 49772.5,
+      "bbox": null
+    },
+    "cash_available": {
+      "value": 96003.96,
+      "bbox": null
+    },
+    "total_expenditures": {
+      "value": 76492.44,
+      "bbox": null
+    },
+    "cash_on_hand_close": {
+      "value": 19511.52,
+      "bbox": null
+    },
+    "in_kind_contributions": {
+      "value": 0.0,
+      "bbox": null
+    },
+    "other_transactions": {
+      "value": 0.0,
+      "bbox": null
+    },
+    "_page": 1
+  },
+  "contributions": [
+    {
+      "_page": 2,
+      "date": "10/7/24",
+      "contributor": "Jeff Blubaugh",
+      "address": "8225 W Irving, Wichita KS 67209",
+      "occupation": "Food Service",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/7/24",
+      "contributor": "Joseph H Hemmelgarn",
+      "address": "1746 W Driftwood, Wichita KS 87204",
+      "occupation": "Construction",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/7/24",
+      "contributor": "Ean Mies",
+      "address": "1919 Southwest Mies Blvd, Wichita KS 87213",
+      "occupation": "Construction",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/7/24",
+      "contributor": "Bil Landman",
+      "address": "7114 E Chadowes, Wichita KS 67206",
+      "occupation": "Retired",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/15/24",
+      "contributor": "Johnny W Stevens",
+      "address": "8120 Killarney Ct, Wichita KS 67206",
+      "occupation": "Oil",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/15/24",
+      "contributor": "March Oil",
+      "address": "PO Box 782257, Wichita KS 67278",
+      "occupation": "Oil",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/15/24",
+      "contributor": "Texas Investments",
+      "address": "PO Box 782257, Wichita KS 67278",
+      "occupation": "Oil",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/15/24",
+      "contributor": "Webb Road Development",
+      "address": "PO Box 782257, Wichita KS 67278",
+      "occupation": "Oil",
+      "amount": 500
+    }
+  ],
+  "expenditures": [],
+  "other_transactions": [],
+  "in_kind_contributions": []
+}

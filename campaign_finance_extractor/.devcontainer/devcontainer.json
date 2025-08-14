@@ -1,0 +1,36 @@
+{
+  "name": "DD Backend Dev Container",
+
+
+  "dockerComposeFile": "../../argus_devops/docker-compose.yml",
+  "service": "backend-campaign-finance",
+
+  "workspaceFolder": "/workspace/backend",
+
+  
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "ms-python.black-formatter",
+        
+        "ms-azuretools.vscode-docker"
+      ]
+    }
+  },
+
+  "appPort": [8086],
+  "forwardPorts": [8086],
+
+  "settings": {
+    "terminal.integrated.shell.linux": "/bin/bash"
+  },
+
+  "mounts": [
+    "source=${localEnv:HOME}/.ssh/config_container,target=/root/.ssh/config,type=bind,consistency=cached"
+  ],
+
+  "postStartCommand":
+    "chmod 600 /root/.ssh/* && ssh-keyscan github.com >> /root/.ssh/known_hosts"
+}

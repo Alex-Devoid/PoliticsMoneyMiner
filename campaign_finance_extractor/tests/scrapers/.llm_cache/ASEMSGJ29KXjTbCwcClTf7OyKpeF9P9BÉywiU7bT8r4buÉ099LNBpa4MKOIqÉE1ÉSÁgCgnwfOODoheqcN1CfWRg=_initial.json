@@ -1,0 +1,52 @@
+{
+  "candidate": {
+    "name": "RYAN BATY",
+    "address": "10701 W 69TH ST N",
+    "city": "MAIZE",
+    "county": "SEDGWICK",
+    "office_sought": "COUNTY COMMISSION",
+    "district": "4",
+    "_page": 4
+  },
+  "summary": {
+    "cash_on_hand_beginning": 753.71,
+    "total_contributions": null,
+    "cash_available": 753.71,
+    "total_expenditures": 284.0,
+    "cash_on_hand_close": 469.71,
+    "in_kind_contributions": null,
+    "other_transactions": 17450.0,
+    "_page": 4
+  },
+  "contributions": [],
+  "expenditures": [
+    {
+      "_page": 3,
+      "date": "7/25/23",
+      "name": "HEXCODE MARKETING",
+      "address": "100 S MAIN ST, SUITE 201 WICHITA, KS 67213",
+      "purpose": "WEBSITE MAINTENANCE AND FEES",
+      "amount": 266.0
+    },
+    {
+      "_page": 3,
+      "date": "12/31/23",
+      "name": "UNION STATE BANK",
+      "address": "2327 N RIDGE ROAD WICHITA, KS 67205",
+      "purpose": "ACCOUNT SERVICE CHARGES",
+      "amount": 18.0
+    }
+  ],
+  "other_transactions": [
+    {
+      "_page": 4,
+      "date": "11/28/22",
+      "creditor": "RYAN BATY",
+      "purpose": null,
+      "balance": 17450.0
+    }
+  ],
+  "in_kind_contributions": [],
+  "total_itemized_expenditures": 284.0,
+  "total_unitemized_expenditures": 0.0
+}

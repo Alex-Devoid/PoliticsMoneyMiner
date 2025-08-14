@@ -1,0 +1,40 @@
+# Dockerfile.prod with debugging tools added
+FROM python:3.10
+
+# Set the working directory
+WORKDIR /app
+
+# Install system dependencies (including curl and net-tools for debugging)
+RUN apt-get update && \
+    apt-get install -y --no-install-recommends \
+    apt-transport-https \
+    ca-certificates \
+    gnupg \
+    curl \
+    net-tools \
+    iputils-ping \
+    dnsutils \
+    && apt-get clean && \
+    rm -rf /var/lib/apt/lists/*
+
+# Optionally, install Google Cloud SDK for debugging GCP-specific issues
+# RUN curl -fsSL https://packages.cloud.google.com/apt/doc/apt-key.gpg | gpg --dearmor -o /usr/share/keyrings/cloud.google.gpg && \
+#     echo "deb [signed-by=/usr/share/keyrings/cloud.google.gpg] https://packages.cloud.google.com/apt cloud-sdk main" | tee -a /etc/apt/sources.list.d/google-cloud-sdk.list && \
+#     apt-get update && \
+#     apt-get install -y google-cloud-cli
+
+# Copy only the requirements first to leverage Docker cache for faster builds
+COPY requirements.txt .
+
+# Install Python dependencies
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Copy the rest of the code
+COPY cloud_function /app/cloud_function
+# Set test database path
+ENV DATABASE_URL="sqlite:///./test.db"
+# Expose port 8080 for Uvicorn
+EXPOSE 8080
+
+# Run the FastAPI server using Uvicorn in production mode (no --reload flag)
+CMD ["uvicorn", "cloud_function.main:app", "--host", "0.0.0.0", "--port", "8080", "--proxy-headers"]
