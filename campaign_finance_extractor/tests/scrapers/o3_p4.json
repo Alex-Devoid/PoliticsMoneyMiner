@@ -1,0 +1,38 @@
+{
+  "candidate": {
+    "name": "RYAN BATY",
+    "address": null,
+    "city": null,
+    "zip": null,
+    "county": null,
+    "office_sought": null,
+    "district": null,
+    "_page": 4
+  },
+  "summary": {
+    "cash_on_hand_beginning": null,
+    "total_contributions": null,
+    "cash_available": null,
+    "total_expenditures": null,
+    "cash_on_hand_close": null,
+    "in_kind_contributions": null,
+    "other_transactions": null,
+    "_page": 4
+  },
+  "contributions": [],
+  "total_itemized_receipts": null,
+  "total_unitemized_contributions": null,
+  "expenditures": [],
+  "total_itemized_expenditures": null,
+  "total_unitemized_expenditures": null,
+  "other_transactions": [
+    {
+      "date": "11/28/22",
+      "creditor": "RYAN BATY",
+      "purpose": "LOAN TO CAMPAIGN",
+      "balance": 17450.0,
+      "_page": 4
+    }
+  ],
+  "in_kind_contributions": []
+}

@@ -1,6 +1,6 @@
 {
   "name": "Backend campaign finance DevContainer",
-  "dockerComposeFile": "../../argus_devops/docker-compose.yml",
+  "dockerComposeFile": "../../devops/docker-compose.yml",
   "service": "backend-campaign-finance-api",
   "workspaceFolder": "/app",
   "customizations": {

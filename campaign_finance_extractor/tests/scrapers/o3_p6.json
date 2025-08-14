@@ -1,0 +1,55 @@
+{
+  "candidate": {
+    "name": "Jeff Blumenthal",
+    "address": null,
+    "city": null,
+    "zip": null,
+    "county": null,
+    "office_sought": null,
+    "district": null,
+    "_page": 6
+  },
+  "summary": {
+    "cash_on_hand_beginning": null,
+    "total_contributions": null,
+    "cash_available": null,
+    "total_expenditures": null,
+    "cash_on_hand_close": null,
+    "in_kind_contributions": null,
+    "other_transactions": null,
+    "_page": 6
+  },
+  "contributions": [],
+  "total_itemized_receipts": null,
+  "total_unitemized_contributions": null,
+  "expenditures": [
+    {
+      "date": "11/02/23",
+      "name": "Vistaprint",
+      "address": "275 Wyman Street, Waltham, MA 02451",
+      "purpose": "Business Cards",
+      "amount": 150.0,
+      "_page": 6
+    },
+    {
+      "date": "11/03/23",
+      "name": "PayPal",
+      "address": "2211 N 1st St, San Jose, CA 95131",
+      "purpose": "PayPal Charge for Contribution",
+      "amount": 3.5,
+      "_page": 6
+    },
+    {
+      "date": "12/25/23",
+      "name": "PayPal",
+      "address": "2211 N 1st St, San Jose, CA 95131",
+      "purpose": "PayPal Charge for Contribution",
+      "amount": 4.2,
+      "_page": 6
+    }
+  ],
+  "total_itemized_expenditures": 157.7,
+  "total_unitemized_expenditures": null,
+  "other_transactions": [],
+  "in_kind_contributions": []
+}

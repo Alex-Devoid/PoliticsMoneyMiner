@@ -1,14 +1,14 @@
 services:
   backend-campaign-finance-api:
     build:
-      context: ../argus_campaign_finance_api
+      context: ../campaign_finance_api
       dockerfile: Dockerfile.dev
     volumes:
-      - ../argus_campaign_finance_api:/app:cached
+      - ../campaign_finance_api:/app:cached
     ports:
       - "8085:8080"  # Forward backend app port
     env_file:
-      - ../argus_campaign_finance_api/.env  # Load environment variables, including DATABASE_URL
+      - ../campaign_finance_api/.env  # Load environment variables, including DATABASE_URL
     depends_on:
       - firestore-emulator  # Ensure Firestore emulator is ready before backend starts
     networks:
@@ -20,17 +20,17 @@ services:
 
   frontend:
     build:
-      context: ../argus_frontend
+      context: ../campaign_finance_frontend
       dockerfile: Dockerfile.dev
     volumes:
-      - ../argus_frontend:/app:cached  # Mount entire project except node_modules
+      - ../campaign_finance_frontend:/app:cached  # Mount entire project except node_modules
       - node_modules_data:/app/node_modules
       - /app/.nuxt   
 
     ports:
       - "3000:3000"  # Map container port to local machine
     env_file:
-      - ../argus_frontend/.env  # Load environment variables
+      - ../campaign_finance_frontend/.env  # Load environment variables
     environment:
       MOCK_DATA: "off"      
     networks:
@@ -56,16 +56,16 @@ services:
 
   backend-campaign-finance:
     build:
-      context: ../argus_campaign_finance
+      context: ../campaign_finance_extractor
       dockerfile: Dockerfile.dev
-    env_file: ../argus_campaign_finance/.env     
+    env_file: ../campaign_finance_extractor/.env     
     ports:
       - "8086:8080"  # Forward backend app port       
     depends_on:
       - firestore-emulator  # Ensure Firestore emulator is ready before backend starts  
     volumes:
-      - ../argus_campaign_finance:/workspace/backend:cached 
-      - ../argus_campaign_finance/trocr-cache:/opt/hf-cache
+      - ../campaign_finance_extractor:/workspace/backend:cached 
+      - ../campaign_finance_extractor/trocr-cache:/opt/hf-cache
     shm_size: "2gb"
     networks:
       - dev_network      

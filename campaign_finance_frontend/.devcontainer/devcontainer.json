@@ -1,6 +1,6 @@
 {
   "name": "Frontend argus DevContainer",
-  "dockerComposeFile": "../../argus_devops/docker-compose.yml",
+  "dockerComposeFile": "../../devops/docker-compose.yml",
   "service": "frontend",
   "workspaceFolder": "/app",
   

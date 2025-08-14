@@ -1,0 +1,223 @@
+{
+  "candidate": {
+    "name": "Jeff Blubaugh",
+    "address": "2021 N Wellington Suite 110",
+    "city": "Wichita",
+    "zip": "67203",
+    "county": null,
+    "office_sought": null,
+    "district": null,
+    "_page": 3
+  },
+  "summary": {
+    "cash_on_hand_beginning": null,
+    "total_contributions": null,
+    "cash_available": null,
+    "total_expenditures": null,
+    "cash_on_hand_close": null,
+    "in_kind_contributions": null,
+    "other_transactions": null,
+    "_page": 3
+  },
+  "contributions": [
+    {
+      "date": "5/22/23",
+      "contributor": "Foulston Construction, LLC",
+      "address": "PO Box 75337",
+      "occupation": "Construction",
+      "amount": 500.0,
+      "_page": 3
+    },
+    {
+      "date": "5/24/23",
+      "contributor": "J Russell Develop & Mgmt",
+      "address": "PO Box 4337",
+      "occupation": "Real Estate",
+      "amount": 500.0,
+      "_page": 3
+    },
+    {
+      "date": "5/24/23",
+      "contributor": "Bradburn W Young",
+      "address": "3811 N Coolidge Cir",
+      "occupation": "Real Estate",
+      "amount": 500.0,
+      "_page": 3
+    },
+    {
+      "date": "5/26/23",
+      "contributor": "Scott Kelley Russell",
+      "address": "P.O. Box 4337",
+      "occupation": "Real Estate",
+      "amount": 500.0,
+      "_page": 3
+    },
+    {
+      "date": "5/24/23",
+      "contributor": "William B Regier",
+      "address": "10110 W 100th Street",
+      "occupation": "Retired Engineer",
+      "amount": 500.0,
+      "_page": 3
+    },
+    {
+      "date": "6/22/23",
+      "contributor": "Thomas L Borich",
+      "address": "2205 N. W. 5th",
+      "occupation": "Food & Beverage",
+      "amount": 500.0,
+      "_page": 3
+    },
+    {
+      "date": "6/22/23",
+      "contributor": "Joseph Hood Service",
+      "address": "8225 W 19th St N",
+      "occupation": "Plumbing",
+      "amount": 500.0,
+      "_page": 3
+    },
+    {
+      "date": "6/22/23",
+      "contributor": "Joseph Hood Service",
+      "address": "8225 W 19th St N",
+      "occupation": "Plumbing",
+      "amount": 500.0,
+      "_page": 3
+    },
+    {
+      "date": "6/26/23",
+      "contributor": "The Landmark #",
+      "address": "150 N Market",
+      "occupation": "Real Estate",
+      "amount": 500.0,
+      "_page": 3
+    },
+    {
+      "date": "7/20/23",
+      "contributor": "Adolph Sauceda, LLC",
+      "address": "1560 N. Market",
+      "occupation": "Real Estate",
+      "amount": 500.0,
+      "_page": 3
+    },
+    {
+      "date": "7/20/23",
+      "contributor": "NS Properties Kansas, LLC",
+      "address": "1560 N Market",
+      "occupation": "Real Estate",
+      "amount": 500.0,
+      "_page": 3
+    },
+    {
+      "date": "7/20/23",
+      "contributor": "DBD Development Company, LLC",
+      "address": "1560 N Market",
+      "occupation": "Real Estate",
+      "amount": 500.0,
+      "_page": 3
+    },
+    {
+      "date": "7/20/23",
+      "contributor": "1560 N Market LLC",
+      "address": "1560 N Market",
+      "occupation": "Real Estate",
+      "amount": 500.0,
+      "_page": 3
+    },
+    {
+      "date": "8/21/23",
+      "contributor": "William L Hayes",
+      "address": "1710 N. Wabash",
+      "occupation": "Retired",
+      "amount": 500.0,
+      "_page": 3
+    },
+    {
+      "date": "9/30/23",
+      "contributor": "Summit Ave, LLC",
+      "address": "1710 N. Wabash Ave",
+      "occupation": "Real Estate",
+      "amount": 500.0,
+      "_page": 3
+    },
+    {
+      "date": "9/30/23",
+      "contributor": "Summit Ave, LLC",
+      "address": "1710 N. Wabash Ave",
+      "occupation": "Real Estate",
+      "amount": 500.0,
+      "_page": 3
+    },
+    {
+      "date": "10/19/23",
+      "contributor": "M&N, LLC",
+      "address": "9356 E Central Suite 100",
+      "occupation": "Real Estate",
+      "amount": 500.0,
+      "_page": 3
+    },
+    {
+      "date": "11/12/23",
+      "contributor": "Coville Construction Specialist",
+      "address": "9356 E Central Suite 100",
+      "occupation": "Construction",
+      "amount": 500.0,
+      "_page": 3
+    },
+    {
+      "date": "11/12/23",
+      "contributor": "Moline, LLC",
+      "address": "9356 E Central Suite 100",
+      "occupation": "Real Estate",
+      "amount": 500.0,
+      "_page": 3
+    },
+    {
+      "date": "11/12/23",
+      "contributor": "Big Cat Companies",
+      "address": "9356 E Central Suite 100",
+      "occupation": "Real Estate",
+      "amount": 500.0,
+      "_page": 3
+    },
+    {
+      "date": "11/13/23",
+      "contributor": "Merrick Law Firm",
+      "address": "9345 E Central",
+      "occupation": "Legal",
+      "amount": 500.0,
+      "_page": 3
+    },
+    {
+      "date": "11/26/23",
+      "contributor": "Rick Cummings",
+      "address": "1003 S. Fountain",
+      "occupation": "Retired",
+      "amount": 500.0,
+      "_page": 3
+    },
+    {
+      "date": "11/13/23",
+      "contributor": "McDermott & Cummings",
+      "address": "9345 E. Central",
+      "occupation": "Legal",
+      "amount": 500.0,
+      "_page": 3
+    },
+    {
+      "date": "12/5/23",
+      "contributor": "Rodney Wright",
+      "address": "2240 N 107th St",
+      "occupation": "HOA MGMT",
+      "amount": 500.0,
+      "_page": 3
+    }
+  ],
+  "total_itemized_receipts": null,
+  "total_unitemized_contributions": null,
+  "expenditures": [],
+  "total_itemized_expenditures": null,
+  "total_unitemized_expenditures": null,
+  "other_transactions": [],
+  "in_kind_contributions": []
+}

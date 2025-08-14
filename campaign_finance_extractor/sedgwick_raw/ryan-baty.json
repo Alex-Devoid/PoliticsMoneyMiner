@@ -1,0 +1,3098 @@
+{
+  "report_meta": {
+    "candidate_name": {
+      "value": "RYAN BATY",
+      "bbox": null
+    },
+    "address": {
+      "value": "10701 W 69TH ST N",
+      "bbox": null
+    },
+    "city": {
+      "value": "MAIZE",
+      "bbox": null
+    },
+    "state": {
+      "value": "",
+      "bbox": null
+    },
+    "zip_code": {
+      "value": null,
+      "bbox": null
+    },
+    "county": {
+      "value": "SEDGWICK",
+      "bbox": null
+    },
+    "office_sought": {
+      "value": "COUNTY COMMISSION",
+      "bbox": null
+    },
+    "district": {
+      "value": "4",
+      "bbox": null
+    },
+    "report_date": {
+      "value": "",
+      "bbox": null
+    },
+    "period_start": {
+      "value": "",
+      "bbox": null
+    },
+    "period_end": {
+      "value": "",
+      "bbox": null
+    },
+    "cash_on_hand_beginning": {
+      "value": 753.71,
+      "bbox": null
+    },
+    "total_contributions_receipts": {
+      "value": null,
+      "bbox": null
+    },
+    "cash_available": {
+      "value": 753.71,
+      "bbox": null
+    },
+    "total_expenditures_disbursements": {
+      "value": 284.0,
+      "bbox": null
+    },
+    "cash_on_hand_closing": {
+      "value": 469.71,
+      "bbox": null
+    },
+    "signature_name": {
+      "value": "",
+      "bbox": null
+    },
+    "signature_date": {
+      "value": "",
+      "bbox": null
+    }
+  },
+  "schedule_a": [],
+  "schedule_b": [],
+  "schedule_c": [
+    {
+      "date": "7/25/23",
+      "payee": "HEXCODE MARKETING",
+      "address": "100 S MAIN ST, SUITE 201 WICHITA, KS 67213",
+      "purpose": "WEBSITE MAINTENANCE AND FEES",
+      "amount": 266.0,
+      "bbox": [
+        169.0,
+        706.0,
+        2414.0,
+        850.0
+      ]
+    },
+    {
+      "date": "12/31/23",
+      "payee": "UNION STATE BANK",
+      "address": "2327 N RIDGE ROAD WICHITA, KS 67205",
+      "purpose": "ACCOUNT SERVICE CHARGES",
+      "amount": 18.0,
+      "bbox": [
+        159.0,
+        887.0,
+        2414.0,
+        1031.0
+      ]
+    }
+  ],
+  "schedule_d": [
+    {
+      "date": "11/28/22",
+      "creditor": "RYAN BATY",
+      "purpose": "LOAN TO CAMPAIGN",
+      "balance": 17450.0
+    }
+  ],
+  "_initial_llm_json": {
+    "candidate": {
+      "name": "RYAN BATY",
+      "address": "10701 W 69TH ST N",
+      "city": "MAIZE",
+      "zip": null,
+      "county": "SEDGWICK",
+      "office_sought": "COUNTY COMMISSION",
+      "district": "4"
+    },
+    "summary": {
+      "cash_on_hand_beginning": 753.71,
+      "total_contributions": null,
+      "cash_available": 753.71,
+      "total_expenditures": 284.0,
+      "cash_on_hand_close": 469.71,
+      "in_kind_contributions": null,
+      "other_transactions": 17450.0
+    },
+    "contributions": [],
+    "total_itemized_receipts": 0.0,
+    "total_unitemized_contributions": null,
+    "expenditures": [
+      {
+        "date": "7/25/23",
+        "name": "HEXCODE MARKETING",
+        "address": "100 S MAIN ST, SUITE 201 WICHITA, KS 67213",
+        "purpose": "WEBSITE MAINTENANCE AND FEES",
+        "amount": 266.0,
+        "bbox": [
+          169.0,
+          706.0,
+          2414.0,
+          850.0
+        ]
+      },
+      {
+        "date": "12/31/23",
+        "name": "UNION STATE BANK",
+        "address": "2327 N RIDGE ROAD WICHITA, KS 67205",
+        "purpose": "ACCOUNT SERVICE CHARGES",
+        "amount": 18.0,
+        "bbox": [
+          159.0,
+          887.0,
+          2414.0,
+          1031.0
+        ]
+      }
+    ],
+    "total_itemized_expenditures": 284.0,
+    "total_unitemized_expenditures": null,
+    "other_transactions": [
+      {
+        "date": "11/28/22",
+        "creditor": "RYAN BATY",
+        "purpose": "LOAN TO CAMPAIGN",
+        "balance": 17450.0
+      }
+    ],
+    "in_kind_contributions": []
+  },
+  "tokens": [
+    {
+      "page": 1,
+      "text": "Kansas Governmental Ethics Commission",
+      "bbox": [
+        556,
+        133,
+        2165,
+        180
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "Kansas Governmental Ethics Commission",
+          "x0": 556,
+          "y0": 133,
+          "x1": 2165,
+          "y1": 180
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "# # students were able to take the first week of the time of the RECEIPTS AND EXPENDITURES REPORT...",
+      "bbox": [
+        556,
+        133,
+        2258,
+        418
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "# # students were able to take the first week of the time of the",
+          "x0": 556,
+          "y0": 133,
+          "x1": 2258,
+          "y1": 418
+        },
+        {
+          "page": 1,
+          "text": "RECEIPTS AND EXPENDITURES REPORT...",
+          "x0": 719,
+          "y0": 252,
+          "x1": 2258,
+          "y1": 309
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "OF A candidate for County \" ( 2, 1, 1/2",
+      "bbox": [
+        719,
+        337,
+        2250,
+        418
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "OF A candidate for County \" ( 2, 1, 1/2",
+          "x0": 719,
+          "y0": 337,
+          "x1": 2250,
+          "y1": 418
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "2024 2624",
+      "bbox": [
+        1755,
+        421,
+        1869,
+        456
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "2024",
+          "x0": 1755,
+          "y0": 421,
+          "x1": 1869,
+          "y1": 456
+        },
+        {
+          "page": 1,
+          "text": "2624",
+          "x0": 1755,
+          "y0": 421,
+          "x1": 1869,
+          "y1": 456
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "January 10, 2024",
+      "bbox": [
+        1069,
+        466,
+        1502,
+        520
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "January 10, 2024",
+          "x0": 1069,
+          "y0": 466,
+          "x1": 1502,
+          "y1": 520
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "FILE WITH COUNTY ELECTION OFPICER",
+      "bbox": [
+        772,
+        576,
+        1879,
+        620
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "FILE WITH COUNTY ELECTION OFPICER",
+          "x0": 772,
+          "y0": 576,
+          "x1": 1879,
+          "y1": 620
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "see reverse side for instructions",
+      "bbox": [
+        783,
+        638,
+        1867,
+        682
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "see reverse side for instructions",
+          "x0": 783,
+          "y0": 638,
+          "x1": 1867,
+          "y1": 682
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "A. Name of Candidate : RYAN BATY",
+      "bbox": [
+        194,
+        805,
+        1009,
+        860
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "A. Name of Candidate : RYAN BATY",
+          "x0": 194,
+          "y0": 805,
+          "x1": 1009,
+          "y1": 860
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "Address : 10701 W 697H ST N",
+      "bbox": [
+        299,
+        903,
+        978,
+        962
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "Address : 10701 W 697H ST N",
+          "x0": 299,
+          "y0": 903,
+          "x1": 978,
+          "y1": 962
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "SEDGWICK",
+      "bbox": [
+        2052,
+        1005,
+        2301,
+        1040
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "SEDGWICK",
+          "x0": 2052,
+          "y0": 1005,
+          "x1": 2301,
+          "y1": 1040
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "City and Zip Code. MADE _________ MAIZE",
+      "bbox": [
+        298,
+        1002,
+        2301,
+        1077
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "City and Zip Code. MADE _________",
+          "x0": 298,
+          "y0": 1002,
+          "x1": 2301,
+          "y1": 1077
+        },
+        {
+          "page": 1,
+          "text": "MAIZE",
+          "x0": 694,
+          "y0": 1002,
+          "x1": 835,
+          "y1": 1077
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "City and Zip Code : County:",
+      "bbox": [
+        298,
+        1018,
+        2021,
+        1076
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "County:",
+          "x0": 1863,
+          "y0": 1018,
+          "x1": 2021,
+          "y1": 1076
+        },
+        {
+          "page": 1,
+          "text": "City and Zip Code :",
+          "x0": 298,
+          "y0": 1024,
+          "x1": 682,
+          "y1": 1072
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "county commission 4",
+      "bbox": [
+        637,
+        1104,
+        2077,
+        1142
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "county commission",
+          "x0": 637,
+          "y0": 1104,
+          "x1": 1144,
+          "y1": 1140
+        },
+        {
+          "page": 1,
+          "text": "4",
+          "x0": 2050,
+          "y0": 1106,
+          "x1": 2077,
+          "y1": 1142
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "office sought. COUNTY COMMISSION ___ District:",
+      "bbox": [
+        299,
+        1103,
+        2077,
+        1173
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "District:",
+          "x0": 1855,
+          "y0": 1103,
+          "x1": 2020,
+          "y1": 1166
+        },
+        {
+          "page": 1,
+          "text": "office sought. COUNTY COMMISSION ___",
+          "x0": 299,
+          "y0": 1103,
+          "x1": 2077,
+          "y1": 1173
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "Office sought :",
+      "bbox": [
+        299,
+        1125,
+        591,
+        1173
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "Office sought :",
+          "x0": 299,
+          "y0": 1125,
+          "x1": 591,
+          "y1": 1173
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "B. Check only if appropriate. ___ _ Amended filing...____________________________________________________________________________________________________ B. Check only if appropriate : Amended filing Termination Report",
+      "bbox": [
+        196,
+        1392,
+        2128,
+        1441
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "Termination Report",
+          "x0": 1733,
+          "y0": 1392,
+          "x1": 2128,
+          "y1": 1440
+        },
+        {
+          "page": 1,
+          "text": "B. Check only if appropriate. ___ _ Amended filing...____________________________________________________________________________________________________",
+          "x0": 196,
+          "y0": 1392,
+          "x1": 2128,
+          "y1": 1441
+        },
+        {
+          "page": 1,
+          "text": "Amended filing",
+          "x0": 1088,
+          "y0": 1393,
+          "x1": 1418,
+          "y1": 1440
+        },
+        {
+          "page": 1,
+          "text": "B. Check only if appropriate :",
+          "x0": 196,
+          "y0": 1393,
+          "x1": 823,
+          "y1": 1441
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "1 External links",
+      "bbox": [
+        0,
+        0,
+        2550,
+        3300
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "1 External links",
+          "x0": 0,
+          "y0": 0,
+          "x1": 2550,
+          "y1": 3300
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "a b c d e f g h i j C. Summary ( covering the period from January 1, 2023 through December 31, 2023 )",
+      "bbox": [
+        188,
+        133,
+        2477,
+        3259
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "C. Summary ( covering the period from January 1, 2023 through December 31, 2023 )",
+          "x0": 196,
+          "y0": 1668,
+          "x1": 2024,
+          "y1": 1716
+        },
+        {
+          "page": 1,
+          "text": "a b c d e f g h i j",
+          "x0": 188,
+          "y0": 133,
+          "x1": 2477,
+          "y1": 3259
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "$753.71",
+      "bbox": [
+        2231,
+        1723,
+        2403,
+        1769
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "$753.71",
+          "x0": 2231,
+          "y0": 1723,
+          "x1": 2403,
+          "y1": 1769
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "I Cash on band at beginning of period 11 000 000",
+      "bbox": [
+        297,
+        1723,
+        2403,
+        1790
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "I Cash on band at beginning of period 11 000 000",
+          "x0": 297,
+          "y0": 1723,
+          "x1": 2403,
+          "y1": 1790
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "I Cash on hand a beginning of period ___________________",
+      "bbox": [
+        297,
+        1742,
+        2025,
+        1790
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "I Cash on hand a beginning of period ___________________",
+          "x0": 297,
+          "y0": 1742,
+          "x1": 2025,
+          "y1": 1790
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "$0.00",
+      "bbox": [
+        2297,
+        1812,
+        2411,
+        1853
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "$0.00",
+          "x0": 2297,
+          "y0": 1812,
+          "x1": 2411,
+          "y1": 1853
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "a b c d e f g h h",
+      "bbox": [
+        188,
+        421,
+        2477,
+        3259
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "a b c d e f g h h",
+          "x0": 188,
+          "y0": 421,
+          "x1": 2477,
+          "y1": 3259
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "2 Total Contributions and Other Recipients ( Use Schedule A000000000000 SMOKE",
+      "bbox": [
+        293,
+        1812,
+        2411,
+        1882
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "2 Total Contributions and Other Recipients ( Use Schedule A000000000000 SMOKE",
+          "x0": 293,
+          "y0": 1812,
+          "x1": 2411,
+          "y1": 1882
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "2. Total Contributions and Other Recipients ( Use Schedule A000000000000000000000000000000000000",
+      "bbox": [
+        293,
+        1833,
+        2026,
+        1882
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "2. Total Contributions and Other Recipients ( Use Schedule A000000000000000000000000000000000000",
+          "x0": 293,
+          "y0": 1833,
+          "x1": 2026,
+          "y1": 1882
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "$753.71",
+      "bbox": [
+        2231,
+        1903,
+        2402,
+        1949
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "$753.71",
+          "x0": 2231,
+          "y0": 1903,
+          "x1": 2402,
+          "y1": 1949
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "3 Cash available his period ( Add Lines ( and 2 000 000.57537",
+      "bbox": [
+        293,
+        1903,
+        2402,
+        1974
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "3 Cash available his period ( Add Lines ( and 2 000 000.57537",
+          "x0": 293,
+          "y0": 1903,
+          "x1": 2402,
+          "y1": 1974
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "3 Cash available his period ( And Lines I and 2,000,000000000000000000000000000",
+      "bbox": [
+        293,
+        1925,
+        2024,
+        1974
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "3 Cash available his period ( And Lines I and 2,000,000000000000000000000000000",
+          "x0": 293,
+          "y0": 1925,
+          "x1": 2024,
+          "y1": 1974
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "$284.00",
+      "bbox": [
+        2231,
+        1996,
+        2409,
+        2042
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "$284.00",
+          "x0": 2231,
+          "y0": 1996,
+          "x1": 2409,
+          "y1": 2042
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "4. Total Expenditures and Other Disbursements ( Use Schedule ( 1988, \" S284O0",
+      "bbox": [
+        291,
+        1996,
+        2409,
+        2066
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "4. Total Expenditures and Other Disbursements ( Use Schedule ( 1988, \" S284O0",
+          "x0": 291,
+          "y0": 1996,
+          "x1": 2409,
+          "y1": 2066
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "4. Total Expenditures and Other Disbursements ( Use Schedule ( J _____________________",
+      "bbox": [
+        291,
+        2017,
+        2025,
+        2066
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "4. Total Expenditures and Other Disbursements ( Use Schedule ( J _____________________",
+          "x0": 291,
+          "y0": 2017,
+          "x1": 2025,
+          "y1": 2066
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "$469.71",
+      "bbox": [
+        2231,
+        2087,
+        2402,
+        2133
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "$469.71",
+          "x0": 2231,
+          "y0": 2087,
+          "x1": 2402,
+          "y1": 2133
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "5 Cash on hand at close of period ( Subtract Line 4 from 3 000 000 ( 8469 7 1",
+      "bbox": [
+        293,
+        2087,
+        2402,
+        2158
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "5 Cash on hand at close of period ( Subtract Line 4 from 3 000 000 ( 8469 7 1",
+          "x0": 293,
+          "y0": 2087,
+          "x1": 2402,
+          "y1": 2158
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "5 Cash on hand at close of period ( Subtract Line 4 from 3 )000000000000000000000000000000000000000000",
+      "bbox": [
+        293,
+        2110,
+        2036,
+        2158
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "5 Cash on hand at close of period ( Subtract Line 4 from 3 )000000000000000000000000000000000000000000",
+          "x0": 293,
+          "y0": 2110,
+          "x1": 2036,
+          "y1": 2158
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "6. In-kind Contributions ( Use Schedule B ) 6. In-kind Contributions ( Use Schedule B ) ___________",
+      "bbox": [
+        296,
+        2202,
+        1297,
+        2250
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "6. In-kind Contributions ( Use Schedule B )",
+          "x0": 296,
+          "y0": 2202,
+          "x1": 1173,
+          "y1": 2250
+        },
+        {
+          "page": 1,
+          "text": "6. In-kind Contributions ( Use Schedule B ) ___________",
+          "x0": 296,
+          "y0": 2202,
+          "x1": 1297,
+          "y1": 2250
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "7 Other Transactions ( Use Schedule DY000000, S17450,000,000 $17,450.00",
+      "bbox": [
+        294,
+        2265,
+        1667,
+        2346
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "7 Other Transactions ( Use Schedule DY000000, S17450,000,000",
+          "x0": 294,
+          "y0": 2265,
+          "x1": 1667,
+          "y1": 2346
+        },
+        {
+          "page": 1,
+          "text": "$17,450.00",
+          "x0": 1434,
+          "y0": 2265,
+          "x1": 1667,
+          "y1": 2346
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "7. Other Transactions ( Use Schedule D ) ___________________________________________________________________________________________________________",
+      "bbox": [
+        294,
+        2294,
+        1297,
+        2342
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "7. Other Transactions ( Use Schedule D ) ___________________________________________________________________________________________________________",
+          "x0": 294,
+          "y0": 2294,
+          "x1": 1297,
+          "y1": 2342
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "D. \" I declare that his report, including any accompanying schedules and statements, has been examined by me",
+      "bbox": [
+        189,
+        2580,
+        2421,
+        2629
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "D. \" I declare that his report, including any accompanying schedules and statements, has been examined by me",
+          "x0": 189,
+          "y0": 2580,
+          "x1": 2421,
+          "y1": 2629
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "and to the best of my knowledge and belief is true, correct and complete. I understand that the intentional",
+      "bbox": [
+        303,
+        2634,
+        2411,
+        2685
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "and to the best of my knowledge and belief is true, correct and complete. I understand that the intentional",
+          "x0": 303,
+          "y0": 2634,
+          "x1": 2411,
+          "y1": 2685
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "failure to file this document or intentionally filing a false document is a class A misdemeanor. \"",
+      "bbox": [
+        302,
+        2690,
+        2210,
+        2739
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "failure to file this document or intentionally filing a false document is a class A misdemeanor. \"",
+          "x0": 302,
+          "y0": 2690,
+          "x1": 2210,
+          "y1": 2739
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "isolated......... - G",
+      "bbox": [
+        236,
+        2788,
+        1350,
+        2907
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "isolated.........",
+          "x0": 236,
+          "y0": 2788,
+          "x1": 1350,
+          "y1": 2907
+        },
+        {
+          "page": 1,
+          "text": "- G",
+          "x0": 1039,
+          "y0": 2788,
+          "x1": 1131,
+          "y1": 2907
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "let",
+      "bbox": [
+        333,
+        2804,
+        415,
+        2907
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "let",
+          "x0": 333,
+          "y0": 2804,
+          "x1": 415,
+          "y1": 2907
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "1 ( 10",
+      "bbox": [
+        236,
+        2825,
+        319,
+        2905
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "1 ( 10",
+          "x0": 236,
+          "y0": 2825,
+          "x1": 319,
+          "y1": 2905
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": ":",
+      "bbox": [
+        1155,
+        2868,
+        1174,
+        2876
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": ":",
+          "x0": 1155,
+          "y0": 2868,
+          "x1": 1174,
+          "y1": 2876
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "Date # Signature of Candidate Treasurer Date Signature of Candidate or Treasurer",
+      "bbox": [
+        188,
+        2907,
+        1573,
+        2964
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "Signature of Candidate or Treasurer",
+          "x0": 853,
+          "y0": 2911,
+          "x1": 1573,
+          "y1": 2959
+        },
+        {
+          "page": 1,
+          "text": "Date # Signature of Candidate Treasurer",
+          "x0": 188,
+          "y0": 2907,
+          "x1": 1573,
+          "y1": 2964
+        },
+        {
+          "page": 1,
+          "text": "Date",
+          "x0": 188,
+          "y0": 2907,
+          "x1": 283,
+          "y1": 2964
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "GEC Form 2023",
+      "bbox": [
+        1999,
+        3060,
+        2349,
+        3097
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "GEC Form 2023",
+          "x0": 1999,
+          "y0": 3060,
+          "x1": 2349,
+          "y1": 3097
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "text": "# States -",
+      "bbox": [
+        2190,
+        3227,
+        2477,
+        3259
+      ],
+      "tokens": [
+        {
+          "page": 1,
+          "text": "# States -",
+          "x0": 2190,
+          "y0": 3227,
+          "x1": 2477,
+          "y1": 3259
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "SCHIED ULE A SCHEDULEA",
+      "bbox": [
+        1113,
+        163,
+        1432,
+        199
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "SCHIED ULE A",
+          "x0": 1113,
+          "y0": 163,
+          "x1": 1432,
+          "y1": 199
+        },
+        {
+          "page": 2,
+          "text": "SCHEDULEA",
+          "x0": 1113,
+          "y0": 163,
+          "x1": 1432,
+          "y1": 199
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "contributions and other receipts",
+      "bbox": [
+        771,
+        220,
+        1773,
+        258
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "contributions and other receipts",
+          "x0": 771,
+          "y0": 220,
+          "x1": 1773,
+          "y1": 258
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "Ryan Baty",
+      "bbox": [
+        122,
+        303,
+        349,
+        334
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "Ryan Baty",
+          "x0": 122,
+          "y0": 303,
+          "x1": 349,
+          "y1": 334
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "( Name of Candidate )",
+      "bbox": [
+        113,
+        372,
+        462,
+        411
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "( Name of Candidate )",
+          "x0": 113,
+          "y0": 372,
+          "x1": 462,
+          "y1": 411
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "amount of",
+      "bbox": [
+        2174,
+        537,
+        2366,
+        569
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "amount of",
+          "x0": 2174,
+          "y0": 537,
+          "x1": 2366,
+          "y1": 569
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "Occupation of I Check. I Amounto Occupation of Check",
+      "bbox": [
+        1179,
+        536,
+        2366,
+        583
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "Occupation of I Check. I Amounto",
+          "x0": 1179,
+          "y0": 536,
+          "x1": 2366,
+          "y1": 583
+        },
+        {
+          "page": 2,
+          "text": "Check",
+          "x0": 1778,
+          "y0": 536,
+          "x1": 1890,
+          "y1": 583
+        },
+        {
+          "page": 2,
+          "text": "Occupation of",
+          "x0": 1179,
+          "y0": 541,
+          "x1": 1431,
+          "y1": 580
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "Name and Address Name and Address... Individual Giving More ( Appropriate Box. I Cash, Cheek, Individual Giving More Appropriate Box Cash, Check,",
+      "bbox": [
+        532,
+        587,
+        2386,
+        628
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "Cash, Check,",
+          "x0": 2153,
+          "y0": 587,
+          "x1": 2386,
+          "y1": 623
+        },
+        {
+          "page": 2,
+          "text": "Name and Address",
+          "x0": 532,
+          "y0": 591,
+          "x1": 868,
+          "y1": 623
+        },
+        {
+          "page": 2,
+          "text": "Appropriate Box",
+          "x0": 1689,
+          "y0": 587,
+          "x1": 1986,
+          "y1": 627
+        },
+        {
+          "page": 2,
+          "text": "Name and Address... Individual Giving More ( Appropriate Box. I Cash, Cheek,",
+          "x0": 532,
+          "y0": 587,
+          "x1": 2386,
+          "y1": 628
+        },
+        {
+          "page": 2,
+          "text": "Individual Giving More",
+          "x0": 1094,
+          "y0": 589,
+          "x1": 1515,
+          "y1": 628
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "(\" Contributor. \" Thanks! ITTTT Loan or Other of Contributor Than $150 Loan or Other",
+      "bbox": [
+        568,
+        636,
+        2399,
+        671
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "Loan or Other",
+          "x0": 2141,
+          "y0": 636,
+          "x1": 2399,
+          "y1": 667
+        },
+        {
+          "page": 2,
+          "text": "(\" Contributor. \" Thanks! ITTTT Loan or Other",
+          "x0": 568,
+          "y0": 636,
+          "x1": 2399,
+          "y1": 671
+        },
+        {
+          "page": 2,
+          "text": "Than $150",
+          "x0": 1211,
+          "y0": 639,
+          "x1": 1396,
+          "y1": 669
+        },
+        {
+          "page": 2,
+          "text": "of Contributor",
+          "x0": 568,
+          "y0": 639,
+          "x1": 832,
+          "y1": 671
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "cash ( Check I Loan ( Hundreds! Cash Check Loan it funds",
+      "bbox": [
+        1601,
+        671,
+        2297,
+        693
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "it funds",
+          "x0": 1989,
+          "y0": 671,
+          "x1": 2081,
+          "y1": 692
+        },
+        {
+          "page": 2,
+          "text": "cash ( Check I Loan ( Hundreds!",
+          "x0": 1601,
+          "y0": 671,
+          "x1": 2297,
+          "y1": 693
+        },
+        {
+          "page": 2,
+          "text": "Check",
+          "x0": 1726,
+          "y0": 672,
+          "x1": 1803,
+          "y1": 692
+        },
+        {
+          "page": 2,
+          "text": "Loan",
+          "x0": 1864,
+          "y0": 672,
+          "x1": 1925,
+          "y1": 692
+        },
+        {
+          "page": 2,
+          "text": "Cash",
+          "x0": 1601,
+          "y0": 672,
+          "x1": 1662,
+          "y1": 693
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "e",
+      "bbox": [
+        2290,
+        685,
+        2297,
+        692
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "e",
+          "x0": 2290,
+          "y0": 685,
+          "x1": 2297,
+          "y1": 692
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "cash knock them # cash, check from # #",
+      "bbox": [
+        1572,
+        642,
+        2336,
+        753
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "cash knock them #",
+          "x0": 1572,
+          "y0": 642,
+          "x1": 2110,
+          "y1": 753
+        },
+        {
+          "page": 2,
+          "text": "cash, check from # #",
+          "x0": 1572,
+          "y0": 642,
+          "x1": 2336,
+          "y1": 753
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "The first time was made to be the first time of the time of the time of the",
+      "bbox": [
+        113,
+        163,
+        2423,
+        3116
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "The first time was made to be the first time of the time of the time of the",
+          "x0": 113,
+          "y0": 163,
+          "x1": 2423,
+          "y1": 3116
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "Print export",
+      "bbox": [
+        0,
+        0,
+        2550,
+        3300
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "Print export",
+          "x0": 0,
+          "y0": 0,
+          "x1": 2550,
+          "y1": 3300
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "yes",
+      "bbox": [
+        2314,
+        2258,
+        2334,
+        2296
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "yes",
+          "x0": 2314,
+          "y0": 2258,
+          "x1": 2334,
+          "y1": 2296
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "a similar piece is in the U SGE is a few of",
+      "bbox": [
+        351,
+        2258,
+        2334,
+        2338
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "a similar piece is in the U SGE is a few of",
+          "x0": 351,
+          "y0": 2258,
+          "x1": 2334,
+          "y1": 2338
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "\" \" I wish Isollateral Mail Page 1 0 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 Males-000 yards",
+      "bbox": [
+        152,
+        2284,
+        1686,
+        2338
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "\" \" I wish Isollateral Mail Page 1 0 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 Males-000 yards",
+          "x0": 152,
+          "y0": 2284,
+          "x1": 1686,
+          "y1": 2338
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "Complete if last page of Schedule A",
+      "bbox": [
+        894,
+        2453,
+        1651,
+        2501
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "Complete if last page of Schedule A",
+          "x0": 894,
+          "y0": 2453,
+          "x1": 1651,
+          "y1": 2501
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "Total Itemived receipts for Period",
+      "bbox": [
+        383,
+        2584,
+        960,
+        2623
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "Total Itemived receipts for Period",
+          "x0": 383,
+          "y0": 2584,
+          "x1": 960,
+          "y1": 2623
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "Total Unlemired Contributions, 3rd 0 0",
+      "bbox": [
+        383,
+        2631,
+        2422,
+        2718
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "Total Unlemired Contributions, 3rd",
+          "x0": 383,
+          "y0": 2631,
+          "x1": 2422,
+          "y1": 2718
+        },
+        {
+          "page": 2,
+          "text": "0 0",
+          "x0": 2168,
+          "y0": 2631,
+          "x1": 2422,
+          "y1": 2718
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "Total Unitemized Contributions ( 850 or less )",
+      "bbox": [
+        383,
+        2668,
+        1137,
+        2706
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "Total Unitemized Contributions ( 850 or less )",
+          "x0": 383,
+          "y0": 2668,
+          "x1": 1137,
+          "y1": 2706
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "3rd Political Materials ( a b c d e f",
+      "bbox": [
+        385,
+        2721,
+        2422,
+        2800
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "3rd Political Materials (",
+          "x0": 385,
+          "y0": 2721,
+          "x1": 2422,
+          "y1": 2800
+        },
+        {
+          "page": 2,
+          "text": "a b c d e f",
+          "x0": 2172,
+          "y0": 2721,
+          "x1": 2422,
+          "y1": 2800
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "Sale of Political Materials ( Unitcmixed )",
+      "bbox": [
+        385,
+        2754,
+        1051,
+        2792
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "Sale of Political Materials ( Unitcmixed )",
+          "x0": 385,
+          "y0": 2754,
+          "x1": 1051,
+          "y1": 2792
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "Deal Contributions When Controller Now a b c d e f g h i j k l h i j",
+      "bbox": [
+        383,
+        2805,
+        2423,
+        2886
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "Deal Contributions When Controller Now",
+          "x0": 383,
+          "y0": 2805,
+          "x1": 2423,
+          "y1": 2886
+        },
+        {
+          "page": 2,
+          "text": "a b c d e f g h i j k l h i j",
+          "x0": 2172,
+          "y0": 2805,
+          "x1": 2423,
+          "y1": 2886
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "Total Contributions When Contributor Not Known",
+      "bbox": [
+        383,
+        2840,
+        1236,
+        2871
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "Total Contributions When Contributor Not Known",
+          "x0": 383,
+          "y0": 2840,
+          "x1": 1236,
+          "y1": 2871
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "total techniques are too more frequently... \"........ north keepers this period of his summer. \" \" \" $0.00",
+      "bbox": [
+        366,
+        2901,
+        2413,
+        2968
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "$0.00",
+          "x0": 2313,
+          "y0": 2912,
+          "x1": 2413,
+          "y1": 2950
+        },
+        {
+          "page": 2,
+          "text": "total techniques are too more frequently... \"........",
+          "x0": 366,
+          "y0": 2901,
+          "x1": 2413,
+          "y1": 2968
+        },
+        {
+          "page": 2,
+          "text": "north keepers this period of his summer. \" \" \"",
+          "x0": 366,
+          "y0": 2901,
+          "x1": 2155,
+          "y1": 2968
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "page 2 or # L gt",
+      "bbox": [
+        2084,
+        3043,
+        2391,
+        3116
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "L",
+          "x0": 2206,
+          "y0": 3059,
+          "x1": 2238,
+          "y1": 3094
+        },
+        {
+          "page": 2,
+          "text": "page 2 or #",
+          "x0": 2084,
+          "y0": 3043,
+          "x1": 2391,
+          "y1": 3116
+        },
+        {
+          "page": 2,
+          "text": "gt",
+          "x0": 2354,
+          "y0": 3043,
+          "x1": 2391,
+          "y1": 3116
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "Page of",
+      "bbox": [
+        2084,
+        3077,
+        2329,
+        3116
+      ],
+      "tokens": [
+        {
+          "page": 2,
+          "text": "of",
+          "x0": 2290,
+          "y0": 3077,
+          "x1": 2329,
+          "y1": 3109
+        },
+        {
+          "page": 2,
+          "text": "Page",
+          "x0": 2084,
+          "y0": 3079,
+          "x1": 2164,
+          "y1": 3116
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "schedule c",
+      "bbox": [
+        1112,
+        160,
+        1436,
+        197
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "schedule c",
+          "x0": 1112,
+          "y0": 160,
+          "x1": 1436,
+          "y1": 197
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "Expenditures and other disbursements",
+      "bbox": [
+        697,
+        217,
+        1848,
+        256
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "Expenditures and other disbursements",
+          "x0": 697,
+          "y0": 217,
+          "x1": 1848,
+          "y1": 256
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "Ryan BAY",
+      "bbox": [
+        141,
+        306,
+        369,
+        338
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "Ryan BAY",
+          "x0": 141,
+          "y0": 306,
+          "x1": 369,
+          "y1": 338
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "( Name of Candidate )",
+      "bbox": [
+        113,
+        376,
+        472,
+        412
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "( Name of Candidate )",
+          "x0": 113,
+          "y0": 376,
+          "x1": 472,
+          "y1": 412
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "Purpose of Expenditure",
+      "bbox": [
+        1486,
+        544,
+        1905,
+        582
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "Purpose of Expenditure",
+          "x0": 1486,
+          "y0": 544,
+          "x1": 1905,
+          "y1": 582
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "Name and Address. It is a disbursement of Name and Address or Disbursement Amount",
+      "bbox": [
+        642,
+        592,
+        2342,
+        624
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "Amount",
+          "x0": 2200,
+          "y0": 592,
+          "x1": 2342,
+          "y1": 620
+        },
+        {
+          "page": 3,
+          "text": "or Disbursement",
+          "x0": 1549,
+          "y0": 593,
+          "x1": 1842,
+          "y1": 621
+        },
+        {
+          "page": 3,
+          "text": "Name and Address. It is a disbursement of",
+          "x0": 642,
+          "y0": 592,
+          "x1": 2342,
+          "y1": 624
+        },
+        {
+          "page": 3,
+          "text": "Name and Address",
+          "x0": 642,
+          "y0": 596,
+          "x1": 979,
+          "y1": 624
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "72522HERCORE MARKETING _______________________________________________________________________________________________________________ 7125123. MEXICOE MARKETING website maintenance and fees $266.00",
+      "bbox": [
+        169,
+        706,
+        2414,
+        746
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "website maintenance and fees",
+          "x0": 1282,
+          "y0": 706,
+          "x1": 2003,
+          "y1": 741
+        },
+        {
+          "page": 3,
+          "text": "$266.00",
+          "x0": 2267,
+          "y0": 706,
+          "x1": 2414,
+          "y1": 745
+        },
+        {
+          "page": 3,
+          "text": "72522HERCORE MARKETING _______________________________________________________________________________________________________________",
+          "x0": 169,
+          "y0": 706,
+          "x1": 2414,
+          "y1": 746
+        },
+        {
+          "page": 3,
+          "text": "7125123. MEXICOE MARKETING",
+          "x0": 169,
+          "y0": 711,
+          "x1": 840,
+          "y1": 746
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "100 s main ST, Suite 201",
+      "bbox": [
+        376,
+        762,
+        882,
+        800
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "100 s main ST, Suite 201",
+          "x0": 376,
+          "y0": 762,
+          "x1": 882,
+          "y1": 800
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "Wichita, KS 67213",
+      "bbox": [
+        374,
+        813,
+        765,
+        850
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "Wichita, KS 67213",
+          "x0": 374,
+          "y0": 813,
+          "x1": 765,
+          "y1": 850
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "123123 ( UNON STATE BANKAL IACCOUNT SERVICES... 12/31/23 ( Union State Bank account service charges $18.00",
+      "bbox": [
+        159,
+        887,
+        2414,
+        927
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "$18.00",
+          "x0": 2289,
+          "y0": 887,
+          "x1": 2414,
+          "y1": 925
+        },
+        {
+          "page": 3,
+          "text": "123123 ( UNON STATE BANKAL IACCOUNT SERVICES...",
+          "x0": 159,
+          "y0": 887,
+          "x1": 2414,
+          "y1": 927
+        },
+        {
+          "page": 3,
+          "text": "account service charges",
+          "x0": 1280,
+          "y0": 890,
+          "x1": 1897,
+          "y1": 924
+        },
+        {
+          "page": 3,
+          "text": "12/31/23 ( Union State Bank",
+          "x0": 159,
+          "y0": 894,
+          "x1": 774,
+          "y1": 927
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "2327 NRIDGE ROAD",
+      "bbox": [
+        373,
+        943,
+        783,
+        977
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "2327 NRIDGE ROAD",
+          "x0": 373,
+          "y0": 943,
+          "x1": 783,
+          "y1": 977
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "WICHITA. KS 67205",
+      "bbox": [
+        374,
+        994,
+        765,
+        1031
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "WICHITA. KS 67205",
+          "x0": 374,
+          "y0": 994,
+          "x1": 765,
+          "y1": 1031
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "Personal tools",
+      "bbox": [
+        0,
+        0,
+        2550,
+        3300
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "Personal tools",
+          "x0": 0,
+          "y0": 0,
+          "x1": 2550,
+          "y1": 3300
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "The following was the first time in the time of the",
+      "bbox": [
+        113,
+        160,
+        2516,
+        3257
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "The following was the first time in the time of the",
+          "x0": 113,
+          "y0": 160,
+          "x1": 2516,
+          "y1": 3257
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "The first time was the first time of the world was the first time of the world of",
+      "bbox": [
+        1598,
+        2170,
+        1743,
+        2192
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "The first time was the first time of the world was the first time of the world of",
+          "x0": 1598,
+          "y0": 2170,
+          "x1": 1743,
+          "y1": 2192
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "a b c d e f g h i j k l h i j f. 2Q400 284.00",
+      "bbox": [
+        263,
+        2170,
+        2420,
+        2224
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "284.00",
+          "x0": 2296,
+          "y0": 2177,
+          "x1": 2420,
+          "y1": 2209
+        },
+        {
+          "page": 3,
+          "text": "a b c d e f g h i j k l h i j f. 2Q400",
+          "x0": 263,
+          "y0": 2170,
+          "x1": 2420,
+          "y1": 2224
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "a b c d e f g h i a b c d e f g h i j k l h i j k /",
+      "bbox": [
+        575,
+        2171,
+        1402,
+        2229
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "a b c d e f g h i j k l h i j k /",
+          "x0": 918,
+          "y0": 2171,
+          "x1": 1402,
+          "y1": 2229
+        },
+        {
+          "page": 3,
+          "text": "a b c d e f g h i",
+          "x0": 575,
+          "y0": 2173,
+          "x1": 774,
+          "y1": 2228
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "Complete if last page of Schedule c",
+      "bbox": [
+        899,
+        2408,
+        1648,
+        2456
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "Complete if last page of Schedule c",
+          "x0": 899,
+          "y0": 2408,
+          "x1": 1648,
+          "y1": 2456
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "Tosullemized Expenditures of '80s.",
+      "bbox": [
+        362,
+        2591,
+        2424,
+        2679
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "Tosullemized Expenditures of '80s.",
+          "x0": 362,
+          "y0": 2591,
+          "x1": 2424,
+          "y1": 2679
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": ": $284.00",
+      "bbox": [
+        1729,
+        2687,
+        2419,
+        2725
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": ":",
+          "x0": 1729,
+          "y0": 2687,
+          "x1": 1739,
+          "y1": 2719
+        },
+        {
+          "page": 3,
+          "text": "$284.00",
+          "x0": 2273,
+          "y0": 2687,
+          "x1": 2419,
+          "y1": 2725
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "total expenditures, often disbursements. TOTAL expenditures. & other disbursements",
+      "bbox": [
+        383,
+        2687,
+        2419,
+        2756
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "total expenditures, often disbursements.",
+          "x0": 383,
+          "y0": 2687,
+          "x1": 2419,
+          "y1": 2756
+        },
+        {
+          "page": 3,
+          "text": "TOTAL expenditures. & other disbursements",
+          "x0": 383,
+          "y0": 2690,
+          "x1": 1440,
+          "y1": 2756
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "THIS PERIOD ( 10 ) OF SUMMARY _________________________________________________________________________________________________________ THIS PERIOD ( to, the 4 of Sammarily... \" a b c d e f g h.",
+      "bbox": [
+        383,
+        2753,
+        1847,
+        2804
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "a b c d e f g h.",
+          "x0": 1438,
+          "y0": 2754,
+          "x1": 1620,
+          "y1": 2802
+        },
+        {
+          "page": 3,
+          "text": "THIS PERIOD ( 10 ) OF SUMMARY _________________________________________________________________________________________________________",
+          "x0": 383,
+          "y0": 2753,
+          "x1": 1847,
+          "y1": 2804
+        },
+        {
+          "page": 3,
+          "text": "THIS PERIOD ( to, the 4 of Sammarily... \"",
+          "x0": 383,
+          "y0": 2753,
+          "x1": 1315,
+          "y1": 2804
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "page 3 or # 3 4",
+      "bbox": [
+        2086,
+        2885,
+        2383,
+        2954
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "4",
+          "x0": 2342,
+          "y0": 2885,
+          "x1": 2383,
+          "y1": 2944
+        },
+        {
+          "page": 3,
+          "text": "3",
+          "x0": 2214,
+          "y0": 2895,
+          "x1": 2238,
+          "y1": 2940
+        },
+        {
+          "page": 3,
+          "text": "page 3 or #",
+          "x0": 2086,
+          "y0": 2885,
+          "x1": 2383,
+          "y1": 2954
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "Page of",
+      "bbox": [
+        2086,
+        2918,
+        2328,
+        2954
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "of",
+          "x0": 2291,
+          "y0": 2918,
+          "x1": 2328,
+          "y1": 2946
+        },
+        {
+          "page": 3,
+          "text": "Page",
+          "x0": 2086,
+          "y0": 2919,
+          "x1": 2162,
+          "y1": 2954
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "authorities see well",
+      "bbox": [
+        2175,
+        3215,
+        2516,
+        3257
+      ],
+      "tokens": [
+        {
+          "page": 3,
+          "text": "authorities see well",
+          "x0": 2175,
+          "y0": 3215,
+          "x1": 2516,
+          "y1": 3257
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "schedule D",
+      "bbox": [
+        1106,
+        160,
+        1431,
+        200
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "schedule D",
+          "x0": 1106,
+          "y0": 160,
+          "x1": 1431,
+          "y1": 200
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "other transactions",
+      "bbox": [
+        972,
+        219,
+        1565,
+        259
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "other transactions",
+          "x0": 972,
+          "y0": 219,
+          "x1": 1565,
+          "y1": 259
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "Ryan BAY",
+      "bbox": [
+        154,
+        315,
+        380,
+        348
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "Ryan BAY",
+          "x0": 154,
+          "y0": 315,
+          "x1": 380,
+          "y1": 348
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "( Name of Candidate )",
+      "bbox": [
+        108,
+        379,
+        467,
+        417
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "( Name of Candidate )",
+          "x0": 108,
+          "y0": 379,
+          "x1": 467,
+          "y1": 417
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "# 000",
+      "bbox": [
+        108,
+        160,
+        2365,
+        673
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "# 000",
+          "x0": 108,
+          "y0": 160,
+          "x1": 2365,
+          "y1": 673
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "Balance at",
+      "bbox": [
+        2178,
+        544,
+        2365,
+        572
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "Balance at",
+          "x0": 2178,
+          "y0": 544,
+          "x1": 2365,
+          "y1": 572
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "Name and Address.. Future of Account or Loan Payment Nature of Account or Loan Payable Close of",
+      "bbox": [
+        524,
+        591,
+        2340,
+        629
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "Close of",
+          "x0": 2196,
+          "y0": 591,
+          "x1": 2340,
+          "y1": 620
+        },
+        {
+          "page": 4,
+          "text": "Name and Address.. Future of Account or Loan Payment",
+          "x0": 524,
+          "y0": 591,
+          "x1": 2340,
+          "y1": 629
+        },
+        {
+          "page": 4,
+          "text": "Nature of Account or Loan Payable",
+          "x0": 1260,
+          "y0": 593,
+          "x1": 1896,
+          "y1": 629
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "Name and Address",
+      "bbox": [
+        524,
+        599,
+        864,
+        629
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "Name and Address",
+          "x0": 524,
+          "y0": 599,
+          "x1": 864,
+          "y1": 629
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "or Loan Recivable. or Lomm Receivable Pertod",
+      "bbox": [
+        1408,
+        639,
+        2326,
+        673
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "Pertod",
+          "x0": 2209,
+          "y0": 639,
+          "x1": 2326,
+          "y1": 669
+        },
+        {
+          "page": 4,
+          "text": "or Loan Recivable.",
+          "x0": 1408,
+          "y0": 639,
+          "x1": 2326,
+          "y1": 673
+        },
+        {
+          "page": 4,
+          "text": "or Lomm Receivable",
+          "x0": 1408,
+          "y0": 643,
+          "x1": 1752,
+          "y1": 673
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "11282 ( Ryanbaty, Jeantonpanen, 11/28722 ) Ryan BATY Loan to campaign $17,450.00",
+      "bbox": [
+        154,
+        703,
+        2373,
+        747
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "$17,450.00",
+          "x0": 2167,
+          "y0": 703,
+          "x1": 2373,
+          "y1": 744
+        },
+        {
+          "page": 4,
+          "text": "11282 ( Ryanbaty, Jeantonpanen,",
+          "x0": 154,
+          "y0": 703,
+          "x1": 2373,
+          "y1": 747
+        },
+        {
+          "page": 4,
+          "text": "Loan to campaign",
+          "x0": 1059,
+          "y0": 709,
+          "x1": 1471,
+          "y1": 745
+        },
+        {
+          "page": 4,
+          "text": "11/28722 ) Ryan BATY",
+          "x0": 154,
+          "y0": 712,
+          "x1": 603,
+          "y1": 747
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "10701 W 69TH ST N.",
+      "bbox": [
+        375,
+        763,
+        758,
+        798
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "10701 W 69TH ST N.",
+          "x0": 375,
+          "y0": 763,
+          "x1": 758,
+          "y1": 798
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "maize, KS 67101",
+      "bbox": [
+        374,
+        814,
+        712,
+        852
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "maize, KS 67101",
+          "x0": 374,
+          "y0": 814,
+          "x1": 712,
+          "y1": 852
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "100 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000",
+      "bbox": [
+        0,
+        0,
+        2550,
+        3300
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "100 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000",
+          "x0": 0,
+          "y0": 0,
+          "x1": 2550,
+          "y1": 3300
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "The Times of the Order of the Order of the Order of the Order of the",
+      "bbox": [
+        108,
+        160,
+        2505,
+        3257
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "The Times of the Order of the Order of the Order of the Order of the",
+          "x0": 108,
+          "y0": 160,
+          "x1": 2505,
+          "y1": 3257
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "Complete if last page of Schedule n",
+      "bbox": [
+        900,
+        2777,
+        1649,
+        2828
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "Complete if last page of Schedule n",
+          "x0": 900,
+          "y0": 2777,
+          "x1": 1649,
+          "y1": 2828
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "representatives and",
+      "bbox": [
+        379,
+        2880,
+        2423,
+        2957
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "representatives and",
+          "x0": 379,
+          "y0": 2880,
+          "x1": 2423,
+          "y1": 2957
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "# # #",
+      "bbox": [
+        379,
+        2777,
+        2505,
+        3257
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "# # #",
+          "x0": 379,
+          "y0": 2777,
+          "x1": 2505,
+          "y1": 3257
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "4 f",
+      "bbox": [
+        2206,
+        3011,
+        2394,
+        3087
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "f",
+          "x0": 2347,
+          "y0": 3011,
+          "x1": 2394,
+          "y1": 3087
+        },
+        {
+          "page": 4,
+          "text": "4",
+          "x0": 2206,
+          "y0": 3023,
+          "x1": 2245,
+          "y1": 3083
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "pass # or 4",
+      "bbox": [
+        2085,
+        3011,
+        2394,
+        3100
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "pass # or 4",
+          "x0": 2085,
+          "y0": 3011,
+          "x1": 2394,
+          "y1": 3100
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "Page of",
+      "bbox": [
+        2085,
+        3063,
+        2330,
+        3100
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "of",
+          "x0": 2292,
+          "y0": 3063,
+          "x1": 2330,
+          "y1": 3092
+        },
+        {
+          "page": 4,
+          "text": "Page",
+          "x0": 2085,
+          "y0": 3065,
+          "x1": 2164,
+          "y1": 3100
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "a man who were",
+      "bbox": [
+        2217,
+        3227,
+        2505,
+        3257
+      ],
+      "tokens": [
+        {
+          "page": 4,
+          "text": "a man who were",
+          "x0": 2217,
+          "y0": 3227,
+          "x1": 2505,
+          "y1": 3257
+        }
+      ]
+    }
+  ]
+}

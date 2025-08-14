@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "name": "Jeff Blubaugh",
+    "address": "10915 W Atlanta Cir",
+    "city": "67215",
+    "zip": null,
+    "county": "Sedgwick",
+    "office_sought": "County Commission",
+    "district": "II",
+    "_page": 1
+  },
+  "summary": {
+    "cash_on_hand_beginning": 0.0,
+    "total_contributions": 39000.0,
+    "cash_available": 39000.0,
+    "total_expenditures": 12367.7,
+    "cash_on_hand_close": 26632.3,
+    "in_kind_contributions": null,
+    "other_transactions": null,
+    "_page": 1
+  },
+  "contributions": [],
+  "total_itemized_receipts": null,
+  "total_unitemized_contributions": null,
+  "expenditures": [],
+  "total_itemized_expenditures": null,
+  "total_unitemized_expenditures": null,
+  "other_transactions": [],
+  "in_kind_contributions": []
+}

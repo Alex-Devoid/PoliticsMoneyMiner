@@ -1,0 +1,119 @@
+{
+  "candidate": {
+    "name": "Jeff Blubaugh",
+    "address": null,
+    "city": null,
+    "zip": null,
+    "county": null,
+    "office_sought": null,
+    "district": null,
+    "_page": 5
+  },
+  "summary": {
+    "cash_on_hand_beginning": null,
+    "total_contributions": null,
+    "cash_available": null,
+    "total_expenditures": null,
+    "cash_on_hand_close": null,
+    "in_kind_contributions": null,
+    "other_transactions": null,
+    "_page": 5
+  },
+  "contributions": [],
+  "total_itemized_receipts": null,
+  "total_unitemized_contributions": null,
+  "expenditures": [
+    {
+      "date": "10/25/23",
+      "name": "Meghan Blubaugh",
+      "address": "10151 W. Alamo Circle, Wichita, KS 67212",
+      "purpose": "Reimbursement for parade candy",
+      "amount": 213.5,
+      "_page": 5
+    },
+    {
+      "date": "10/25/23",
+      "name": "Meghan Blubaugh",
+      "address": "10151 W. Alamo Circle, Wichita, KS 67212",
+      "purpose": "Reimbursement for grounds for parade",
+      "amount": 250.0,
+      "_page": 5
+    },
+    {
+      "date": "10/25/23",
+      "name": "Meghan Blubaugh",
+      "address": "10151 W. Alamo Circle, Wichita, KS 67212",
+      "purpose": "Reimbursement for donuts for parade volunteers",
+      "amount": 113.96,
+      "_page": 5
+    },
+    {
+      "date": "10/24/23",
+      "name": "Meghan Blubaugh",
+      "address": "10151 W. Alamo Circle, Wichita, KS 67212",
+      "purpose": "Dues civic group",
+      "amount": 35.0,
+      "_page": 5
+    },
+    {
+      "date": "10/24/23",
+      "name": "Meghan Blubaugh",
+      "address": "10151 W. Alamo Circle, Wichita, KS 67212",
+      "purpose": "Lunch for parade inspector",
+      "amount": 100.25,
+      "_page": 5
+    },
+    {
+      "date": "10/24/23",
+      "name": "Meghan Blubaugh",
+      "address": "10151 W. Alamo Circle, Wichita, KS 67212",
+      "purpose": "Campaign material",
+      "amount": 130.65,
+      "_page": 5
+    },
+    {
+      "date": "10/24/23",
+      "name": "Meghan Blubaugh",
+      "address": "10151 W. Alamo Circle, Wichita, KS 67212",
+      "purpose": "Reimbursement for campaign letters",
+      "amount": 311.52,
+      "_page": 5
+    },
+    {
+      "date": "10/24/23",
+      "name": "Meghan Blubaugh",
+      "address": "10151 W. Alamo Circle, Wichita, KS 67212",
+      "purpose": "Dues civic group",
+      "amount": 35.0,
+      "_page": 5
+    },
+    {
+      "date": "10/24/23",
+      "name": "Meghan Blubaugh",
+      "address": "10151 W. Alamo Circle, Wichita, KS 67212",
+      "purpose": "Reimbursement for lunch parade volunteers",
+      "amount": 213.5,
+      "_page": 5
+    },
+    {
+      "date": "10/24/23",
+      "name": "Meghan Blubaugh",
+      "address": "10151 W. Alamo Circle, Wichita, KS 67212",
+      "purpose": "Parade candy",
+      "amount": 250.0,
+      "_page": 5
+    },
+    {
+      "date": "11/1/23",
+      "name": "Pay Pal",
+      "address": "2211 N 1st St, San Jose, CA 95131",
+      "purpose": "Charge to contribution",
+      "amount": 3.6,
+      "_page": 5
+    }
+  ],
+  "total_itemized_expenditures": null,
+  "total_unitemized_expenditures": null,
+  "other_transactions": [],
+  "in_kind_contributions": []
+}

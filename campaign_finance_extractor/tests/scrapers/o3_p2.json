@@ -1,0 +1,191 @@
+{
+  "candidate": {
+    "name": "Jeff Blubaugh",
+    "address": "1730 S. Edwards St",
+    "city": "Wichita",
+    "zip": "67213",
+    "county": null,
+    "office_sought": null,
+    "district": null,
+    "_page": 2
+  },
+  "summary": {
+    "cash_on_hand_beginning": null,
+    "total_contributions": null,
+    "cash_available": null,
+    "total_expenditures": null,
+    "cash_on_hand_close": null,
+    "in_kind_contributions": null,
+    "other_transactions": null,
+    "_page": 2
+  },
+  "contributions": [
+    {
+      "date": "2/21/23",
+      "contributor": "Phil Robinson",
+      "address": "1851 N. Woddlawn St",
+      "occupation": "Retired",
+      "amount": 500.0,
+      "_page": 2
+    },
+    {
+      "date": "2/22/23",
+      "contributor": "City of Maize",
+      "address": "10100 Grady Ave",
+      "occupation": "Government",
+      "amount": 500.0,
+      "_page": 2
+    },
+    {
+      "date": "2/22/23",
+      "contributor": "Gary Bastian",
+      "address": "3821 Lakepoint Dr",
+      "occupation": "Retired Engineer",
+      "amount": 250.0,
+      "_page": 2
+    },
+    {
+      "date": "2/22/23",
+      "contributor": "Steve Dilts",
+      "address": "250 N. 170th",
+      "occupation": "Insurance",
+      "amount": 100.0,
+      "_page": 2
+    },
+    {
+      "date": "2/24/23",
+      "contributor": "Mark Raby",
+      "address": "155 S. Minnesota",
+      "occupation": "Insurance",
+      "amount": 100.0,
+      "_page": 2
+    },
+    {
+      "date": "2/27/23",
+      "contributor": "Younger & Sons",
+      "address": "9415 E. Harry St",
+      "occupation": "Real Estate",
+      "amount": 500.0,
+      "_page": 2
+    },
+    {
+      "date": "2/27/23",
+      "contributor": "Eck & Eck",
+      "address": "200 W. Douglas Ste. 409",
+      "occupation": "Insurance",
+      "amount": 250.0,
+      "_page": 2
+    },
+    {
+      "date": "3/22/23",
+      "contributor": "William Puckett",
+      "address": "2921 N. Rocky Creek Rd",
+      "occupation": "Retired",
+      "amount": 500.0,
+      "_page": 2
+    },
+    {
+      "date": "3/22/23",
+      "contributor": "Eckman V. Puckett",
+      "address": "2921 N. Rocky Creek Rd",
+      "occupation": "Retired",
+      "amount": 500.0,
+      "_page": 2
+    },
+    {
+      "date": "3/22/23",
+      "contributor": "Derby Clothes Systems & Services",
+      "address": "3700 W. Liberty St",
+      "occupation": "Real Estate",
+      "amount": 500.0,
+      "_page": 2
+    },
+    {
+      "date": "4/12/23",
+      "contributor": "Braden McCurdy",
+      "address": "125 N. Market Ste. 425",
+      "occupation": "Real Estate",
+      "amount": 500.0,
+      "_page": 2
+    },
+    {
+      "date": "4/12/23",
+      "contributor": "Schneweis",
+      "address": "1010 E. 1st",
+      "occupation": "Accounting",
+      "amount": 500.0,
+      "_page": 2
+    },
+    {
+      "date": "5/22/23",
+      "contributor": "Michael Pigg",
+      "address": "PO Box 47817",
+      "occupation": "Construction",
+      "amount": 500.0,
+      "_page": 2
+    },
+    {
+      "date": "5/22/23",
+      "contributor": "Ryan Finnerty",
+      "address": "1410 N. Springfield",
+      "occupation": "Construction",
+      "amount": 500.0,
+      "_page": 2
+    },
+    {
+      "date": "5/22/23",
+      "contributor": "Nichols Property Management",
+      "address": "1110 E. 1st",
+      "occupation": "Real Estate",
+      "amount": 500.0,
+      "_page": 2
+    },
+    {
+      "date": "5/22/23",
+      "contributor": "Roger Smith",
+      "address": "125 N. Market",
+      "occupation": "Construction",
+      "amount": 500.0,
+      "_page": 2
+    },
+    {
+      "date": "5/22/23",
+      "contributor": "Hershey Wornisen",
+      "address": "13016 E. 45th",
+      "occupation": "Accounting",
+      "amount": 500.0,
+      "_page": 2
+    },
+    {
+      "date": "5/24/23",
+      "contributor": "SkyFour Hundred LLC",
+      "address": "3030 E. Central Ave STE 200",
+      "occupation": "Real Estate",
+      "amount": 500.0,
+      "_page": 2
+    },
+    {
+      "date": "5/24/23",
+      "contributor": "KTMJ LLC",
+      "address": "13016 E. 45th",
+      "occupation": "Real Estate",
+      "amount": 500.0,
+      "_page": 2
+    },
+    {
+      "date": "5/24/23",
+      "contributor": "CoCo Properties",
+      "address": "3030 E. Central Ave STE 200",
+      "occupation": "Real Estate",
+      "amount": 500.0,
+      "_page": 2
+    }
+  ],
+  "total_itemized_receipts": null,
+  "total_unitemized_contributions": null,
+  "expenditures": [],
+  "total_itemized_expenditures": null,
+  "total_unitemized_expenditures": null,
+  "other_transactions": [],
+  "in_kind_contributions": []
+}

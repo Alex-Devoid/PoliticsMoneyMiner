@@ -2,7 +2,7 @@
   "name": "DD Backend Dev Container",
 
 
-  "dockerComposeFile": "../../argus_devops/docker-compose.yml",
+  "dockerComposeFile": "../../devops/docker-compose.yml",
   "service": "backend-campaign-finance",
 
   "workspaceFolder": "/workspace/backend",

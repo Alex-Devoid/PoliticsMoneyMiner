@@ -1,0 +1,96 @@
+{
+  "candidate": null,
+  "summary": null,
+  "contributions": [
+    {
+      "_page": 2,
+      "date": {
+        "value": "2/7/23",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "Jeff Blubaugh",
+        "bbox": null
+      },
+      "address": {
+        "value": "13413 W Maple St",
+        "bbox": null
+      },
+      "occupation": {
+        "value": "Consultant",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 2,
+      "date": {
+        "value": "2/7/23",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "Southwestern College",
+        "bbox": null
+      },
+      "address": {
+        "value": "100 College St",
+        "bbox": null
+      },
+      "occupation": null,
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 2,
+      "date": {
+        "value": "2/8/23",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "Amy Baker",
+        "bbox": null
+      },
+      "address": {
+        "value": "255 N Waverly",
+        "bbox": null
+      },
+      "occupation": null,
+      "amount": {
+        "value": 100,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 2,
+      "date": {
+        "value": "2/8/23",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "Phil Ruffin Jr",
+        "bbox": null
+      },
+      "address": {
+        "value": "1815 Lawrence Blvd",
+        "bbox": null
+      },
+      "occupation": null,
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    }
+  ],
+  "total_unitemized_contributions": null,
+  "expenditures": [],
+  "total_itemized_expenditures": null,
+  "total_unitemized_expenditures": null,
+  "total_itemized_receipts": null,
+  "other_transactions": [],
+  "in_kind_contributions": []
+}
