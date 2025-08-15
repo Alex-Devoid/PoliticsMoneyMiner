@@ -1,0 +1,117 @@
+{
+  "candidate": null,
+  "summary": null,
+  "contributions": [],
+  "total_unitemized_contributions": null,
+  "expenditures": [
+    {
+      "_page": 3,
+      "date": "11/02/24",
+      "name": "LCC Construction",
+      "address": "1815 Southwest Blvd Wichita, KS 67213",
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "11/02/24",
+      "name": "A&D Development",
+      "address": "2008 S Oliver Wichita, KS 67218",
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "11/14/24",
+      "name": "DHL PC",
+      "address": "741 N 2nd St Wichita, KS 67203",
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "11/14/24",
+      "name": "Bob Andoh",
+      "address": "555 W Douglas Wichita, KS 67213",
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "11/21/24",
+      "name": "Martha Kesley",
+      "address": "1022 E Harry Wichita, KS 67211",
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "11/21/24",
+      "name": "67203 Real Estate",
+      "address": "Wichita, KS 67203",
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "11/21/24",
+      "name": "67203 Developer",
+      "address": "Wichita, KS 67203",
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "11/21/24",
+      "name": "67204 Parts Supplier",
+      "address": "Wichita, KS 67203",
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "11/21/24",
+      "name": "67203 Real Estate",
+      "address": "Wichita, KS 67203",
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "11/21/24",
+      "name": "67203 Real Estate",
+      "address": "Wichita, KS 67203",
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "12/15/24",
+      "name": "Garnish PC",
+      "address": "Chamber PC",
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "12/15/24",
+      "name": "Smith PC",
+      "address": "3801 S Oliver Wichita, KS 67210",
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "12/15/24",
+      "name": "Retired Teacher",
+      "address": "3569 West Douglas Blvd Santa Rosa, FL 32549",
+      "purpose": null,
+      "amount": 1000
+    }
+  ],
+  "total_itemized_expenditures": 16210,
+  "total_unitemized_expenditures": null,
+  "total_itemized_receipts": null,
+  "other_transactions": [],
+  "in_kind_contributions": []
+}

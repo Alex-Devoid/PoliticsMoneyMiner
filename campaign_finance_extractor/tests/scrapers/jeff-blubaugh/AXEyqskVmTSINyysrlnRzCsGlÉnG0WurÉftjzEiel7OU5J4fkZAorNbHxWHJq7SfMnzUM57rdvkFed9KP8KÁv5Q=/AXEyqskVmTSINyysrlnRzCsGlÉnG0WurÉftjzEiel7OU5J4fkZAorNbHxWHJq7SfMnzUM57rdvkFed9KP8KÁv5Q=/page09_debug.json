@@ -1,0 +1,109 @@
+{
+  "candidate": null,
+  "summary": null,
+  "contributions": [],
+  "total_unitemized_contributions": null,
+  "expenditures": [
+    {
+      "_page": 9,
+      "date": "7/1/24",
+      "name": "PayPal 2211 N 1st St, San Jose, CA 95123",
+      "address": null,
+      "purpose": "PayPal Charge for contribution",
+      "amount": 14.94
+    },
+    {
+      "_page": 9,
+      "date": "7/2/24",
+      "name": "US Logo 520 N West St, Wichita, KS 67203",
+      "address": null,
+      "purpose": "Campaign Signs",
+      "amount": 537.5
+    },
+    {
+      "_page": 9,
+      "date": "7/2/24",
+      "name": "Candle Club",
+      "address": null,
+      "purpose": "Campaign lunch Logan Patrick",
+      "amount": 49.46
+    },
+    {
+      "_page": 9,
+      "date": "7/8/24",
+      "name": "PayPal 2211 N 1st St, San Jose, CA 95123",
+      "address": null,
+      "purpose": "PayPal Charge for contribution",
+      "amount": 14.94
+    },
+    {
+      "_page": 9,
+      "date": "7/10/24",
+      "name": "PayPal 2211 N 1st St, San Jose, CA 95123",
+      "address": null,
+      "purpose": "PayPal Charge for contribution",
+      "amount": 6.27
+    },
+    {
+      "_page": 9,
+      "date": "7/12/24",
+      "name": "PayPal 2211 N 1st St, San Jose, CA 95123",
+      "address": null,
+      "purpose": "PayPal Charge for contribution",
+      "amount": 9.16
+    },
+    {
+      "_page": 9,
+      "date": "7/20/24",
+      "name": "PayPal 2211 N 1st St, San Jose, CA 95123",
+      "address": null,
+      "purpose": "PayPal Charge for contribution",
+      "amount": 14.94
+    },
+    {
+      "_page": 9,
+      "date": "7/20/24",
+      "name": "PayPal 2211 N 1st St, San Jose, CA 95123",
+      "address": null,
+      "purpose": "PayPal Charge for contribution",
+      "amount": 4.83
+    },
+    {
+      "_page": 9,
+      "date": "7/21/24",
+      "name": "PayPal 2211 N 1st St, San Jose, CA 95123",
+      "address": null,
+      "purpose": "PayPal Charge for contribution",
+      "amount": 1.94
+    },
+    {
+      "_page": 9,
+      "date": "7/23/24",
+      "name": "PayPal 2211 N 1st St, San Jose, CA 95123",
+      "address": null,
+      "purpose": "PayPal Charge for contribution",
+      "amount": 7.72
+    },
+    {
+      "_page": 9,
+      "date": "7/24/24",
+      "name": "PayPal 2211 N 1st St, San Jose, CA 95123",
+      "address": null,
+      "purpose": "PayPal Charge for contribution",
+      "amount": 14.94
+    },
+    {
+      "_page": 9,
+      "date": "7/24/24",
+      "name": "PayPal 2211 N 1st St, San Jose, CA 95123",
+      "address": null,
+      "purpose": "PayPal Charge for contribution",
+      "amount": 14.94
+    }
+  ],
+  "total_itemized_expenditures": 12145.84,
+  "total_unitemized_expenditures": null,
+  "total_itemized_receipts": null,
+  "other_transactions": [],
+  "in_kind_contributions": []
+}

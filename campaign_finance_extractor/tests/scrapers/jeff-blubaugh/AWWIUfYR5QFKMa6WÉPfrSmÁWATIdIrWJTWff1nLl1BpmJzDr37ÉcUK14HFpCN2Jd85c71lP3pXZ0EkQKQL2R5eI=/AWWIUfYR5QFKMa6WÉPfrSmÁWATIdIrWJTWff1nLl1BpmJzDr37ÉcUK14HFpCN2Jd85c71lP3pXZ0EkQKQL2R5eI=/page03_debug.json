@@ -1,0 +1,77 @@
+{
+  "candidate": null,
+  "summary": null,
+  "contributions": [
+    {
+      "_page": 3,
+      "date": "9/14/24",
+      "contributor": "Michael & Robin Kidd",
+      "address": "4740 Esthener Wichita KS 67209",
+      "occupation": "Towing",
+      "amount": 1000
+    },
+    {
+      "_page": 3,
+      "date": "9/11/24",
+      "contributor": "Nathan Roberson",
+      "address": "7918 W 53rd Maize KS 67101",
+      "occupation": "Baseball",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "9/11/24",
+      "contributor": "Klaver Construction",
+      "address": "PO Box 9163 Wichita KS 67277",
+      "occupation": "Construction",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "9/11/24",
+      "contributor": "Steve Dillard",
+      "address": "9211 E Lakepoint Wichita KS 67226",
+      "occupation": "Oil",
+      "amount": 200
+    },
+    {
+      "_page": 3,
+      "date": "9/13/24",
+      "contributor": "Doug Scott",
+      "address": "1490 Sand Castle Road Sanubal FL 33957",
+      "occupation": "Aviation",
+      "amount": 100
+    },
+    {
+      "_page": 3,
+      "date": "9/13/24",
+      "contributor": "Nancy Bradley",
+      "address": "209 S Fern Wichita KS 67213",
+      "occupation": "Retired",
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "9/17/24",
+      "contributor": "Watermarke LLC",
+      "address": "PO Box 75337 Wichita KS 67275",
+      "occupation": "Real Estate",
+      "amount": 250
+    },
+    {
+      "_page": 3,
+      "date": "9/17/24",
+      "contributor": "Woddard, LLC",
+      "address": "PO Box 75337 Wichita KS 67275",
+      "occupation": "Real Estate",
+      "amount": 250
+    }
+  ],
+  "total_unitemized_contributions": null,
+  "expenditures": [],
+  "total_itemized_expenditures": null,
+  "total_unitemized_expenditures": null,
+  "total_itemized_receipts": null,
+  "other_transactions": [],
+  "in_kind_contributions": []
+}

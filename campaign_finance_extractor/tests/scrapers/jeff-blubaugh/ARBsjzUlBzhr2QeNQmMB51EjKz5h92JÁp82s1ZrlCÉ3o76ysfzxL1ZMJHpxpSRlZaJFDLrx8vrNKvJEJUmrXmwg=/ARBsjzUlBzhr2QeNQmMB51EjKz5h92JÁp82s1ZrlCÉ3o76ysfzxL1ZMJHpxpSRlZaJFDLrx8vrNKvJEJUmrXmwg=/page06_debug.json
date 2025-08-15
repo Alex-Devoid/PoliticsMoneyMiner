@@ -1,0 +1,37 @@
+{
+  "candidate": null,
+  "summary": null,
+  "contributions": [],
+  "total_unitemized_contributions": null,
+  "expenditures": [
+    {
+      "_page": 6,
+      "date": "11/30/23",
+      "name": "Wichita Independent Business Association 100 N Broadway St Ste. 105, Wichita, KS 67202",
+      "address": null,
+      "purpose": "Business Group Event",
+      "amount": 150.0
+    },
+    {
+      "_page": 6,
+      "date": "12/5/23",
+      "name": "Pay Pal 2211 N 1st St, San Jose, CA 95123",
+      "address": null,
+      "purpose": "Pay Pal Charge for contribution",
+      "amount": 15.0
+    },
+    {
+      "_page": 6,
+      "date": "12/8/23",
+      "name": "Pay Pal 2211 N 1st St, San Jose, CA 95123",
+      "address": null,
+      "purpose": "Pay Pal Charge for contribution",
+      "amount": 15.0
+    }
+  ],
+  "total_itemized_expenditures": null,
+  "total_unitemized_expenditures": null,
+  "total_itemized_receipts": null,
+  "other_transactions": [],
+  "in_kind_contributions": []
+}

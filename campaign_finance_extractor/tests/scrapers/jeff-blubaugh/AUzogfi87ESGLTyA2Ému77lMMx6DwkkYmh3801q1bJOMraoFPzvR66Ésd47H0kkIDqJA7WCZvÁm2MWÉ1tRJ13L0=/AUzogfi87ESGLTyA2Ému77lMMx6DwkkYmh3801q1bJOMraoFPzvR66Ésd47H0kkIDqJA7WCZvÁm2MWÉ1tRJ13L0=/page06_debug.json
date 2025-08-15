@@ -1,0 +1,32 @@
+{
+  "candidate": null,
+  "summary": null,
+  "contributions": [],
+  "total_unitemized_contributions": null,
+  "expenditures": [],
+  "total_itemized_expenditures": null,
+  "total_unitemized_expenditures": null,
+  "total_itemized_receipts": null,
+  "other_transactions": [],
+  "in_kind_contributions": [
+    {
+      "_page": 6,
+      "date": {
+        "value": "6/25/24",
+        "bbox": null
+      },
+      "contributor": {
+        "value": "Bryan Frye",
+        "bbox": null
+      },
+      "description": {
+        "value": "Food/Decor for fundraiser",
+        "bbox": null
+      },
+      "value": {
+        "value": 317.33,
+        "bbox": null
+      }
+    }
+  ]
+}

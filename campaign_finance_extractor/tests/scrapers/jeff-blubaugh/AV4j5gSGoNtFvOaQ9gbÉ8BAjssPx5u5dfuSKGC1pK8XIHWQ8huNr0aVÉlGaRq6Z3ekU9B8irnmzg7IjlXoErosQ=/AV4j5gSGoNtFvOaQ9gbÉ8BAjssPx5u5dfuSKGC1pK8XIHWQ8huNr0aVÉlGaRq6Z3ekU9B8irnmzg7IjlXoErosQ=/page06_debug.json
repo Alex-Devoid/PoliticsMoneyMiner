@@ -1,0 +1,542 @@
+{
+  "candidate": null,
+  "summary": null,
+  "contributions": [],
+  "total_unitemized_contributions": null,
+  "expenditures": [
+    {
+      "_page": 6,
+      "date": {
+        "value": "8/6/24",
+        "bbox": null
+      },
+      "name": {
+        "value": "Haysville Chamber",
+        "bbox": null
+      },
+      "address": {
+        "value": "210 S Main Haysville, KS 67060",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Dues",
+        "bbox": null
+      },
+      "amount": {
+        "value": 125.0,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 6,
+      "date": {
+        "value": "8/9/24",
+        "bbox": null
+      },
+      "name": {
+        "value": "GOTV SG CO Rep Party BOX",
+        "bbox": null
+      },
+      "address": {
+        "value": "48633 Wichita, KS 67202",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Campaign fundraiser",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500.0,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 6,
+      "date": {
+        "value": "8/12/24",
+        "bbox": null
+      },
+      "name": {
+        "value": "Sedgwick County Zoo",
+        "bbox": null
+      },
+      "address": {
+        "value": "5555 W Zoo Blvd, Wichita, KS 67212",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Fundraiser tickets",
+        "bbox": null
+      },
+      "amount": {
+        "value": 350.0,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 6,
+      "date": {
+        "value": "8/18/24",
+        "bbox": null
+      },
+      "name": {
+        "value": "Jared Suhn",
+        "bbox": null
+      },
+      "address": {
+        "value": "PO Box 9192 Mission, KS 66201",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Campaign Work",
+        "bbox": null
+      },
+      "amount": {
+        "value": 2000.0,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 6,
+      "date": {
+        "value": "8/22/24",
+        "bbox": null
+      },
+      "name": {
+        "value": "PayPal",
+        "bbox": null
+      },
+      "address": {
+        "value": "2211 N 1st St, San Jose, CA 95123",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Pay Pal Charge for contribution",
+        "bbox": null
+      },
+      "amount": {
+        "value": 37.87,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 6,
+      "date": {
+        "value": "8/23/24",
+        "bbox": null
+      },
+      "name": {
+        "value": "PayPal",
+        "bbox": null
+      },
+      "address": {
+        "value": "2211 N 1st St, San Jose, CA 95123",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Pay Pal Charge",
+        "bbox": null
+      },
+      "amount": {
+        "value": 7.72,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 6,
+      "date": {
+        "value": "8/26/24",
+        "bbox": null
+      },
+      "name": {
+        "value": "Darrin Hackney",
+        "bbox": null
+      },
+      "address": {
+        "value": "3336 Bonn Wichita, KS 67217",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Photographer",
+        "bbox": null
+      },
+      "amount": {
+        "value": 375.0,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 6,
+      "date": {
+        "value": "8/26/24",
+        "bbox": null
+      },
+      "name": {
+        "value": "PayPal",
+        "bbox": null
+      },
+      "address": {
+        "value": "2211 N 1st St, San Jose, CA 95123",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Pay Pal Charge for contribution",
+        "bbox": null
+      },
+      "amount": {
+        "value": 31.0,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 6,
+      "date": {
+        "value": "8/28/24",
+        "bbox": null
+      },
+      "name": {
+        "value": "Candle Club",
+        "bbox": null
+      },
+      "address": {
+        "value": "6135 E 13th St N Wichita, KS 67206",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Dues for meeting space",
+        "bbox": null
+      },
+      "amount": {
+        "value": 300.0,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 6,
+      "date": {
+        "value": "8/29/24",
+        "bbox": null
+      },
+      "name": {
+        "value": "SRG 960 N Point Parkway Suite 250",
+        "bbox": null
+      },
+      "address": {
+        "value": "Alpharetta, GA 30005",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Digital Marketing Campaign",
+        "bbox": null
+      },
+      "amount": {
+        "value": 1229.8,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 6,
+      "date": {
+        "value": "9/8/24",
+        "bbox": null
+      },
+      "name": {
+        "value": "Fire Pit PR",
+        "bbox": null
+      },
+      "address": {
+        "value": null,
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Campaign Material",
+        "bbox": null
+      },
+      "amount": {
+        "value": 1524.62,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 6,
+      "date": {
+        "value": "9/8/24",
+        "bbox": null
+      },
+      "name": {
+        "value": "Victory Visions",
+        "bbox": null
+      },
+      "address": {
+        "value": "9901 S Hoover Rd Peck, KS 67120",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Campaign work",
+        "bbox": null
+      },
+      "amount": {
+        "value": 3691.49,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 6,
+      "date": {
+        "value": "9/15/24",
+        "bbox": null
+      },
+      "name": {
+        "value": "Titan Sign",
+        "bbox": null
+      },
+      "address": {
+        "value": null,
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Signs",
+        "bbox": null
+      },
+      "amount": {
+        "value": 2773.5,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 6,
+      "date": {
+        "value": "9/24/24",
+        "bbox": null
+      },
+      "name": {
+        "value": "PayPal",
+        "bbox": null
+      },
+      "address": {
+        "value": "2211 N 1st St, San Jose, CA 95123",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Pay Pal Charge",
+        "bbox": null
+      },
+      "amount": {
+        "value": 3.3,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 6,
+      "date": {
+        "value": "9/10/24",
+        "bbox": null
+      },
+      "name": {
+        "value": "Wagnon & Associates P.O. Box 1106",
+        "bbox": null
+      },
+      "address": {
+        "value": "Wichita, KS 67201",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Civic Group Dues",
+        "bbox": null
+      },
+      "amount": {
+        "value": 207.0,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 6,
+      "date": {
+        "value": "9/10/24",
+        "bbox": null
+      },
+      "name": {
+        "value": "Midian Shrine",
+        "bbox": null
+      },
+      "address": {
+        "value": "130 N Topeka Wichita, KS 67202",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Civic Group Dues",
+        "bbox": null
+      },
+      "amount": {
+        "value": 170.0,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 6,
+      "date": {
+        "value": "9/25/24",
+        "bbox": null
+      },
+      "name": {
+        "value": "JABU Design Julie Burton",
+        "bbox": null
+      },
+      "address": {
+        "value": "8302 E Old Mill ST Wichita, KS 67226",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Campaign Design Work",
+        "bbox": null
+      },
+      "amount": {
+        "value": 1401.14,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 6,
+      "date": {
+        "value": "9/25/24",
+        "bbox": null
+      },
+      "name": {
+        "value": "Shurtz Logo",
+        "bbox": null
+      },
+      "address": {
+        "value": "4520 E Mt Vernon Wichita, KS 67218",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Campaign Shirts",
+        "bbox": null
+      },
+      "amount": {
+        "value": 483.75,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 6,
+      "date": {
+        "value": "9/25/24",
+        "bbox": null
+      },
+      "name": {
+        "value": "Laura Atkins",
+        "bbox": null
+      },
+      "address": {
+        "value": null,
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Campaign work",
+        "bbox": null
+      },
+      "amount": {
+        "value": 400.0,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 6,
+      "date": {
+        "value": "9/17/24",
+        "bbox": null
+      },
+      "name": {
+        "value": "PayPal",
+        "bbox": null
+      },
+      "address": {
+        "value": "2211 N 1st St, San Jose, CA 95123",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Pay Pal Charge",
+        "bbox": null
+      },
+      "amount": {
+        "value": 6.29,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 6,
+      "date": {
+        "value": "9/25/24",
+        "bbox": null
+      },
+      "name": {
+        "value": "Ax Capital",
+        "bbox": null
+      },
+      "address": {
+        "value": "600 W 47th St Ste 200 Kansas City, MO 64112",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Campaign Work",
+        "bbox": null
+      },
+      "amount": {
+        "value": 6040.85,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 6,
+      "date": {
+        "value": "9/30/24",
+        "bbox": null
+      },
+      "name": {
+        "value": "Ax Capital",
+        "bbox": null
+      },
+      "address": {
+        "value": "800 W 47th St Ste 200 Kansas City, MO 64112",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Campaign Work",
+        "bbox": null
+      },
+      "amount": {
+        "value": 7966.6,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 6,
+      "date": {
+        "value": "9/30/24",
+        "bbox": null
+      },
+      "name": {
+        "value": "PayPal",
+        "bbox": null
+      },
+      "address": {
+        "value": "2211 N 1st St, San Jose, CA 95123",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Pay Pal Charge",
+        "bbox": null
+      },
+      "amount": {
+        "value": 29.88,
+        "bbox": null
+      }
+    }
+  ],
+  "total_itemized_expenditures": null,
+  "total_unitemized_expenditures": null,
+  "total_itemized_receipts": null,
+  "other_transactions": [],
+  "in_kind_contributions": []
+}

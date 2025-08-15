@@ -1,0 +1,101 @@
+{
+  "candidate": null,
+  "summary": null,
+  "contributions": [],
+  "total_unitemized_contributions": null,
+  "expenditures": [
+    {
+      "_page": 2,
+      "date": "10/29/24",
+      "name": "Open Door Medical Services",
+      "address": {
+        "value": "865 E Rough Creek Derby KS 67037",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/29/24",
+      "name": "Youth Horizons",
+      "address": {
+        "value": "865 E Rough Creek Derby KS 67037",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/29/24",
+      "name": "Caryn Hart",
+      "address": {
+        "value": "867 W 7th Ave Hesston KS 67062",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/29/24",
+      "name": "KASB Risk Management",
+      "address": {
+        "value": "1505 E Madison Wichita KS 67211",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/29/24",
+      "name": "Russell Ogan",
+      "address": {
+        "value": "125 N Pine Haven KS 67543",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/29/24",
+      "name": "Nick Dalton",
+      "address": {
+        "value": "909 W Maize Wichita KS 67212",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 510
+    },
+    {
+      "_page": 2,
+      "date": "10/29/24",
+      "name": "Jim Cobb",
+      "address": {
+        "value": "2429 KS Smokyview Potwin KS 67123",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 250
+    },
+    {
+      "_page": 2,
+      "date": "10/29/24",
+      "name": "Andrew Wilkes",
+      "address": {
+        "value": "1914 N WSU Pl Lenexa KS 66217",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 50
+    }
+  ],
+  "total_itemized_expenditures": null,
+  "total_unitemized_expenditures": null,
+  "total_itemized_receipts": null,
+  "other_transactions": [],
+  "in_kind_contributions": []
+}

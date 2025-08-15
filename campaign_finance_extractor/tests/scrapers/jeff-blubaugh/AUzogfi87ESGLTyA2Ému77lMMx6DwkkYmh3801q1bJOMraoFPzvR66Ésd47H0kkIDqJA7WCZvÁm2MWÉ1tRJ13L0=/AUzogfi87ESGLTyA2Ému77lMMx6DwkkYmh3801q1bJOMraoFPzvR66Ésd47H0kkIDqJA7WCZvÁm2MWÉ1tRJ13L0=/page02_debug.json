@@ -1,0 +1,109 @@
+{
+  "candidate": null,
+  "summary": null,
+  "contributions": [
+    {
+      "_page": 2,
+      "date": "5/17/22",
+      "contributor": "Jungles & Associates",
+      "address": "10203 W Hoover Rd",
+      "occupation": "Realtor",
+      "amount": 250
+    },
+    {
+      "_page": 2,
+      "date": "5/17/22",
+      "contributor": "Sierra Scott",
+      "address": "2708 S. Hyman St",
+      "occupation": "Television",
+      "amount": 250
+    },
+    {
+      "_page": 2,
+      "date": "5/17/22",
+      "contributor": "Research Group",
+      "address": "250 N. Rock Rd #360",
+      "occupation": null,
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "5/17/22",
+      "contributor": "Farm",
+      "address": null,
+      "occupation": "Equipment",
+      "amount": 250
+    },
+    {
+      "_page": 2,
+      "date": "5/17/22",
+      "contributor": "N/A",
+      "address": "360 N. Coronado Rd",
+      "occupation": "Insurance",
+      "amount": 1000
+    },
+    {
+      "_page": 2,
+      "date": "5/17/22",
+      "contributor": "N/A",
+      "address": "1560 S. Poplar Ave SW",
+      "occupation": "Plumbing",
+      "amount": 1000
+    },
+    {
+      "_page": 2,
+      "date": "5/17/22",
+      "contributor": "N/A",
+      "address": "286 W. Persimmon St",
+      "occupation": "Sales",
+      "amount": 1000
+    },
+    {
+      "_page": 2,
+      "date": "5/17/22",
+      "contributor": "N/A",
+      "address": "815 S. Chief",
+      "occupation": "Recycling",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "5/17/22",
+      "contributor": "N/A",
+      "address": "3240 E. Lakeview Ct",
+      "occupation": "Healthcare",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "5/20/22",
+      "contributor": "Zachary Kidd",
+      "address": "1011 N. Oak Ridge",
+      "occupation": "Towing",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "5/22/22",
+      "contributor": "Kidd Towing",
+      "address": "4700 S. Eisenhower St",
+      "occupation": null,
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "5/22/22",
+      "contributor": "Kidd Towing",
+      "address": "1800 N. ZCC Cir N",
+      "occupation": null,
+      "amount": 500
+    }
+  ],
+  "total_unitemized_contributions": null,
+  "expenditures": [],
+  "total_itemized_expenditures": null,
+  "total_unitemized_expenditures": null,
+  "total_itemized_receipts": null,
+  "other_transactions": [],
+  "in_kind_contributions": []
+}

@@ -89,17 +89,13 @@ function downloadCandidateCsv (cand, e) {
                 style="width: 140px;"
               />
               <!-- pages approved / total -->
-              <v-chip
-                :color="cand.approved === cand.totalPages ? '#38A169' : '#E53E3E'"
-                size="small"
-              >
-                {{ cand.approved }} / {{ cand.totalPages }}
+              <v-chip :color="chipColor(cand)" size="small" variant="elevated" class="mr-3">
+                {{ approvedPages(cand) }} / {{ totalPages(cand) }}
               </v-chip>
-
 
               <!-- per-candidate CSV -->
               <v-btn size="small" variant="outlined" @click="(e) => downloadCandidateCsv(cand, e)">
-                Download
+                Download CSV
               </v-btn>
             </div>
           </v-sheet>

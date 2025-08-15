@@ -285,32 +285,56 @@ async function goToPage (n) {
 /* ───────────────── re-extract (unchanged) ──────────────── */
 const isReextracting = ref(false)
 const reextractErr = ref(null)
+const reextractStatus = ref('') 
 async function reextractWithRotation () {
   try {
     isReextracting.value = true
     reextractErr.value = null
-    await $fetch('/api/finance/reextract', {
+    reextractStatus.value = 'Submitting rotation…'
+
+    const r = ((rotation.value % 360) + 360) % 360
+
+    // FAST: rows back immediately; image + rows persisted in background
+    const res = await $fetch('/api/finance/reextract', {
       method: 'POST',
       body: {
         slug: candId.value,
         global_page: pageNo.value,
-        rotation: ((rotation.value % 360) + 360) % 360,
-        overwrite_image: true,
-        reset_validated: true
+        rotation: r,
+        overwrite_image: true,   // overwrite existing image so future fetches show the rotated PNG
+        reset_validated: true,
+        persist: true            // background persist (non-blocking)
       }
     })
-    rotation.value = 0
-    hasUserZoomed.value = false
-    await store.fetchPage(candId.value, pageNo.value)
-    await nextTick()
-    fitToViewport()
+
+    // quick, human-readable feedback
+    const t = res?.timings_ms || {}
+    const llm = t.llm != null ? `${t.llm} ms` : '…'
+    reextractStatus.value = `Preview ready (LLM ${llm}). Persisting rotated image & rows in background…`    
+
+    // Update table NOW (no waiting)
+    store.pageImg = res.pageImg || store.pageImg
+    store.rows = (res.rows ?? []).sort((a, b) => (a.row_order ?? 0) - (b.row_order ?? 0)).map(r => ({ ...r, _dirty: false }))
+    store.bboxes = store.rows
+      .filter(r => Array.isArray(r.bbox) && r.bbox.length === 4)
+      .map(r => { const [x0,y0,x1,y1] = r.bbox; return { id:r.id, x0,y0,x1,y1 } })
+    store.currentId = store.rows[0]?.id ?? null
+
+    // IMPORTANT: keep the CSS rotation so the user still sees the image in the correct orientation
+    // The stored PNG will be rotated in the background; a future fetchPage() will show the rotated asset.
+
+    // (Optional) after a short delay, refresh to pick up the rotated image
+    setTimeout(async () => { await store.fetchPage(candId.value, pageNo.value) }, 1200)
+
   } catch (e) {
     console.error(e)
     reextractErr.value = (e && (e.statusMessage || e.message)) || 'Re-extract failed'
+    reextractStatus.value = ''
   } finally {
     isReextracting.value = false
   }
 }
+
 
 /* ───────────── keyboard shortcuts (unchanged) ─────────── */
 useEventListener('keydown', (e) => {
@@ -436,8 +460,14 @@ function humanizeKey (k) {
               </v-btn>
             </div>
 
+            <!-- existing error message -->
             <div v-if="reextractErr" class="text-error text-caption mb-2">
               {{ reextractErr }}
+            </div>
+
+            <!-- NEW: live status line -->
+            <div class="text-caption text-medium-emphasis mt-2" v-if="reextractStatus">
+              {{ reextractStatus }}
             </div>
 
             <!-- viewport centers the page so rotation pivots visually around center -->

@@ -1,0 +1,221 @@
+{
+  "candidate": null,
+  "summary": null,
+  "contributions": [
+    {
+      "_page": 4,
+      "date": "12/6/23",
+      "contributor": "Anthony Caputo",
+      "address": "515 S. Main Apt 512",
+      "occupation": "Retired",
+      "amount": 500
+    },
+    {
+      "_page": 4,
+      "date": "12/7/23",
+      "contributor": "Key Construction",
+      "address": "741 W 2nd St N",
+      "occupation": "Construction",
+      "amount": 500
+    },
+    {
+      "_page": 4,
+      "date": "12/7/23",
+      "contributor": "Barry Carroll",
+      "address": "1134 N Coolidge Ave",
+      "occupation": "Retired",
+      "amount": 100
+    },
+    {
+      "_page": 4,
+      "date": "12/7/23",
+      "contributor": "Summit Holdings, LLC",
+      "address": "741 W 2nd St N",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 4,
+      "date": "12/8/23",
+      "contributor": "Coleen Jennison",
+      "address": "2713 N Wilderness Ct",
+      "occupation": "Executive",
+      "amount": 500
+    },
+    {
+      "_page": 4,
+      "date": "12/8/23",
+      "contributor": "Yingling Aviation",
+      "address": "PO Box 9248",
+      "occupation": "Aviation",
+      "amount": 500
+    },
+    {
+      "_page": 4,
+      "date": "12/14/23",
+      "contributor": "Veranda Court LLC",
+      "address": "150 N Market",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 4,
+      "date": "12/14/23",
+      "contributor": "D Brian Byrd Trust",
+      "address": "3006 N Pepper Ridge St",
+      "occupation": "Management",
+      "amount": 500
+    },
+    {
+      "_page": 4,
+      "date": "12/14/23",
+      "contributor": "Vision Partners, LLC",
+      "address": "150 N Market",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 4,
+      "date": "12/14/23",
+      "contributor": "James Korroch & Kelly Lindsay-Korroch",
+      "address": "1835 N Cranbrook Cir",
+      "occupation": "Real Estate",
+      "amount": 100
+    },
+    {
+      "_page": 4,
+      "date": "12/14/23",
+      "contributor": "LOF JL",
+      "address": "150 N Market",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 4,
+      "date": "12/14/23",
+      "contributor": "BF Wichita, LLC",
+      "address": "150 N Market",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 4,
+      "date": "12/14/23",
+      "contributor": "Goddard Galleria, LLC",
+      "address": "10180 SW Blvd",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 4,
+      "date": "12/14/23",
+      "contributor": "Venture Investments",
+      "address": "150 N Market",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 4,
+      "date": "12/20/23",
+      "contributor": "Doug and Sharon Scott",
+      "address": "1490 Sand Castle Road",
+      "occupation": "Aviation",
+      "amount": 200
+    },
+    {
+      "_page": 4,
+      "date": "12/23/23",
+      "contributor": "Fred Berry Jr & Suzanne Berry",
+      "address": "8917 E Douglas Ave",
+      "occupation": "Equipment Sales",
+      "amount": 250
+    },
+    {
+      "_page": 4,
+      "date": "12/27/23",
+      "contributor": "David Wells",
+      "address": "741 W 2nd St N",
+      "occupation": "Construction",
+      "amount": 500
+    },
+    {
+      "_page": 4,
+      "date": "12/28/23",
+      "contributor": "George Pearson Jr",
+      "address": "800 E 21st N",
+      "occupation": "Construction",
+      "amount": 500
+    },
+    {
+      "_page": 4,
+      "date": "12/28/23",
+      "contributor": "DCN Holding Company, LLC",
+      "address": "17498 SW Meadowlark Rd",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 4,
+      "date": "12/28/23",
+      "contributor": "D. Craig Nelson",
+      "address": "17498 SW Meadowlark Rd",
+      "occupation": "Construction",
+      "amount": 500
+    },
+    {
+      "_page": 4,
+      "date": "12/28/23",
+      "contributor": "BBH, LLC Cooks Heating & Cooling",
+      "address": "2215 S West Street",
+      "occupation": "Heating & Air",
+      "amount": 500
+    },
+    {
+      "_page": 4,
+      "date": "12/29/23",
+      "contributor": "Paul and Virginia Treadwell",
+      "address": "10101 E 47th S",
+      "occupation": "Housing",
+      "amount": 500
+    },
+    {
+      "_page": 4,
+      "date": "12/29/23",
+      "contributor": "Welcome Home, LLC",
+      "address": "5111 South Meridian Ave",
+      "occupation": "Housing",
+      "amount": 500
+    },
+    {
+      "_page": 4,
+      "date": "12/29/23",
+      "contributor": "Leap Family Entertainment",
+      "address": "6100 E Central Ave Bldg 3",
+      "occupation": "Entertainment",
+      "amount": 500
+    },
+    {
+      "_page": 4,
+      "date": "12/29/23",
+      "contributor": "Manapart, LLC",
+      "address": "6100 E Central Ave Bldg 3",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 4,
+      "date": "12/29/23",
+      "contributor": "CBRJ, LLC",
+      "address": "6100 E Central Ave Bldg 3",
+      "occupation": "Real Estate",
+      "amount": 500
+    }
+  ],
+  "total_unitemized_contributions": null,
+  "expenditures": [],
+  "total_itemized_expenditures": null,
+  "total_unitemized_expenditures": null,
+  "total_itemized_receipts": null,
+  "other_transactions": [],
+  "in_kind_contributions": []
+}

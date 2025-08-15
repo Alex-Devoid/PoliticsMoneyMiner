@@ -1,0 +1,133 @@
+{
+  "candidate": null,
+  "summary": null,
+  "contributions": [
+    {
+      "_page": 2,
+      "date": "10/7/24",
+      "contributor": "Joseph Hemmelgarn",
+      "address": "8225 W Irving, Wichita, KS 67209",
+      "occupation": "Food Service",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/7/24",
+      "contributor": "Earl Mies",
+      "address": "1746 W Driftwood Ct, Wichita, KS 67204",
+      "occupation": "Construction",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/7/24",
+      "contributor": "Mies Construction",
+      "address": "1919 Southwest Blvd, Wichita, KS 67213",
+      "occupation": "Construction",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/7/24",
+      "contributor": "Bill Landman",
+      "address": "7114 E Chadowes, Wichita, KS 67206",
+      "occupation": "Retired",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/15/24",
+      "contributor": "Johnny W Stevens",
+      "address": "8120 Killarney Ct, Wichita, KS 67206",
+      "occupation": "Oil",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/15/24",
+      "contributor": "March Oil",
+      "address": "PO Box 782257, Wichita, KS 67278",
+      "occupation": "Oil",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/15/24",
+      "contributor": "Texas Investments",
+      "address": "PO Box 782257, Wichita, KS 67278",
+      "occupation": "Oil",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/15/24",
+      "contributor": "Development",
+      "address": "PO Box 782257, Wichita, KS 67278",
+      "occupation": "Oil",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/15/24",
+      "contributor": "Caymus Investments",
+      "address": "151 S Whittier St #1500, Wichita, KS 67207",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/15/24",
+      "contributor": "Castle Holdings",
+      "address": "532 N Turnberry Circle, Wichita, KS 67230",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/15/24",
+      "contributor": "555 N Webb Rd",
+      "address": "555 N Webb Road, Wichita, KS 67230",
+      "occupation": "Real Estate",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/15/24",
+      "contributor": "Meridian Title",
+      "address": "429 S 119th, Wichita, KS 67235",
+      "occupation": "Title",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/15/24",
+      "contributor": "Gregory Melugin",
+      "address": "2340 N Lakeview Ct, Andover, KS 67002",
+      "occupation": "Home Healthcare",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "10/15/24",
+      "contributor": "Kirk Swilley",
+      "address": null,
+      "occupation": null,
+      "amount": 25
+    },
+    {
+      "_page": 2,
+      "date": "10/15/24",
+      "contributor": "Michael Nichols",
+      "address": null,
+      "occupation": null,
+      "amount": 50
+    }
+  ],
+  "total_unitemized_contributions": null,
+  "expenditures": [],
+  "total_itemized_expenditures": null,
+  "total_unitemized_expenditures": null,
+  "total_itemized_receipts": null,
+  "other_transactions": [],
+  "in_kind_contributions": []
+}

@@ -1,0 +1,171 @@
+{
+  "candidate": null,
+  "summary": null,
+  "contributions": [],
+  "total_unitemized_contributions": null,
+  "expenditures": [
+    {
+      "_page": 3,
+      "date": "11/02/24",
+      "name": "LCC Construction",
+      "address": {
+        "value": "1815 Southwest Blvd Wichita KS",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "11/02/24",
+      "name": "RCC Development",
+      "address": {
+        "value": "2808 S Cowskin Dr Wichita KS",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "11/12/24",
+      "name": "PBC LLC",
+      "address": {
+        "value": "741 W 2nd St N Wichita KS",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "11/12/24",
+      "name": "Bob Arnold",
+      "address": {
+        "value": "565 N Douglas Wichita KS",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "11/12/24",
+      "name": "Hayes Leasing LLC",
+      "address": {
+        "value": "502 N Seneca St Wichita KS",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "11/12/24",
+      "name": "Wesley",
+      "address": {
+        "value": "1622 E Harry Wichita KS",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "11/22/24",
+      "name": "Wichita Real Estate",
+      "address": {
+        "value": "6723 Developer Wichita KS",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "11/22/24",
+      "name": "Wichita Real Estate",
+      "address": {
+        "value": "6723 Developer Wichita KS",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "11/22/24",
+      "name": "Wichita Real Estate",
+      "address": {
+        "value": "6723 Developer Wichita KS",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "11/22/24",
+      "name": "Wichita Real Estate",
+      "address": {
+        "value": "6723 Developer Wichita KS",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "11/22/24",
+      "name": "Wichita Real Estate",
+      "address": {
+        "value": "6723 Developer Wichita KS",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "11/22/24",
+      "name": "Retired Teacher",
+      "address": {
+        "value": "3264 Rose Blvd Sarasota FL",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 1000
+    },
+    {
+      "_page": 3,
+      "date": "12/15/24",
+      "name": "Wichita Regional",
+      "address": {
+        "value": "369 West Douglas Wichita KS",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    },
+    {
+      "_page": 3,
+      "date": "12/15/24",
+      "name": "Split PAC",
+      "address": {
+        "value": "3801 S Oliver Wichita KS",
+        "bbox": null
+      },
+      "purpose": null,
+      "amount": 500
+    }
+  ],
+  "total_itemized_expenditures": {
+    "value": 16210,
+    "bbox": null,
+    "_page": 3
+  },
+  "total_unitemized_expenditures": null,
+  "total_itemized_receipts": null,
+  "other_transactions": [],
+  "in_kind_contributions": []
+}

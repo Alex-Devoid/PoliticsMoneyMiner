@@ -1,0 +1,93 @@
+{
+  "candidate": null,
+  "summary": null,
+  "contributions": [],
+  "total_unitemized_contributions": null,
+  "expenditures": [
+    {
+      "_page": 4,
+      "date": "7/6/24",
+      "name": "C & S Group",
+      "address": "800 E 101st N",
+      "purpose": "Material Recycling",
+      "amount": 5000
+    },
+    {
+      "_page": 4,
+      "date": "7/6/24",
+      "name": "C & S Group",
+      "address": "800 E 101st N",
+      "purpose": "Scrap Metal",
+      "amount": 5000
+    },
+    {
+      "_page": 4,
+      "date": "7/6/24",
+      "name": "C & S Group",
+      "address": "800 E 101st N",
+      "purpose": "Real Estate",
+      "amount": 5000
+    },
+    {
+      "_page": 4,
+      "date": "7/6/24",
+      "name": "C & S Group",
+      "address": "800 E 101st N",
+      "purpose": "Real Estate",
+      "amount": 5000
+    },
+    {
+      "_page": 4,
+      "date": "7/6/24",
+      "name": "C & S Group",
+      "address": "800 E 101st N",
+      "purpose": "Real Estate",
+      "amount": 5000
+    },
+    {
+      "_page": 4,
+      "date": "7/6/24",
+      "name": "C & S Group",
+      "address": "800 E 101st N",
+      "purpose": "Real Estate",
+      "amount": 5000
+    },
+    {
+      "_page": 4,
+      "date": "7/6/24",
+      "name": "C & S Group",
+      "address": "800 E 101st N",
+      "purpose": "Construction",
+      "amount": 5000
+    },
+    {
+      "_page": 4,
+      "date": "7/6/24",
+      "name": "C & S Group",
+      "address": "800 E 101st N",
+      "purpose": "Construction",
+      "amount": 5000
+    },
+    {
+      "_page": 4,
+      "date": "7/6/24",
+      "name": "C & S Group",
+      "address": "800 E 101st N",
+      "purpose": "Construction",
+      "amount": 5000
+    },
+    {
+      "_page": 4,
+      "date": "7/6/24",
+      "name": "C & S Group",
+      "address": "800 E 101st N",
+      "purpose": "Real Estate",
+      "amount": 5000
+    }
+  ],
+  "total_itemized_expenditures": null,
+  "total_unitemized_expenditures": null,
+  "total_itemized_receipts": null,
+  "other_transactions": [],
+  "in_kind_contributions": []
+}

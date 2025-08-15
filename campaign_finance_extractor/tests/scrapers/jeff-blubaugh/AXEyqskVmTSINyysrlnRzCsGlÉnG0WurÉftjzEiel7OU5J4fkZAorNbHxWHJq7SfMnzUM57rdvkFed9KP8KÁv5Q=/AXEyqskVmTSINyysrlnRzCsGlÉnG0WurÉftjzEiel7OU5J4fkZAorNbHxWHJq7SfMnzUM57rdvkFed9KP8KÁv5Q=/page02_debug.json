@@ -1,0 +1,125 @@
+{
+  "candidate": null,
+  "summary": null,
+  "contributions": [
+    {
+      "_page": 2,
+      "date": "5/7/22",
+      "contributor": "Gregory Vaughn",
+      "address": "3240 E Lakeview",
+      "occupation": "Retired",
+      "amount": 100
+    },
+    {
+      "_page": 2,
+      "date": "5/11/22",
+      "contributor": "Zachary Kidd",
+      "address": "1011 N Oak Ridge",
+      "occupation": "Retired",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "5/22/22",
+      "contributor": "Mackes Kidd",
+      "address": "4170 S Eisenhower Dr",
+      "occupation": "Retired",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "5/27/22",
+      "contributor": "Robin Kidd",
+      "address": "1800 W 2nd St N",
+      "occupation": "Retired",
+      "amount": 500
+    },
+    {
+      "_page": 2,
+      "date": "5/29/22",
+      "contributor": "RKH Holdings, Inc.",
+      "address": "P.O. Box 7206",
+      "occupation": null,
+      "amount": 5000
+    },
+    {
+      "_page": 2,
+      "date": "6/2/22",
+      "contributor": "Wichita Lineman Co, LLC",
+      "address": "P.O. Box 7337",
+      "occupation": null,
+      "amount": 250
+    },
+    {
+      "_page": 2,
+      "date": "6/2/22",
+      "contributor": "Miss Ventures Co, LLC",
+      "address": "P.O. Box 7337",
+      "occupation": null,
+      "amount": 250
+    },
+    {
+      "_page": 2,
+      "date": "6/2/22",
+      "contributor": "Miss Ventures Co, LLC",
+      "address": "P.O. Box 7337",
+      "occupation": null,
+      "amount": 250
+    },
+    {
+      "_page": 2,
+      "date": "6/2/22",
+      "contributor": "Pike, Inc.",
+      "address": "P.O. Box 7359",
+      "occupation": null,
+      "amount": 250
+    },
+    {
+      "_page": 2,
+      "date": "6/2/22",
+      "contributor": "Pike, Inc.",
+      "address": "P.O. Box 7359",
+      "occupation": null,
+      "amount": 250
+    },
+    {
+      "_page": 2,
+      "date": "6/7/22",
+      "contributor": "Rocky Mtn, LLC",
+      "address": "P.O. Box 7340",
+      "occupation": null,
+      "amount": 250
+    },
+    {
+      "_page": 2,
+      "date": "6/7/22",
+      "contributor": "Scotch, LLC",
+      "address": "P.O. Box 7340",
+      "occupation": null,
+      "amount": 250
+    },
+    {
+      "_page": 2,
+      "date": "6/7/22",
+      "contributor": "Scotch, LLC",
+      "address": "P.O. Box 7340",
+      "occupation": null,
+      "amount": 250
+    },
+    {
+      "_page": 2,
+      "date": "6/7/22",
+      "contributor": "Kenny & Jason Oish",
+      "address": "897 Edessa",
+      "occupation": null,
+      "amount": 250
+    }
+  ],
+  "total_unitemized_contributions": null,
+  "expenditures": [],
+  "total_itemized_expenditures": null,
+  "total_unitemized_expenditures": null,
+  "total_itemized_receipts": null,
+  "other_transactions": [],
+  "in_kind_contributions": []
+}

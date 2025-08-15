@@ -1,0 +1,30 @@
+{
+  "candidate": null,
+  "summary": null,
+  "contributions": [],
+  "total_unitemized_contributions": null,
+  "expenditures": [
+    {
+      "_page": 8,
+      "date": {
+        "value": "3",
+        "bbox": null
+      },
+      "name": {
+        "value": "JeffBlubaugh",
+        "bbox": null
+      },
+      "address": null,
+      "purpose": null,
+      "amount": {
+        "value": 176492.44,
+        "bbox": null
+      }
+    }
+  ],
+  "total_itemized_expenditures": null,
+  "total_unitemized_expenditures": null,
+  "total_itemized_receipts": null,
+  "other_transactions": [],
+  "in_kind_contributions": []
+}

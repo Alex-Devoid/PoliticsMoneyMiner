@@ -1,0 +1,155 @@
+{
+  "candidate": null,
+  "summary": null,
+  "contributions": [],
+  "total_unitemized_contributions": null,
+  "expenditures": [
+    {
+      "_page": 5,
+      "date": {
+        "value": "1/23/24",
+        "bbox": null
+      },
+      "name": {
+        "value": "Jacob Martinez",
+        "bbox": null
+      },
+      "address": {
+        "value": "1230 Main St",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Campaign materials",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "1/25/24",
+        "bbox": null
+      },
+      "name": {
+        "value": "MCC Properties",
+        "bbox": null
+      },
+      "address": {
+        "value": "5254 SW Prairie Creek Dr, Andover",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Real estate",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "1/26/24",
+        "bbox": null
+      },
+      "name": {
+        "value": "Midwest Ventures, LLC",
+        "bbox": null
+      },
+      "address": {
+        "value": "301 E 3rd St",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Consulting",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "1/27/24",
+        "bbox": null
+      },
+      "name": {
+        "value": "Gary Evans",
+        "bbox": null
+      },
+      "address": {
+        "value": "1452 W 5th St",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Builder",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "1/28/24",
+        "bbox": null
+      },
+      "name": {
+        "value": "Conrad Hausenver",
+        "bbox": null
+      },
+      "address": {
+        "value": "2656 S Seneca",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Retired",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "1/29/24",
+        "bbox": null
+      },
+      "name": {
+        "value": "Tate Jos",
+        "bbox": null
+      },
+      "address": {
+        "value": "140 Pelton Trail",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Contractor",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    }
+  ],
+  "total_itemized_expenditures": {
+    "value": 3275,
+    "bbox": null,
+    "_page": 5
+  },
+  "total_unitemized_expenditures": null,
+  "total_itemized_receipts": null,
+  "other_transactions": [],
+  "in_kind_contributions": []
+}

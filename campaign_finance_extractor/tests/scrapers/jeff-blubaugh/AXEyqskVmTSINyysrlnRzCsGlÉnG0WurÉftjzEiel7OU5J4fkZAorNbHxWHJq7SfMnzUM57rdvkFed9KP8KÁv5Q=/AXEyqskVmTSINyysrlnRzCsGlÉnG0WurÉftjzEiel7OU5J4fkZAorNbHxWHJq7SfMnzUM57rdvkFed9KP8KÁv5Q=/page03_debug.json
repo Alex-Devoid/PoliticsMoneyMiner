@@ -1,0 +1,167 @@
+{
+  "candidate": null,
+  "summary": null,
+  "contributions": [],
+  "total_unitemized_contributions": null,
+  "expenditures": [
+    {
+      "_page": 3,
+      "date": "6/27/24",
+      "name": "Cooper Inc",
+      "address": {
+        "value": "PO Box 2404",
+        "bbox": null
+      },
+      "purpose": "Construction",
+      "amount": 5000
+    },
+    {
+      "_page": 3,
+      "date": "6/27/24",
+      "name": "Kansas Ready Mix, LLC",
+      "address": {
+        "value": "PO Box 2404",
+        "bbox": null
+      },
+      "purpose": "Construction",
+      "amount": 5000
+    },
+    {
+      "_page": 3,
+      "date": "6/27/24",
+      "name": "Joshua E. Hacker",
+      "address": {
+        "value": "1429 N Paradise Ct",
+        "bbox": null
+      },
+      "purpose": "Construction",
+      "amount": 5000
+    },
+    {
+      "_page": 3,
+      "date": "6/27/24",
+      "name": "Paul Kelsey",
+      "address": {
+        "value": "1022 Felicity Circle",
+        "bbox": null
+      },
+      "purpose": "Construction",
+      "amount": 5000
+    },
+    {
+      "_page": 3,
+      "date": "6/27/24",
+      "name": "Terry Kinney",
+      "address": {
+        "value": "671 W Homestead Ct",
+        "bbox": null
+      },
+      "purpose": "Construction",
+      "amount": 5000
+    },
+    {
+      "_page": 3,
+      "date": "6/27/24",
+      "name": "D & R Russell LLC",
+      "address": {
+        "value": "49 S W Powerline Rd",
+        "bbox": null
+      },
+      "purpose": "Investment",
+      "amount": 3250
+    },
+    {
+      "_page": 3,
+      "date": "6/27/24",
+      "name": "Barta Masonry Company",
+      "address": {
+        "value": "10203 N Wabash St",
+        "bbox": null
+      },
+      "purpose": "Real Estate",
+      "amount": 3500
+    },
+    {
+      "_page": 3,
+      "date": "6/27/24",
+      "name": "Barta Masonry Company",
+      "address": {
+        "value": "10203 N Wabash St",
+        "bbox": null
+      },
+      "purpose": "Tax Service",
+      "amount": 3100
+    },
+    {
+      "_page": 3,
+      "date": "6/27/24",
+      "name": "Rebecca Anderson",
+      "address": {
+        "value": "2018 N Bramble St",
+        "bbox": null
+      },
+      "purpose": "Tax Service",
+      "amount": 3100
+    },
+    {
+      "_page": 3,
+      "date": "6/27/24",
+      "name": "Alan Johnson",
+      "address": {
+        "value": "513 N Oakdale",
+        "bbox": null
+      },
+      "purpose": "Consultant",
+      "amount": 3160
+    },
+    {
+      "_page": 3,
+      "date": "6/27/24",
+      "name": "Michael Hawes",
+      "address": {
+        "value": "7039 N Wabash",
+        "bbox": null
+      },
+      "purpose": "Consultant",
+      "amount": 2500
+    },
+    {
+      "_page": 3,
+      "date": "6/27/24",
+      "name": "Michael Hawes",
+      "address": {
+        "value": "7039 N Wabash",
+        "bbox": null
+      },
+      "purpose": "Advisor",
+      "amount": 5000
+    },
+    {
+      "_page": 3,
+      "date": "6/27/24",
+      "name": "Danny Coolsky",
+      "address": {
+        "value": "110 E Waterman St Ste 150",
+        "bbox": null
+      },
+      "purpose": "Advisor",
+      "amount": 5000
+    },
+    {
+      "_page": 3,
+      "date": "6/27/24",
+      "name": "Danny Coolsky",
+      "address": {
+        "value": "110 E Waterman St Ste 150",
+        "bbox": null
+      },
+      "purpose": "Advisor",
+      "amount": 5000
+    }
+  ],
+  "total_itemized_expenditures": null,
+  "total_unitemized_expenditures": null,
+  "total_itemized_receipts": null,
+  "other_transactions": [],
+  "in_kind_contributions": []
+}

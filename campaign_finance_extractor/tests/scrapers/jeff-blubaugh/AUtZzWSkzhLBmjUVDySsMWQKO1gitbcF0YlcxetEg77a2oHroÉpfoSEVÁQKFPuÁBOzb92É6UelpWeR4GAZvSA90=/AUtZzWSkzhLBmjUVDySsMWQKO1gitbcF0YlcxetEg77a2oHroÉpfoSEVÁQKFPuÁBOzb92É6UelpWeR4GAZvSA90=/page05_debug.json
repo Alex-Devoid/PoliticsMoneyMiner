@@ -1,0 +1,321 @@
+{
+  "candidate": null,
+  "summary": null,
+  "contributions": [],
+  "total_unitemized_contributions": null,
+  "expenditures": [
+    {
+      "_page": 5,
+      "date": "3/2/23",
+      "name": "Bennington Bank 3954 N. Ridge Rd, Wichita KS 67205",
+      "address": {
+        "value": "Check order",
+        "bbox": null
+      },
+      "purpose": "Check order",
+      "amount": 47.23
+    },
+    {
+      "_page": 5,
+      "date": "3/2/23",
+      "name": "Office Aide 911 E Olmoe Wichita, KS 67211",
+      "address": {
+        "value": "Campaign Fundraiser Mailing",
+        "bbox": null
+      },
+      "purpose": "Campaign Fundraiser Mailing",
+      "amount": 869.98
+    },
+    {
+      "_page": 5,
+      "date": "3/7/23",
+      "name": "JABU Design Julie Burton 3302 E Old Mill ST Wichita, KS 67226",
+      "address": {
+        "value": "Logo Design & Campaign work",
+        "bbox": null
+      },
+      "purpose": "Logo Design & Campaign work",
+      "amount": 866.61
+    },
+    {
+      "_page": 5,
+      "date": "3/7/23",
+      "name": "J Blare 10915 W Atlanta Circle Wichita, KS 67215",
+      "address": {
+        "value": "Reimburse Postage for Mailing",
+        "bbox": null
+      },
+      "purpose": "Reimburse Postage for Mailing",
+      "amount": 161.38
+    },
+    {
+      "_page": 5,
+      "date": "4/1/23",
+      "name": "Haysville Chamber 230 S Main St, Haysville, KS 67060",
+      "address": {
+        "value": "Dues to civic group",
+        "bbox": null
+      },
+      "purpose": "Dues to civic group",
+      "amount": 165.0
+    },
+    {
+      "_page": 5,
+      "date": "4/6/23",
+      "name": "Kurt Shurts Shurts Logo 300 Osage Wichita, KS 67218",
+      "address": {
+        "value": "Campaign T Shirts",
+        "bbox": null
+      },
+      "purpose": "Campaign T Shirts",
+      "amount": 306.25
+    },
+    {
+      "_page": 5,
+      "date": "4/27/23",
+      "name": "JABU Design Julie Burton 3302 E Old Mill ST Wichita, KS 67226",
+      "address": {
+        "value": "Logo Design & Campaign work",
+        "bbox": null
+      },
+      "purpose": "Logo Design & Campaign work",
+      "amount": 1782.3
+    },
+    {
+      "_page": 5,
+      "date": "5/5/23",
+      "name": "Kurt Shurts Shurts Logo 300 Osage Wichita, KS 67218",
+      "address": {
+        "value": "Campaign T Shirts",
+        "bbox": null
+      },
+      "purpose": "Campaign T Shirts",
+      "amount": 193.5
+    },
+    {
+      "_page": 5,
+      "date": "5/5/23",
+      "name": "JABU Design Julie Burton 3302 E Old Mill ST Wichita, KS 67226",
+      "address": {
+        "value": "Campaign work",
+        "bbox": null
+      },
+      "purpose": "Campaign work",
+      "amount": 123.75
+    },
+    {
+      "_page": 5,
+      "date": "8/14/23",
+      "name": "Kurt Shurts Shurts Logo 300 Osage Wichita, KS 67218",
+      "address": {
+        "value": "Campaign T Shirts",
+        "bbox": null
+      },
+      "purpose": "Campaign T Shirts",
+      "amount": 767.55
+    },
+    {
+      "_page": 5,
+      "date": "7/10/23",
+      "name": "JABU Design Julie Burton 3302 E Old Mill ST Wichita, KS 67226",
+      "address": {
+        "value": "Campaign Management",
+        "bbox": null
+      },
+      "purpose": "Campaign Management",
+      "amount": 2322.98
+    },
+    {
+      "_page": 5,
+      "date": "9/30/23",
+      "name": "Haysville Education Foundation 1745 W Grand Ave. Haysville, KS 67060",
+      "address": {
+        "value": "Barn Bash event Fundraiser",
+        "bbox": null
+      },
+      "purpose": "Barn Bash event Fundraiser",
+      "amount": 217.5
+    },
+    {
+      "_page": 5,
+      "date": "10/21/23",
+      "name": "Village Inn 3535 S Meridian Wichita, KS 67217",
+      "address": {
+        "value": "Campaign Strategy Lunch",
+        "bbox": null
+      },
+      "purpose": "Campaign Strategy Lunch",
+      "amount": 35.0
+    },
+    {
+      "_page": 5,
+      "date": "10/6/23",
+      "name": "City Print PO 75217 Wichita KS 67275",
+      "address": {
+        "value": "Campaign Printing",
+        "bbox": null
+      },
+      "purpose": "Campaign Printing",
+      "amount": 131.15
+    },
+    {
+      "_page": 5,
+      "date": "10/5/23",
+      "name": "Meghan Blubaugh 10915 W Atlanta Circle Wichita, KS 67215",
+      "address": {
+        "value": "Reimbursement for Parade Candy",
+        "bbox": null
+      },
+      "purpose": "Reimbursement for Parade Candy",
+      "amount": 235.92
+    },
+    {
+      "_page": 5,
+      "date": "10/7/23",
+      "name": "Meghan Blubaugh 10915 W Atlanta Circle Wichita, KS 67215",
+      "address": {
+        "value": "Reimbursement for lunch for parade volunteers at Olive Garden",
+        "bbox": null
+      },
+      "purpose": "Reimbursement for lunch for parade volunteers at Olive Garden",
+      "amount": 160.65
+    },
+    {
+      "_page": 5,
+      "date": "10/12/23",
+      "name": "JABU Design Julie Burton 3302 E Old Mill ST Wichita, KS 67226",
+      "address": {
+        "value": "Campaign work and Pen order",
+        "bbox": null
+      },
+      "purpose": "Campaign work and Pen order",
+      "amount": 1579.23
+    },
+    {
+      "_page": 5,
+      "date": "10/21/23",
+      "name": "Texas Roadhouse 6707 West Kellogg Wichita, KS 67209",
+      "address": {
+        "value": "Lunch for parade attendees",
+        "bbox": null
+      },
+      "purpose": "Lunch for parade attendees",
+      "amount": 186.02
+    },
+    {
+      "_page": 5,
+      "date": "10/24/23",
+      "name": "Meghan Blubaugh 10915 W Atlanta Circle Wichita, KS 67215",
+      "address": {
+        "value": "Reimbursement for stamps for campaign letters",
+        "bbox": null
+      },
+      "purpose": "Reimbursement for stamps for campaign letters",
+      "amount": 132.0
+    },
+    {
+      "_page": 5,
+      "date": "10/24/23",
+      "name": "Meghan Blubaugh 10915 W Atlanta Circle Wichita, KS 67215",
+      "address": {
+        "value": "Reimbursement for donuts for parade",
+        "bbox": null
+      },
+      "purpose": "Reimbursement for donuts for parade",
+      "amount": 19.3
+    },
+    {
+      "_page": 5,
+      "date": "10/24/23",
+      "name": "Albert Pike 332 E 1st N Wichita, KS 67202",
+      "address": {
+        "value": "Dues to civic group",
+        "bbox": null
+      },
+      "purpose": "Dues to civic group",
+      "amount": 135.0
+    },
+    {
+      "_page": 5,
+      "date": "10/24/23",
+      "name": "Midan Shrine 130 N Topeka Wichita, KS 67202",
+      "address": {
+        "value": "Dues to civic group",
+        "bbox": null
+      },
+      "purpose": "Dues to civic group",
+      "amount": 170.0
+    },
+    {
+      "_page": 5,
+      "date": "10/25/23",
+      "name": "Meghan Blubaugh 10915 W Atlanta Circle Wichita, KS 67215",
+      "address": {
+        "value": "Reimbursement for parade candy",
+        "bbox": null
+      },
+      "purpose": "Reimbursement for parade candy",
+      "amount": 117.96
+    },
+    {
+      "_page": 5,
+      "date": "11/2/23",
+      "name": "Brooke Kaucbak 455 N Main Wichita, KS 67202",
+      "address": {
+        "value": "Reimbursement for donuts for neighborhood clean up",
+        "bbox": null
+      },
+      "purpose": "Reimbursement for donuts for neighborhood clean up",
+      "amount": 115.17
+    },
+    {
+      "_page": 5,
+      "date": "11/14/23",
+      "name": "Wichita Independent Business Association 100 N Broadway St Ste. 1050, Wichita, KS 67202",
+      "address": {
+        "value": "Dues to civic group",
+        "bbox": null
+      },
+      "purpose": "Dues to civic group",
+      "amount": 250.0
+    },
+    {
+      "_page": 5,
+      "date": "11/20/23",
+      "name": "City Print PO 75217 Wichita KS 67275",
+      "address": {
+        "value": "Print Campaign Material",
+        "bbox": null
+      },
+      "purpose": "Print Campaign Material",
+      "amount": 362.81
+    },
+    {
+      "_page": 5,
+      "date": "11/22/23",
+      "name": "Meghan Blubaugh 10915 W Atlanta Circle Wichita, KS 67215",
+      "address": {
+        "value": "Stamps and Pens Reimbursement",
+        "bbox": null
+      },
+      "purpose": "Stamps and Pens Reimbursement",
+      "amount": 205.46
+    },
+    {
+      "_page": 5,
+      "date": "11/28/23",
+      "name": "Pay Pal 2211 N 1st St, San Jose, CA 95123",
+      "address": {
+        "value": "Pay Pal Charge for contribution",
+        "bbox": null
+      },
+      "purpose": "Pay Pal Charge for contribution",
+      "amount": 3.0
+    }
+  ],
+  "total_itemized_expenditures": null,
+  "total_unitemized_expenditures": null,
+  "total_itemized_receipts": null,
+  "other_transactions": [],
+  "in_kind_contributions": []
+}

@@ -27,7 +27,7 @@ export default defineEventHandler(async (event) => {
   const body = await readBody(event)
   const cfg = useRuntimeConfig(event)
   const baseURL = cfg.public.financeApiUrl!.replace(/\/$/, '')
-  const url = `${baseURL}/finance/reextract/rotate-extract`
+  const url = `${baseURL}/finance/reextract/preview`
 
   const isDev = process.env.NODE_ENV === 'development'
   let token = ''

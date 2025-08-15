@@ -4,10 +4,11 @@ from __future__ import annotations
 import io
 import os
 import json
+import base64
 from datetime import timedelta
 from typing import Optional, Tuple, List, Dict, Any, Union, TypeAlias
-import base64
-from fastapi import APIRouter, Body, Depends, HTTPException
+
+from fastapi import APIRouter, Body, Depends, HTTPException, BackgroundTasks
 from pydantic import BaseModel, Field, ConfigDict
 
 from google.cloud import firestore
@@ -23,12 +24,18 @@ from langchain_core.messages import HumanMessage
 from langchain_core.output_parsers import PydanticOutputParser
 from langchain.output_parsers import OutputFixingParser, RetryWithErrorOutputParser
 
+# at top of file
+import logging, time
+logger = logging.getLogger("reextract")
+logger.setLevel(logging.INFO)
+
+# SINGLE router (keep tags)
 router = APIRouter(prefix="/finance", tags=["reextract"])
+
+# ───────────────────────── helpers ─────────────────────────
 
 def _png_bytes_to_data_url(png: bytes) -> str:
     return "data:image/png;base64," + base64.b64encode(png).decode()
-
-# ───────────────────────── helpers ─────────────────────────
 
 def _parse_gs_url(gs_url: str) -> Tuple[str, str]:
     if not gs_url.startswith("gs://"):
@@ -39,7 +46,6 @@ def _parse_gs_url(gs_url: str) -> Tuple[str, str]:
         raise HTTPException(500, "Malformed gs:// URL")
     return bucket, blob
 
-
 def _rotate_png_bytes(png_bytes: bytes, deg_cw: int) -> bytes:
     """Rotate CW by 0/90/180/270 and return PNG bytes."""
     deg_ccw = (360 - (deg_cw % 360)) % 360
@@ -48,7 +54,6 @@ def _rotate_png_bytes(png_bytes: bytes, deg_cw: int) -> bytes:
     buf = io.BytesIO()
     rot.save(buf, format="PNG", optimize=True)
     return buf.getvalue()
-
 
 def _generate_signed_url_for_read(blob, minutes: int = 10) -> str:
     """Signed URL (v4) so OpenAI can read the image directly."""
@@ -62,7 +67,6 @@ def _generate_signed_url_for_read(blob, minutes: int = 10) -> str:
         )
     except Exception as e:
         raise HTTPException(500, f"Could not create signed URL for extraction: {e}")
-
 
 # ───────────────────── Pydantic models (match scraper) ─────────────────────
 
@@ -132,18 +136,9 @@ class _InitialExtract(BaseModel):
     expenditures:  list[_Expend]  = []
     in_kind_contributions: list[_InKind] = []
     other_transactions:    list[_Debt]   = []
-    # allow anything extra without exploding
     model_config = ConfigDict(extra="allow")
 
-
-def _unwrap_scalar(v: Any) -> Any:
-    """Match scraper: unwrap FieldBBox → value; everything else passthrough."""
-    if isinstance(v, dict) and "value" in v:
-        return v.get("value")
-    return v
-
 def _bbox_field(val: Any = "") -> Dict[str, Any]:
-    """Wrap value into {value, bbox} shape used by meta rows."""
     if isinstance(val, dict) and {"value", "bbox"} <= val.keys():
         return {"value": val.get("value"), "bbox": val.get("bbox")}
     return {"value": val, "bbox": None}
@@ -154,10 +149,7 @@ def _page_of(row: Dict[str, Any] | None) -> int | None:
     return row.get("_page") or row.get("page")
 
 def _initial_to_filing(src: Dict[str, Any], *, page_no: int) -> Dict[str, Any]:
-    """
-    Convert _InitialExtract-like dict → strict Filing dict (same as scraper),
-    but only for a single page. Meta rows are attributed to page 1 (scraper behavior).
-    """
+    """Convert _InitialExtract-like dict → strict Filing dict (same as scraper), for single page."""
     cand = src.get("candidate", {}) or {}
     summ = src.get("summary",   {}) or {}
 
@@ -182,11 +174,8 @@ def _initial_to_filing(src: Dict[str, Any], *, page_no: int) -> Dict[str, Any]:
         "signature_date"                   : _bbox_field(""),
     }
 
-    # Normalize schedule rows to include _page and keep field names identical to scraper
     def _ensure_page(r: Dict[str, Any]) -> Dict[str, Any]:
-        if r is None:
-            return {}
-        # prefer explicit _page; fall back to provided alias 'page' or current page
+        if r is None: return {}
         pg = r.get("_page") or r.get("page") or page_no
         out = {**r}
         out.pop("page", None)
@@ -195,18 +184,16 @@ def _initial_to_filing(src: Dict[str, Any], *, page_no: int) -> Dict[str, Any]:
 
     schedule_a = [_ensure_page(r) for r in src.get("contributions", [])]
     schedule_b = [_ensure_page(r) for r in src.get("in_kind_contributions", [])]
-    # Keep 'name' (NOT 'payee') to match scraper
     schedule_c = [
         _ensure_page({
-            "date"   : r.get("date"),
-            "name"   : r.get("name") or r.get("payee"),  # accept either, persist as 'name'
+            "date": r.get("date"),
+            "name": r.get("name") or r.get("payee"),
             "address": r.get("address"),
             "purpose": r.get("purpose"),
-            "amount" : r.get("amount"),
-            "bbox"   : r.get("bbox"),
-            "_page"  : _page_of(r) or page_no,
-        })
-        for r in src.get("expenditures", [])
+            "amount": r.get("amount"),
+            "bbox": r.get("bbox"),
+            "_page": _page_of(r) or page_no,
+        }) for r in src.get("expenditures", [])
     ]
     schedule_d = [_ensure_page(r) for r in src.get("other_transactions", [])]
 
@@ -218,45 +205,65 @@ def _initial_to_filing(src: Dict[str, Any], *, page_no: int) -> Dict[str, Any]:
         "schedule_d" : schedule_d,
     }
 
+def _build_page_rows_for_write(
+    filing_dict: Dict[str, Any], *, page_no: int, reset_validated: bool
+) -> List[Dict[str, Any]]:
+    rows: List[Dict[str, Any]] = []
 
-# ───────────────────────── models ─────────────────────────
+    if page_no == 1:
+        meta_rows = []
+        for label, fb in (filing_dict.get("report_meta") or {}).items():
+            meta_rows.append({
+                "field"     : label,
+                "value"     : fb.get("value"),
+                "bbox"      : fb.get("bbox"),
+                "_page"     : 1,
+                "row_type"  : "meta",
+                "validated" : False if reset_validated else False,
+                "row_order" : len(meta_rows) + 1,
+            })
+        rows.extend(meta_rows)
 
-class ReextractRequest(BaseModel):
-    rotation: int = Field(..., description="CW degrees: 0, 90, 180, 270")
-    # Option A
-    doc_id: Optional[str] = None
-    local_page: Optional[int] = Field(None, ge=1)
-    # Option B
-    slug: Optional[str] = None
-    global_page: Optional[int] = Field(None, ge=1)
-    overwrite_image: bool = True
-    reset_validated: bool = True
+    def _canon_page(r: Dict[str, Any]) -> tuple[Dict[str, Any], int]:
+        out = dict(r)
+        pg = out.get("_page") or out.get("page") or page_no
+        out.pop("page", None)
+        out["_page"] = pg
+        return out, int(pg)
 
-class ReextractResult(BaseModel):
-    doc_id: str
-    page: int
-    rows_written: int
-    gs_url: str
-    rotation_applied: int
+    def _add(seq: List[Dict[str, Any]], row_type: str):
+        for idx, raw in enumerate(seq, start=1):
+            r = dict(raw)
+            if row_type == "expenditure" and "payee" in r and "name" not in r:
+                r["name"] = r.pop("payee")
+            r, pg = _canon_page(r)
+            if pg != page_no:
+                continue
+            row = {
+                **r,
+                "row_type"  : row_type,
+                "validated" : False if reset_validated else False,
+                "row_order" : idx,
+            }
+            rows.append(row)
 
+    _add(filing_dict.get("schedule_a", []), "contribution")
+    _add(filing_dict.get("schedule_b", []), "in_kind")
+    _add(filing_dict.get("schedule_c", []), "expenditure")
+    _add(filing_dict.get("schedule_d", []), "debt")
 
-# ─────────────────── page resolver ────────────────────
+    return rows
+
+# ─────────────── Resolver, LLM extract (reused) ───────────────
 
 async def _resolve_doc_and_local_page(
     client: firestore.Client,
-    *,
-    doc_id: Optional[str],
-    local_page: Optional[int],
-    slug: Optional[str],
-    global_page: Optional[int],
+    *, doc_id: Optional[str], local_page: Optional[int], slug: Optional[str], global_page: Optional[int],
 ) -> Tuple[str, int]:
-    """Accept (doc_id+local_page) or (slug+global_page) → (doc_id, local_page)."""
     if doc_id and local_page:
         return doc_id, int(local_page)
-
     if not (slug and global_page):
         raise HTTPException(400, "Provide (doc_id & local_page) or (slug & global_page)")
-
     filings = (
         client.collection("filings")
               .where("candidate_slug", "==", slug)
@@ -266,7 +273,6 @@ async def _resolve_doc_and_local_page(
     filings = [f for f in filings]
     if not filings:
         raise HTTPException(404, "Candidate not found")
-
     cursor = 0
     for f in filings:
         d = f.to_dict() or {}
@@ -276,26 +282,16 @@ async def _resolve_doc_and_local_page(
             cursor += 1
             if cursor == int(global_page):
                 return f.id, p
-
     raise HTTPException(404, "global_page out of range for this slug")
 
-
-# ─────────────── LLM single-page extract (mirrors scraper) ───────────────
-
 async def _extract_initial_for_page(*, image_url: str) -> Dict[str, Any]:
-    """
-    Run the same structured extraction the scraper uses (page-level),
-    returning a dict matching _InitialExtract.
-    """
     from dotenv import load_dotenv
     load_dotenv()
     if not os.environ.get("OPENAI_API_KEY"):
         raise HTTPException(500, "OPENAI_API_KEY is not set")
-
     model = os.getenv("OPENAI_MODEL", "gpt-4o")
     llm = ChatOpenAI(model=model, temperature=0)
 
-    # Parser + fix/retry chain (same style as scraper)
     base_parser   = PydanticOutputParser(pydantic_object=_InitialExtract)
     fixing_parser = OutputFixingParser.from_llm(llm=llm, parser=base_parser)
     retry_parser  = RetryWithErrorOutputParser.from_llm(llm=llm, parser=fixing_parser)
@@ -317,117 +313,42 @@ Rules:
   • Output pure JSON, no markdown or commentary.
 """.strip()
 
-    msg = HumanMessage(
-        content=[
-            {"type": "image_url", "image_url": {"url": image_url}},
-            {"type": "text", "text": PAGE_PROMPT},
-        ]
-    )
-
+    msg = HumanMessage(content=[{"type":"image_url","image_url":{"url": image_url}}, {"type":"text","text": PAGE_PROMPT}])
     raw = (await llm.ainvoke([msg])).content
     try:
         page_obj = retry_parser.parse_with_prompt(raw, PAGE_PROMPT)
     except Exception:
-        # last-ditch tolerance for slight formatting issues
         page_obj = base_parser.parse(json.dumps(json.loads(str(raw))))
-
     return page_obj.model_dump(by_alias=True)
 
+# ───────────────────── Slow endpoint (kept) ─────────────────────
 
-# ───────────────────── Firestore write (match scraper) ─────────────────────
+class ReextractRequest(BaseModel):
+    rotation: int = Field(..., description="CW degrees: 0, 90, 180, 270")
+    doc_id: Optional[str] = None
+    local_page: Optional[int] = Field(None, ge=1)
+    slug: Optional[str] = None
+    global_page: Optional[int] = Field(None, ge=1)
+    overwrite_image: bool = True
+    reset_validated: bool = True
 
-def _build_page_rows_for_write(
-    filing_dict: Dict[str, Any],
-    *,
-    page_no: int,
-    reset_validated: bool
-) -> List[Dict[str, Any]]:
-    """
-    Build the list of row docs to write for ONE page, mirroring _persist_filing.
-
-    Key compat points with the scraper:
-      • meta rows live ONLY on page 1 and always carry _page: 1
-      • schedule_c uses 'name' (not 'payee')
-      • rows carry '_page' (never the alias 'page')
-      • we keep row_order as the 1-based index within each schedule list
-    """
-    rows: List[Dict[str, Any]] = []
-
-    # 1) Meta rows as QC lines — ONLY write when updating page 1
-    if page_no == 1:
-        meta_rows = []
-        for label, fb in (filing_dict.get("report_meta") or {}).items():
-            meta_rows.append({
-                "field"     : label,
-                "value"     : fb.get("value"),
-                "bbox"      : fb.get("bbox"),
-                "_page"     : 1,               # KS form places header/totals on page 1
-                "row_type"  : "meta",
-                "validated" : False if reset_validated else False,
-                "row_order" : len(meta_rows) + 1,
-            })
-        rows.extend(meta_rows)
-
-    def _canon_page(r: Dict[str, Any]) -> tuple[Dict[str, Any], int]:
-        """Return (row_without_page_alias, resolved_page)."""
-        out = dict(r)
-        pg = out.get("_page") or out.get("page") or page_no
-        out.pop("page", None)
-        out["_page"] = pg
-        return out, int(pg)
-
-    # Helper to append schedule rows with types
-    def _add(seq: List[Dict[str, Any]], row_type: str):
-        for idx, raw in enumerate(seq, start=1):  # keep global index per schedule
-            r = dict(raw)
-            # schedule_c compat: ensure 'name' key
-            if row_type == "expenditure":
-                if "payee" in r and "name" not in r:
-                    r["name"] = r.pop("payee")
-
-            r, pg = _canon_page(r)
-            if pg != page_no:
-                continue  # only write rows that belong to this page
-
-            row = {
-                **r,
-                "row_type"  : row_type,
-                "validated" : False if reset_validated else False,
-                "row_order" : idx,
-            }
-            rows.append(row)
-
-    _add(filing_dict.get("schedule_a", []), "contribution")
-    _add(filing_dict.get("schedule_b", []), "in_kind")
-    _add(filing_dict.get("schedule_c", []), "expenditure")
-    _add(filing_dict.get("schedule_d", []), "debt")
-
-    return rows
-
-
-# ───────────────────── endpoint ─────────────────────
+class ReextractResult(BaseModel):
+    doc_id: str
+    page: int
+    rows_written: int
+    gs_url: str
+    rotation_applied: int
 
 @router.post("/reextract/rotate-extract", response_model=ReextractResult)
 async def rotate_and_reextract(
     body: ReextractRequest = Body(...),
     client: firestore.Client = Depends(get_firestore_client),
 ):
-    """
-    Rotate one stored PNG page, then re-extract using the same
-    LangChain/OpenAI-first-pass JSON shape as the Sedgwick scraper.
-    Writes page rows in the same format as the scraper helpers.
-    Falls back to a data: URL if we cannot sign a GCS URL locally.
-    """
     if body.rotation not in (0, 90, 180, 270):
         raise HTTPException(400, "rotation must be one of 0, 90, 180, 270")
 
-    # 1) Resolve doc_id & local page
     doc_id, local_page = await _resolve_doc_and_local_page(
-        client,
-        doc_id=body.doc_id,
-        local_page=body.local_page,
-        slug=body.slug,
-        global_page=body.global_page,
+        client, doc_id=body.doc_id, local_page=body.local_page, slug=body.slug, global_page=body.global_page,
     )
 
     filing_ref = client.collection("filings").document(doc_id)
@@ -437,7 +358,6 @@ async def rotate_and_reextract(
     if not gs_url:
         raise HTTPException(404, f"Missing files.page_{local_page}")
 
-    # 2) Download → rotate → (optional) overwrite image bytes
     storage = get_storage_client()
     bucket_name, blob_path = _parse_gs_url(gs_url)
     blob = storage.bucket(bucket_name).blob(blob_path)
@@ -450,14 +370,11 @@ async def rotate_and_reextract(
     if body.overwrite_image:
         blob.upload_from_string(rotated, content_type="image/png")
 
-    # 2b) Prepare image reference for the LLM:
-    #     try a signed URL first; if credentials can't sign, fall back to a data: URL.
     try:
         image_ref = _generate_signed_url_for_read(blob, minutes=10)
     except Exception:
-        image_ref = "data:image/png;base64," + base64.b64encode(rotated).decode()
+        image_ref = _png_bytes_to_data_url(rotated)
 
-    # 3) LLM extract (same schema as scraper’s first pass)
     try:
         initial = await _extract_initial_for_page(image_url=image_ref)
     except Exception as e:
@@ -465,15 +382,12 @@ async def rotate_and_reextract(
 
     if not isinstance(initial, dict):
         initial = {}
-
-    # Ensure each schedule row carries _page (drop any alias later during build)
     for key, val in list(initial.items()):
         if isinstance(val, list):
             for r in val:
                 if isinstance(r, dict):
                     r.setdefault("_page", local_page)
 
-    # 4) Convert to strict filing shape (like scraper), then build page rows
     try:
         filing_like = _initial_to_filing(initial, page_no=local_page)
         new_rows = _build_page_rows_for_write(
@@ -482,42 +396,207 @@ async def rotate_and_reextract(
     except Exception as e:
         raise HTTPException(500, f"Post-process to page rows failed: {e}")
 
-    # 5) Overwrite ONLY this page's rows in Firestore
     page_ref = filing_ref.collection("pages").document(str(local_page))
     batch = client.batch()
-
-    # wipe existing rows for this page
     for snap in page_ref.collection("rows").stream():
         batch.delete(snap.reference)
-
-    # write new rows for this page
     for r in new_rows:
         batch.set(page_ref.collection("rows").document(), r)
-
-    # bump page doc
     batch.set(
         page_ref,
-        {
-            "img": gs_url,  # same path; bytes may be rotated
-            "page_no": local_page,
-            "rotation_applied": body.rotation,
-            "updated": SERVER_TIMESTAMP,
-        },
+        { "img": gs_url, "page_no": local_page, "rotation_applied": body.rotation, "updated": SERVER_TIMESTAMP },
         merge=True,
     )
-
     batch.commit()
 
     return ReextractResult(
-        doc_id=doc_id,
-        page=local_page,
-        rows_written=len(new_rows),
-        gs_url=gs_url,
-        rotation_applied=body.rotation,
+        doc_id=doc_id, page=local_page, rows_written=len(new_rows), gs_url=gs_url, rotation_applied=body.rotation
     )
 
+# ───────────────────── NEW fast preview endpoint ─────────────────────
+class PreviewReq(BaseModel):
+    slug: str
+    global_page: int = Field(..., ge=1)
+    rotation: int = 0
+    overwrite_image: bool = True
+    reset_validated: bool = True
+    persist: bool = True  # enqueue background rotate+write
 
-# Back-compat alias (front-end earlier posted to /reextract)
+def _shape_rows_for_ui(filing_like: Dict[str, Any], *, page_no: int) -> List[Dict[str, Any]]:
+    """
+    Return rows shaped like /filings/{slug}/pages: {id,label,value,bbox,approved,row_type,columns,norm}
+    Uses the same logic as filings_qc when building UI rows.
+    """
+    rows_ui: List[Dict[str, Any]] = []
+    # Build writer rows, then convert to UI shape (cheap & deterministic)
+    writer_rows = _build_page_rows_for_write(filing_like, page_no=page_no, reset_validated=True)
+    for i, r in enumerate(writer_rows):
+        rt = r.get("row_type")
+        cols: Dict[str, Any] = {}
+        if rt == "contribution":
+            cols = {
+                "date": r.get("date"),
+                "donor": r.get("contributor") or r.get("name"),
+                "address": r.get("address"),
+                "city": r.get("city"), "state": r.get("state"), "zip": r.get("zip"),
+                "type": r.get("type"), "amount": r.get("amount"),
+            }
+        elif rt == "expenditure":
+            cols = {
+                "date": r.get("date"),
+                "payee": r.get("name") or r.get("payee"),
+                "address": r.get("address"),
+                "purpose": r.get("purpose"),
+                "amount": r.get("amount"),
+            }
+        elif rt == "in_kind":
+            cols = {
+                "date": r.get("date"),
+                "donor": r.get("contributor"),
+                "description": r.get("description"),
+                "value": r.get("value"),
+            }
+        elif rt == "debt":
+            cols = {
+                "date": r.get("date"),
+                "creditor": r.get("creditor"),
+                "purpose": r.get("purpose"),
+                "balance": r.get("balance"),
+            }
+
+        rows_ui.append({
+            "id"      : f"tmp_{i}",
+            "label"   : cols.get("donor") or cols.get("payee") or r.get("row_type"),
+            "value"   : r.get("amount") or r.get("value") or r.get("balance"),
+            "bbox"    : r.get("bbox"),
+            "approved": False,
+            "row_type": rt,
+            "columns" : {k: v for k, v in cols.items() if v not in ("", None, "")},
+            "norm"    : None,  # optional; you can add the same norm block as filings_qc if you want
+        })
+    return rows_ui
+
+@router.post("/reextract/preview")
+async def reextract_preview(
+    req: PreviewReq, background: BackgroundTasks, client: firestore.Client = Depends(get_firestore_client),
+):
+    t0 = time.perf_counter()
+    logger.info("[reextract.preview] start slug=%s gpage=%d rotation=%d persist=%s",
+                req.slug, req.global_page, req.rotation, req.persist)
+
+    # resolve page
+    t_resolve0 = time.perf_counter()
+    doc_id, local_page = await _resolve_doc_and_local_page(
+        client, doc_id=None, local_page=None, slug=req.slug, global_page=req.global_page
+    )
+    filing_ref = client.collection("filings").document(doc_id)
+    filing_doc = filing_ref.get().to_dict() or {}
+    files_map = filing_doc.get("files", {})
+    gs_url = files_map.get(f"page_{local_page}")
+    if not gs_url:
+        raise HTTPException(404, f"Missing files.page_{local_page}")
+    t_resolve1 = time.perf_counter()
+    logger.info("[reextract.preview] resolved doc=%s local_page=%d resolve_ms=%.1f",
+                doc_id, local_page, (t_resolve1 - t0) * 1000)
+
+    # download and rotate IN MEMORY
+    t_dl0 = time.perf_counter()
+    storage = get_storage_client()
+    bucket, blob_path = _parse_gs_url(gs_url)
+    blob = storage.bucket(bucket).blob(blob_path)
+    if not blob.exists():
+        raise HTTPException(404, "Storage object not found for this page")
+    orig_png = blob.download_as_bytes()
+    t_dl1 = time.perf_counter()
+    rotated  = _rotate_png_bytes(orig_png, req.rotation)
+    t_rot1 = time.perf_counter()
+    logger.info("[reextract.preview] storage_download_ms=%.1f bytes=%d rotate_ms=%.1f",
+                (t_dl1 - t_dl0)*1000, len(orig_png), (t_rot1 - t_dl1)*1000)
+
+    # LLM extract → filing-like → UI rows
+    img_ref = _png_bytes_to_data_url(rotated)
+    t_llm0 = time.perf_counter()
+    try:
+        initial     = await _extract_initial_for_page(image_url=img_ref)
+        filing_like = _initial_to_filing(initial or {}, page_no=local_page)
+        rows_ui     = _shape_rows_for_ui(filing_like, page_no=local_page)
+    except Exception as e:
+        logger.exception("[reextract.preview] extract_failed")
+        raise HTTPException(500, f"Preview extract failed: {e}")
+    t_llm1 = time.perf_counter()
+    logger.info("[reextract.preview] llm_ms=%.1f shape_ms=%.1f",
+                (t_llm1 - t_llm0)*1000, (time.perf_counter() - t_llm1)*1000)
+
+    # Background persistence (rotated image + canonical writer rows)
+    if req.persist:
+        async def _bg():
+            bg0 = time.perf_counter()
+            try:
+                up0 = time.perf_counter()
+                if req.overwrite_image:
+                    blob.upload_from_string(rotated, content_type="image/png")
+                    dst_uri = gs_url
+                else:
+                    base, ext = (blob_path.rsplit(".", 1) + ["png"])[:2]
+                    dst_name  = f"{base}_rot{req.rotation}.{ext}"
+                    dst_blob  = storage.bucket(bucket).blob(dst_name)
+                    dst_blob.upload_from_string(rotated, content_type="image/png")
+                    dst_uri = f"gs://{bucket}/{dst_name}"
+                    client.document(f"filings/{doc_id}").update({ f"files.page_{local_page}": dst_uri })
+                up1 = time.perf_counter()
+
+                writer_rows = _build_page_rows_for_write(
+                    _initial_to_filing(initial or {}, page_no=local_page),
+                    page_no=local_page, reset_validated=req.reset_validated
+                )
+                wr0 = time.perf_counter()
+                page_ref = filing_ref.collection("pages").document(str(local_page))
+                batch = client.batch()
+                for snap in page_ref.collection("rows").stream():
+                    batch.delete(snap.reference)
+                for r in writer_rows:
+                    batch.set(page_ref.collection("rows").document(), r)
+                batch.set(page_ref, {
+                    "img": dst_uri,
+                    "page_no": local_page,
+                    "rotation_applied": req.rotation,
+                    "validated": False if req.reset_validated else False,
+                    "updated": SERVER_TIMESTAMP,
+                }, merge=True)
+                batch.commit()
+                wr1 = time.perf_counter()
+
+                logger.info("[reextract.preview.bg] persisted doc=%s page=%d upload_ms=%.1f rows_ms=%.1f total_ms=%.1f",
+                            doc_id, local_page, (up1-up0)*1000, (wr1-wr0)*1000, (wr1-bg0)*1000)
+            except Exception as e:
+                logger.exception("[reextract.preview.bg] persist_failed doc=%s page=%d", doc_id, local_page)
+
+        background.add_task(_bg)
+        logger.info("[reextract.preview] background_task_scheduled doc=%s page=%d", doc_id, local_page)
+    else:
+        logger.info("[reextract.preview] persist=false (no background writes)")
+
+    logger.info("[reextract.preview] done preview_ms=%.1f", (time.perf_counter() - t0)*1000)
+
+    return {
+        "doc_id"     : doc_id,
+        "page"       : req.global_page,
+        "totalPages" : len([k for k in files_map.keys() if k.startswith("page_")]),
+        "pageImg"    : files_map.get(f"page_{local_page}"),
+        "rows"       : rows_ui,
+        "files"      : files_map,
+        "persisted"  : False,
+        "timings_ms" : {
+            "resolve": round((t_resolve1 - t0)*1000, 1),
+            "download": round((t_dl1 - t_dl0)*1000, 1),
+            "rotate": round((t_rot1 - t_dl1)*1000, 1),
+            "llm": round((t_llm1 - t_llm0)*1000, 1),
+            "preview_total": round((time.perf_counter() - t0)*1000, 1),
+        }
+    }
+
+
+# Back-compat alias (keep the slow path alias if you still need it)
 @router.post("/reextract", response_model=ReextractResult)
 async def reextract_alias(
     body: ReextractRequest = Body(...),

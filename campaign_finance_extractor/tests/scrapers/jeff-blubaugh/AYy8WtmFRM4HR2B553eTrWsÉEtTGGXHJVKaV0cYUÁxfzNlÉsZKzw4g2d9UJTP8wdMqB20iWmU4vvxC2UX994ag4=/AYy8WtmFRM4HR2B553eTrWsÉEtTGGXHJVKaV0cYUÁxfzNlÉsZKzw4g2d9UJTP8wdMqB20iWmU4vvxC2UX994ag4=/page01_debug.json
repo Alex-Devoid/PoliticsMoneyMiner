@@ -1,0 +1,72 @@
+{
+  "candidate": {
+    "name": {
+      "value": "Jeff Blubaugh",
+      "bbox": null
+    },
+    "address": {
+      "value": "10915 W Atlanta Cir",
+      "bbox": null
+    },
+    "city": {
+      "value": "Wichita",
+      "bbox": null
+    },
+    "zip": {
+      "value": "67215",
+      "bbox": null
+    },
+    "county": {
+      "value": "Sedgwick",
+      "bbox": null
+    },
+    "office_sought": {
+      "value": "County Commission",
+      "bbox": null
+    },
+    "district": {
+      "value": "2",
+      "bbox": null
+    },
+    "_page": 1
+  },
+  "summary": {
+    "cash_on_hand_beginning": {
+      "value": 19511.52,
+      "bbox": null
+    },
+    "total_contributions": {
+      "value": 16210.0,
+      "bbox": null
+    },
+    "cash_available": {
+      "value": 35721.52,
+      "bbox": null
+    },
+    "total_expenditures": {
+      "value": 31538.68,
+      "bbox": null
+    },
+    "cash_on_hand_close": {
+      "value": 4182.84,
+      "bbox": null
+    },
+    "in_kind_contributions": {
+      "value": null,
+      "bbox": null
+    },
+    "other_transactions": {
+      "value": null,
+      "bbox": null
+    },
+    "_page": 1
+  },
+  "contributions": [],
+  "total_unitemized_contributions": null,
+  "expenditures": [],
+  "total_itemized_expenditures": null,
+  "total_unitemized_expenditures": null,
+  "total_itemized_receipts": null,
+  "other_transactions": [],
+  "in_kind_contributions": []
+}

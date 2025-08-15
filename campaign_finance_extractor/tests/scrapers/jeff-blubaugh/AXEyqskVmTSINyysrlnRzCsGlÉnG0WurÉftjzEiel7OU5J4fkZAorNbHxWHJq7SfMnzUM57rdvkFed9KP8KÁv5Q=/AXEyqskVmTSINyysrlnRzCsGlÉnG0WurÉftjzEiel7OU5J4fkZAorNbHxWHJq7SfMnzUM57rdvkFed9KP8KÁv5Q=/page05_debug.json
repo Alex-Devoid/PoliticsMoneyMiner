@@ -1,0 +1,155 @@
+{
+  "candidate": null,
+  "summary": null,
+  "contributions": [],
+  "total_unitemized_contributions": null,
+  "expenditures": [
+    {
+      "_page": 5,
+      "date": {
+        "value": "7/25/24",
+        "bbox": null
+      },
+      "name": {
+        "value": "Jacob Martinez",
+        "bbox": null
+      },
+      "address": {
+        "value": "2524 SW Prairie Creek Dr Andover KS",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Fuel",
+        "bbox": null
+      },
+      "amount": {
+        "value": 50.2,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "7/25/24",
+        "bbox": null
+      },
+      "name": {
+        "value": "MCC Properties",
+        "bbox": null
+      },
+      "address": {
+        "value": "3710 E Kellogg Wichita KS",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Check",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "7/25/24",
+        "bbox": null
+      },
+      "name": {
+        "value": "Midwest Ventures, LLC",
+        "bbox": null
+      },
+      "address": {
+        "value": "3201 E 31st S Wichita KS",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Check",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "7/25/24",
+        "bbox": null
+      },
+      "name": {
+        "value": "Tate Jos",
+        "bbox": null
+      },
+      "address": {
+        "value": "2565 S Seneca Wichita KS",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Concrete - E-funds",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "7/25/24",
+        "bbox": null
+      },
+      "name": {
+        "value": "Donald Kasumeyer",
+        "bbox": null
+      },
+      "address": {
+        "value": "14625 W 55th Wichita KS",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Builder - Check",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    },
+    {
+      "_page": 5,
+      "date": {
+        "value": "7/25/24",
+        "bbox": null
+      },
+      "name": {
+        "value": "Mary Eves",
+        "bbox": null
+      },
+      "address": {
+        "value": "140 Pelton Trail Wichita KS",
+        "bbox": null
+      },
+      "purpose": {
+        "value": "Retired - Check",
+        "bbox": null
+      },
+      "amount": {
+        "value": 500,
+        "bbox": null
+      }
+    }
+  ],
+  "total_itemized_expenditures": {
+    "value": 3271.45,
+    "bbox": null,
+    "_page": 5
+  },
+  "total_unitemized_expenditures": null,
+  "total_itemized_receipts": null,
+  "other_transactions": [],
+  "in_kind_contributions": []
+}
